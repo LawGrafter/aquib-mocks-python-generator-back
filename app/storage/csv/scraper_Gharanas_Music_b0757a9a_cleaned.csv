@@ -1,0 +1,296 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer
+"According to the text, when was the 'Introduction to Computers MCQ Quiz' last updated?","Jan 20, 2023","Jan 20, 2025","Jan 20, 2024","Jan 20, 2026",d
+"Which of the following BEST describes a computer, according to the text?",A device solely for number processing.,A device used for working with information.,A hardware component only.,A device that operates in multiple programming languages.,b
+The first computer network in the world was?,NSFNET,CNNET,ASAPNET,ARPANET,d
+When was ARPANET deactivated?,1979,1989,1999,1969,b
+In which domains were the primary applications of ARPANET?,Commerce and retail.,Academia and research.,Military and defense.,Entertainment and media.,b
+Which network was developed in the 1980s as a successor to ARPANET for academic and research purposes?,CNNET,ASAPNET,NSFNET,The Internet,c
+The first mechanical calculator was called?,Orpat,Calculator,Galelio,Pascaline,d
+Who invented the Pascaline?,Galelio,Orpat,Blaise Pascal,None of the above,c
+Which of the following statements is INCORRECT regarding the Pascaline?,It could add and subtract two numbers directly.,It was a very complex machine for its time.,It was invented by Blaise Pascal.,It was a very reliable machine.,d
+"According to the text, a computer works in its:",User's defined language,Programming language only,Multiple languages,Natural language,b
+Which of the following statements about ARPANET is NOT correct?,It was the first wide-area packet-switched network.,It was the first open packet-switched computer network.,It was deactivated in 1989.,It was primarily used for commercial purposes.,d
+"What are the primary components that constitute a computer system, according to the text?",Monitor and Keyboard,Hardware and Software,CPU and RAM,Input and Output devices,b
+Which protocol suite was initially utilized in early packet-switching networks such as ARPANET?,HTTP/HTTPS,TCP/IP,UDP,FTP,b
+Which of the following is NOT a described characteristic of the Pascaline?,Invented by Blaise Pascal,Could directly add and subtract numbers,A highly reliable machine for its time,Invented in 1642,c
+"Match the following networks with their correct description:
+
+Column I
+(A) ARPANET
+(B) NSFNET
+
+Column II
+(1) Developed later in the 1980s as a successor for academic research
+(2) The earliest and foundational network
+
+Choose the correct option:","A-1, B-2","A-2, B-1","A-2, B-2","A-1, B-1",b
+When was the last update to the Introduction to Computers MCQ PDF mentioned in the text?,"Jan 20, 2024","Jan 20, 2025","Jan 20, 2027","Jan 20, 2026",d
+"According to the text, what protocol suite was first used in early packet-switching networks like ARPANET?",HTTP,TCP/IP,FTP,SMTP,b
+"Which of the following was NOT a primary application of ARPANET, as stated in the text?",Academia,Research,Commercial transactions,Both Academia and Research,c
+The text mentions several computer-related topics. Which of the following is NOT explicitly listed as part of 'Introduction to Computers'?,Word processor,Spreadsheet,Compiler design,Email,c
+"Match the following computer networks with their descriptions, according to the text:
+
+Column I
+(A) ARPANET
+(B) NSFNET
+
+Column II
+(1) Developed later as a successor for academic purposes
+(2) The first network created by the internet
+
+Choose the correct option:","A-1, B-2","A-2, B-1","A-2, B-2","A-1, B-1",b
+Which programming language was predominantly used in the first generation of computers?,Assembly Language,Higher Level Language,Machine Language,Structured Query Language,c
+What technology primarily characterized the circuitry used in first-generation computers?,Transistors,Integrated Circuits,Microprocessors,Vacuum Tubes,d
+Which of the following languages requires an assembler for the computer to execute instructions?,Machine Language,Assembly Language,FORTRAN,SQL,b
+During which computer generation did high-level programming languages such as FORTRAN and COBOL emerge?,First Generation,Second Generation,Third Generation,Fourth Generation,c
+Which computer generation is characterized by the use of microprocessors?,First Generation,Second Generation,Third Generation,Fourth Generation,d
+Which of the following languages is specifically designed for managing and querying relational databases?,COBOL,FORTRAN,SQL,Assembly Language,c
+"Match the computer generation with its corresponding characteristic technology:
+
+Column I
+(1) First Generation
+(2) Second Generation
+(3) Third Generation
+(4) Fourth Generation
+
+Column II
+a) Transistors
+b) Microprocessors
+c) Vacuum Tubes
+d) Integrated Circuits
+
+","1-a, 2-b, 3-c, 4-d","1-c, 2-a, 3-d, 4-b","1-d, 2-c, 3-b, 4-a","1-b, 2-d, 3-a, 4-c",b
+"Arrange the following computer hardware components in chronological order of their introduction:
+(1) Integrated Circuits
+(2) Transistors
+(3) Vacuum Tubes
+(4) Microprocessors","1, 2, 3, 4","3, 2, 1, 4","4, 1, 2, 3","2, 3, 4, 1",b
+Who is credited with inventing the computer mouse?,Tim Berners Lee,Douglas Engelbart,Seymour Cray,Charles Babbage,b
+What technological advancement characterized the third generation of computers?,Vacuum tubes,Microprocessors,Integrated circuits,Transistors,c
+Which of the following languages is associated with the fourth generation of computers?,COBOL,Machine Language,Assembly Language,Structured Query Language (SQL),d
+Arrange the following computer generations in chronological order based on their introduction:,"First, Second, Fourth, Third","First, Second, Third, Fourth","Second, First, Third, Fourth","Second, First, Fourth, Third",b
+Match the computer generation with the technology it primarily used:,"1st - Transistors, 2nd - Integrated Circuits, 3rd - Vacuum Tubes, 4th - Microprocessors","1st - Integrated Circuits, 2nd - Microprocessors, 3rd - Transistors, 4th - Vacuum Tubes","1st - Vacuum Tubes, 2nd - Transistors, 3rd - Integrated Circuits, 4th - Microprocessors","1st - Microprocessors, 2nd - Vacuum Tubes, 3rd - Transistors, 4th - Integrated Circuits",c
+Which of the following statements best describes the use of machine language in first-generation computers?,It required translation by an assembler.,It was easily understood by non-programmers.,It consisted of binary codes directly understood by the computer.,It used mnemonic codes and labels.,c
+Which of the following languages requires translation into machine language through an assembler?,Structured Query Language,Machine Language,Assembly Language,Higher Level Language,c
+Which generation of computers saw the emergence of high-level programming languages like FORTRAN and COBOL?,Second Generation,Fourth Generation,First Generation,Third Generation,d
+"Match the computer generation with its defining characteristic:
+Column I
+(1) First Generation
+(2) Second Generation
+(3) Third Generation
+(4) Fourth Generation
+
+Column II
+a) Transistors
+b) Integrated Circuits
+c) Machine Language
+d) Microprocessors
+
+Choose the correct sequence:","1-a, 2-b, 3-c, 4-d","1-c, 2-a, 3-b, 4-d","1-d, 2-c, 3-a, 4-b","1-b, 2-d, 3-c, 4-a",b
+Which language is commonly used for managing and querying relational databases in fourth-generation computers?,COBOL,FORTRAN,SQL,C,c
+Which language was primarily used for programming first-generation computers?,Assembly Language,Higher Level Language,Machine Language,Structured Query Language,c
+Which of the following technologies was characteristic of second-generation computers?,Vacuum Tubes,Integrated Circuits,Microprocessors,Transistors,d
+Which generation of computers is associated with the development of SQL?,First Generation,Second Generation,Third Generation,Fourth Generation,d
+"Arrange the following computer generations in chronological order:
+(1) Second Generation
+(2) Fourth Generation
+(3) First Generation
+(4) Third Generation","3, 1, 4, 2","1, 3, 2, 4","4, 2, 1, 3","2, 4, 3, 1",a
+The use of mnemonic codes and labels to represent machine-level instructions is a feature of which language?,Machine language,Assembly language,FORTRAN,SQL,b
+"In which year was the computer mouse, invented by Douglas Engelbart with assistance from Bill English, patented?",1960,1975,1970,1965,c
+Which of the following awards was won by Douglas Engelbart in 1997?,Nobel Prize in Computer Science,National Medal of Technology,A.M. Turing Award,IEEE John von Neumann Medal,c
+The system failure resulting from a power outage is categorized under which type of reliability?,Software reliability,System reliability,Operation reliability,Hardware reliability,d
+Which of the following languages is categorized as a fourth-generation language?,Machine language,Assembly language,High-level language,Query language,d
+"Arrange the following computer language generations in chronological order:
+1. Assembly Language
+2. Machine Language
+3. High-Level Language
+4. Very High-Level Language","2, 1, 3, 4","1, 2, 3, 4","4, 3, 2, 1","3, 4, 1, 2",a
+Which of the following operating systems is known for its exclusive 'SHELL' feature?,DOS,Windows,System software,UNIX,d
+"Match the following inventors with their inventions:
+
+Column I
+(A) Tim Berners Lee
+(B) Seymour Cray
+(C) Charles Babbage
+
+Column II
+(1) The first automatic digital computer
+(2) World Wide Web
+(3) World's first fully transistorized supercomputer
+
+Choose the correct sequence:","A-1, B-2, C-3","A-2, B-3, C-1","A-3, B-1, C-2","A-2, B-1, C-3",b
+Who was instrumental in the invention of the computer mouse along with Douglas Engelbart?,Seymour Cray,Tim Berners Lee,Bill English,Charles Babbage,c
+Douglas Engelbart was awarded the A.M. Turing Award in which year?,1990,2000,1995,1997,d
+Which of the following is NOT correctly matched?,Tim Berners Lee - World Wide Web,Seymour Cray - World's first fully transistorized supercomputer,Charles Babbage - The first automatic digital computer,Douglas Engelbart - World Wide Web,d
+The system failure resulting from power failure is considered under which of the following?,Software reliability,System reliability,Hardware reliability,Operation reliability,c
+Which of the following belongs to the category of fourth-generation languages?,Machine language,High-level language,Assembly language,Query language,d
+Which software has the exclusive feature 'SHELL'?,DOS,System software,Application software,UNIX,d
+Arrange the following computer language generations in chronological order of their appearance:,"Machine Language, Assembly Language, High-Level Language, Query Language","High-Level Language, Machine Language, Assembly Language, Query Language","Assembly Language, Machine Language, High-Level Language, Query Language","Query Language, High-Level Language, Assembly Language, Machine Language",a
+Match the following computer generations with their corresponding hardware:,"1st - Integrated Chips, 2nd - Transistor, 3rd - Vacuum Tube, 4th - Very Large Scale Integrated Circuit","1st - Vacuum Tube, 2nd - Transistor, 3rd - Integrated Chips, 4th - Very Large Scale Integrated Circuit","1st - Transistor, 2nd - Vacuum Tube, 3rd - Very Large Scale Integrated Circuit, 4th - Integrated Chips","1st - Very Large Scale Integrated Circuit, 2nd - Integrated Chips, 3rd - Transistor, 4th - Vacuum Tube",b
+Who among the following was awarded the 1997 A.M. Turing Award?,Bill English,Tim Berners Lee,Douglas Engelbart,Seymour Cray,c
+Which of the following inventions is associated with Douglas Engelbart?,World Wide Web,Transistorized supercomputer,Computer Mouse,Automatic digital computer,c
+Which generation of computer languages utilizes Very Large Scale Integrated Circuits?,First,Second,Third,Fourth,d
+Which operating system possesses the exclusive feature 'SHELL'?,DOS,System software,Application software,UNIX,d
+Which of the following inventions is NOT attributed to Douglas Engelbart?,Computer Mouse,Basic Graphical User Interface (GUI),Groupware,World Wide Web,d
+Which of the following is an example of application software?,Operating System,System Software,Google Chrome,Computer Hardware,c
+What is the primary function of a disk operating system (DOS)?,To manage application software,To run computer hardware,"To provide a file system for organizing, reading, and writing files",To establish serial hardware connections,c
+Which generation of computers used Integrated Circuits (ICs)?,First Generation,Second Generation,Third Generation,Fourth Generation,c
+What electronic component was used in second-generation computers?,Vacuum Tubes,Transistors,Integrated Circuits,Microprocessors,b
+"Arrange the following computer generations in chronological order based on the electronic component they used:
+
+I. Transistors
+II. Vacuum Tubes
+III. Integrated Circuits
+IV. VLSI or Microprocessors","I, II, III, IV","II, I, III, IV","II, III, I, IV","III, II, I, IV",b
+Which of the following is considered the first supercomputer developed in India?,SAHASRA TSAGA 220,PARAM YUVA II,PARAM 8000,TSAGA 220,c
+Who led the development of the PARAM series of supercomputers in India?,Vikram Sarabhai,C.N.R. Rao,Vijay P Bhatkar,Satish Dhawan,c
+"Match the following computer generations with their respective durations:
+
+Column I
+(A) First Generation
+(B) Second Generation
+(C) Third Generation
+(D) Fourth Generation
+
+Column II
+(1) 1978 - Present
+(2) 1946 - 1954
+(3) 1955 - 1964
+(4) 1964 - 1977","A-2, B-3, C-4, D-1","A-3, B-2, C-1, D-4","A-4, B-1, C-2, D-3","A-1, B-4, C-3, D-2",a
+Which of the following is the best-known example of system software?,Google Chrome,VLC media,Operating System,Internet Explorer,c
+Which of the following is a characteristic feature of all Unix shells?,Real-time operating system support,Filename wildcarding,Direct hardware manipulation,Proprietary command language,b
+What is a primary requirement for a disk operating system (DOS)?,A graphical user interface,A file system for organizing files,Built-in internet browser,Support for only one type of disk,b
+Which of the following best describes application software?,It manages the computer's hardware.,It is essential for the computer to run.,It performs specific tasks for the user.,It is an interface between hardware and user.,c
+Which of the following computers was developed during the Third Generation?,ENIAC,UNIVAC,IBM-360,Mark I,c
+In which year was the first generation of computers introduced?,1955,1964,1946,1978,c
+Which technology is used in Fourth Generation Computers?,Vacuum Tubes,Transistors,Integrated Circuits,VLSI or Microprocessors,d
+In which year range were second generation computers used?,1946 - 1954,1964 - 1977,1978 - Present,1955 - 1964,d
+Which of the following statements about application software is INCORRECT?,It is also known as the end-user program.,It runs only when the user requests it.,It is essential software for computer operation.,It is designed to assist with a particular process.,c
+Which electronic component was used in third-generation computers?,Vacuum tubes,VLSI technique,Transistors,Integrated circuits,d
+"During which period were Integrated Circuits (ICs) developed, leading to smaller computer sizes?",First Generation (1946 - 1954),Second Generation (1955 - 1964),Third Generation (1964 - 1977),Fourth Generation (1978 - Present),c
+"Which of the following fields is NOT serviced by AHASRA T, according to the text?",Aerospace engineering,Astrological simulation,Meteorology predictions,Data Analytics,d
+Who is credited as the 'father of the supercomputer'?,Bill Gates,Seymour Cray,Charles Babbage,Tim Berners-Lee,b
+What is considered the world's first supercomputer?,AIRAWAT,ENIAC,CDC 6600,ULSI,c
+"As of June 2023, what rank did the AIRAWAT supercomputer hold in the world, according to the TOP500 list?",50th,1st,75th,100th,c
+In what units is the speed of a processor chip commonly measured?,Mbps,MHz,Bits per second,Bytes per second,b
+What does the 'N' stand for in the acronym ENIAC?,New,Number,Next,Numerical,d
+"In which year was ENIAC, the first electronic general-purpose computer, introduced?",1955,1945,1965,1935,b
+Which of the following technologies was used in the first-generation computers?,Transistor,VLSI,Vacuum tube,Integrated Circuit (IC),c
+Which technology is associated with the second generation of computers?,Vacuum tube,Transistor,Integrated Circuit (IC),Microprocessor,b
+Identify the WRONG statement regarding processor speed.,Processor speed is relative to the clock speed.,Clock speed is measured in cycles per second.,CPUs run at rates of millions and billions of Hertz.,A clock speed of 1.0 GHz is generally considered a good processor speed.,d
+In which of the following fields does AHASRA T provide services?,"Data analytics, cybersecurity, and cloud computing","Aerospace engineering, meteorology predictions, and astrological simulation","Biotechnology, nanotechnology, and robotics","Financial modeling, risk management, and algorithmic trading",b
+"As of June 2023, which supercomputer was ranked as the fastest in India according to the TOP500 supercomputer list?",Param Siddhi-AI,AIRAWAT,Pratyush,Mihir,b
+What is the unit of measurement for the speed of a processor chip?,Mbps,MHz,Bits per second,Bytes per second,b
+"Match the following computer generations with the technology they used:
+
+Column I
+(A) Second-generation computer
+(B) Third-generation computer
+
+Column II
+(1) Integrated Circuit (IC)
+(2) Transistor
+
+Choose the correct sequence:","A-1, B-2","A-2, B-1","A-1, B-1","A-2, B-2",b
+Who is considered the father of the supercomputer?,Charles Babbage,Alan Turing,Seymour Cray,John von Neumann,c
+Which computer is identified as the world's first supercomputer?,ENIAC,AIRAWAT,CDC 6600,IBM 701,c
+The speed of a processor chip is typically measured in:,Mbps,MHz,Bits per second,Bytes per second,b
+Who is widely regarded as the father of the supercomputer?,Alan Turing,Seymour Cray,John von Neumann,Charles Babbage,b
+Which supercomputer is recognized as the world's first?,IBM 7030,Cray-1,CDC 6600,ILLIAC IV,c
+"As of June 2023, what was the global ranking of the AIRAWAT supercomputer in the TOP500 list?",50th,100th,75th,25th,c
+A clock speed of ________ is generally considered a good processor speed.,1.0 GHz to 1.5 GHz,2.0 GHz to 2.5 GHz,3.5 GHz to 4.0 GHz,4.5 GHz to 5.0 GHz,c
+Python is primarily a ______.,low level language,assembly language,machine language,high level language,d
+In what year was the Python programming language first released?,1985,2001,1991,2005,c
+Who is credited with the creation of the Python programming language?,Alan Turing,Charles Babbage,Guido van Rossum,Dennis Ritchie,c
+A Yottabyte (YB) is equivalent to:,2^30 bytes,2^50 bytes,2^70 bytes,2^80 bytes,d
+Which of the following is the earliest computing device?,Calculating Machine,Slide Rule,Calculator,ABACUS,d
+"Match the following Computer Memory Measurement Units with their Description:
+
+   I. Kilobyte (KB)     A. 4 bits
+   II. Nibble           B. Logical 0 & 1
+   III. Bit             C. 2^10 bytes
+
+Choose the correct sequence:","I-C, II-A, III-B","I-A, II-B, III-C","I-B, II-C, III-A","I-C, II-B, III-A",a
+"Python, as a programming language, is best described as:",Machine language,Assembly language,Low level language,High level language,d
+"Match the following computer memory measurement units with their corresponding values:
+
+Column I
+(A) Kilobyte (KB)
+(B) Megabyte (MB)
+(C) Gigabyte (GB)
+(D) Terabyte (TB)
+
+Column II
+(1) 2^30
+(2) 2^10
+(3) 2^40
+(4) 2^20
+
+Choose the correct sequence:","A-2, B-4, C-1, D-3","A-4, B-2, C-3, D-1","A-1, B-3, C-2, D-4","A-3, B-1, C-4, D-2",a
+"Python, as a programming language, can be classified under which of the following?",Machine language,Assembly language,Low-level language,High-level language,d
+Which of the following programming paradigms are supported by Python?,Object-Oriented only,Procedural only,Both Object-Oriented and Procedural,Functional only,c
+Which of the following is the correct order of computer memory measurement units from smallest to largest?,"Bit, Byte, Kilobyte, Megabyte","Bit, Kilobyte, Byte, Megabyte","Byte, Bit, Kilobyte, Megabyte","Kilobyte, Byte, Bit, Megabyte",a
+Approximately how many zettabytes make up a yottabyte?,100,"1,000","1,000,000","1,000,000,000",b
+"Match the following computer pioneers with their associated fields:
+
+Column I
+(A) Charles Babbage
+(B) Alan Turing
+(C) Vint Cerf
+
+Column II
+(1) Father of Internet
+(2) Father of Computer
+(3) Father of Modern Computer
+
+Choose the correct sequence:","A-1, B-2, C-3","A-2, B-3, C-1","A-3, B-1, C-2","A-2, B-1, C-3",b
+"Python, as a programming language, is categorized as a:",Machine language,Low level language,Assembly language,High level language,d
+Which of the following represents the smallest unit of computer memory measurement?,Byte,Nibble,Bit,Kilobyte,c
+"Arrange the following computer memory units in ascending order of magnitude:
+I. Terabyte (TB)
+II. Megabyte (MB)
+III. Kilobyte (KB)
+IV. Gigabyte (GB)","I, II, III, IV","III, II, IV, I","II, III, I, IV","IV, I, II, III",b
+"Match the following:
+Column I
+I. Father of Computer
+II. Father of Modern Computer
+III. Father of Internet
+IV. Father of Cinema (India)
+
+Column II
+A. Alan Turing
+B. Dadasaheb Phalke
+C. Charles Babbage
+D. Vint Cerf","I-A, II-B, III-C, IV-D","I-C, II-A, III-D, IV-B","I-B, II-C, III-A, IV-D","I-D, II-B, III-C, IV-A",b
+"Which of the following best describes 'generation' in computer terminology, as presented in the text?",A change in the physical size of computer components.,A change in the operating system version.,A change in technology being used in a computer.,An increase in the speed of data processing.,c
+The second generation of computers was primarily based on which technology?,Vacuum tubes,Integrated Circuits,Transistors,VLSI microprocessors,c
+"Arrange the following computer generations in chronological order, from earliest to latest:","Vacuum tube-based, Transistor-based, Integrated Circuit-based, VLSI microprocessor-based","Transistor-based, Vacuum tube-based, VLSI microprocessor-based, Integrated Circuit-based","VLSI microprocessor-based, Integrated Circuit-based, Transistor-based, Vacuum tube-based","Integrated Circuit-based, VLSI microprocessor-based, Vacuum tube-based, Transistor-based",a
+Which of the following is INCORRECT regarding the computer generations mentioned in the text?,The first generation was based on vacuum tubes.,The third generation used integrated circuits.,The fourth generation utilized VLSI microprocessors.,The fifth generation is based on transistor technology.,d
+"According to the text, which computer generation is characterized by ULSI microprocessor-based technology?",Third Generation,Fourth Generation,Fifth Generation,Second Generation,c
+Which of the following coaching services is NOT explicitly mentioned in the provided text?,NDA Coaching,NEET Coaching,CLAT Coaching,UGC NET Coaching,c
+Which of the following results is listed under the 'Latest Updates' section?,UPSC CSE Final Result 2024,SSC CGL Tier 3 Result 2025,IBPS Clerk Mains Result 2025,RBI Assistant Result 2024,c
+The provided text mentions 'Online Law Courses' offered by which institution?,Classplus,Testbook,Plutus Education,The Legal School,d
+"According to the text, during what hours are the office hours?",9 AM to 6 PM (all 7 days),10 AM to 7 PM (all 7 days),9 AM to 5 PM (Monday to Friday),10 AM to 6 PM (Monday to Saturday),b
+Which of the following is NOT mentioned as a type of MCQ question?,Software Testing MCQ,Ethical Hacking MCQ,Research Methodology MCQ,Computer Graphics MCQ,b
+The copyright for Testbook Edu Solutions Pvt. Ltd. is for the period:,2010-2020,2012-2024,2014-2022,2015-2023,c
+Which of the following exams' previous year papers are NOT listed in the text?,JEE Main Previous Year Papers,SSC CHSL Previous Year Papers,SBI PO Previous Year Papers,UPSC Previous Year Question Papers,c
+"Which of the following is offered by Testbook Edu Solutions Pvt. Ltd., as per the text?",Astrology Services,Online Law Courses,Catering Services,Real Estate Services,b
+"According to the text, in which sector is DFCCIL Junior Executive Coaching offered?",Information Technology,Civil Engineering,Finance,General Studies,d
+The text mentions previous year papers for various exams. Which of these exams is NOT listed?,SSC CGL,UGC NET,SBI PO,JEE Main,c
+"What is the operational time frame mentioned for Testbook Edu Solutions Pvt. Ltd., as per the text?",9 AM to 6 PM (Weekdays only),24/7,10 AM to 7 PM (all 7 days),9 AM to 5 PM (all 7 days),c
+Which of the following is NOT a blog category mentioned in the provided text?,Legal Blog,Finance & Accounting Blog,Political Blog,Classplus Blog,c
+The provided text contains information regarding coaching and previous year papers. Which of the following exams is related to teacher eligibility?,SSC GD,CTET,SSC MTS,RBI Assistant,b
+"According to the text, Testbook Edu Solutions Pvt. Ltd. was founded in which year?",2010,2008,2014,2018,c
+Which of these exams has a 'Previous Year Question Paper' explicitly mentioned in the text related to 'Gujarat Judiciary'?,UPSC,SSC,AIBE,RBI,c
+Which of the following result updates is mentioned with the year 2025?,RBI Grade B Phase 2 Result,SSC CGL Tier 3 Result,UP Police Constable Result,IBPS PO Mains Result,a
+What is the primary focus of 'Plutus Education' as indicated in the text?,Railway Books,Online Law Courses,Judiciary Preparation,ACCA Course,d
+"According to the text, in which sector is Testbook Edu Solutions Pvt. Ltd. located?",Sector 1,Sector 5,Sector 10,Sector 15,c
+What is the toll-free number provided in the text for Testbook Edu Solutions Pvt. Ltd.?,1800 833 0080,1800 833 0800,1800 338 0800,1800 383 0800,b
+Which of the following results is mentioned under 'Latest Updates' with a year?,SSC GD Result,IBPS PO Mains Result,RBI Assistant Result,SSC CHSL Tier 1 Result 2025,d
+Identify the WRONG statement about the provided text:,It mentions coaching for various competitive exams.,It provides a contact email for Testbook Edu Solutions.,It offers courses exclusively for medical entrance exams.,It lists previous year papers for several exams.,c
+What is the office hours time frame mentioned in the text?,9 AM to 6 PM (all 7 days),10 AM to 8 PM (all 7 days),10 AM to 7 PM (all 7 days),9 AM to 5 PM (all 7 days),c
+Which of the following is NOT a type of MCQ question listed in the provided text?,Research Methodology MCQ,Software Testing MCQ,Data Structures MCQ,Computer Graphics MCQ,c
+The address of Testbook Edu Solutions Pvt. Ltd. is located in which city?,Mumbai,Navi Mumbai,Delhi,Kharghar,b
+Which of the following websites offers Online Law Courses according to the provided text?,The Indian Law Institute,Plutus Education,The Legal School,Lawctopus,c

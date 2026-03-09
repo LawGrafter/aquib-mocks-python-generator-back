@@ -1,0 +1,22 @@
+[
+  {
+    "question": "It covers much of northwestern Brazil and extending into Colombia, Peru and other ________ countries.",
+    "options": {
+      "a": "South American",
+      "b": "Unknown Person",
+      "c": "Amazon River",
+      "d": "Another Leader"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The ________ is the largest river by discharge volume of water in the world.",
+    "options": {
+      "a": "Unknown Person",
+      "b": "Amazon River",
+      "c": "South American",
+      "d": "Another Leader"
+    },
+    "correct_answer": "b"
+  }
+]

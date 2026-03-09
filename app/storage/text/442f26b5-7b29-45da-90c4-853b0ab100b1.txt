@@ -1,0 +1,2305 @@
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+भौतिक तिज्ञान िन लाइनर
+
+Unit 1: Units, Measurement, and Measuring Instruments
+1. What is a Light Year a unit of?
+o Distance (Astronomical distance).
+2. Which is the largest unit for measuring astronomical distances?
+o Parsec (1 Parsec = 3.26 Light Years).
+3. What is measured in Cusec?
+o Flow of water.
+4. What is the unit for measuring the thickness of the ozone layer in the atmosphere?
+o Dobson.
+5. By whom is SONAR used?
+o By Navigators (to find the depth of the sea or submerged objects).
+6. Which instrument measures the intensity of sound?
+o Audiometer.
+7. Which instrument is used to measure high temperatures (like the Sun's heat)?
+o Pyrometer.
+8. Which instrument measures atmospheric pressure?
+o Barometer.
+9. A sudden fall in the Barometer reading is an indication of what?
+o Stormy weather.
+10. By which instrument is the relative density or purity of milk measured?
+o Lactometer.
+11. Which instrument is used to measure the humidity of the air?
+o Hygrometer.
+12. What is the Richter Scale used to measure?
+o Intensity of an earthquake.
+13. What is the unit of ‘Power’?
+o Watt.
+14. With which instrument is Electric Current measured?
+o Ammeter.
+15. What is the name of the lie-detecting instrument?
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+o Polygraph.
+16. What is the instrument used to measure Blood Pressure called?
+o Sphygmomanometer.
+Unit 2: Mechanics (Force, Energy, Gravitation, Friction)
+17. Which of Newton’s laws is also called the 'Law of Inertia'?
+o First Law.
+18. On which principle do washing machines and cream separators work?
+o Centrifugal Force.
+19. 'It is harder to walk on ice than on a road', why?
+o Because there is less friction on ice compared to the road.
+20. As soon as a train starts moving, the passengers sitting inside lean backwards. What is
+the reason for this?
+o Inertia of Rest.
+21. Which energy is present in winds?
+o Only Kinetic Energy.
+22. Who propounded the Universal Law of Gravitation?
+o Newton.
+23. What is the value of Escape Velocity from the Earth's surface?
+o 11.2 km/second.
+24. If Earth's gravitational force suddenly disappears, what will happen?
+o The weight of the object will become zero, but the Mass will remain the same.
+25. Why do Pendulum Clocks become slow in summer?
+o Due to the increase in the length of the pendulum (Time period increases).
+26. What is the height of a Geo-stationary Satellite from Earth?
+o Approximately 36,000 km.
+27. Where is the weight of an object maximum on Earth?
+o At the Poles.
+Unit 3: Properties of Matter (Surface Tension, Archimedes, Viscosity)
+28. What is the reason for the spherical shape of a raindrop?
+o Surface Tension.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+29. Oil spreads on the surface of water, why?
+o Because the surface tension of oil is less than that of water.
+30. Due to what reason does kerosene rise up in the wick?
+o Due to Capillarity.
+31. How is the pressure inside a soap bubble compared to atmospheric pressure?
+o It is higher.
+32. At what temperature is the density of water maximum?
+o At 4°C.
+33. When a ship enters the sea from a river, what happens?
+o It rises a little (because the density of sea water is higher).
+34. Why does ink start leaking from a pen while traveling in an airplane?
+o Due to a decrease in atmospheric pressure.
+35. What is the reason for clouds floating in the atmosphere?
+o Their low Density.
+Unit 4: Heat & Thermodynamics
+36. What is the normal temperature of the human body?
+o 37°C or 98.6°F.
+37. At what temperature are the values of Celsius and Fahrenheit scales equal?
+o -40° (Minus 40 degrees).
+38. What is the effect on the Boiling Point of water when salt is added to it?
+o The Boiling Point increases.
+39. Which metal is the best conductor of heat?
+o Silver.
+40. To keep a beverage at the same temperature for some time in a thermos bottle, whose
+layer is applied to its walls?
+o Silver layer (Silver Plating).
+41. What is the main use of sweat?
+o To regulate body temperature.
+42. Why does food cook faster in a pressure cooker?
+o The boiling point of water increases due to high pressure.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+Unit 5: Sound & Wave
+43. What type of waves are sound waves?
+o Longitudinal mechanical waves.
+44. In which medium is the speed of sound maximum?
+o In Steel (Metal/Solids).
+45. Why can't two people hear each other on the surface of the Moon?
+o Because there is no atmosphere there.
+46. What is considered the standard sound level (noise limit) for humans?
+o 60 Decibels (dB).
+47. What is the frequency of Ultrasonic Waves?
+o More than 20,000 Hertz (Hz).
+48. Which waves do bats use to fly in the dark?
+o Ultrasonic waves.
+49. What should be the minimum distance between the reflecting surface and the listener
+to hear a clear Echo?
+o 17 meters (approximately).
+Unit 6: Light (Reflection, Refraction, Eye)
+50. What is the nature of light radiations?
+o Like both Wave and Particle (Dual Nature).
+51. What is the Speed of Light in a vacuum?
+o 3×108 meters/second.
+52. Why does the sky appear blue?
+o Due to Scattering of light.
+53. Why does the Sun appear red at sunrise and sunset?
+o Because the scattering of red color is the least.
+54. Which mirror is used as a 'Rear view mirror' in vehicles?
+o Convex Mirror.
+55. Which mirror is used for shaving?
+o Concave Mirror.
+56. Which lens is used to correct Myopia (Nearsightedness)?
+o Concave Lens.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+57. Which lens is used to correct Hypermetropia (Farsightedness)?
+o Convex Lens.
+58. What is the reason for the formation of a Mirage?
+o Total Internal Reflection of light.
+59. On which principle does Optical Fiber work?
+o Total Internal Reflection.
+60. Why does a diamond appear shiny?
+o Due to Total Internal Reflection.
+61. An air bubble in water will act exactly like a—?
+o Concave Lens.
+62. What kind of image is formed on the retina of the human eye?
+o Real and Inverted.
+63. What is the reason for the formation of a Rainbow?
+o Reflection, Refraction, and Dispersion of light.
+64. Why is red light used for danger signals?
+o Because its scattering is the least (it is visible from a long distance).
+65. Which are the Primary Colors?
+o Red, Green, and Blue.
+66. What does the color of a star indicate?
+o Its Temperature.
+67. Which technology is used to transmit audio signals in Television (TV) broadcasting?
+o Frequency Modulation (FM).
+Unit 7: Electricity & Magnetism
+68. What is the filament of an electric bulb made of?
+o Tungsten.
+69. Which gas is filled inside an electric bulb?
+o Argon (or Nitrogen).
+70. What is the source of electrical energy in an artificial satellite?
+o Solar Cells.
+71. What is a Transformer used for?
+o To step up or step down (Up or Down) AC voltage.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+72. Fuse wires used in homes are made of which alloy?
+o Tin and Lead – they have a low melting point.
+73. Which device converts electrical energy into mechanical energy?
+o Electric Motor.
+74. Who converts mechanical energy into electrical energy?
+o Dynamo.
+75. The filament of a 'Halogen Lamp' is made of which alloy?
+o Tungsten and Sodium.
+76. What is the full form of CFL?
+o Compact Fluorescent Lamp.
+77. Ohm is the unit of what?
+o Electrical Resistance.
+78. What is the cause of Earth's magnetic field?
+o Circulating currents inside the Core.
+79. What is a mobile charger?
+o A Step-down Transformer.
+Unit 8: Modern Physics, Electronics & Miscellaneous
+80. On which principle is the Atom Bomb based?
+o Nuclear Fission.
+81. On which principle does the Hydrogen Bomb work?
+o Nuclear Fusion.
+82. What is the source of the Sun's energy?
+o Nuclear Fusion.
+83. Which nuclear fuel is available in abundance in India?
+o Thorium.
+84. What is used as a Moderator in a nuclear reactor?
+o Heavy Water (D2O) and Graphite.
+85. Curie is the unit of what?
+o Radioactivity.
+86. What is RADAR primarily used for?
+o To detect the presence and position of objects using radio waves.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+87. In what is the LASER beam used?
+o Eye Surgery and Barcode scanning.
+88. What are the IC chips used in computers made of?
+o Silicon.
+89. Which is the most used material for making transistors?
+o Silicon.
+90. Which type of electromagnetic radiation is used for the remote control of television?
+o Infrared radiation.
+91. What is the color of the 'Black Box' of an airplane?
+o Orange.
+92. For which discovery did Albert Einstein receive the Nobel Prize?
+o For Photoelectric Effect.
+93. Who invented the X-Ray?
+o Roentgen.
+94. What is called the 'God Particle'?
+o Higgs Boson.
+95. What does the color of the sky appear to be to an astronaut?
+o Black.
+96. By what is the acidity of rain (Acid Rain) measured?
+o By pH meter.
+97. How many colors are there in the Sun's rays?
+o 7 colors.
+98. For which effect was C.V. Raman given the Nobel Prize?
+o For Raman Effect (Scattering of light).
+99. When is National Science Day celebrated?
+o 28 February.
+100.
+What is the value of one Kilowatt-hour (kWh) in Joules? * 3.6×106 Joules.
+
+
+
+
+
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+भौतिक तिज्ञान के महत्िपूर्ण प्रश्न जो पूिण की परीक्षाओं में आये है-
+
+1. What is a Light Year a unit of measurement for? — Distance traveled by light in a
+vacuum in one year.
+2. One Horse Power is approximately equal to how many Watts? — 746 Watts.
+3. The S.I. unit of Resistance is? — Ohm.
+4. What is the commercial unit of electric power? — Kilowatt-hour (kWh).
+5. What kind of quantity is Work? — Scalar quantity.
+6. The SI unit of Stress is? — Pascal.
+7. The SI unit of Volume is? — Cubic meter (m3).
+8. The SI unit of Time is? — Second.
+9. The SI unit of Magnetic Induction is? — Tesla.
+10. The sound intensity of a musical instrument is measured in? — Decibels (dB).
+11. The name of the unit for measuring frequency is? — Hertz (Hz).
+12. Supersonic speed is measured by? — Mach number.
+13. The unit of Force in the S.I. system is? — Newton.
+14. The unit of Atmospheric Pressure is? — Bar.
+15. The unit of Work and Energy is? — Joule.
+16. The SI unit of Dynamic Viscosity is? — Pascal-second.
+17. The unit of Power is? — Joule/second (or Watt).
+18. The unit of Pressure is? — Pascal.
+19. The S.I. unit of Electric Current is? — Ampere.
+20. The definition of the CGS system of measurement units is? — Centimeter, Gram,
+Second.
+21. 1 Watt-hour is equal to? — 3600 Joules.
+22. 1 Volt is equal to? — 1 Joule per Coulomb.
+23. Work, Kinetic Energy, and Potential Energy are what kind of quantities? — Scalar
+quantities.
+24. The physical quantity whose dimension is [ML2T−2] is? — Work done.
+25. The unit of Wavelength is? — Meter.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+
+
+26. The instrument which is always connected in series in a circuit and measures electric
+current is called? — Ammeter.
+27. The dimension of the physical quantity Power is? — [ML2T−3].
+28. The name of the unit for measuring food energy is? — Calorie.
+29. Represents the units of the same physical quantity? — Joule and Calorie (both for
+Energy/Heat).
+30. The correct statement regarding Electric Potential is? — It is a scalar quantity.
+31. 'Ringelmann Scale' is used to measure the density of? — Smoke.
+32. One "Barrel" of oil is approximately? — 159 Liters.
+33. When a rock is brought from the surface of the Moon to Earth, then? — Its weight will
+change but mass will not.
+34. What kind of quantity is Displacement? — Vector quantity.
+35. The unit of measurement which when multiplied by 0.39 gives 'Inch'? — Centimeter.
+36. Electron Volt is the unit of? — Energy.
+37. Megawatt is the unit of measuring electricity which is? — Generated (Production
+capacity).
+38. The value of one Kilowatt-hour is? — 3.6×106 J.
+39. The speed of airplanes and ships is displayed in 'Knots'. A speed of 100 Knots will be?
+— Equal to 115 miles per hour.
+40. Wind speed is measured by? — Anemometer.
+41. Which is not a unit of distance? — Square mile (It is a unit of Area).
+42. Vector magnitude is? — Force.
+43. Which physical quantity has the same SI unit as Work? — Energy.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+44. In the CGS (Centimeter-Gram-Second) system, the unit of Magnetic Intensity is? —
+Oersted.
+45. A non-SI unit called 'nit', used to measure the abundance of light intensity is? —
+Luminance.
+46. What is measured in the SI derived unit called Tesla? — Magnetic Flux Density.
+47. The unit for measuring the Wavelength of light is? — Angstrom.
+48. What is measured in the unit called Gauss? — Magnetic Induction.
+49. The pair represents units of energy? — Calorie and Joule.
+50. Which base unit discovered in 1820 represents one Coulomb of electric charge per
+second? — Ampere.
+51. The unit of the physical quantity Entropy is? — Joule per Kelvin.
+52. The unit for measuring Sound Intensity is? — Decibel.
+53. The basic SI unit of Amount of Substance is shown by? — Mole.
+54. Parsec is a unit of measurement of? — Length (Distance).
+55. 'Angstrom' is a unit of measurement of? — Length (Wavelength).
+56. The S.I. unit of Electric Charge is? — Coulomb.
+57. 1 Pascal is equal to? — 1 Newton per square meter.
+58. Diopter is the unit of? — Power of a lens.
+59. The unit of the physical quantity Electrical Conductance is? — Siemens.
+60. The unit of the physical quantity "Jerk" is? — Meter per second cubed (m/s3).
+61. The unit of the physical quantity "Magnetic Flux" is? — Weber.
+62. The unit of the physical quantity "Magnetic Field Strength" is? — Ampere per meter.
+63. The unit of the physical quantity 'Inductance' is? — Henry.
+64. The unit of the physical quantity 'Young's Modulus' is? — Pascal.
+65. The unit of the physical quantity "Heat Capacity" is? — Joule per Kelvin.
+66. The unit of the physical quantity "Capacitance" is? — Farad.
+67. The unit of the physical quantity (Radioactive) Activity is? — Becquerel.
+68. The unit of the physical quantity Momentum is? — Newton-second.
+69. The unit of the physical quantity Illuminance (Jyoti) is? — Lux.
+70. The unit of Relative Density is? — It has no unit.
+71. For which physical quantity is the unit Pascal NOT used? — Moment of Inertia.
+72. The SI (International System of Units) unit of Length is? — Meter.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+73. The SI unit of Mass is? — Kilogram.
+74. The basic SI unit of Thermodynamic Temperature is? — Kelvin.
+75. The formula for Pressure in physics is? — Force / Area.
+76. The unit of which quantity is named after Blaise Pascal? — Pressure.
+77. 'Torr' is the unit of? — Pressure.
+78. The unit that measures the same quantity as the SI unit 'Pascal'? — Torr.
+79. For which quantity does the unit of time appear twice in the denominator? —
+Acceleration (m/s2).
+80. The SI unit of Quantity of Heat is? — Joule.
+81. What is the relation between atm and bar? — 1 atm = 1.013 bar.
+82. 1 Pound is equal to how many Ounces? — 16 Ounces.
+83. Mohs scale is used for? — Measuring the hardness of minerals.
+84. One Nanometer is equivalent to how many meters? — 10−9 meters.
+85. What is used by meteorologists to measure solar radiation on a hemispherical area of
+incidence on a flat surface? — Pyranometer.
+86. What kind of quantity is Electric Field? — A vector quantity.
+87. When are two vectors equal? — When both their magnitude and direction are the
+same.
+88. The quantity or phenomenon which has two independent properties - magnitude and
+direction, is called? — Vector.
+89. What kind of quantity is Young's Modulus? — Scalar quantity.
+90. What kind of quantity is Torque? — It is a vector quantity.
+91. The unit of Pressure is? — Pascal.
+92. The unit of Power of a Lens is? — Diopter.
+93. The unit of Heat is? — Joule.
+94. The unit of activity of a Radioactive substance is? — Becquerel.
+95. The unit of Force is? — Newton.
+96. The unit of Temperature is? — Kelvin.
+97. The unit of Energy is? — Joule.
+98. What does an Anemometer measure? — Wind speed.
+99. What does an Ammeter measure? — Electric current.
+100.
+What does a Tachometer measure? — Speed of rotation.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+101.
+What does a Pyrometer measure? — High temperature.
+102.
+High velocity is measured in? — Mach.
+103.
+Wavelength is measured in? — Angstrom.
+104.
+Pressure is measured in? — Pascal.
+105.
+Energy is measured in? — Joule.
+106.
+The unit of Acceleration is? — Meter/second².
+107.
+The unit of Force is? — Newton.
+108.
+The unit of Work done is? — Joule.
+109.
+The unit of Impulse is? — Newton-second.
+110.
+What is measured in Cusec? — Rate of fluid flow.
+111.
+Byte is related to? — Computer.
+112.
+Richter scale measures? — Intensity of earthquake.
+113.
+Bar is the unit of? — Pressure.
+114.
+The unit of Sound Intensity is? — Decibel.
+115.
+The unit of Frequency is? — Hertz.
+116.
+Watt is the unit of? — Power.
+117.
+Knot is the unit of? — Speed of a marine ship.
+118.
+Nautical Mile is the unit of? — Navigation distance.
+119.
+Calorie is the unit of? — Heat.
+120.
+Which instrument is used to measure the density of liquids? — Pycnometer.
+121.
+Used to measure Humidity in the atmosphere? — Hygrometer.
+122.
+Used to measure the density of milk? — Lactometer.
+123.
+Radioactivity is measured by? — Geiger-Muller Counter.
+124.
+Which instrument is used to measure the depth of the ocean? — Fathometer.
+125.
+Terminal Doppler Weather Radar (T.D.W.R.) is used for? — Landing aircraft in
+bad weather.
+126.
+The instrument used to measure absorbed or evolved heat? — Calorimeter.
+127.
+Which instrument is used to measure Rainfall? — Rain Gauge.
+128.
+Used to measure the force and velocity of wind? — Anemometer.
+129.
+The formula for calculating BMI is? — Weight (in kg) / (Height)2 (in meters2).
+130.
+Can be used for lie detection during investigation? — Narco Test, Brain
+Mapping Test, Polygraph Test.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+131.
+The instrument used to measure distance on a map? — Opisometer.
+132.
+The instrument measuring Atmospheric Pressure is? — Barometer.
+133.
+Ultramicro time intervals (less than a nanosecond) are accurately measured by?
+— Atomic Clock.
+134.
+What is a Pyrometer called? — Radiation Thermometer.
+135.
+Pyrheliometer is used to measure? — Solar Radiation.
+136.
+Can be used to measure temperatures above 1500°C? — Pyrometer.
+137.
+Used to measure extremely high temperatures? — Pyrometer.
+138.
+The thermometer suitable for measuring 2000°C is? — Total Radiation
+Pyrometer.
+139.
+'SONAR' is mostly used by? — Navigators.
+140.
+The intensity of an earthquake is measured by? — Seismograph.
+141.
+Used in wristwatches, display devices, and pocket calculators? — Liquid
+Crystals.
+142.
+The name of the instrument for measuring blood pressure is? —
+Sphygmomanometer.
+143.
+On what principle does the Stethoscope used by doctors work? —
+Reflection/Superposition of sound waves.
+144.
+Auxanometer uses? — To measure the growth rate of plants.
+145.
+Mercury is generally used in thermometers because it has the characteristic of?
+— High Conductivity.
+146.
+Used to measure the height of an object? — A Sextant.
+147.
+The instrument used to measure the intensity of light is called? — Luxmeter.
+ What kind of quantity is Young's modulus? — Scalar quantity.
+ What kind of quantity is Torque? — Vector quantity.
+ Why is Mercury used in thermometers? — Due to High Conductivity.
+ Instrument used to measure the height of an object? — Sextant.
+ Instrument measuring Light Intensity? — Luxmeter.
+1. In what is the depth of the sea usually measured? Answer: Fathom.
+2. What does a Polygraph machine measure in lie detection? Answer: Brain activity and
+heart rate.
+3. Sound increases in a doctor's stethoscope, the reason is? Answer: Reflection of Sound.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+4. Which waves/rays are used in Sonography? Answer: Ultrasonic waves.
+5. 'Femto' means, the power of ten? Answer: -15 (10−15).
+6. What does a Wind Vane instrument determine? Answer: Wind direction.
+7. Used to detect acoustic signals underwater? Answer: Hydrophone.
+8. What can be measured by the Reaumur Scale? Answer: Temperature.
+9. Which instrument is used to measure electric current, whether it is Direct Current or
+Alternating Current? Answer: Ammeter.
+10. An instrument used to measure the electric potential difference (Voltage) between two
+points in an electric circuit? Answer: Voltmeter.
+11. The medical instrument used to listen to sounds generated inside the body, mainly in
+the heart or lungs? Answer: Stethoscope.
+12. Which scientific instrument is used to measure the altitude of an aircraft above a
+certain level? Answer: Altimeter.
+13. The name of the instrument used to measure the speed and rate of flow of fluid flowing
+in a pipe is? Answer: Venturimeter.
+14. The following instrument is used to identify and record earthquakes? Answer:
+Seismograph.
+15. A meteorological instrument containing a funnel-shaped collector, used to measure
+rainfall per unit area? Answer: Standard Rain Gauge.
+16. Which instrument is used in submarines to see objects above sea level? Answer:
+Periscope.
+
+
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+17. The meter that measures the speed of a vehicle is called? Answer: Speedometer.
+18. Sextant instrument is used in? Answer: Navigation.
+19. An instrument that can be used to test whether an object is carrying an electric charge
+or not? Answer: Electroscope.
+20. Relative humidity is measured by? Answer: With the help of Hygrometer.
+21. Which instrument is used to measure the intensity of light produced by an unknown
+source in reference to a standard source? Answer: Photometer.
+22. The instrument for measuring rain is called? Answer: Hyetometer.
+23. Eudiometer measures? Answer: Volume of gas.
+24. What is measured by the Beaufort Scale? Answer: Wind speed.
+25. Sphygmomanometer measures the blood pressure of? Answer: Arteries.
+26. Which instrument is used for the photography of the Sun? Answer: Spectroheliograph.
+27. The sensory receptor related to detecting blood pressure is? Answer: Mechanoreceptor.
+28. The instrument for measuring low temperature is called? Answer: Cryometer.
+29. The instrument for measuring Work done is called? Answer: Ergometer.
+30. The instrument used to detect and measure all types of radiation (Alpha, Beta, and
+Gamma) is? Answer: Geiger Counter.
+31. The instrument to measure the blueness of the sky or sea is called? Answer:
+Cyanometer.
+32. The instrument to measure Time is called? Answer: Chronometer.
+33. The instrument to measure the intensity of light is called? Answer: Lucimeter.
+34. The tool used to measure specific gravity is called? Answer: Aerometer.
+35. We will measure the specific gravity of milk using? Answer: Using a Hydrometer
+(Lactometer).
+36. The following instrument is used to detect current in an electric circuit? Answer:
+Galvanometer.
+37. The following instrument is used to measure electrical resistance? Answer: Ohmmeter.
+38. What does an Ammeter measure? Answer: Electric current.
+39. What does a Hygrometer measure? Answer: Relative humidity.
+40. What does a Barometer measure? Answer: Pressure.
+41. What does a Spring Balance measure? Answer: Weight.
+42. Stethoscope is used for? Answer: To listen to heart sounds.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+43. Sphygmomanometer is used for? Answer: To measure Blood Pressure (BP).
+44. Karatmeter is used for? Answer: To detect the purity of gold.
+45. Lux meter is used for? Answer: To measure light intensity.
+46. What does an Anemometer measure? Answer: Wind velocity.
+47. What does a Seismograph measure? Answer: Earthquake.
+48. What does a Barograph measure? Answer: Atmospheric pressure.
+49. What does a Hygrometer measure? Answer: Atmospheric humidity.
+50. Rolling a stone up a sloping road is easier than lifting it vertically upwards, because?
+Answer: The work done in rolling the stone is less than lifting it.
+51. What type of energy does the flowing water of a river convey? Answer: Kinetic.
+52. Passengers lean forward when a moving bus suddenly applies brakes, this follows?
+Answer: Newton's First Law.
+53. Based on what does a Jet Engine work? Answer: Conservation of Linear Momentum.
+54. Sliding friction is? Answer: Slightly less than Limiting friction.
+55. The time period of a simple pendulum depends on? Answer: On the length of the
+pendulum.
+56. Motion that repeats itself after some time is called? Answer: Periodic Motion.
+57. Where is gravity not present? Answer: Near an artificial satellite (Microgravity).
+58. A passenger sitting in a train running at a constant speed throws a ball vertically
+upwards. That ball will fall? Answer: In the passenger's hands.
+59. The value of 'g' (gravitational acceleration) is minimum at? Answer: At the Equator.
+60. An unused book remained on the shelf for two years until it was moved. This is an
+example of? Answer: Newton's First Law of Motion.
+61. "I throw a ball to hit the wall and it comes back to me." This is an example of?
+Answer: Newton's Third Law of Motion.
+62. The velocity with which a satellite escapes the Earth's gravitational force is called?
+Answer: Escape Velocity.
+63. Sound waves generated in a Sitar are? Answer: Stationary and Transverse type.
+64. "For every action, there is an equal and opposite reaction", this law was given by?
+Answer: Newton.
+65. The apparent weight of a body in a lift is more than its actual weight if the lift?
+Answer: Is accelerating upwards.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+66. A weightless rubber balloon is filled with 200 grams of water. Its weight in water will
+be? Answer: Zero.
+67. When a body is transferred from the Moon to Earth then? Answer: Its weight increases
+on Earth and Mass remains unchanged.
+68. When an object is taken from Earth to the Moon then? Answer: Its weight decreases.
+69. What will remain unchanged on changing the Quantity/Mass of an object? Answer:
+Density.
+70. If an unsaturated sugar solution is prepared by mixing 100 grams of sugar in half a liter
+of water, then the physical quantity that will not change is? Answer: Volume.
+71. Pendulum clocks become slow in summer because? Answer: The length of the
+pendulum increases, due to which the time taken in a unit oscillation increases.
+72. When we pull a bucket of water up from a well, we feel that the bucket? Answer: Has
+become heavier above the water surface.
+73. The Leaning Tower of 'Pisa' does not fall, because? Answer: The vertical line passing
+through the center of gravity remains inside the base.
+74. If a bomb is dropped from an airplane moving at a uniform speed, then the position of
+the airplane by the time the bomb reaches the bottom will be? Answer: Exactly above
+the bomb.
+75. The highest temperature inside a pressure cooker will depend on? Answer: On the area
+of the hole at the top and the weight placed on it.
+76. Ink starts leaking from a pen while traveling by airplane because? Answer: Due to a
+decrease in atmospheric pressure.
+77. Rocket works on? Answer: Principle of Conservation of Momentum.
+78. Jet engine works on? Answer: Principle of Conservation of Linear Momentum.
+79. If Earth's gravitational force suddenly disappears, the result will be? Answer: The
+weight of the object will become zero but the mass will remain the same.
+80. If the distance between Earth and Sun were twice what it is, the gravitational force
+exerted by the Sun on Earth would be? Answer: One-fourth of what it is now.
+ Where is the weight of an object maximum? — At the poles.
+ An iron ball whose weight on Earth is 10 kg, its weight in space will be? — Zero.
+ The weight of the human body is maximum at? — The poles.
+ Sudden fall of atmospheric pressure indicates? — Storm.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ A person is standing in a boat in still water. If he moves towards the shore, the boat
+will? — Move away from the shore.
+ A piece of ice is floating in a beaker filled with water. When the whole ice melts, then?
+— The water surface remains unchanged.
+ A person is sitting in a moving train facing the engine. He tosses a coin which falls
+behind him. The train is moving? — With forward acceleration.
+ Responsible for the flow of water in rivers is? — Force of friction (Viscosity).
+ Density of water is maximum at? — 4∘C.
+ Maximum density of water is at? — 277 Kelvin.
+ As soon as a train starts moving, the head of the passenger sitting in it leans
+backwards. The reason for this is? — Inertia of Rest.
+ The form of energy in Wind Power that is converted into electrical energy is? —
+Kinetic energy.
+ An iceberg floating in the sea has how much part above the sea surface? — 1/9 part.
+ Astronauts cannot stand straight in a vacuum because? — There is no gravity.
+ When the velocity of a moving object is doubled, its kinetic energy will be? — Four
+times.
+ If an apple is released from a spaceship orbiting the earth, it will? — Move at the same
+speed along with the spaceship.
+ Used in wristwatches, display devices, and pocket calculators? — Liquid crystals.
+ When a person orbits the Earth in a satellite, his? — Mass remains unchangeable but
+weight becomes zero.
+ A satellite keeps orbiting the Earth in its orbit. It does so? — Due to Centripetal force.
+ An object is in static equilibrium when it? — Keeps moving with a uniform velocity.
+ Galvanometer can be converted into Voltmeter by connecting with what? — High
+resistance in series.
+ Which property of a substance is defined as the minimum amount of work required to
+remove a free electron from the surface of that substance? — Work Function.
+ The mechanical transfer of energy to a system by an external force applied to it, or by
+a system, is called? — Work.
+ The rate of work done is? — Power.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Energy associated with falling coconuts, speeding cars, rolling stones, and flying
+planes is? — Kinetic Energy.
+ Mechanical energy is the sum of Potential energy and which energy? — Kinetic
+Energy.
+ Kinetic and Potential energies of a body are components of which energy? —
+Mechanical.
+ An example of Gravitational Potential Energy is? — Water stored behind a dam.
+ Hydroelectric power stations generate electricity by using the power of water falling
+on turbines and rotating the shaft. By rotating the turbine shaft, potential energy of
+water is converted into which energy? — Kinetic.
+ The following is the energy conversion that takes place in the process called
+photosynthesis? — Light energy to Chemical energy.
+
+
+ Windmill (Turbine) converts which energy into mechanical power? — Kinetic.
+ Kinetic energy depends on? — Velocity and Mass of the moving body.
+ Which scientific principle is primarily responsible for hydroelectric power generation?
+— Conversion of Gravitational Potential Energy into Electrical Energy.
+ The inertia of an object is measured by which of its properties? — Mass.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ What is high in a body having excessive mass? — Inertia.
+ An object resists the change in its state of rest or motion, this natural tendency is
+called? — Inertia.
+ Philosophiae Naturalis Principia Mathematica, published in 1687, also known as
+Principia, is the great work of which scientist? — Isaac Newton.
+ Which of Newton's laws gives the quantitative definition of force? — Second law of
+motion.
+ Inertia is? — The tendency to resist change in the current state.
+ A stationary object remains at rest, or if it is in motion, it remains in motion in a
+straight line at a constant speed, unless an external force is applied to it. This law
+states? — Law of Inertia.
+ How many laws of motion did Isaac Newton formulate? — 3.
+ A cannon recoils after firing? — Newton's third law of motion.
+ Newton's first law is also known as? — Law of Inertia.
+ An object will remain at rest as long as it is at rest, and if in motion, it will remain in
+motion, unless an external force is applied to it. This is Newton's? — First Law.
+ A force acts on an object which is free to move. If we know the amount of force and
+the mass of the object, then Newton's second law of motion enables us to determine
+what of the object? — Acceleration.
+ Rocket propulsion technology works on which scientific principle? — Newton's laws
+of motion.
+ Dimensions of Force are? — [MLT−2].
+ If two forces act on a body from opposite directions, then the magnitude of the net
+force acting on it is the ___ of the magnitude of both forces? — Difference.
+ Which quantity is measured using Torsion Balance? — Force.
+ The range of force having an exponent of 10−16m is? — Weak Nuclear.
+ The direction of Torque is? — Perpendicular to the direction of applied force.
+ The S.I. unit of Torque is? — Newton-meter.
+ The straight distance between the point of application of force and the axis of rotation
+is called? — Moment Arm.
+ A large force applied on a rotating object results in a large what? — Torque.
+ In science, a push or pull acting on an object is called? — Force.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ If the uncertainty in position and momentum is equal, then the uncertainty in velocity
+will be? — (1/2m)√h/π.
+ The formula for distance is? — Speed × Time.
+ The given equation provides a property of the motion of a body moving on a circular
+path. In this equation 'v' is? — Speed.
+ The distance covered by an object in unit time is called? — Speed.
+ An object will be said to be in what type of motion if its speed keeps changing while
+moving in a straight line? — Non-uniform motion.
+ The path of a projectile is called its? — Trajectory.
+ When a particle is thrown vertically upwards and when it reaches the highest point, its?
+— Acceleration is downwards.
+ If a ball is thrown upwards, the following does not change? — Acceleration.
+ In a projectile motion, the horizontal range achieved is the same whether the object is
+projected at theta and which angle? — 90 degrees minus theta (90∘−θ).
+ A cannonball is fired. The motion of this ball is an example of? — Projectile motion.
+ If an object is thrown upwards, its velocity upon reaching maximum height will be? —
+0 m/s.
+ During the motion of a projectile fired from the earth's surface? — The horizontal
+component of its velocity remains constant.
+ The rate of change in velocity of an object per unit time is called? — Acceleration.
+ The exponent of 'second' in the SI unit of acceleration is? — -2.
+ Acceleration is equal to the rate of change of what? — Velocity.
+ Acceleration is? — Inversely proportional to mass, proportional to force.
+ The slope of a velocity-time graph shows? — Acceleration.
+ An equation of motion is? — 2s=2ut+at2 (Note: Standard is s=ut+1/2at2, this is a
+variation).
+ This type of friction is considered a self-adjusting force? — Static friction.
+ Friction depends on the smoothness of surfaces. Friction force always ___ the applied
+forces? — Opposes.
+ We are able to walk on earth without slipping? — Due to Frictional force.
+ The force that stops the vehicle on applying brakes is called? — Frictional force.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ If an object slides on a surface, the force resisting the motion between them is called?
+— Friction.
+ If the axis of rotation passes through an object while in motion, that motion is called?
+— Rotational motion.
+ Two types of rotational motion are? — Spin and Orbital motion.
+ If an object moves in purely rotational motion, then every constituent particle of it
+moves in a circle, whose center lies on a line called? — Axis of rotation.
+ On a rotating object, what is uniform at every point? — Angular velocity.
+ When net torque is zero, then what will become constant? — Angular momentum.
+
+Mechanics, Gravitation & Properties of Gross Matter
+ The correct relationship between Moment of Inertia, Torque, and Angular Acceleration
+is? — Angular Acceleration = Torque / Moment of Inertia.
+ The proper relationship between a particle of mass (m) performing simple harmonic
+motion and time period (T) is? — T=2πm/k.
+ If an object is moving in a circular path, what will be its average speed if it completes
+one revolution in one second? — Zero (Note: This likely refers to average velocity as
+displacement is zero. Speed would be circumference/time).
+ Work done by Centrifugal force is? — Zero work.
+ The angle between centripetal acceleration and tangential acceleration is? — 90∘.
+ The potential energy (U) of a particle performing simple harmonic motion is? —
+U=0.5kx2.
+ The time period of a simple pendulum is (where l is length of pendulum and g is
+gravitational acceleration)? — 2πl/g.
+ The characteristic which is not true for uniform circular motion? — Distance is always
+equal to displacement.
+ The time taken by a pendulum to complete one oscillation is called? — Time Period.
+ The motion of a simple pendulum is an example of? — Periodic motion.
+ The time period of a pendulum on the Moon compared to its time period on Earth will?
+— Increase.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ In a simple pendulum, a small metal ball or a piece of stone is suspended from a rigid
+stand by a thread. The metal ball/stone piece is called the ___ of the pendulum? —
+Bob.
+ 'Action-at-a-distance' force is? — Gravitation.
+ The name of the force by which Earth pulls all objects towards itself is? —
+Gravitation.
+ The law of gravitation applies to? — Any pair of two objects.
+ According to Newton's law of gravitation, the force between two objects is? —
+Proportional to the product of their masses.
+ Who first determined the value of G (Gravitational Constant)? — Lord Cavendish.
+ In the context of gravitation, G is called? — Gravitational Constant.
+ If the distance between two objects increases three times, the gravitational force of
+attraction between them? — Becomes one-ninth of the original.
+ An iron ball and a wooden ball of equal radius are released from height H in a vacuum,
+the time taken by both of them to reach the ground is? — Exactly equal.
+ If the speed of rotation of the Earth increases, the weight of the body? — Will
+decrease.
+ g means acceleration due to Earth's gravitational power. The value of g is? — 9.8m/s2.
+ The value of acceleration due to gravity (g) at a distance of 2R from the surface of the
+earth is (where R is the radius of the earth)? — g/9.
+ Why is weightlessness felt when orbiting the Earth in a spacecraft? — Due to zero
+gravity (Free fall).
+ If the radius of the Earth decreases and its mass remains constant, the value of
+“acceleration due to gravity” will be? — More.
+ In an elevator going down with uniform velocity, the apparent weight of a person is?
+— Equal to the weight when the person is stationary.
+ Acceleration due to gravity on a planet decreases? — With increase in altitude from
+the surface of the planet.
+ The value of acceleration due to gravity at the center of the Earth is? — 0 (Zero).
+ In which position will the weight of an object be maximum? — At the poles of the
+Earth.
+ The weight of a body at the center of the Earth is? — Zero.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ If an object is dropped from a height and there is no air resistance? — Its speed will
+increase.
+ The weight of a person located at a height of 2R from the center of the Earth (where R
+is the radius of the Earth)? — Becomes one-fourth.
+ When an object falls freely from a certain height, it reaches the ground in 1 second, its
+velocity on colliding with the ground will be? — 9.8 m/s.
+ The weight (W) of a body can be given by this formula? — W=mg.
+ The orbital period of a planet in orbit of radius R is T. The orbital period in orbit of
+radius 4R will be? — 8 T.
+ Once a satellite is placed in orbit, the only force controlling its motion is? —
+Gravitation.
+ Particle with zero mass is? — Neutrino.
+ Particle with fractional charge is? — Quark.
+ Particle with fractional spin is? — Positron.
+ Particle with integral spin is? — Boson.
+ The metal which is most ductile? — Gold.
+ Who discovered the principle of water displacement? — Archimedes.
+ “A small iron ball sinks in water while a ship floats on water.” This principle is based
+on? — The principle of scientist Archimedes.
+ Who established the wave nature of particles? — De-Broglie.
+ The unit of sound intensity is? — Decibel.
+ The reason for echo generation is the ___ of sound? — Reflection.
+ When the temperature of a substance increases, the effect on the value of average
+kinetic energy of its molecules is? — Increases.
+ When a soap bubble is charged, what happens? — Radius increases.
+ The value of weight changes at different places while mass remains? — Constant.
+ It is a weak force unless large mass is involved? — Gravitational force.
+ It is a semiconductor? — Silicon.
+ The pressure inside a soap bubble? — Is greater than atmospheric pressure.
+ Oil spreads on the surface of water because? — Surface tension of oil is less than
+water.
+ Iron needle keeps floating on the surface of mercury? — Due to Surface Tension.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ A needle sinks in water while a ship made of iron floats on water because? — The
+relative density of the needle is greater than the relative density of the water displaced
+by it.
+ When a ship enters the sea from a river? — It rises a little.
+ At room temperature Silicon is a? — Semiconductor.
+ Mass of an object? — Remains the same everywhere.
+ Momentum of a body is defined as the product of its? — Mass and Velocity.
+ What is the property of iron due to which a piece of hot iron can be beaten into the
+form of a knife? — Malleability.
+ Spring balance works on which principle? — Hooke's Law.
+ The strain produced in an object is directly proportional to the stress applied to it, this
+is called? — Hooke's Law.
+ The principle related to the absorption of water by soil is? — Capillary action.
+ A drop of water spreads on a glass plate to form a thin layer while a drop of mercury
+remains spherical because? — The cohesion of mercury is greater than its adhesion
+with glass.
+ The viscosity of an ideal fluid is? — Zero.
+ The reason for oil rising in the wick of a lamp is? — Capillary action.
+ AV = Constant, where A = Area of cross-section and V = Velocity of fluid. This
+equation is called? — Equation of Continuity.
+ In a streamline flow, what remains uniform at every point in the fluid? — Velocity.
+ The loss in weight of a body immersed (partially or wholly) in a fluid is equal to the
+weight of the fluid displaced. Which of the following scientists was the first to
+establish this phenomenon? — Archimedes.
+ Lactometers, hydrometers, ships, and submarines are designed on the basis of? —
+Archimedes' principle.
+ For this reason, air bubbles rise in liquid? — Viscosity and Buoyancy.
+ When ice floats on water, how much of it remains outside the water? — 0.1 (or
+1/10th).
+ If floating ice melts in a vessel, the water level in that vessel? — There is no change.
+ The upward force acting on a floating object is called? — Buoyancy.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ If there is no gravity, then the following will not apply to the fluid? — Upward
+pressure (Buoyancy).
+ Lactometer (used to determine purity of milk sample) and Hydrometer (used to
+determine density of liquids) are based on which principle? — Archimedes.
+ The boiling point of water in mountainous areas will be? — Less than what it is at sea
+level.
+ Why does the boiling point of water decrease at altitude? — Due to low atmospheric
+pressure.
+ Ink pens leak in airplanes flying at high altitudes? — Due to low atmospheric pressure
+outside the pen.
+ According to whom, pressure is equal to the force acting per unit area on which it acts?
+— Pascal's Principle.
+ What happens when a fresh egg is put in salt water? — It floats.
+ Density is maximum of? — Water (relative to ice/steam).
+ The density of water is maximum at? — 4 degrees Celsius.
+ When water freezes, its density? — Decreases.
+ The density of the material of a substance is obtained by dividing its mass by what? —
+Volume.
+ If some gas is removed from a closed container and the pressure is reduced, the mean
+free path of the gas molecules will? — Increase.
+ The molecular mass of a gas is? — Twice its vapor pressure (Note: Twice its Vapor
+Density).
+ Ultrasonic waves produced in air by a vibrating quartz crystal are an example of? —
+Longitudinal wave motion.
+ Which waves are used by bats to locate their prey? — Ultrasonic waves (Ultrasound
+waves).
+ Which waves are used by ships to find the depth of the ocean floor? — Ultrasonic
+waves.
+ Which waves are used to diagnose defects in the internal organs of the human body?
+— Ultrasonic waves.
+ In which medium can sound not travel? — Vacuum.
+ The electromagnetic radiation which has the longest wavelength? — Radio waves.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+
+
+ A sonorous substance is? — Iron.
+ The distance between any two nearest particles of the medium vibrating in the same
+phase is? — Wavelength.
+ Which color (among given options) has the longest wavelength? — Orange color.
+ Velocity of radio wave is? — 3×108 m/second.
+ FM broadcast band is between which range? — VHF range.
+ The speed of sound is fastest in? — Iron.
+ Sound greater than which measurement is named "Noise"? — 80 Decibels.
+ The unit of measuring Supersonic Speed is? — Mach.
+ Sound of which frequency will be audible to humans? — 100 Hz.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+
+
+ The characteristic of a sound wave that determines its pitch? — Frequency.
+ To hear an echo, the minimum distance between the source and the reflecting surface
+should be? — Approximately 17 meters.
+ The decibel level of voice in the conversation of two persons will be? — About 30 dB.
+ The minimum distance to hear an echo from a wall is? — 17.2m.
+ Sound cannot travel through which medium? — Vacuum.
+ Sound measuring unit is called? — Decibel.
+ The speed of sound is maximum in? — In Ice (Based on given options in original
+context, solids conduct sound fastest).
+ The human ear is most sensitive? — At 1000 Hertz.
+ Persistence of hearing is? — 1/10 second.
+ Persistence of vision is? — 1/16 second.
+ Supersonic planes fly? — With speed greater than the speed of sound.
+ An important characteristic of sound 'Pitch' depends on? — Frequency.
+
+
+Sound, Wave Motion & Heat
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Clarifies the small divisible sound units of sounds, each of which has an identity —
+Phoneme
+ The velocity of sound is maximum in — Steel
+ The waves used for telecommunication are — Microwaves
+ The technology used to transmit audio signals in television broadcasts is — Frequency
+Modulation
+ Used by a remote control unit to operate a TV set — Infrared and Radio waves
+ Sound is called a harmful sound pollutant if it is — Above 80 dB
+ Liquid remains hot or cold for a long time in a thermos flask because there is no loss or
+gain of heat by — Conduction, Convection, and Radiation (by all three methods)
+ Can travel in both solid and gas mediums — Sound waves
+ Sound waves cannot travel in — Vacuum
+ Ultrasonic are those sounds whose frequency is — More than 20,000 Hertz
+ In SONAR we use — Ultrasonic waves
+ The sound of the whistle of an approaching train increases while it decreases for a train
+moving away. This phenomenon is an example of — Doppler Effect
+ The velocity of sound is maximum in — Metal
+ To hear a clear echo, the minimum distance between the reflecting surface and the
+listener should be — 16.5 meters
+ Sound travels — Like longitudinal waves
+ Bats can fly in dark nights and can also hunt. The reason for this is — They emit
+ultrasonic waves and are guided by them
+ They can destroy insects, they can clean clothes by removing dust from them, they can
+be used to treat diseases and they can control automatic doors; all these are properties
+of — Ultrasonic waves
+ Used in doing CT Scan — X-rays
+ Hearing sound for some time even after closing the sound source in a hall is called —
+Reverberation
+ Mainly used to detect the presence and position of objects by radio waves — RADAR
+ The wave that can destroy insects — Ultrasonic wave
+ The wave that can clean clothes by removing dust — Ultrasonic wave
+ The wave that can treat diseases and control automatic doors — Ultrasonic wave
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ The length of waves is shortest in — γ-rays (Gamma rays)
+ Waves transmit from one place to another — Energy
+ The walls and ceiling of the auditorium are covered with fibrous material like glass
+fiber — To absorb sound and prevent echo
+ An astronaut cannot hear his co-traveler on the surface of the moon because — There
+is no medium for sound to propagate
+ The combined effect of mass and velocity is taken into account by a physical quantity
+called — Momentum
+ Impulse is equivalent to — Change in momentum
+Electromagnetic Waves & Optics
+ The rate of change of momentum is — Force
+ The correct order of radiations in descending order of frequencies is — X-rays >
+Infrared > Microwaves > Radio waves
+
+ Which type of radiation refers to a part of the electromagnetic spectrum with
+frequencies of about 300 GHz to 3kHz, or equivalent wavelengths of about 1mm to
+100 km — Radio waves
+ Is not an electromagnetic wave — Cathode-ray
+ TV remote control works on the principle of — Infrared waves
+ Ionizing radiation has enough energy to affect atoms in a living cell, thereby damaging
+their genetic material — Radiation
+ The wavelength of infrared waves is smaller than — Radio waves
+ Who proposed the wave theory of light — Christiaan Huygens
+ Which electromagnetic waves are detected using a thermopile — Infrared waves
+ The correct order of electromagnetic radiations arranged in increasing order of
+frequency is — Long radio waves < Microwaves < Visible light < X-rays
+ Which electromagnetic waves are produced during the radioactive decay of nuclei —
+Gamma rays
+ In what form does the Earth's surface radiate heat into space — Infrared radiation
+ Magnetron valve is used in the production of — Microwaves
+ Which electromagnetic waves can be detected using a point contact diode —
+Microwaves
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ The range of wavelength is from 700 nm to 400 nm — Visible light
+ The loudness of a wave is proportional to the — Square of the amplitude
+ The rate of transfer of energy per unit area perpendicular to the direction of travel of a
+wave is called — Intensity
+ The phenomenon that established the transverse nature of light is — Polarization
+ Which waves cannot be polarized — Ultrasonic
+ An example of longitudinal waves (in gaseous medium) is — Sound waves
+ According to the principle of superposition, the reference to the superposing of two or
+more coherent waves on top of each other to produce regions of maxima and minima
+in space is — Interference
+ The proper relationship between the frequency (f) and time period (T) of a wave is —
+f×T=1
+ Geiger tube is used for the detection of which electromagnetic waves — Gamma rays
+ Which are also known as heat waves — Infrared waves
+ The waves used in radar systems are — Microwaves
+ In which year was the Doppler effect discovered by the Austrian scientist Christian
+Doppler, describing the change in frequency of any type of sound or light wave
+produced by a moving source with respect to an observer — 1842
+ The loudness of sound is proportional to the ______ of the amplitude of vibration
+producing the sound — Square
+Sound, Heat & Thermodynamics
+ Sound, which is a mechanical wave, cannot travel in which medium — Vacuum
+ In which of the following media can sound not travel — Vacuum
+ On what principle does the stethoscope work — Reflection of sound
+ The speed of sound waves is maximum in which medium at a specific temperature —
+Solid
+ In what does sound travel fastest — Steel
+ Ultrasonic sounds are those sounds which have frequencies — Greater than 20 kHz
+ The shrill voice of women is due to — High frequency
+ The audible range of sound for an average adult person is — 20 Hz - 20000 Hz
+ The sound of thunder is heard long after its flash. What does this indicate — The speed
+of sound is much less than the speed of light
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ The velocity of sound in air is — 343 m/sec
+ When the speed of an object exceeds the speed of sound, it is said to be traveling at —
+Supersonic speed
+ Which characteristic of sound is measured in Hertz (Hz) — Frequency of sound
+ The quality of musical sound produced by a stringed instrument depends on —
+Waveform of the sound
+ Which gas is filled in incandescent bulbs to increase the life of the filament —
+Nitrogen
+ To hear a clear echo, the time interval between the original sound and the reflected
+sound must be at least — 0.1 second
+ The permissible noise level for a residential area is — 55 dB
+ The permissible noise level for a silent zone is — 50 dB
+ The permissible noise level for an industrial area is — 70 dB
+ The permissible noise level for a commercial area is — 65 dB
+ The temperature at which the density of water is maximum — 4∘C
+ The color of stars depends on — Their temperature
+ The heat transfer method by which the Earth receives energy from the Sun —
+Radiation
+ Cooking in a pressure cooker is faster compared to other traditional methods because
+— High pressure and higher boiling point inside the cooker enable faster cooking
+ At what temperature is the density of pure water maximum — 4∘C
+ When water freezes, its density — Decreases
+ Mixing salt with ice causes the freezing point to — Decrease
+ The lowest temperature at which a substance catches fire is called — Ignition
+temperature
+ The metal which is a good conductor of heat but bad for electricity — Mica
+ Two glass tumblers stick to each other (one inside the other). They can be separated by
+— Putting the outer glass in hot water
+Questions & Answers (Heat)
+ Question: What is the latent heat of ice? Answer: 80 Cal/gm
+ Question: What is the boiling point of water in the Fahrenheit scale? Answer: 212∘F
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: What is the temperature of a healthy human? Answer: 37∘ Centigrade
+ Question: The temperature at which water vapor in the air begins to condense is
+called? Answer: Dew point
+ Question: The process by which water vapor in the air turns into water droplets is
+called? Answer: Condensation
+ Question: What happens as a result of evaporation? Answer: Cooling
+ Question: The process of vertical heating of the atmosphere is called? Answer:
+Convection
+ Question: The process of heat transfer in solids is known as? Answer: Conduction
+ Question: What is the average normal human body temperature measured by a clinical
+thermometer? Answer: 37∘C
+ Question: What is the boiling point of water in Fahrenheit? Answer: 212∘F
+ Question: The rate of evaporation increases with the decrease of? Answer: Humidity
+ Question: What is the value of electric current in the circuit during a Short Circuit?
+Answer: Increases heavily
+ Question: In which heat engine is the carburetor used? Answer: Petrol engine
+ Question: What is the descending order of energy of electromagnetic radiations?
+Answer: Gamma > Beta > Alpha
+ Question: Why do damp biscuits become crisp when kept inside the fridge for a while?
+Answer: Because the humidity inside the fridge is low and hence excess moisture is
+absorbed
+ Question: In which condition will wet clothes dry fastest? Answer: 20% humidity and
+60∘C temperature
+ Question: What is the safe temperature for keeping food fresh in the refrigerator?
+Answer: 4∘C
+ Question: Why is it more comfortable to wear white clothes in summer? Answer:
+Because they reflect all the heat falling on them
+ Question: Why do aquatic animals survive in winter when the water on the upper
+surface of the lake turns into ice? Answer: Because the density of water is maximum at
+4∘C, so water remains below the upper surface of ice
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: If the temperature of water is lowered from 9∘C to 3∘C, what will be the
+effect on the volume of water? Answer: Volume will first decrease and then increase
+ Question: Why does a bottle break when it is filled with water and allowed to freeze?
+Answer: Because water expands on freezing
+ Question: Humans feel troubled by humidity and heat, what is the reason for this?
+Answer: Sweat does not evaporate due to humidity
+ Question: Why does a fan give a feeling of comfort in hot weather? Answer: Because
+our sweat evaporates at a faster rate
+ Question: When a glass rod is placed in steam, its length increases, but what is the
+effect on its width? Answer: Width increases
+ Question: What causes more severe burns? Answer: Steam
+ Question: Who is the best conductor of heat? Answer: Water (Note: Based on options
+typically given in exams, otherwise metals like Silver/Copper are better).
+ Question: What is the effect on volume when ice melts? Answer: Volume decreases
+ Question: If an iron ball is heated, the maximum percentage increase will be in?
+Answer: Its volume
+ Question: Why are cloudy nights warmer than clear sky nights? Answer: Because
+clouds prevent radiation of heat from the earth and air
+ Question: What is the function of a thermostat in a refrigerator? Answer: To maintain a
+uniform temperature
+ Question: If it takes exactly one minute for tea in a cup to cool from 90∘C to 80∘C,
+how long will it take to cool from 70∘C to 60∘C? Answer: More than one minute
+(According to Newton's Law of Cooling)
+ Question: If the door of a refrigerator kept in a closed room is kept open, what will be
+the effect on the room temperature? Answer: Temperature will increase
+ Question: If we keep heating a piece of iron, it first glows light red, then white, and
+finally turns which color? Answer: Orange (Note: Sequence typically goes Red ->
+Orange -> Yellow -> White -> Blue).
+ Question: In which area is an air cooler more effective? Answer: In desert areas (dry
+areas)
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: Why does fat separate from milk in a cream separator machine? Answer:
+Due to Centrifugal force
+ Question: Which principle of Newton is proven by the flying of birds? Answer: Third
+law of motion
+ Question: Absolute zero can be called the temperature at which? Answer: Molecular
+motion of a gas stops
+ Question: The kinetic energy of a 'body' is proportional to? Answer: Its momentum
+(specifically square of momentum)
+ Question: What is the function of a thermostat in a refrigerator? Answer: Maintaining a
+uniform temperature
+ Question: When two blocks of ice are pressed together, they form one block of ice,
+why? Answer: Because the melting point of ice decreases with increase in pressure
+ Question: Two small drops of water merge into each other to form a large drop, what
+happens in this process? Answer: Energy is released
+ Question: Which device is used to measure temperature? Answer: Thermometer
+ Question: A clinical thermometer measures temperature in which range? Answer:
+35∘C to 42∘C
+ Question: What is the Steam Point on the Fahrenheit scale? Answer: 212∘F
+ Question: What is the boiling point of water at sea level? Answer: 100∘C
+ Question: How does the temperature remain at the boiling point of a liquid? Answer:
+Temperature remains constant
+ Question: 30∘ Celsius is equal to how many Kelvin? Answer: Approx 303 Kelvin
+(273+30)
+ Question: The direction of flow of heat between two bodies depends on? Answer:
+Their temperature
+ Question: What is the reading of temperature where both Fahrenheit and Celsius scales
+are the same? Answer: −40∘
+ Question: 'Absolute zero' is the temperature at which what happens? Answer:
+Molecular motion in gases starts decreasing / All molecular motion stops
+ Question: 0∘K is equal to? Answer: −273∘C
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: When the temperature difference between the liquid and its surroundings is
+doubled, the rate of loss of heat will be? Answer: Doubled
+ Question: Cryogenics is a branch of physics related to? Answer: Extremely low
+temperatures
+ Question: The difference in temperature of two bodies is 30 degrees Centigrade, what
+will be this difference in degrees Fahrenheit? Answer: 54 (30×1.8)
+ Question: By which medium does the Sun give heat to the Earth? Answer: By
+radiation
+ Question: In what form is the latent heat energy stored during temperature change in a
+substance? Answer: Kinetic energy (Potential energy is more accurate for latent heat
+phase change, but kinetic is mentioned in source)
+ Question: Why does the air near the surface of the earth continue to receive heat even
+after sunset? Answer: Terrestrial radiation
+ Question: One calorie of thermal energy is equal to approximately how many Joules of
+mechanical energy? Answer: 4.2 Joules
+ Question: What causes the Eiffel Tower to become taller during summers? Answer:
+Thermal expansion
+ Question: What is the horizontal heat transfer within the atmosphere called? Answer:
+Advection
+ Question: Why does food cook faster in a pressure cooker? Answer: Due to increase in
+boiling point of water
+ Question: A wooden spoon is dipped in a cup of ice cream, how will its other end be?
+Answer: Will not become cold
+ Question: Who is the best insulator? Answer: Glass
+Thermodynamics
+ Question: Why does ice covered with sawdust not melt quickly? Answer: Because
+sawdust is a bad conductor of heat.
+ Question: Who coined the term ‘Zeroth Law of Thermodynamics’ in 1931? Answer:
+Ralph H. Fowler.
+ Question: In thermodynamics, what is the type of energy that transfers from a hot
+substance to a cold substance? Answer: Heat.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: If the temperature of two bodies is the same, in what state are they
+considered to be? Answer: In Thermal Equilibrium.
+ Question: What is the thermodynamic process called in which the volume of a closed
+system remains constant? Answer: Isochoric Process.
+ Question: When water freezes to form ice, what is the effect on its Entropy? Answer:
+Entropy decreases.
+ Question: Which law of thermodynamics states that "the increase in internal energy is
+equal to the sum of the heat supplied and the work done by the system"? Answer: First
+Law of Thermodynamics.
+ Question: Which scientist formulated the first two laws of thermodynamics and
+deduced that the absolute zero of temperature is –273.15°C? Answer: William
+Thomson (Lord Kelvin).
+ Question: What is the Boiling Point of water on the Kelvin scale? Answer: 373 K.
+ Question: What is the normal human body temperature in Kelvin? Answer: 310 K.
+ Question: At what temperature is the density of water maximum? Answer: At 277 K
+(4∘C).
+ Question: –40°F temperature is equal to what on the Kelvin scale? Answer: Equal to
+233 K.
+Optics (Light & Optics)
+ Question: What is the center of the reflecting surface of a spherical mirror called?
+Answer: Pole.
+ Question: What is the unit of measuring Stellar Distance? Answer: Light Year.
+ Question: Why does the clear sky appear blue? Answer: Due to Scattering of light.
+ Question: When a green leaf is viewed in red light, what color will it appear? Answer:
+Black.
+ Question: When the object is placed at infinity, what is the nature of the image formed
+by a convex mirror? Answer: Virtual and Erect.
+ Question: What is the phenomenon of deflection (bending) of light called when it
+enters obliquely from one medium to another? Answer: Refraction.
+Light & Mirror
+ Question: The lens used by people with myopia (near-sightedness) is? Answer:
+Concave Lens
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: A patient with hypermetropia (farsightedness) cannot see objects closer than
+40 cm clearly. The lens required to make the eye normal will be? Answer: Convex lens
+of focal length 200/3 cm
+ Question: The minimum height of a plane mirror required to see the full image of a
+person is? Answer: Half of the person's height
+ Question: When a red rose is viewed through a blue filter, it appears? Answer: Black
+ Question: The real image of an object is formed by a convex lens on a screen. If the
+upper part of the convex lens is covered with opaque paper, what will be the effect on
+the image? Answer: The complete image of the object will be obtained, but its
+intensity will decrease
+ Question: Which color of light has the shortest wavelength? Answer: Violet
+ Question: Which light has the maximum energy? Answer: In Blue light (or Violet)
+ Question: The best colors for a sun umbrella would be? Answer: White on top and
+Black on the inside
+ Question: Who has the highest refractive index? Answer: Diamond
+ Question: The reason for the sky appearing blue is? Answer: Scattering of light
+ Question: The color of light that travels fastest in a medium other than vacuum or air?
+Answer: Red
+ Question: The mirror used to see side objects in motor vehicles is? Answer: Convex
+Mirror
+ Question: The reason for sea water being blue is? Answer: Scattering of light by water
+ Question: Why is oil immersion used in an optical microscope? Answer: To increase
+the resolving power of the microscope
+ Question: What is formed when an opaque object comes in the path of light? Answer:
+Shadow
+ Question: Primary colors are? Answer: Red, Green, Blue
+ Question: Astigmatism is corrected by using which lens? Answer: Cylindrical lens
+ Question: Used by dentists to view an enlarged image of teeth? Answer: Concave
+mirror
+ Question: LED is the current technology for energy-rich light. What is the full form of
+LED? Answer: Light Emitting Diode
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: What is the 'Very Light Pistol' used for at night? Answer: To illuminate a
+place for a short time
+ Question: Who propounded the wave theory of light? Answer: Huygens
+ Question: When a red rose is viewed through green light, it appears? Answer: Black
+ Question: Not an advantage of optical communication? Answer: High speed (Note:
+This is context-dependent, typically optical has high speed, but this might refer to
+latency in specific scenarios or a tricky option).
+Scattering, Refraction and Human Eye
+ Question: The reason for the propagation of light in the atmosphere is? Answer: Dust
+particles (Scattering)
+ Question: Who reflects more sunlight? Answer: Land covered with fresh snow (High
+Albedo)
+ Question: How to connect two identical bulbs to get more light? Answer: In Parallel
+ Question: Solar energy is converted into electrical energy? Answer: By Photovoltaic
+cells
+ Question: The formation of Mirage is an example of? Answer: Total Internal
+Reflection
+ Question: A black body does not do? Answer: Refraction of radiation
+ Question: Einstein was given the Nobel Prize for? Answer: Theory of Photoelectric
+effect
+ Question: That whose velocity is maximum? Answer: Light
+ Question: In hypermetropia (farsightedness), the image is formed? Answer: Behind the
+retina
+ Question: Time taken for light to reach the earth from the sun is? Answer: About 8
+minutes
+ Question: We get sunlight in the room? Answer: By Scattering
+ Question: Visible due to dispersion of sunlight? Answer: Rainbow
+ Question: Appears in the middle of the rainbow? Answer: Green color
+ Question: The number of colors in sunlight is? Answer: 7
+ Question: Doctors use an endoscope to see the internal organs of the body. It is based
+on? Answer: Principle of total internal reflection of light
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: Air bubble inside water behaves like? Answer: Like a Concave lens
+(Diverging lens)
+ Question: A cut diamond shines with sparkle? Answer: Due to total internal reflection
+ Question: Photo-voltaic cells are? Answer: Solar-cells
+ Question: The minimum distance of clear vision for a normal healthy human eye is
+considered to be? Answer: 25 cm
+ Question: Used to see traffic coming behind the car? Answer: Convex mirror
+ Question: If a point source of light is placed between two parallel plane mirrors,
+images will be formed? Answer: Infinite
+ Question: Full form of C.F.L. is? Answer: Compact Fluorescent Lamp
+ Question: The color of the sky is blue? Answer: Due to scattering of light
+ Question: Objects are visible in light? Answer: Due to reflection
+ Question: The mirror used by dentists to see patients' teeth is? Answer: Concave
+ Question: A person with near-sightedness 'Myopia' can see? Answer: Objects located
+nearby clearly
+ Question: Myopia is corrected? Answer: Using concave lens
+ Question: The cause of Mirage is? Answer: Total internal reflection of light
+ Question: The color of light is determined by its? Answer: Wavelength
+ Question: The reason for the Sun and Moon appearing elliptical near the horizon is?
+Answer: Refraction
+ Question: The image formed on the retina is? Answer: Smaller than the object and
+inverted
+ Question: Diamond appears shiny? Answer: Due to Total Internal Reflection
+ Question: In the human eye, light waves are converted into nerve impulses? Answer:
+On the Retina
+ Question: Focusing happens in the eye? Answer: By changing the convexity of the lens
+ Question: The human eye is most sensitive to which wavelength of visible light?
+Answer: 5500 Angstroms (Yellow-Green)
+ Question: Power of sunglasses is? Answer: 0 Diopter
+Properties and Applications of Light
+ Question: Red light is used for danger signals because? Answer: Its scattering is the
+least
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: Color combination in an umbrella to protect from the sun is appropriate?
+Answer: White on top, black below
+ Question: The color of light is determined by its? Answer: Wavelength
+ Question: The concept of 'Expanding Universe' is based on? Answer: Doppler effect
+ Question: The reason for the red color of the sun at sunset and sunrise is? Answer:
+Scattering of light
+ Question: The image formed by an astronomical telescope is? Answer: Virtual and
+Magnified
+ Question: The mirror used in a Searchlight is? Answer: Concave mirror
+ Question: The sensitivity of the eye is maximum? Answer: Between Yellow and Green
+colors
+ Question: The wavelength range of visible light is? Answer: Between 390-780 nm
+ Question: Do not use in night vision cameras? Answer: X-ray radiation from objects
+(They use IR)
+ Question: The color of a star indicates? Answer: Its temperature
+ Question: When light goes from one medium to another, what remains unchanged?
+Answer: Frequency
+ Question: Looking directly at the sun during a total solar eclipse causes irreversible
+damage to the eye. Burning of the retina is caused by which ray of the sun? Answer:
+Ultraviolet (UV) light
+ Question: When a pencil-like object is rotated rapidly in front of a running TV screen
+or tubelight, multiple images of that object are seen. The reason for this is? Answer:
+Stroboscopic effect
+ Question: 'Blind spot' and 'Yellow spot' are found in the eye? Answer: In the Retina
+ Question: The image formed on the retina is? Answer: Smaller than the object and
+inverted
+ Question: Scientists have recently created the world's smallest light bulb? Answer:
+With the help of Graphene
+ Question: To see the full image of a person, the minimum height of a plane mirror
+should be? Answer: Half of the person's height
+ Question: The radius of curvature of a plane mirror is? Answer: Infinite
+ Question: The velocity of light is maximum? Answer: In Vacuum
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: The alkaloid whose very dilute solution is used to dilate the pupil of human
+eyes is? Answer: Atropine
+ Question: Light appears to travel in a straight line because? Answer: The wavelength
+of light is very small
+ Question: The best energy source from the point of view of keeping the environment
+clean is? Answer: Solar cell
+ Question: A rod immersed in a vessel filled with water appears bent? Answer: Due to
+refraction
+ Question: Immediately before sunrise or sunset, the sun appears oval? Answer: Due to
+the effects of Refraction
+ Question: When an object is placed between two parallel plane mirrors, the number of
+images formed is? Answer: Infinite
+ Question: Red light is used for danger signal because? Answer: Its scattering is the
+least
+ Question: Laser is a device by which is generated? Answer: Stimulated radiation
+ Question: The effect which helps in determining the nature of the universe? Answer:
+Doppler's effect
+ Question: Which color of light of VIBGYOR has the minimum wavelength? Answer:
+Violet
+ Question: How many colors are contained in sunlight? Answer: Seven
+ Question: Apart from the wavelengths of red and green color of sunlight, which other
+color wavelength of sunlight is absorbed by water molecules in the oceans? Answer:
+Yellow
+ Question: The electromagnetic spectrum describes the entire range of light which is
+generally divided into how many regions of wavelength and in order of increasing
+energy and frequency? Answer: Seven
+ Question: Which color light is formed when red, blue and green lights are mixed in
+equal amounts? Answer: White
+ Question: Light waves are? Answer: Electromagnetic waves
+ Question: Light travels at the fastest speed? Answer: In Vacuum
+ Question: Objects which emit light themselves like the sun are called? Answer:
+Luminous bodies/objects
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: The color of light emitted by the sun is? Answer: White
+ Question: Scattering of a light beam by a medium containing microscopic suspended
+particles is called? Answer: Tyndall effect
+ Question: The color of the sun appears red at sunrise and sunset? Answer: All colors
+except red get scattered
+ Question: The sky appears blue because blue light is ...... more than other colors in the
+atmosphere? Answer: Scattered
+ Question: The reason for the sky looking blue is? Answer: Due to shorter wavelength,
+blue color scatters easily
+ Question: The splitting of white light into its component colors is called? Answer:
+Dispersion
+ Question: The name of the phenomenon (driven by scattering of light) in which
+mountain peaks turn pink or orange at sunrise and sunset? Answer: Alpenglow
+ Question: Raman wants to use a rear-view mirror in his vehicle. For this he should
+choose a mirror? Answer: Convex mirror
+ Question: The following mirror is used as a headlight in vehicles? Answer: Concave
+mirror
+ Question: Lateral inversion of light is displayed in the following type of mirror?
+Answer: Plane mirror
+ Question: If light is reflected from two plane mirrors placed facing each other, then
+images will be formed? Answer: Infinite
+ Question: The size of the image formed by a plane mirror is always ...... the object?
+Answer: Equal to
+ Question: The image formed by a plane mirror is always? Answer: Erect
+ Question: In an image formed by a mirror, the object on the left appears on the right
+and the object on the right appears on the left. This is called? Answer: Lateral
+Inversion
+ Question: What will be the total number of images formed by two mirrors inclined at
+120∘ to each other? Answer: 2
+ Question: For use in a solar cooker, the mirror is most suitable? Answer: Concave
+ Question: If the mirror used is a concave mirror, then the correct formula for
+magnification among these is? Answer: (Image distance) / (Object distance)
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: Mirror used in car headlights? Answer: Concave
+ Question: In a concave mirror, if the object is placed at the center of curvature, the
+image formed will be? Answer: Located at the center of curvature
+ Question: In this mirror the image is virtual, erect and of point size? Answer: Convex
+ Question: In optics, the refractive index of a substance is given by the formula n=c/v,
+where c is? Answer: Speed of light in vacuum
+ Question: The phenomenon of change in direction of light when it passes from one
+medium to another is called? Answer: Refraction
+ Question: When light waves enter from one medium to another, they deviate from their
+original path. This phenomenon is called? Answer: Refraction
+ Question: Whose refractive index is closest to Crown Glass? Answer: Canada Balsam
+ Question: The shine in bubbles produced in water is due to which process? Answer:
+Due to Total Internal Reflection of light
+ Question: The focal length of a convex lens with +2.5 Diopter power will be? Answer:
+40 cm
+ Question: The lens in the upper part of a bi-focal lens is? Answer: Concave
+ Question: The following lens always forms a virtual, erect and smaller image? Answer:
+Concave
+ Question: If the power of an object is expressed in Dioptre, then that object must be a
+......? Answer: Lens
+ Question: The power of a lens is -2.0 D. Where 'D' stands for? Answer: Diopter
+ Question: When you come from a bright room, you cannot see objects in a dimly lit
+room? Answer: The iris contracts making the pupil smaller allowing less light to enter
+the eye
+ Question: Muscles can help in modifying the curvature in the eye lens? Answer:
+Ciliary muscles
+ Question: People who wear bifocal lenses are found to have? Answer: Presbyopia
+ Question: Which type of lens is commonly used to correct Presbyopia? Answer:
+Bifocal lens
+ Question: Rajat has Hypermetropia (long-sightedness). Which type of lens will the
+ophthalmologist suggest to correct his vision? Answer: Convex
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: The change in focal length of the eye lens is caused by the action of ..........?
+Answer: Ciliary muscle
+ Question: How far (in cm) does a person with hypermetropia have to keep reading
+material to read clearly? Answer: 25
+ Question: When the human eye lens becomes thin, the focal length will? Answer:
+Increase
+ Question: Made the first compound microscope? Answer: Zacharias Janssen
+ Question: A periscope uses? Answer: Two plane mirrors
+ Question: Instrument used for measurement of direct beam solar radiation? Answer:
+Pyrheliometer
+ Question: The splitting of light into different colors is called? Answer: Dispersion
+ Question: The longest wavelength in the colors of the rainbow is? Answer: Of Red
+color
+ Question: In the process of formation of a rainbow after a rain shower, sunlight is
+........... through small water droplets? Answer: Dispersed
+ Question: The wavelength of the following color of the rainbow is the shortest?
+Answer: Violet
+Electricity
+ Question: According to Ohm's law, the true equation is? Answer: R=V/I
+ Question: Example of an insulator is? Answer: Diamond
+ Question: Converts mechanical energy into electrical energy? Answer: Dynamo
+ Question: The most commonly used material for making the filament of an electric
+bulb is? Answer: Tungsten
+ Question: Used to measure electromotive force? Answer: Potentiometer
+ Question: ........ device is used to convert AC to DC (Alternating Current to Direct
+Current)? Answer: Rectifier
+ Question: If net charge Q flows across any cross-section of a conductor in time (t),
+then the current (I) flowing through the cross-section will be? Answer: I=Q/t
+ Question: The device which converts electrical energy into mechanical energy?
+Answer: Electric Motor
+ Question: Transformer works on the principle of .........? Answer: Electromagnetic
+Induction
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: Fuse protects an electric circuit from? Answer: Overloading
+ Question: ......... instrument is used to detect the presence of electricity in a circuit?
+Answer: Galvanometer
+ Question: Device used to connect various appliances in series? Answer: Connecting
+wire
+ Question: A substance which is a bad conductor of electricity but a good conductor of
+heat? Answer: Mica
+ Question: A current flowing through a conductor is? Answer: Directly proportional to
+potential difference
+ Question: The force exerted by a charged object on another charged or uncharged
+object is called? Answer: Electrostatic force
+ Question: Chemical energy is converted into electrical energy? Answer: By Storage
+cell
+ Question: The best conductor of electricity is? Answer: Sea water
+ Question: Increase in light only when the speed of a bus increases indicates? Answer:
+Weak battery
+ Question: Photo-voltaic cells are? Answer: Solar-cells
+ Question: A ........... is a passive two-terminal electrical component that implements
+electrical resistance as a circuit element? Answer: Resistor
+ Question: A simple device used to break an electric circuit or complete it? Answer:
+Switch
+ Question: It is an electrical device that can be used to expand the capacity of a wall
+outlet, which can accommodate appliances? Answer: Power strip
+ Question: The best conductor of electricity is? Answer: Copper
+ Question: Elements of electric iron, heater, electric kettle etc. are made of? Answer:
+Nichrome
+ Question: Heating a semiconductor makes its resistance? Answer: Decrease
+ Question: The best conductor of electricity is? Answer: Sea water
+ Question: ‘Dynamo’ is a device which converts? Answer: Mechanical energy into
+electrical energy
+ Question: ‘Semiconductor’ is? Answer: Germanium
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: Electric motors often burn out when operating at low voltage because?
+Answer: They draw more current which is inversely proportional to the voltage
+ In a three-pin electric plug, the longest pin should be connected to — The Earth
+terminal
+ When the TV is switched on — Audio and video start simultaneously
+ Transformers are used — To step up or step down AC voltage
+ Used to step up or step down alternating current potential — Transformer
+ Earth is used in electrical appliances — For Safety
+ Newly invented high temperature superconductor is — Ceramic Oxides
+ The characteristic of wire used in 'Fuse' is — High resistance / Low melting point
+ Is a very good conductor of heat — Mercury
+ Resistance of a semiconductor on heating — Decreases
+ The best conductor of electricity is — Silver
+ A device which converts electrical energy into mechanical energy is — Motor
+ Silicon and Germanium are — Semiconductors
+ Fans, bulbs, tubes etc. in houses are installed — In Parallel combination
+ Electric current does not flow between two charged bodies connected together if they
+are — At the same potential
+ The maximum temperature achieved by a superconductor is — 133 Kelvin
+ An important part of a transistor is — Germanium
+ Converting mechanical energy into electrical energy is the function of — Dynamo
+ The characteristic of the wire used in the fuse is — High resistance - Low melting
+point
+ Diode which emits light when current is passed through it is — LED
+ The concept of electric field was first presented by — Michael Faraday
+ The total charge of an Electric Dipole is — 0 (Zero)
+ Correct formula to find the potential difference between two points — V=W/Q
+ Electric field can be defined as — Force per unit charge
+ The relationship between Capacitance C, Charge Q and Potential V is — Q=CV
+ The energy stored in a capacitor of charge Q, voltage V and capacitance C cannot be
+expressed by the following relation — (1/2)[(V2)/Q]
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Which law of physics states that when the distance between two electric charges is
+doubled, the force between them is reduced to one-fourth of its previous value —
+Coulomb's Law
+ In this situation current will stop flowing in the bulb — When the circuit breaks
+ A property of the wire used to make electric fuse is — It melts quickly
+ The rating for a fuse used in domestic electric circuits is provided on the basis of —
+Electric current
+ Fuse wires are made of alloy — Tin and Lead
+ Kirchhoff's first law states that the total current entering a junction is equal to the total
+current leaving that junction — Kirchhoff's First Law
+ Precautions to be taken to prevent overloading of domestic electrical circuits — Fuse
+must be connected to the circuit
+ Electrical wires are generally coated with — Polyvinyl Chloride (PVC)
+ 'Kirchhoff's Laws' are related to which field of science — Electric Circuit
+ The most important safety device in an electrical circuit, used to protect the circuit due
+to short circuiting and overloading — Fuse
+ Is a passive two-terminal electrical component that produces electrical resistance as a
+circuit element — Resistor
+ Coulomb per second is equal to — Ampere
+ In a resistor, when the resistance is doubled the current — Current becomes half
+ When an electric current flows through a wire, it happens — The wire gets hot
+ Frequency of Direct Current is — Zero
+ Not a good conductor of electricity — Diamond
+ Formula showing Ohm's law — V=I×R (Note: Original text has a typo A=V*ohm,
+corrected to standard)
+ Discovered the relationship between the current flowing in a metal wire and the
+potential difference between its terminals — Georg Simon Ohm
+ Georg Simon Ohm, in whose honor we have the famous Ohm's Law, was from the
+country — Germany
+ Electrical conductivity through metals is called electronic conduction and it —
+Decreases with increase in temperature
+ We can compare electric current in an electric conductor to — Water currents in a river
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Substances which allow electric current to flow through them are — Electric
+conductors
+ Is a good electric conductor — Graphite
+ Copper wires are often used instead of iron for power transmission because — Copper
+can carry more electricity than iron (Lower resistance)
+ Ohm-conductor is — Silver
+ This law states that the ratio of the potential difference across a conductor to the
+current flowing through it is a constant, provided that its physical conditions like
+temperature etc. remain constant — Ohm's Law
+ Is not a conductor of electricity — Ebonite
+ An electric bulb lit by an 18 V battery draws 3 A electric current. The resistance of the
+bulb will be — 6Ω
+ Substances which do not allow electric current to flow through them are called —
+Insulators
+ If four resistors of 3Ω,4Ω,5Ω and 6Ω are connected in series, then the combined
+resistance of the four resistors will be — 18Ω
+ If electrical resistance is to be reduced then the number of resistors should be
+connected — Parallel
+ Resistance of a metal conductor — Is proportional to its length
+ When two resistors R1 and R2 are connected in series, their equivalent resistance will
+be — R1+R2
+ Affects the resistance of the wire — Resistivity, Length of wire, Area of cross-section
+of wire
+ Is not a factor on which the resistivity of the wire depends — Density of the material
+ When two resistors are connected in parallel, remains in them — Potential difference
+same
+ As the temperature of a semiconductor increases, its resistivity — Decreases
+ The following term does not represent electric power in an electric circuit — IR2
+ Heat generated in a resistor wire is — Proportional to the square of the electric current
+flowing in the wire
+ The coil of wire used in electric room heater is called — Element
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ The following device is used in digital circuits so that the information stored in the
+memory of large computers is not lost during momentary power failure — Capacitor
+ The instrument used to measure potential difference in an electric circuit is called —
+Voltmeter
+ The instrument used to measure small electric current is — Galvanometer
+ In an electrostatic precipitator, there is an electrode wire through which thousands of
+volts pass, to remove electrons, it produces — Corona
+ The following device can detect the presence of electric current in a circuit —
+Galvanometer
+ The following component cannot be made within an Integrated Circuit (IC) —
+Transformer
+ Transformer is a device to convert — Low voltage AC to High voltage AC
+ In alternating current, the following device is used to efficiently convert one voltage to
+another — Transformer
+ The following gas is used in electric bulbs — Nitrogen
+ Filaments of electric bulbs are generally made of — Tungsten
+ In the symbol of an electric cell, the thick, short line represents — Negative terminal
+ What is the initial voltage of batteries used for household gadgets like remote controls,
+small toys, and wireless kitchen appliances — 1.5 V
+ A combination of two or more cells in which the positive terminal of one cell is
+connected to the negative terminal of the other cell is called — Battery
+ A battery converts energy into electrical energy — Chemical
+ The following device converts chemical energy into electrical energy — Battery
+ A .......... is an electronic device that receives a weak signal and regenerates it —
+Repeater
+ A sealed glass vacuum tube containing an electron beam focused on a phosphor-coated
+glass screen when light is emitted — Cathode Ray Tube
+ Adding suitable impurities to a semiconductor is called — Doping
+ The following component is used as an amplifier device — Transistor
+ Diode is used for — Rectification
+ Rectifiers convert — AC to DC
+ What type of material is Silicon — Semiconductor
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+
+Magnetism & Electromagnetism
+ An electric current always produces a field — Magnetic
+ Electromagnet is prepared from — Soft iron
+ Not attracted by a magnet — Aluminum
+ Question: What is the effect on the strength of the magnetic field by increasing the
+number of turns in the coil? Answer: Decreases (Note: As per your source text).
+ Question: If a magnet is cut into two pieces of equal length, how will they behave?
+Answer: Both pieces will act like a complete magnet.
+ Question: Permanent magnets are made of which materials? Answer: Ferromagnetic
+materials.
+ Question: Which scientist suggested that a magnet must also exert an equal and
+opposite force on a current-carrying conductor? Answer: Andre Marie Ampere.
+ Question: Induced current is highest when the direction of motion of the coil is?
+Answer: Perpendicular to the magnetic field.
+ Question: The radius of curvature of the path of a charged particle in a uniform
+magnetic field is proportional to? Answer: Momentum of the particle.
+ Question: Which element is highly effective for making permanent magnets? Answer:
+Steel.
+ Question: The direction of magnetic lines of force inside a bar magnet is? Answer:
+From S-pole to N-pole of the magnet.
+ Question: Elements named Nickel and Cobalt are classified as what in terms of their
+magnetic properties? Answer: Ferromagnetic.
+ Question: In Fleming's Left Hand Rule, which finger represents the electric current?
+Answer: Middle finger
+
+ Question: The discovery and understanding of electromagnetic induction is based on a
+long series of experiments by whom? Answer: By Faraday and Henry.
+ Question: When an electric current flows through a wire, it acts like a? Answer:
+Magnet.
+ Question: What is Fleming's Right-Hand Rule? Answer: The motion of the conductor,
+the magnetic field, and the induced current are perpendicular to each other.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: What is the phenomenon of electromagnetic induction? Answer: Inducing
+electric current in a coil due to relative motion between the coil and the magnet.
+ Question: A rectangular coil of copper wire is rotating in a magnetic field. The
+direction of induced electric current in this coil changes after how many rotations?
+Answer: Half rotation.
+ Question: The magnetic field produced by a coil having n turns is how many times the
+magnetic field produced by a single turn? Answer: n times.
+ Question: When the direction of motion of the coil is perpendicular to the direction of
+the electromagnetic field, what is the value of the induced current generated? Answer:
+It is maximum.
+ Question: Who formulated the accepted theory of electromagnetic radiation? Answer:
+James Clerk Maxwell.
+ Question: The direction of magnetic field lines (outside) the magnet is? Answer: From
+North Pole to South Pole.
+ Question: How does the magnetic field remain when moving from one end to the other
+inside a solenoid? Answer: Remains uniform.
+ Question: A positively charged particle projected towards the west is deflected towards
+the north by a magnetic field. The direction of the magnetic field is? Answer: Upward.
+ Question: Which law states that the induced EMF is directly proportional to the rate of
+change of magnetic flux linkage? Answer: Faraday's Law.
+ Question: Fleming's 'Left Hand Rule' is related to? Answer: Effect of magnetic field on
+current.
+ Question: Through a plane surface, the product of the normal magnetic flux density
+and the area of the surface is? Answer: Magnetic Flux.
+ Question: What is defined as the force acting per unit current flow per length on a wire
+placed at right angles in a magnetic field? Answer: Magnetic Flux Density.
+ Question: What is an electromagnet made of? Answer: Soft iron.
+ Question: What is not a primary force but influences ocean currents? Answer: Earth's
+magnetic field.
+ Question: Who discovered and named the science of Electromagnetism? Answer:
+Andre Marie Ampere.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: The set of equations involving electric and magnetic fields and their sources,
+charge and current density, is known as? Answer: Maxwell's equations.
+ Question: When do magnets lose their properties? Answer: On heating, on beating
+with a hammer, on dropping from a height.
+Communication & Modern Physics
+ Question: What are the three basic units of an electronic communication system?
+Answer: Transmitter, Transmission Channel, and Receiver.
+ Question: What does 'Noise' refer to in electronic communication systems? Answer:
+Unwanted signals that interfere with the transmission and processing of message
+signals.
+ Question: For which work was Albert Einstein awarded the Nobel Prize? Answer: For
+the law of Photoelectric Effect.
+ Question: The scientist who proposed the Theory of Relativity? Answer: Albert
+Einstein.
+ Question: What is used to make a nuclear bomb? Answer: Uranium.
+ Question: Compton effect occurs in? Answer: X-rays.
+ Question: Which is the first nuclear reactor in India? Answer: Apsara.
+ Question: What is a nuclear property? Answer: Radioactivity.
+ Question: What is used as a moderator in a nuclear reactor? Answer: Graphite.
+ Question: The substance used as both moderator and coolant in nuclear reactors is?
+Answer: Heavy water.
+ Question: Natural uranium in which the component of the radioactive U235 isotope is
+artificially increased is called? Answer: Enriched Uranium.
+ Question: The reason for the renewable source of energy in stars is? Answer:
+Conversion of Hydrogen into Helium.
+ Question: The Sun's energy is produced by? Answer: Nuclear Fusion.
+ Question: What is the difference between a nuclear reactor and an atomic bomb?
+Answer: In a nuclear reactor, the chain reaction is controlled.
+ Question: What is the basis of the theory of the atom bomb? Answer: Nuclear Fission.
+ Question: The working principle of the atom bomb is nuclear fission of uranium and
+the working principle of the hydrogen bomb is? Answer: Nuclear fusion of Deuterium.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: What is based on the principle of uncontrolled fusion reaction? Answer:
+Hydrogen Bomb.
+ Question: The reactor which produces more fissionable material than it burns is?
+Answer: A Breeder Reactor.
+ Question: Why has Kalpakkam been in the headlines? Answer: Because of its Nuclear
+Power Project.
+ Question: What is used as a coolant in the 'Fast Breeder Test Reactor' at Kalpakkam?
+Answer: Molten Sodium.
+ Question: What cannot be used as nuclear fuel? Answer: Calcium.
+ Question: India's nuclear plant located in Seismic Zone IV? Answer: Narora.
+ Question: India's twentieth nuclear power station is? Answer: Kaiga (Karnataka).
+ Question: The number of member countries in the Nuclear Suppliers Group (NSG) as
+of July 2016 is? Answer: 48.
+ Question: Reactors that operate at very high temperatures and usually have a Tokamak
+design are? Answer: Nuclear Fusion Reactors.
+ Question: Photoelectric effect shows which nature of light? Answer: Particle nature.
+ Question: Based on the quantum formulation given by Indian physicist Satyendra Nath
+Bose, in which year did Albert Einstein predict a new state of matter, the Bose-
+Einstein Condensate (BEC)? Answer: 1924.
+ Question: What does D stand for in LED? Answer: Diode.
+ Question: What should be the characteristic of the metal to be used as a cathode to
+produce the photoelectric effect? Answer: Should have low work function (Low
+reactivity/Low ionization energy).
+ Question: What is emitted from every hot object? Answer: Infrared rays.
+ Question: The name of American scientist Edwin Hubble is associated with which
+theory? Answer: Big Bang Theory.
+ Question: Who laid the foundation of Quantum Theory? Answer: Max Planck.
+ Question: The code given to the first nuclear test of Pokhran in 1974 was? Answer:
+Smiling Buddha.
+ Question: During the radioactive decay of nuclei, which electromagnetic waves are
+produced? Answer: Gamma rays.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Question: What happens during Nuclear Fusion? Answer: Two light nuclei combine to
+form a heavy nucleus.
+ Question: In a nuclear reactor, what role does the moderator play? Answer: It slows
+down the neutrons released in fission.
+ Question: What is NOT used as a neutron-absorbing material in nuclear reactors?
+Answer: Iron.
+ Question: Which substance is NOT used as a coolant in nuclear reactors? Answer:
+Graphite (It is used as a moderator).
+ Question: Which metal is used as a shield in a nuclear reactor? Answer: Lead.
+Discoveries & Inventions
+ X-ray was invented by? — William K. Roentgen.
+ The first missile developed in India is? — Prithvi.
+ Who discovered heavy water? — Urey.
+ Who invented Dynamite? — Alfred Nobel.
+ Dynamo was discovered by? — Michael Faraday.
+ Who discovered the 'Transformer'? — Michael Faraday.
+ The scientist who gave the laws of Electrolysis? — M. Faraday.
+ Who invented the Hydrogen Bomb? — Edward Teller.
+ Who is credited with the discovery of the Electron? — J.J. Thomson.
+ Who discovered the Proton? — Eugen Goldstein.
+ Who discovered the Neutron (a particle that is part of the nucleus of an atom)? —
+James Chadwick.
+ Heavy water is commonly used by which industry? — Nuclear Power Generation
+Plants.
+ What is generally used to make an atomic bomb? — Uranium.
+ Which is not a radioactive element? — Cadmium.
+ Who propounded the Theory of Relativity? — By Albert Einstein.
+ Who invented the Jet Engine? — By Frank Whittle.
+ Indian scientist C.V. Raman presented a research paper on what, for which he received
+the Nobel Prize? — Theory of Musical Instruments / Scattering of Light.
+ Which particles are inside the nucleus of an atom? — Protons and Neutrons.
+ What is Heavy Water? — Deuterium (Deuterium Oxide).
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Are positively charged? — Alpha particles.
+ Who discovered the antibiotic Penicillin? — Alexander Fleming.
+ Which scientist received the Nobel Prize in 1995 for creating the Bose-Einstein
+Condensate? — Carl Wieman (with Eric Cornell).
+ Which telescope did Isaac Newton invent in the 17th century that used a concave
+mirror? — Reflecting Telescope.
+ Which device did John Ambrose Fleming invent in 1904 (important for electronic
+computers)? — Oscillation Valve (Diode Valve).
+ Who discovered in 1928 that when a beam of colored light enters a liquid, a part of the
+light scattered by that liquid becomes of a different color? — C.V. Raman.
+ Who invented the Induction Motor? — Nikola Tesla.
+ Who discovered in 1820 that an electric current moves a nearby magnetic needle? —
+Hans Christian Oersted.
+ Who invented the Power Battery in 1800 AD? — Alessandro Volta.
+ Who invented the Airplane? — Orville and Wilbur Wright (Wright Brothers).
+ Revolver was invented by? — Samuel Colt.
+ Who received the Nobel Prize in Physics for discovering 'Energy Quanta' in 1918? —
+Max Karl Ernst Ludwig Planck.
+ Superconductivity was discovered by (1913 Nobel Prize)? — Heike Kamerlingh
+Onnes.
+ Who invented the Atomic Battery in 1912? — Henry Moseley.
+ Who invented the Contact Lens? — Adolf Gaston Eugen Fick.
+ Which scientist invented Ultra-Short Radio Waves? — J.C. Bose.
+ Which scientist invented the Bifocal lens? — Benjamin Franklin.
+ Who invented the Video Game Console? — Ralph H. Baer.
+ Who is universally credited with the invention of the Barometer in 1643? —
+Evangelista Torricelli.
+ Which scientist invented the Electromagnet? — William Sturgeon.
+ Who invented the Cyclotron in 1934? — Ernest O. Lawrence.
+ Who discovered the Photoelectric Effect? — H.R. Hertz.
+ Who invented the Pendulum Clock in 1656? — Christiaan Huygens.
+ Who invented the Phonograph? — Thomas Edison.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Who invented the LCD Projector? — Gene Dolgoff.
+ Who invented the Induction Coil? — Nicholas Callan.
+ Who invented the Gas Turbine? — John Barber.
+ When was the Bar Code Scanner invented? — In 1974.
+ Who invented the Kaleidoscope? — David Brewster.
+ Who invented the Magic Marker? — Sidney Rosenthal.
+ Who invented the Revolving Door? — Theophilus Van Kannel.
+ Who invented the Ceiling Fan? — Philip Diehl.
+ Who invented the Electric Chair? — Alfred P. Southwick.
+ Who invented the Postage Meter? — Arthur Pitney.
+ Who invented the Seismometer? — Luigi Palmieri.
+ Who invented the Lawnmower? — Edwin Beard Budding.
+ Who invented the Electric Tram? — Fyodor Pirotsky.
+ Who invented the Post-it Note? — Arthur Fry.
+ Who invented the Assembly Line? — Ransom Eli Olds.
+ Who invented the 3-D Printer? — Chuck Hull.
+ Who invented the Dishwasher? — Josephine Cochrane.
+ Who invented the Aerosol Can? — Erik Rotheim.
+ Who invented the Neon Lamp? — Georges Claude.
+ Who invented Universal Standard Time? — Sandford Fleming.
+ Who invented the Internet Protocol? — Vint Cerf.
+ Who invented the Nuclear Reactor? — Enrico Fermi.
+ Who invented the Water Turbine? — Benoît Fourneyron.
+ Who invented the Airbag? — Assen Jordanoff.
+ Who invented the Helicopter? — Sikorsky.
+ Who invented the Telephone Exchange? — Tivadar Puskas.
+ Who invented the Laser? — Gordon Gould.
+ What did J.B. Dunlop invent? — Pneumatic Rubber Tire.
+ Who invented LED? — Nick Holonyak.
+ Who invented the Lightning Conductor in the year 1749? — Benjamin Franklin.
+ Who invented Cinematography? — William Friese-Greene.
+ What did Isaac Newton invent? — Reflecting Telescope.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Who invented PlayStation? — Ken Kutaragi.
+ Who invented the Steam Engine? — George Stephenson.
+ Who invented the Electroscope? — Jean-Antoine Nollet.
+ Who invented Tetris (Video Game)? — Alexey Pajitnov.
+ Who invented the Sewing Machine? — Isaac Singer.
+ Who invented the Electric Stove? — Lloyd Groff Copeman.
+ Who invented the Piano? — Bartolomeo Cristofori.
+ Who invented Television? — J.L. Baird.
+ Who invented Dynamite? — Alfred Nobel.
+ Who invented the Christmas Card? — Sir Henry Cole.
+ Who invented the Vacuum Flask? — James Dewar.
+ Who discovered Catalysis? — Berzelius.
+ Who made the first Laser? — Theodore H. Maiman.
+ Who invented the Lightning Conductor? — Benjamin Franklin.
+ Was invented by Thomas Edison? — Electric Bulb.
+ Who invented the Stethoscope? — Rene Laennec.
+ Who invented the Power Loom? — Edmund Cartwright.
+ What did Walter Hunt invent? — Safety Pin.
+ Who invented the Cotton Gin? — Eli Whitney.
+ Who invented Kevlar? — Stephanie Louise Kwolek.
+ Name the physicist who is credited with the discovery of the Neutron (1932)? —
+James Chadwick.
+ Who invented the Rocket? — Robert Goddard.
+ Who invented FM Radio? — Edwin Howard Armstrong.
+ Who discovered Microwaves? — Percy Spencer.
+ Who invented the Fountain Pen? — Lewis Edson Waterman.
+ Who invented the Barometer? — Evangelista Torricelli.
+ Who is the father/discoverer of Animation? — Émile Cohl.
+ Who invented the Compound Microscope? — Zacharias Janssen.
+ Who invented Television? — J.L. Baird.
+ Who invented the Ammeter? — Friedrich Drexler.
+ Who invented the Telephone? — Graham Bell.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Who invented the Transformer? — Michael Faraday.
+ Who invented the Microwave Oven? — Percy Spencer.
+ Who invented the Battery? — Alessandro Volta.
+ Who invented the Vernier Caliper? — Pierre Vernier.
+ Who invented the Dynamo? — Michael Faraday.
+ Who invented the Diesel Engine? — Rudolf Diesel.
+ Who invented the Computer? — Charles Babbage.
+ Who invented the Electron Microscope? — Ernst Ruska, Bodo von Borries, and Max
+Knoll.
+ Who invented the Thermometer? — Daniel Gabriel Fahrenheit.
+Space, Measurement & Miscellaneous Physics
+ In Physics, what is the Hubble Constant? — Unit of measurement that describes the
+expansion of the universe.
+ Which energy is NOT generated from the ocean? — Geothermal energy.
+ Sudden drop in Barometer reading implies? — Storm.
+ The physical quantity for the expression Arc/Radius is? — Plane Angle.
+ Is not a vegetable fiber? — Nylon.
+ The ratio of energy flow at different points in a food chain is known as? — Ecological
+Efficiency.
+ Which type of lens is always used to obtain a smaller image? — Concave lens.
+ The average duration of time taken by the newly developed world's smallest X-ray
+laser pulse, which will allow us to observe electrons in slow motion? — 43
+Attoseconds.
+ Name of India's first human mission in space, which aims to demonstrate indigenous
+capability to launch human spaceflight missions to Low Earth Orbit (LEO)? —
+Gaganyaan.
+ When did India launch the first experimental satellite? — In the year 1975
+(Aryabhata).
+ In 2021, the Indian Space Research Organisation (ISRO) has signed an agreement with
+the space agency of which country for cooperation on the country's first human space
+mission Gaganyaan? — France (CNES).
+ The capacity of a body to do work is called? — Energy.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ The light ray used in a pathological laboratory inside a test tube for the elimination of
+Bacteria is named? — Ultraviolet radiation.
+ Example of Class II lever is? — Wheelbarrow.
+ The wave nature of electrons was first experimentally proven by? — Davisson and
+Germer experiment.
+ The name of the particle 'Boson' is associated with which name? — S.N. Bose.
+ The speed of tape in a tape recorder is — 4.76 cm/second.
+ The largest share in electricity generation is of — Thermal electricity.
+ Why does 'Free Play' occur in steering? — Due to the steering being loose.
+ Used in CT Scanning — X-ray.
+ Lemon squeezing machine is — Second class lever.
+ Stephen Hawking is a — Scientist.
+ Besides being a scientist, he was also a great industrialist who established many
+industries in India — Vikram Sarabhai.
+ While climbing mountains, air pressure — Decreases.
+ The electronic configuration of an element is 2, 8, 4. The name of this element is —
+Silicon.
+ Which metal is used in electroplating of cans for storing food? — Sn (Tin).
+ What was invented in the 1890s by Italian physicist Guglielmo Marconi? — Radio.
+ Invented in Britain by G. Bradshaw in 1919 — Scooter.
+ Invented by American scientist Elisha Graves Otis in 1852 AD — Lift (Elevator).
+ Ammonium Sulfate contains Nitrogen — 20%.
+ Not required for Radiation — Medium.
+ The common name of Higgs Boson particle is — God Particle.
+ Water remains cool in an earthen pot — Due to evaporation.
+ Laser is a device by which is generated — Stimulated radiation.
+ Automatic wristwatches get energy — From various movements of our hand.
+ When there is a half-moon, the angle between Sun, Earth, and Moon is — 90∘.
+ It is harder to walk on ice than on the road because — Friction is less in ice than on the
+road.
+ Television signals cannot be received after a certain distance because — The surface of
+the Earth is curved.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ If a ship enters the sea from a river then — It will rise.
+ Does not denature protein — Infrared rays.
+ A person stands on a sensitive scale. If he takes a deep breath in, the scale reading will
+— Increase (because he will take in extra air).
+ The largest share in energy production in India is — Thermal energy.
+ The terminals of a simple torch cell are made of — Zinc-Carbon.
+ You are traveling in a car in a thunderstorm, to protect yourself from lightning you will
+choose — To stay in the car.
+ X-rays that can penetrate matter for a long distance are called — Hard X-rays.
+ The rain-proof property of materials of 'Rain Proof' coats and tents is due to — Its
+Surface Tension.
+ Fish survive in a frozen lake because — Fish go to the bottom of the lake where water
+is at 4∘C.
+ Television signals cannot be received after a certain distance because — The surface of
+the earth is curved.
+ Is NOT perfectly inelastic — Kicking a football by a player.
+ On increasing the temperature, the resistance of semiconductors — Increases (Note:
+This is written in the source, although scientifically, the resistance of semiconductors
+decreases as temperature increases. Please choose options carefully in exams, here the
+answer is given as per source).
+ At zero Kelvin temperature, Silicon is a — Insulator.
+ Which law states that under similar conditions of temperature and pressure, the rate of
+diffusion of gases is inversely proportional to the square root of their density —
+Graham's Law.
+ In which year was the Doppler effect discovered by Austrian scientist Christian
+Doppler? — 1842.
+ The following law states that the total energy per unit mass of a flowing fluid at any
+point in the subsurface is the sum of kinetic, potential, and fluid-pressure energy and is
+equal to a constant value — Daniel Bernoulli.
+ What is promoted across the country to save energy — Light Emitting Diode Lamps
+(LED).
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Which leading scientist used radio waves to transmit signals over distances of several
+kilometers in the 1890s — Guglielmo Marconi.
+ Henry Cavendish described the measurement of the gravitational constant along with
+the mass and density of the Earth — June 1798.
+ The main energy source for the Earth's internal heat engine is — Radiogenic heat and
+Primordial heat.
+ Famous physicist Victor Franz Hess is famous for the following discovery — Cosmic
+Radiation.
+ Radiation belts are giant belts of highly energetic charged particles trapped
+magnetically that surround the Earth — Van Allen.
+ A wooden bat can be classified as which object — Opaque.
+ English physicist James Prescott Joule outlined the basis of — Principle of
+Conservation.
+ The daily morning task is a part of quantum mechanics — Ringing of the alarm clock.
+ The property of metals to produce a ringing sound when struck by a hard object is
+known as — Sonority.
+ Awarded the Nobel Prize in Physics for 'his work on the discontinuous structure of
+matter' in 1926 — Jean Baptiste Perrin.
+ Name the high-frequency radiation produced in nuclear reactions and emitted by
+radioactive nuclei, which is used in medicine to destroy cancer cells — Gamma rays.
+ If a glass bottle is filled completely with water, and sealed with a lid and placed in a
+freezer, what will happen — Eventually ice will break the glass bottle.
+ What is the name of the phenomenon in physics and astronomy that involves the
+splitting of a spectral line into two or more components of slightly different frequency
+when a light source is placed in a magnetic field — Zeeman Effect.
+ Supercooling implies cooling of liquid to which point — Below freezing point.
+ Alcohol is more volatile than water because — Its boiling point is less than water.
+ The best adsorbent is — Activated Coconut Charcoal.
+ If the vector sum of torques acting on a system is zero, then that object is — In
+Rotational Equilibrium.
+ The theoretically possible maximum mass for a stable white dwarf star is called —
+Chandrasekhar Limit.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ Green plants convert solar energy into — Chemical energy.
+ Which famous scientist raised the question, 'If time travel is possible, then where are
+the tourists from the future' — Stephen Hawking.
+ This is the statement of which physicist, "Physics is always a gamble" — David Gross.
+ Stars twinkle, but planets do not because — They are closer to the Earth, so more light
+is received from them and even if there are minor changes in intensity, they are not
+visible.
+ The component used for tuning the radio is basically a .......... — Condenser/Capacitor.
+ A group of solar cells connected together in a definite pattern is called — Solar Cell
+Panel.
+ Which compound is used in prickly heat powder to prevent excessive sweating —
+Boric acid.
+ Transistors are most likely to be found in — Audio equipment.
+ If an electron and a photon have the same wavelength, then they will have the same —
+Linear momentum.
+ In IT, to increase 'bandwidth', the technique used is — Memory Interleaving.
+ A green leaf plant placed in red light will appear — Black.
+ A closed container in a fast-moving train contains some gas at atmospheric pressure
+and room temperature. The temperature of the gas will — Remain unchanged.
+ Gliders rely on the following energy for their flight — Wind energy.
+ At what point does the cancellation of the bangle occur — Cancellation point (Note:
+Literal translation, context likely refers to wave cancellation or specific mechanical
+term).
+ A body in equilibrium — Can move with constant velocity.
+ Due to what reason is there a variation in the boiling point of liquids — Variation in
+pressure.
+ Why does a person standing on the platform of a railway station feel a pull towards a
+rapidly approaching train — Difference in pressure due to fast-moving air between
+them (Bernoulli's principle).
+ An example of the motion of a train is — Translatory motion.
+ During the event of thunder and lightning in the sky — Lightning is seen before
+thunder is heard.
+
+<<<PAGE_BREAK>>>
+JOB MANTRA…By R. D. Sir (ARO 2021,LOWER PCS 2019)
+
+
+ The term 'Askaryan effect' is related to which functional area of science — Physics.
+ Responsible for the rotation of the plane of oscillation of Foucault's pendulum —
+Coriolis force.
+ The word ......... is used as a prefix to describe constant scientific terms — Iso.
+ Propounded the theory of relativity — Albert Einstein.
+ Heat is a component of the environment — Abiotic component.
+ Is not an insulator — Mercury.
+ .......... is a pair of forces that are equal in magnitude, directed in opposite directions,
+and displaced by a straight distance or moments — Couple.
+ Is not an electrical insulator — Gold.
+ Is not an essential part of a compound microscope in a school laboratory — Camera.
+ Apiculture is related to — Beekeeping.
+ Silviculture is related to — Mulberry tree (Note: Generally Silviculture is forestry, but
+the source says Mulberry).
+ Viticulture is related to — Grape cultivation.
+ Pisciculture is related to — Fish farming.

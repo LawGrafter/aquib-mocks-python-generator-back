@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Arrange the following prehistoric periods in chronological order:",
+    "options": {
+      "a": "Neolithic Age, Mesolithic Age, Palaeolithic Age",
+      "b": "Mesolithic Age, Palaeolithic Age, Neolithic Age",
+      "c": "Palaeolithic Age, Mesolithic Age, Neolithic Age",
+      "d": "Palaeolithic Age, Neolithic Age, Mesolithic Age"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Chalcolithic Age?",
+    "options": {
+      "a": "Copper was first used in this age.",
+      "b": "Navdatoli is a Chalcolithic site located in Madhya Pradesh.",
+      "c": "People in Maharashtra buried the dead from north to south.",
+      "d": "The site of Atranjikhera has no evidence related to this age."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Harappan city divided into three parts is:",
+    "options": {
+      "a": "Mohenjo-daro",
+      "b": "Harappa",
+      "c": "Dholavira",
+      "d": "Lothal"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Indus Valley Civilization?",
+    "options": {
+      "a": "The first to produce cotton were the Indus people.",
+      "b": "The Harappan city of Dholavira is located in Gujarat.",
+      "c": "The site not related to the Indus Valley Civilization is Pataliputra.",
+      "d": "The eastern-most boundary of the Harappan culture is marked by Kalibangan."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The 'Great Bath' was discovered at which of the following Indus Valley Civilization sites?",
+    "options": {
+      "a": "Lothal",
+      "b": "Dholavira",
+      "c": "Mohenjo-daro",
+      "d": "Kalibangan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements about the Harappan Civilization is INCORRECT according to the text?",
+    "options": {
+      "a": "The Harappan site Rangpur is located in Gujarat.",
+      "b": "Daimabad is located on the bank of the Pravara river.",
+      "c": "Sumerian was not a Mesopotamian language.",
+      "d": "Fire altars of the Harappan culture were found at Lothal."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following Vedas is also known as the 'Book of Songs'?",
+    "options": {
+      "a": "Yajurveda",
+      "b": "Atharvaveda",
+      "c": "Rigveda",
+      "d": "Samaveda"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Rigveda?",
+    "options": {
+      "a": "The Rigveda is the oldest Veda.",
+      "b": "The Rigveda contains 1028 hymns.",
+      "c": "The Aitareya Upanishad is related to the Rigveda.",
+      "d": "The Mundaka Upanishad is related to the Rigveda."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements about 'Arya' is NOT correct according to the text?",
+    "options": {
+      "a": "In Classical Sanskrit, 'Arya' means an excellent person.",
+      "b": "The literal meaning of the word 'Arya' is noble.",
+      "c": "The word 'Arya' is mentioned in Atharvaveda.",
+      "d": "The term 'Arya' is associated with the Aryans."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following rivers with their ancient Vedic names:",
+    "options": {
+      "a": "Jhelum - Vipasha, Beas - Vitasta",
+      "b": "Jhelum - Vitasta, Beas - Vipasha",
+      "c": "Jhelum - Parushni, Beas - Vitasta",
+      "d": "Jhelum - Vipasha, Beas - Parushni"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The ancient city of Champa is considered the capital of which Mahajanapada?",
+    "options": {
+      "a": "Vajji",
+      "b": "Anga",
+      "c": "Magadha",
+      "d": "Chedi"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Jainism?",
+    "options": {
+      "a": "The word 'Jain' is derived from the Sanskrit word 'Jina', which means Victor.",
+      "b": "The principle of Triratna is the glory of Jainism.",
+      "c": "The first Jain Tirthankara was Parshvanatha.",
+      "d": "Shvetambara and Digambara are sects of Jainism."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is INCORRECTLY matched concerning Jainism?",
+    "options": {
+      "a": "Yapaniya: Sect of Jainism",
+      "b": "Tirthankara: Related to Jainism",
+      "c": "Agama Siddhanta: Holy books of the Jains",
+      "d": "Tripitaka: Jainism"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following places in chronological order based on events in Gautama Buddha's life: I. Bodh Gaya II. Kushinagar III. Sarnath",
+    "options": {
+      "a": "II, III, I",
+      "b": "I, III, II",
+      "c": "III, II, I",
+      "d": "II, I, III"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a component of Buddhist architecture?",
+    "options": {
+      "a": "Stupas",
+      "b": "Viharas",
+      "c": "Chaityas",
+      "d": "Temples"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following events related to Buddha's life in chronological order:\nI. First Sermon\nII. Death\nIII. Birth\nIV. Great Renunciation (Mahabhinishkramana)",
+    "options": {
+      "a": "III, IV, I, II",
+      "b": "III, I, IV, II",
+      "c": "IV, III, I, II",
+      "d": "I, II, III, IV"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Mauryan dynasty?",
+    "options": {
+      "a": "The Mauryan economy primarily depended on the agricultural economy.",
+      "b": "The city of Taxila was located between the rivers Indus and Jhelum.",
+      "c": "Kamarupa was under Ashoka's empire.",
+      "d": "The last ruler of the Mauryan dynasty was Brihadratha."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following events in chronological order:\nI. Fourth Buddhist Council\nII. Ashoka's Kalinga invasion\nIII. Chandragupta Maurya's reign\nIV. Gautama Buddha's Mahaparinirvana",
+    "options": {
+      "a": "IV, III, II, I",
+      "b": "III, IV, II, I",
+      "c": "II, III, IV, I",
+      "d": "I, II, III, IV"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements about Ashoka's inscriptions is INCORRECT?",
+    "options": {
+      "a": "The stone for Ashoka's pillar inscriptions was extracted from Chunar.",
+      "b": "The earliest known inscriptions of Ashoka are written in the Brahmi script.",
+      "c": "The Ashoka pillar in Allahabad provides information about Samudragupta.",
+      "d": "All of Ashoka's inscriptions are completely dedicated to religious tolerance."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following rulers with their contemporary rulers during Ashoka's reign:\n\nColumn I (Ruler)\n(A) Turmaya\n(B) Antigonus Gonatas\n(C) Ptolemy Philadelphus\n\nColumn II (Region)\n(1) Egypt\n(2) Macedonia\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-1, B-2, C-1",
+      "b": "A-2, B-1, C-1",
+      "c": "A-1, B-2, C-2",
+      "d": "A-1, B-1, C-1"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Arrange the following events in chronological order:\nI. Vikram Samvat started\nII. Shaka era began\nIII. Chandragupta Maurya defeated Seleucus Nicator\nIV. Ashoka's Kalinga War",
+    "options": {
+      "a": "III, IV, I, II",
+      "b": "IV, III, II, I",
+      "c": "I, II, III, IV",
+      "d": "II, I, IV, III"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Ashoka?",
+    "options": {
+      "a": "He adopted Buddhism after the Kalinga War.",
+      "b": "He conquered coastal Odisha, which was known as Kalinga.",
+      "c": "He had his messages inscribed on stone surfaces for his subjects and officials.",
+      "d": "He was related to the Mauryan dynasty through Bimbisara."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the given information?",
+    "options": {
+      "a": "The capital of the Satavahanas was located at Amaravati.",
+      "b": "The largest number of copper coins were issued by the Kushanas.",
+      "c": "Vikram Samvat started in 58 CE.",
+      "d": "The author of Mahabhashya, Patanjali, was a contemporary of Pushyamitra Shunga."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following dynasties with their respective rulers/attributes:\n\nColumn I\n(Dynasty)\n\nA. Shunga\nB. Kushana\n\nColumn II\n(Ruler/Attribute)\n\nC. Rudradaman\nD. Pushyamitra\n\nSelect the correct matching sequence:",
+    "options": {
+      "a": "A-C, B-D",
+      "b": "A-D, B-C",
+      "c": "A-B, C-D",
+      "d": "A-C, B-D"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements about the Chola dynasty is NOT correct?",
+    "options": {
+      "a": "Rajaraja I conquered the northern part of Sri Lanka.",
+      "b": "Kulottunga I gave complete independence to Sri Lanka and married his daughter to a Sinhala prince.",
+      "c": "Rajendra Chola III was the first ruler of the Chola dynasty.",
+      "d": "The Chola kingdom was spread in the area of the Coromandel Coast and parts of the Deccan."
+    },
+    "correct_answer": "c"
+  }
+]

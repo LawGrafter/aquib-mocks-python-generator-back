@@ -1,0 +1,6242 @@
+[
+  {
+    "question": "From which menu can you insert Header and Footer?",
+    "options": {
+      "a": "View Menu",
+      "b": "Format menu",
+      "c": "Tools Menu",
+      "d": "Insert Menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To access the 'Symbol' dialog box, which menu should you click on?",
+    "options": {
+      "a": "Tools",
+      "b": "Table",
+      "c": "Format",
+      "d": "Insert"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which clipboard option moves data from one place to another in a document?",
+    "options": {
+      "a": "Copy & Paste",
+      "b": "Bold",
+      "c": "Justify",
+      "d": "Cut & Paste"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is an option within the Font Group?",
+    "options": {
+      "a": "Find",
+      "b": "Replace",
+      "c": "Change Styles",
+      "d": "Strikethrough"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "According to the text, what is the name of the button in the picture referred to in question 5?",
+    "options": {
+      "a": "Fill Color",
+      "b": "Page Color",
+      "c": "Font Color",
+      "d": "Highlighter tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The shortcut for the document views toolbar is located in the ______ bar.",
+    "options": {
+      "a": "Title bar",
+      "b": "Tool bar",
+      "c": "Task bar",
+      "d": "Status bar"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Under which tab can you find Bullets and Numbering?",
+    "options": {
+      "a": "View tab",
+      "b": "Pagelayout tab",
+      "c": "Insert tab",
+      "d": "Home tab"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To open an existing document, click on the ______ and then select Open.",
+    "options": {
+      "a": "Quick Access Toolbar",
+      "b": "Document Views",
+      "c": "Ribbon",
+      "d": "MS Office button"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which option from the clipboard is used to move data from one place to another in a document?",
+    "options": {
+      "a": "Copy & Paste",
+      "b": "Cut & Paste",
+      "c": "Bold",
+      "d": "Justify"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the name of the button that is the 'Highlighter tool'?",
+    "options": {
+      "a": "Font Color",
+      "b": "Fill Color",
+      "c": "Page Color",
+      "d": "Highlighter tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The shortcut for the document views toolbar is situated in which bar?",
+    "options": {
+      "a": "Task bar",
+      "b": "Status bar",
+      "c": "Tool bar",
+      "d": "Title bar"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which tab can you find Bullets and Numbering?",
+    "options": {
+      "a": "Home tab",
+      "b": "Insert tab",
+      "c": "Pagelayout tab",
+      "d": "View tab"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "To open an existing document, click on the ________ and then select Open.",
+    "options": {
+      "a": "MS Office button",
+      "b": "Quick Access Toolbar",
+      "c": "Document Views",
+      "d": "Ribbon"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "To access the \u2018Symbol\u2019 dialog box, which menu is used?",
+    "options": {
+      "a": "Format",
+      "b": "Tools",
+      "c": "Table",
+      "d": "Insert"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which clipboard option moves data from one location to another in a document?",
+    "options": {
+      "a": "Copy & Paste",
+      "b": "Bold",
+      "c": "Justify",
+      "d": "Cut & Paste"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is an option found within the Font Group?",
+    "options": {
+      "a": "Find",
+      "b": "Replace",
+      "c": "Change Styles",
+      "d": "Strikethrough"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "According to the text, what is the button in the picture identified as?",
+    "options": {
+      "a": "Font Color",
+      "b": "Fill Color",
+      "c": "Page Color",
+      "d": "Highlighter tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The shortcut for the document views toolbar is located in the:",
+    "options": {
+      "a": "Task bar",
+      "b": "Tool bar",
+      "c": "Title bar",
+      "d": "Status bar"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which tab is the 'Bullets and Numbering' feature located?",
+    "options": {
+      "a": "Insert tab",
+      "b": "Pagelayout tab",
+      "c": "View tab",
+      "d": "Home tab"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To open an existing document, which option should be selected after clicking the MS Office button?",
+    "options": {
+      "a": "Quick Access Toolbar",
+      "b": "Document Views",
+      "c": "Ribbon",
+      "d": "Open"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To access the 'Symbol' dialog box, which menu should you click on and choose 'Symbol'?",
+    "options": {
+      "a": "Insert",
+      "b": "Format",
+      "c": "Tools",
+      "d": "Table"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which clipboard option is used to move data from one place to another in a document?",
+    "options": {
+      "a": "Copy & Paste",
+      "b": "Cut & Paste",
+      "c": "Bold",
+      "d": "Justify"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the name of the button that corresponds to the 'Highlighter tool'?",
+    "options": {
+      "a": "Font Color",
+      "b": "Fill Color",
+      "c": "Page Color",
+      "d": "Highlighter tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The shortcut for the document views toolbar is situated in the ________ bar.",
+    "options": {
+      "a": "Task bar",
+      "b": "Status bar",
+      "c": "Tool bar",
+      "d": "Title bar"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To open an existing document, you must click on the ________ and then select Open.",
+    "options": {
+      "a": "MS Office button",
+      "b": "Quick Access Toolbar",
+      "c": "Document Views",
+      "d": "Ribbon"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following options represents a section within a word processor?",
+    "options": {
+      "a": "Clipboard",
+      "b": "Page Number",
+      "c": "Formula",
+      "d": "Status Bar"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which case conversion method is facilitated by the 'Toggle case' option?",
+    "options": {
+      "a": "Converting to sentence case",
+      "b": "Converting to lower case only",
+      "c": "Converting to upper case only",
+      "d": "Converting from upper case to lower case and vice versa"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In a word processor, pressing the F8 key three times consecutively will select:",
+    "options": {
+      "a": "The entire document",
+      "b": "A sentence",
+      "c": "A word",
+      "d": "A paragraph"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the shortcut key combination to insert the copyright symbol?",
+    "options": {
+      "a": "Ctrl + C",
+      "b": "Alt + Ctrl + C",
+      "c": "Ctrl + Shift + C",
+      "d": "Alt + C"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What are the default smallest and largest font sizes available in the Font Size tool on the formatting toolbar?",
+    "options": {
+      "a": "8 and 72",
+      "b": "10 and 72",
+      "c": "12 and 72",
+      "d": "8 and 64"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following represents a graphics solution commonly found in word processors?",
+    "options": {
+      "a": "WordArt",
+      "b": "Footer",
+      "c": "Clipart",
+      "d": "Header"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The keystrokes Ctrl + I are used to:",
+    "options": {
+      "a": "Indicate the text should be bold",
+      "b": "Increase font size",
+      "c": "Applies italic format to selected text",
+      "d": "Inserts a line break"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "A character that is raised and smaller above the baseline is known as:",
+    "options": {
+      "a": "Subscript",
+      "b": "Outlined",
+      "c": "Superscript",
+      "d": "Raised"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Thesaurus tool in MS Word is primarily used for:",
+    "options": {
+      "a": "Grammar options",
+      "b": "Synonyms and Antonyms words",
+      "c": "Spelling suggestions",
+      "d": "Track Changes"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following options represents a group found within a typical word processing application?",
+    "options": {
+      "a": "Page Setup",
+      "b": "Equation Solver",
+      "c": "Network Diagnostics",
+      "d": "Firewall Configuration"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What function does the 'Toggle Case' option perform?",
+    "options": {
+      "a": "Converts text to lowercase only",
+      "b": "Converts text to uppercase only",
+      "c": "Converts between upper case and lower case",
+      "d": "Applies sentence case formatting"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What element is selected when the F8 key is pressed three times?",
+    "options": {
+      "a": "A word",
+      "b": "A sentence",
+      "c": "A paragraph",
+      "d": "The entire document"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which shortcut key combination creates the copyright symbol?",
+    "options": {
+      "a": "Alt+Ctrl+C",
+      "b": "Alt + C",
+      "c": "Ctrl + C",
+      "d": "Ctrl + Shift + C"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What are the smallest and largest font sizes available in the Font Size tool on the formatting toolbar?",
+    "options": {
+      "a": "8 and 72",
+      "b": "8 and 64",
+      "c": "12 and 72",
+      "d": "None of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following represents a graphics solution commonly used in Word Processors?",
+    "options": {
+      "a": "Clipart",
+      "b": "WordArt",
+      "c": "Drop Cap",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What formatting effect is achieved by using the keystrokes Ctrl + I?",
+    "options": {
+      "a": "Increase font size",
+      "b": "Inserts a line break",
+      "c": "Indicate the text should be bold",
+      "d": "Applies italic format to selected text"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is a character called that is raised and smaller above the baseline?",
+    "options": {
+      "a": "Outlined",
+      "b": "Raised",
+      "c": "Superscript",
+      "d": "Subscript"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Thesaurus tool in MS Word primarily provides:",
+    "options": {
+      "a": "Spelling suggestions",
+      "b": "Grammar options",
+      "c": "Synonyms and Antonyms words",
+      "d": "All of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following groups in MS Word contains the 'Page Setup' option?",
+    "options": {
+      "a": "(C) Clipboard",
+      "b": "(B) Page Setup",
+      "c": "(D) Editing",
+      "d": "(C) Clipboard"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which case conversion is achieved using the 'Toggle case' option?",
+    "options": {
+      "a": "(B) Sentence case",
+      "b": "(C) Lower case",
+      "c": "(A) Toggle case",
+      "d": "(D) Upper case"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In MS Word, pressing the F8 key three times selects which of the following?",
+    "options": {
+      "a": "(A) A word",
+      "b": "(D) Entire document",
+      "c": "(C) A paragraph",
+      "d": "(B) A sentence"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the shortcut key to create a copyright symbol?",
+    "options": {
+      "a": "(C) Ctrl + C",
+      "b": "(A) Alt+Ctrl+C",
+      "c": "(B) Alt + C",
+      "d": "(D) Ctrl + Shift + C"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is a graphics solution for Word Processors, according to the text?",
+    "options": {
+      "a": "(D) All of above",
+      "b": "(C) Drop Cap",
+      "c": "(A) Clipart",
+      "d": "(B) WordArt"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What formatting effect is applied to selected text using the keystrokes Ctrl + I?",
+    "options": {
+      "a": "(C) Indicate the text should be bold",
+      "b": "(A) Increase font size",
+      "c": "(D) Applies italic format to selected text",
+      "d": "(B) Inserts a line break"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "A character raised and smaller above the baseline is technically referred to as:",
+    "options": {
+      "a": "(D) Subscript",
+      "b": "(B) Raised",
+      "c": "(C) Superscript",
+      "d": "(A) Outlined"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the primary function of the Thesaurus tool in MS Word?",
+    "options": {
+      "a": "(B) Grammar options",
+      "b": "(C) Synonyms and Antonyms words",
+      "c": "(A) Spelling suggestions",
+      "d": "(D) All of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a section listed under Word Processor functions?",
+    "options": {
+      "a": "Editing",
+      "b": "Page Setup",
+      "c": "Clipboard",
+      "d": "Toggle Case"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which case conversion option is used to convert text from upper case to lower case and vice versa?",
+    "options": {
+      "a": "Sentence case",
+      "b": "Upper case",
+      "c": "Lower case",
+      "d": "Toggle case"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How many times does one need to press the F8 key to select a sentence?",
+    "options": {
+      "a": "Three",
+      "b": "Four",
+      "c": "Two",
+      "d": "Five"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is a graphics solution for Word Processors?",
+    "options": {
+      "a": "Clipart",
+      "b": "Drop Cap",
+      "c": "WordArt",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What formatting effect is applied to selected text when using the keystrokes Ctrl + I?",
+    "options": {
+      "a": "Increase font size",
+      "b": "Inserts a line break",
+      "c": "Indicate the text should be bold",
+      "d": "Applies italic format to selected text"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the primary function of a bookmark in a document, as described in the text?",
+    "options": {
+      "a": "To add anchors in a webpage",
+      "b": "To mark the ending of a paragraph",
+      "c": "To quickly jump to a specific location in the document",
+      "d": "To add hyperlinks in a webpage"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following options is NOT a valid version of MS Office, according to the provided text?",
+    "options": {
+      "a": "Office XP",
+      "b": "Office Vista",
+      "c": "Office 2007",
+      "d": "None of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "According to the text, which of the following actions will NOT close the MS Word application?",
+    "options": {
+      "a": "Choosing File menu then Exit submenu",
+      "b": "Pressing Alt+F4",
+      "c": "Clicking the X button on the title bar",
+      "d": "From File menu choose Close submenu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The F12 key in MS Word directly opens which dialog box?",
+    "options": {
+      "a": "Save As dialog box",
+      "b": "Open dialog box",
+      "c": "Save dialog box",
+      "d": "Close dialog box"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the shortcut key combination to open the Open dialog box in MS Word?",
+    "options": {
+      "a": "F12",
+      "b": "Shift F12",
+      "c": "Alt + F12",
+      "d": "Ctrl + F12"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In MS Word, the feature for automatically saving the document after a certain interval is found under which of the following?",
+    "options": {
+      "a": "Save tab on Options dialog box",
+      "b": "Save As dialog box",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT available on the Ruler of the MS Word screen, according to the text?",
+    "options": {
+      "a": "Tab stop box",
+      "b": "Left Indent",
+      "c": "Right Indent",
+      "d": "Center Indent"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following executable files starts MS Word?",
+    "options": {
+      "a": "Winword.exe",
+      "b": "Word.exe",
+      "c": "Msword.exe",
+      "d": "Word2003.exe"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the primary function of a bookmark within a document, as described in the text?",
+    "options": {
+      "a": "To add anchors in a web page.",
+      "b": "To mark the ending of a paragraph.",
+      "c": "To quickly navigate to a specific location in the document.",
+      "d": "To insert hyperlinks in a webpage."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following options is NOT a valid version of MS Office according to the text?",
+    "options": {
+      "a": "Office XP",
+      "b": "Office Vista",
+      "c": "Office 2007",
+      "d": "None of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "According to the text, which of the following methods CANNOT be used to close the MS Word application?",
+    "options": {
+      "a": "Choosing File menu then Exit submenu",
+      "b": "Pressing Alt+F4",
+      "c": "Clicking the X button on the title bar",
+      "d": "From File menu choose Close submenu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What action does pressing the F12 key perform in MS Word, as stated in the provided text?",
+    "options": {
+      "a": "Opens a Save As dialog box",
+      "b": "Opens an Open dialog box",
+      "c": "Opens a Save dialog box",
+      "d": "Opens a Close dialog box"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the keyboard shortcut to open the Open dialog box in MS Word?",
+    "options": {
+      "a": "F12",
+      "b": "Shift F12",
+      "c": "Alt + F12",
+      "d": "Ctrl + F12"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where can the auto-save feature, which automatically saves the document at certain intervals, be found in MS Word?",
+    "options": {
+      "a": "Save tab on Options dialog box",
+      "b": "Save As dialog box",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "According to the text, which of the following is NOT available on the Ruler of the MS Word screen?",
+    "options": {
+      "a": "Tab stop box",
+      "b": "Left Indent",
+      "c": "Right Indent",
+      "d": "Center Indent"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following files initiates the MS Word application?",
+    "options": {
+      "a": "Winword.exe",
+      "b": "Word.exe",
+      "c": "Msword.exe",
+      "d": "Word2003.exe"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the primary function of using bookmarks in a document?",
+    "options": {
+      "a": "To add anchors in a web page",
+      "b": "To mark the ending of a paragraph",
+      "c": "To quickly jump to a specific location in the document",
+      "d": "To add hyperlinks in a webpage"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a valid version of MS Office, according to the text?",
+    "options": {
+      "a": "Office XP",
+      "b": "Office Vista",
+      "c": "Office 2007",
+      "d": "None of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "According to the text, which of the following methods CANNOT be used to close MS Word?",
+    "options": {
+      "a": "Choosing File menu then Exit submenu",
+      "b": "Pressing Alt+F4",
+      "c": "Clicking the X button on the title bar",
+      "d": "From the File menu, choose Close submenu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which dialog box does the F12 key open in MS Word?",
+    "options": {
+      "a": "Save As dialog box",
+      "b": "Open dialog box",
+      "c": "Save dialog box",
+      "d": "Close dialog box"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the shortcut key to open the Open dialog box in MS Word?",
+    "options": {
+      "a": "F12",
+      "b": "Shift F12",
+      "c": "Alt + F12",
+      "d": "Ctrl + F12"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where can you find the feature to automatically save a document after a certain interval in MS Word?",
+    "options": {
+      "a": "Save tab on Options dialog box",
+      "b": "Save As dialog box",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which file starts MS Word?",
+    "options": {
+      "a": "Winword.exe",
+      "b": "Word.exe",
+      "c": "Msword.exe",
+      "d": "Word2003.exe"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the purpose of the 'Drop Cap' feature in MS Word?",
+    "options": {
+      "a": "To automatically begin each paragraph with a capital letter",
+      "b": "None of above",
+      "c": "To begin a paragraph with a large dropped initial capital letter",
+      "d": "To capitalize all letters in a paragraph"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What primary task is accomplished by using bookmarks in MS Word?",
+    "options": {
+      "a": "To add hyperlinks in webpage",
+      "b": "To mark the ending of a paragraph of document",
+      "c": "To add anchors in web page",
+      "d": "To quickly jump to specific location in document"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What function does the F12 key perform in MS Word?",
+    "options": {
+      "a": "Open dialog box",
+      "b": "Close dialog box",
+      "c": "Save dialog box",
+      "d": "Save As dialog box"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where can the feature to automatically save a document after a certain interval be found in MS Word?",
+    "options": {
+      "a": "Save As dialog box",
+      "b": "None of above",
+      "c": "Both of above",
+      "d": "Save tab on Options dialog box"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following options is NOT available on the Ruler of MS Word screen?",
+    "options": {
+      "a": "Tab stop box",
+      "b": "Left Indent",
+      "c": "Right Indent",
+      "d": "Center Indent"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which file initiates the launch of MS Word?",
+    "options": {
+      "a": "Word.exe",
+      "b": "Word2003.exe",
+      "c": "Msword.exe",
+      "d": "Winword.exe"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To keep track of different editions of a document, which feature is used?",
+    "options": {
+      "a": "Editions",
+      "b": "Versions",
+      "c": "Track Change",
+      "d": "All of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which view are background colors or effects applied to a document not visible?",
+    "options": {
+      "a": "Web layout view",
+      "b": "Print Layout view",
+      "c": "Reading View",
+      "d": "Print Preview"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is a portion of a document in which certain page formatting options can be set?",
+    "options": {
+      "a": "Page",
+      "b": "Document",
+      "c": "Section",
+      "d": "Page Setup"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To which of the following can borders be applied?",
+    "options": {
+      "a": "Cells",
+      "b": "Paragraph",
+      "c": "Text",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is NOT a type of page margin?",
+    "options": {
+      "a": "Left",
+      "b": "Right",
+      "c": "Center",
+      "d": "Top"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the default left margin in a Word 2003 document?",
+    "options": {
+      "a": "1\"",
+      "b": "1.25\"",
+      "c": "1.5\"",
+      "d": "2\""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Portrait and Landscape are types of:",
+    "options": {
+      "a": "Page Orientation",
+      "b": "Paper Size",
+      "c": "Page Layout",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "To change the typeface of a document, which menu should you choose?",
+    "options": {
+      "a": "Edit",
+      "b": "View",
+      "c": "Format",
+      "d": "Tools"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a font style?",
+    "options": {
+      "a": "Bold",
+      "b": "Italics",
+      "c": "Underline",
+      "d": "Regular"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which feature is used to track different editions of a document?",
+    "options": {
+      "a": "Editions",
+      "b": "Versions",
+      "c": "Track Change",
+      "d": "All of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is a portion of a document where specific page formatting options are configured?",
+    "options": {
+      "a": "Page",
+      "b": "Document",
+      "c": "Section",
+      "d": "Page Setup"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Borders can be applied to which of the following?",
+    "options": {
+      "a": "Cells",
+      "b": "Paragraph",
+      "c": "Text",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the default left margin size in a Word 2003 document?",
+    "options": {
+      "a": "1\"",
+      "b": "1.25\"",
+      "c": "1.5\"",
+      "d": "2\""
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which menu should you access to change the typeface of a document?",
+    "options": {
+      "a": "Edit",
+      "b": "View",
+      "c": "Format",
+      "d": "Tools"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To keep track of different editions of a document, which feature should be used?",
+    "options": {
+      "a": "Editions",
+      "b": "Versions",
+      "c": "Track Change",
+      "d": "All of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is a portion of a document in which you set specific page formatting options called?",
+    "options": {
+      "a": "Page",
+      "b": "Document",
+      "c": "Section",
+      "d": "Page Setup"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To change the typeface of a document, which menu should be accessed?",
+    "options": {
+      "a": "Edit",
+      "b": "View",
+      "c": "Format",
+      "d": "Tools"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT considered a font style?",
+    "options": {
+      "a": "Bold",
+      "b": "Italics",
+      "c": "Underline",
+      "d": "Regular"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Background color or effects applied on a document are NOT visible in which of the following views?",
+    "options": {
+      "a": "Web layout view",
+      "b": "Print Layout view",
+      "c": "Reading View",
+      "d": "Print Preview"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "A portion of a document in which you set certain page formatting options is called a:",
+    "options": {
+      "a": "Page",
+      "b": "Document",
+      "c": "Section",
+      "d": "Page Setup"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is the correct way to represent superscript in a document?",
+    "options": {
+      "a": "Subscript",
+      "b": "Italic",
+      "c": "Regular",
+      "d": "Superscript"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the primary function when you click on Insert >> Picture >> Clip Art?",
+    "options": {
+      "a": "It inserts a clipart picture into document",
+      "b": "It lets you choose clipart to insert into document",
+      "c": "It opens Clip Art taskbar",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of these options is NOT available within the 'Autofit behavior' setting in 'Insert Table'?",
+    "options": {
+      "a": "Fixed Column Width",
+      "b": "AutoFit to Contents",
+      "c": "Autofit to Window",
+      "d": "Autofit to Column"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How can you quickly autofit the width of a column in a document?",
+    "options": {
+      "a": "Double click the right border of column",
+      "b": "Double click the left border of column",
+      "c": "Double click the column header",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which statement about headers and footers is FALSE?",
+    "options": {
+      "a": "You can set different header footer for even and odd pages",
+      "b": "You can set different page number formats for different sections",
+      "c": "You can set different header footer for first page of a section",
+      "d": "You can set different header and footer for last page of a section"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where can the vertical alignment of text be adjusted?",
+    "options": {
+      "a": "Formatting toolbar",
+      "b": "Paragraph dialog box",
+      "c": "Page Setup dialog box",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "AutoCorrect was initially intended to correct which type of words?",
+    "options": {
+      "a": "Short, repetitive",
+      "b": "Grammatically incorrect",
+      "c": "Misspelled",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the second step involved in the process of creating a macro?",
+    "options": {
+      "a": "Start recording",
+      "b": "Using your mouse or keyboard, perform the task you want to automate",
+      "c": "Assign a keyboard shortcut to the macro",
+      "d": "Give the macro a name"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In word processing, what is the term for a mailing list?",
+    "options": {
+      "a": "Data sheet",
+      "b": "Source",
+      "c": "Data source",
+      "d": "Sheet"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is the correct term for raising a character above the normal line?",
+    "options": {
+      "a": "Regular",
+      "b": "Subscript",
+      "c": "Italic",
+      "d": "Superscript"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What happens when you click on Insert >> Picture >> Clip Art in Word?",
+    "options": {
+      "a": "It inserts a clipart picture into document",
+      "b": "It lets you choose clipart to insert into document",
+      "c": "It opens Clip Art taskbar",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following options is NOT available in Insert Table Autofit behavior?",
+    "options": {
+      "a": "Fixed Column Width",
+      "b": "AutoFit to Contents",
+      "c": "Autofit to Window",
+      "d": "Autofit to Column"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How do you autofit the width of a column in Word?",
+    "options": {
+      "a": "Double click the right border of column",
+      "b": "Double click the left border of column",
+      "c": "Double click the column header",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements about headers and footers is FALSE?",
+    "options": {
+      "a": "You can set different header footer for even and odd pages",
+      "b": "You can set different page number formats for different sections",
+      "c": "You can set different header footer for first page of a section",
+      "d": "You can set different header and footer for last page of a section"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where can you adjust the vertical alignment of text in Word?",
+    "options": {
+      "a": "Formatting toolbar",
+      "b": "Paragraph dialog box",
+      "c": "Page Setup dialog box",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "AutoCorrect was originally designed to replace which type of words as you type?",
+    "options": {
+      "a": "Short, repetitive",
+      "b": "Grammatically incorrect",
+      "c": "Misspelled",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When creating a macro in Word, what is the second step after initiating the process?",
+    "options": {
+      "a": "Start recording",
+      "b": "Using your mouse or keyboard, perform the task you want to automate",
+      "c": "Assign a keyboard shortcut to the macro",
+      "d": "Give the macro a name"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Word, what is the mailing list commonly referred to as?",
+    "options": {
+      "a": "Data sheet",
+      "b": "Source",
+      "c": "Data source",
+      "d": "Sheet"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the effect of clicking on Insert >> Picture >> Clip Art?",
+    "options": {
+      "a": "It inserts a clipart picture directly into the document.",
+      "b": "It allows you to select a clipart to insert into the document.",
+      "c": "It opens the Clip Art taskbar.",
+      "d": "None of the above."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT an option available in Insert Table Autofit behavior?",
+    "options": {
+      "a": "Fixed Column Width",
+      "b": "AutoFit to Contents",
+      "c": "Autofit to Window",
+      "d": "Autofit to Column"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How can you autofit the width of a column?",
+    "options": {
+      "a": "Double click the right border of the column",
+      "b": "Double click the left border of the column",
+      "c": "Double click the column header",
+      "d": "All of the above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Where can you modify the vertical alignment of text?",
+    "options": {
+      "a": "Formatting toolbar",
+      "b": "Paragraph dialog box",
+      "c": "Page Setup dialog box",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "AutoCorrect was originally designed to replace _____ words as you type.",
+    "options": {
+      "a": "Short, repetitive",
+      "b": "Grammatically incorrect",
+      "c": "Misspelled",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the second step in creating a macro?",
+    "options": {
+      "a": "Start recording",
+      "b": "Using your mouse or keyboard, perform the task you want to automate",
+      "c": "Assign a keyboard shortcut to the macro",
+      "d": "Give the macro a name"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Microsoft Word, which of the following is considered a font style?",
+    "options": {
+      "a": "Regular",
+      "b": "Subscript",
+      "c": "Outline",
+      "d": "Superscript"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What action does clicking on Insert >> Picture >> Clip Art perform in Microsoft Word?",
+    "options": {
+      "a": "Inserts a clipart picture directly into the document",
+      "b": "Lets you choose a clipart image to insert into the document",
+      "c": "Opens the Clip Art taskbar",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following options is NOT available under the Autofit behavior settings in Insert Table?",
+    "options": {
+      "a": "Fixed Column Width",
+      "b": "AutoFit to Contents",
+      "c": "Autofit to Window",
+      "d": "Autofit to Column"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How can you quickly autofit the width of a column in Microsoft Word?",
+    "options": {
+      "a": "Double click the right border of the column",
+      "b": "Double click the left border of the column",
+      "c": "Double click the column header",
+      "d": "All of the above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements regarding headers and footers in Microsoft Word is FALSE?",
+    "options": {
+      "a": "You can set different header footer for even and odd pages",
+      "b": "You can set different page number formats for different sections",
+      "c": "You can set different header footer for the first page of a section",
+      "d": "You can set different header and footer for the last page of a section"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where can you modify the vertical alignment of text in Microsoft Word?",
+    "options": {
+      "a": "Formatting toolbar",
+      "b": "Paragraph dialog box",
+      "c": "Page Setup dialog box",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The AutoCorrect feature in Microsoft Word was initially designed to replace which type of words as you type?",
+    "options": {
+      "a": "Short, repetitive",
+      "b": "Grammatically incorrect",
+      "c": "Misspelled",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the second step in creating a macro in Microsoft Word, according to the text?",
+    "options": {
+      "a": "Start recording",
+      "b": "Using your mouse or keyboard, perform the task you want to automate",
+      "c": "Assign a keyboard shortcut to the macro",
+      "d": "Give the macro a name"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Microsoft Word, what is the mailing list commonly referred to as?",
+    "options": {
+      "a": "Data sheet",
+      "b": "Source",
+      "c": "Data source",
+      "d": "Sheet"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT one of the three 'Mail Merge Helper' steps?",
+    "options": {
+      "a": "Merge the two files",
+      "b": "Create the main document",
+      "c": "Set the mailing list parameters",
+      "d": "Create the data source"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which button allows you to add, delete, or change records in your Data Source?",
+    "options": {
+      "a": "'Data Source' button",
+      "b": "'Edit' button",
+      "c": "'Edit Data Source' button",
+      "d": "'Data editing' button"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which action is possible on a data source before performing a merge?",
+    "options": {
+      "a": "Create",
+      "b": "Modify",
+      "c": "Sort",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Comments can be added to cells using which menu path?",
+    "options": {
+      "a": "Edit -> Comments",
+      "b": "Insert -> Comment",
+      "c": "File -> Comments",
+      "d": "View \u2013> Comments"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a valid Zoom percentage in Excel?",
+    "options": {
+      "a": "10",
+      "b": "100",
+      "c": "300",
+      "d": "500"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The spelling tool is located on which toolbar?",
+    "options": {
+      "a": "Standard",
+      "b": "Formatting",
+      "c": "Drawing",
+      "d": "Reviewing"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT a valid data type in Excel?",
+    "options": {
+      "a": "Number",
+      "b": "Character",
+      "c": "Label",
+      "d": "Date/Time"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Comments placed in cells are called what?",
+    "options": {
+      "a": "Smart Tip",
+      "b": "Cell Tip",
+      "c": "Web Tip",
+      "d": "Soft Tip"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which menu option is used to split windows into two?",
+    "options": {
+      "a": "Format -> Window",
+      "b": "View -> Window-> Split",
+      "c": "Window -> Split",
+      "d": "View \u2013> Split"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What actions are possible on a data source before performing a merge?",
+    "options": {
+      "a": "Create",
+      "b": "Modify",
+      "c": "Sort",
+      "d": "all of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Comments can be added to cells using which menu option?",
+    "options": {
+      "a": "Edit -> Comments",
+      "b": "Insert -> Comment",
+      "c": "File -> Comments",
+      "d": "View \u2013> Comments"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "On which toolbar is the spelling tool located?",
+    "options": {
+      "a": "Standard",
+      "b": "Formatting",
+      "c": "Drawing",
+      "d": "Reviewing"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Comments put in cells are called what?",
+    "options": {
+      "a": "Smart Tip",
+      "b": "Cell Tip",
+      "c": "Web Tip",
+      "d": "Soft Tip"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "It is possible to _____ a data source before performing a merge.",
+    "options": {
+      "a": "Sort",
+      "b": "Create",
+      "c": "Modify",
+      "d": "all of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The spelling tool is placed on which toolbar?",
+    "options": {
+      "a": "Drawing",
+      "b": "Reviewing",
+      "c": "Standard",
+      "d": "Formatting"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Comments put in cells are called\u2026",
+    "options": {
+      "a": "Cell Tip",
+      "b": "Web Tip",
+      "c": "Soft Tip",
+      "d": "Smart Tip"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which menu option can be used to split windows into two?",
+    "options": {
+      "a": "Window -> Split",
+      "b": "View -> Window-> Split",
+      "c": "View \u2013> Split",
+      "d": "Format -> Window"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following actions is/are possible to perform on a data source before performing a merge?",
+    "options": {
+      "a": "Create",
+      "b": "Modify",
+      "c": "Sort",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Comments inserted into cells are referred to as:",
+    "options": {
+      "a": "Smart Tip",
+      "b": "Cell Tip",
+      "c": "Web Tip",
+      "d": "Soft Tip"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "How can a cell be activated?",
+    "options": {
+      "a": "Pressing the Tab key",
+      "b": "Clicking the cell",
+      "c": "Pressing an arrow key",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When using fill effects in the format data series dialog box, which of the following actions is NOT possible?",
+    "options": {
+      "a": "Rotate text on the chart",
+      "b": "Select a foreground color",
+      "c": "Select a pattern",
+      "d": "Select a background color"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "To insert three columns between columns D and E, which column(s) would you select?",
+    "options": {
+      "a": "Column D",
+      "b": "Column E",
+      "c": "Columns E, F and G",
+      "d": "Columns D, E, and F"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following CANNOT be used as a hyperlink?",
+    "options": {
+      "a": "Special shapes like stars and banners",
+      "b": "Drawing objects like rectangles ovals",
+      "c": "Pictures",
+      "d": "All can be hyperlinks"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "On which toolbar can you find the 'Insert Picture From File' button, used to add an image to a template?",
+    "options": {
+      "a": "Standard",
+      "b": "Formatting",
+      "c": "Drawing",
+      "d": "Picture"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which key is used to drag a selected range of data to another worksheet within the same workbook?",
+    "options": {
+      "a": "Tab key",
+      "b": "Alt key",
+      "c": "Shift key",
+      "d": "Ctrl key"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When print previewing a worksheet, what is displayed?",
+    "options": {
+      "a": "The entire worksheet is displayed",
+      "b": "The selected range is displayed",
+      "c": "The active portion of the worksheet is displayed",
+      "d": "All of a, b, and c"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "From which menu can the 'Sort' dialog box be opened?",
+    "options": {
+      "a": "View",
+      "b": "Format",
+      "c": "Tools",
+      "d": "Data"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following actions can be performed when working in page break preview?",
+    "options": {
+      "a": "View exactly where each page break occurs",
+      "b": "Add or remove page breaks",
+      "c": "Change the print area",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "A cell can be activated by which of the following methods?",
+    "options": {
+      "a": "Pressing the Tab key",
+      "b": "Clicking the cell",
+      "c": "Pressing an arrow key",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When utilizing fill effects within the format data series dialog box, which action is NOT permitted?",
+    "options": {
+      "a": "Rotate text on the chart",
+      "b": "Select a foreground color",
+      "c": "Select a pattern",
+      "d": "Select a background color"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "To insert three columns between columns D and E in a worksheet, which of the following actions should be performed?",
+    "options": {
+      "a": "Select column D",
+      "b": "Select column E",
+      "c": "Select columns E, F and G",
+      "d": "Select columns D, E, and F"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements concerning hyperlinks is INCORRECT?",
+    "options": {
+      "a": "Special shapes like stars and banners cannot be hyperlinks",
+      "b": "Drawing objects like rectangles ovals cannot be hyperlinks",
+      "c": "Pictures cannot be hyperlinks",
+      "d": "All can be hyperlinks"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which key should be used in conjunction with dragging a selected range of data to another worksheet within the same workbook?",
+    "options": {
+      "a": "Tab key",
+      "b": "Alt key",
+      "c": "Shift key",
+      "d": "Ctrl key"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is displayed when you print preview a worksheet?",
+    "options": {
+      "a": "The entire worksheet is displayed",
+      "b": "The selected range is displayed",
+      "c": "The active portion of the worksheet is displayed",
+      "d": "a, b and c"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Sort dialog box can be accessed by choosing Sort from which menu?",
+    "options": {
+      "a": "View",
+      "b": "Format",
+      "c": "Tools",
+      "d": "Data"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "While working in the page break preview, which of the following actions is possible?",
+    "options": {
+      "a": "View exactly where each page break occurs",
+      "b": "Add or remove page breaks",
+      "c": "Change the print area",
+      "d": "all of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "A cell can be activated by which of the following actions?",
+    "options": {
+      "a": "Pressing the Tab key",
+      "b": "Clicking the cell",
+      "c": "Pressing an arrow key",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When utilizing fill effects in the format data series dialog box, which of the following actions is NOT possible?",
+    "options": {
+      "a": "Rotate text on the chart",
+      "b": "Select a foreground color",
+      "c": "Select a pattern",
+      "d": "Select a background color"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "To insert three columns between columns D and E, which of the following actions is required?",
+    "options": {
+      "a": "Select column D",
+      "b": "Select column E",
+      "c": "Select columns E, F and G",
+      "d": "Select columns D, E, and F"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements about hyperlinks is INCORRECT?",
+    "options": {
+      "a": "Special shapes like stars and banners cannot be hyperlinks",
+      "b": "Drawing objects like rectangles ovals cannot be hyperlinks",
+      "c": "Pictures cannot be hyperlinks",
+      "d": "All can be hyperlinks"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To add an image to a template, you can click the Insert Picture From File button on the ... Toolbar.",
+    "options": {
+      "a": "Standard",
+      "b": "Formatting",
+      "c": "Drawing",
+      "d": "Picture"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To drag a selected range of data to another worksheet within the same workbook, which key should be used?",
+    "options": {
+      "a": "Tab key",
+      "b": "Alt key",
+      "c": "Shift key",
+      "d": "Ctrl key"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is displayed when you print preview a worksheet?",
+    "options": {
+      "a": "The entire worksheet is displayed",
+      "b": "The selected range is displayed",
+      "c": "The active portion of the worksheet is displayed",
+      "d": "a, b and c"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Sort dialog box can be opened by choosing Sort from the _____ menu.",
+    "options": {
+      "a": "View",
+      "b": "Format",
+      "c": "Tools",
+      "d": "Data"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When working in the page break preview, which of the following actions is possible?",
+    "options": {
+      "a": "View exactly where each page break occurs",
+      "b": "Add or remove page breaks",
+      "c": "Change the print area",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following CANNOT be a hyperlink?",
+    "options": {
+      "a": "Special shapes like stars and banners",
+      "b": "Drawing objects like rectangles ovals",
+      "c": "Pictures",
+      "d": "All can be hyperlinks"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "You can add an image to a template by clicking the Insert Picture From File button on the _____ toolbar.",
+    "options": {
+      "a": "Standard",
+      "b": "Formatting",
+      "c": "Drawing",
+      "d": "Picture"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To drag a selected range of data to another worksheet in the same workbook, which key should be used?",
+    "options": {
+      "a": "Tab key",
+      "b": "Alt key",
+      "c": "Shift key",
+      "d": "Ctrl key"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following zoom percentages is NOT a valid option in Excel according to the text?",
+    "options": {
+      "a": "10",
+      "b": "100",
+      "c": "300",
+      "d": "500"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When formatting a cell in Currency format, which of the following can you specify?",
+    "options": {
+      "a": "Decimal Places",
+      "b": "Currency Symbol",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When formatting a cell in Number format, which of the following CANNOT be set?",
+    "options": {
+      "a": "Decimal Places",
+      "b": "Use 1000 separator",
+      "c": "Negative numbers",
+      "d": "Currency Symbol"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What value is entered by the function '=today()'?",
+    "options": {
+      "a": "The date value for the day according to system clock",
+      "b": "The time value according to system clock",
+      "c": "Today\u2019s date as Text format",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which function is used to enter the current time in a worksheet cell?",
+    "options": {
+      "a": "=today()",
+      "b": "=now()",
+      "c": "=time()",
+      "d": "=currentTime()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The 'Merge cells' option can be applied from:",
+    "options": {
+      "a": "Format Cells dialog box Alignment Tab",
+      "b": "Formatting toolbar",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In the AutoFormat dialog box, which of the following formats can you decide to apply or not apply?",
+    "options": {
+      "a": "Number format",
+      "b": "Border format",
+      "c": "Font format",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How can borders applied to cells be removed?",
+    "options": {
+      "a": "Choose None on Border tab of Format cells",
+      "b": "Open the list on Border tool in Formatting toolbar then choose first tool (no border)",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a valid zoom percentage option within Excel?",
+    "options": {
+      "a": "10",
+      "b": "100",
+      "c": "300",
+      "d": "500"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "On which toolbar is the spelling tool located in Microsoft Excel?",
+    "options": {
+      "a": "Standard",
+      "b": "Formatting",
+      "c": "Drawing",
+      "d": "Reviewing"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "While formatting a cell in Currency format, what specifications can be made?",
+    "options": {
+      "a": "Decimal Places",
+      "b": "Currency Symbol",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following cannot be set while formatting a cell in Number format?",
+    "options": {
+      "a": "Decimal Places",
+      "b": "Use 1000 separator",
+      "c": "Negative numbers",
+      "d": "Currency Symbol"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What value is returned by the Excel function '=today()'?",
+    "options": {
+      "a": "The date value for the day according to system clock",
+      "b": "The time value according to system clock",
+      "c": "Today\u2019s date as Text format",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which function is used to display the current time in a worksheet cell?",
+    "options": {
+      "a": "=today()",
+      "b": "=now()",
+      "c": "=time()",
+      "d": "=currentTime()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "From where can the 'Merge cells' option be accessed?",
+    "options": {
+      "a": "Format Cells dialog box Alignment Tab",
+      "b": "Formatting toolbar",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following formatting options can be selectively applied or not within the AutoFormat dialog box?",
+    "options": {
+      "a": "Number format",
+      "b": "Border format",
+      "c": "Font format",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How can borders be removed from cells in Microsoft Excel?",
+    "options": {
+      "a": "Choose None on Border tab of Format cells",
+      "b": "Open the list on Border tool in Formatting toolbar then choose first tool (no border)",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a valid zoom percentage option in Excel?",
+    "options": {
+      "a": "10",
+      "b": "100",
+      "c": "300",
+      "d": "500"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When formatting a cell in Number format, which of the following can you NOT set?",
+    "options": {
+      "a": "Decimal Places",
+      "b": "Use 1000 separator",
+      "c": "Negative numbers",
+      "d": "Currency Symbol"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What value does the function '=today()' enter into a cell?",
+    "options": {
+      "a": "The date value for the day according to system clock",
+      "b": "The time value according to system clock",
+      "c": "Today\u2019s date as Text format",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "From where can the 'Merge cells' option be applied?",
+    "options": {
+      "a": "Format Cells dialog box Alignment Tab",
+      "b": "Formatting toolbar",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following format options can you decide to apply or not in the AutoFormat dialog box?",
+    "options": {
+      "a": "Number format",
+      "b": "Border format",
+      "c": "Font format",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How can you remove borders applied to cells?",
+    "options": {
+      "a": "Choose None on Border tab of Format cells",
+      "b": "Open the list on Border tool in Formatting toolbar then choose first tool (no border)",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When formatting a cell in Currency, which of the following can you specify?",
+    "options": {
+      "a": "Decimal Places",
+      "b": "Currency Symbol",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When formatting a cell in Number format, what setting CANNOT be adjusted?",
+    "options": {
+      "a": "Decimal Places",
+      "b": "Use 1000 separator",
+      "c": "Negative numbers",
+      "d": "Currency Symbol"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What value is entered by the Excel function '=today()'? ",
+    "options": {
+      "a": "The date value for the day according to system clock",
+      "b": "The time value according to system clock",
+      "c": "Today\u2019s date as Text format",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which function is used to insert the current time into a worksheet cell?",
+    "options": {
+      "a": "=today()",
+      "b": "=now()",
+      "c": "=time()",
+      "d": "=currentTime()"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following formats can you choose to apply or not apply in the AutoFormat dialog box?",
+    "options": {
+      "a": "Number format",
+      "b": "Border format",
+      "c": "Font format",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "From where can you set Page Border in Excel?",
+    "options": {
+      "a": "From Border tool in Formatting toolbar",
+      "b": "From Border tab in Format Cells dialog box",
+      "c": "You can not set page border in Excel",
+      "d": "From Line Style tool in Drawing toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What conditions can be checked against when applying conditional formatting?",
+    "options": {
+      "a": "Cell value",
+      "b": "None of above",
+      "c": "Formula",
+      "d": "Both of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When a range is selected, what key activates the previous cell?",
+    "options": {
+      "a": "Press Tab",
+      "b": "Press Enter",
+      "c": "Press the Alt key",
+      "d": "None of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following cannot be a sheet in an Excel workbook?",
+    "options": {
+      "a": "work sheet",
+      "b": "chart sheet",
+      "c": "data sheet",
+      "d": "module sheet"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which Excel screen component can NOT be turned on or off?",
+    "options": {
+      "a": "Formula Bar",
+      "b": "Tool Bar",
+      "c": "Status Bar",
+      "d": "None of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following options is not available in the Paste Special dialog box?",
+    "options": {
+      "a": "SQRT",
+      "b": "Subtract",
+      "c": "Divide",
+      "d": "Add"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which cell pointer indicates that you can fill series?",
+    "options": {
+      "a": "Doctor\u2019s symbol (Big Plus)",
+      "b": "Mouse Pointer with anchor at the tip",
+      "c": "small thin plus icon",
+      "d": "None of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is an absolute cell reference?",
+    "options": {
+      "a": "A1",
+      "b": "$A$1",
+      "c": "!A!1",
+      "d": "#a#1"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which symbol must all formulas begin with in Excel?",
+    "options": {
+      "a": "=",
+      "b": "+",
+      "c": "#",
+      "d": "$"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Excel, how can a page border be set?",
+    "options": {
+      "a": "From Border tab in Format Cells dialog box",
+      "b": "From Border tool in Formatting toolbar",
+      "c": "From Line Style tool in Drawing toolbar",
+      "d": "You can not set page border in Excel"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following can conditions be checked against when applying conditional formatting?",
+    "options": {
+      "a": "Cell value",
+      "b": "Formula",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When a range is selected, which action activates the previous cell?",
+    "options": {
+      "a": "Press the Alt key",
+      "b": "Press Tab",
+      "c": "Press Enter",
+      "d": "None of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "An Excel file is a workbook containing different sheets. Which of the following cannot be a sheet in a workbook?",
+    "options": {
+      "a": "Work sheet",
+      "b": "Chart sheet",
+      "c": "Module sheet",
+      "d": "Data sheet"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which cell pointer indicates the ability to fill series?",
+    "options": {
+      "a": "Doctor\u2019s symbol (Big Plus)",
+      "b": "small thin plus icon",
+      "c": "Mouse Pointer with anchor at the tip",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which symbol is required to begin all formulas in Excel?",
+    "options": {
+      "a": "=",
+      "b": "+",
+      "c": "-",
+      "d": "*"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "From where can a Page Border be set in Excel?",
+    "options": {
+      "a": "From Border tool in Formatting toolbar",
+      "b": "From Line Style tool in Drawing toolbar",
+      "c": "From Border tab in Format Cells dialog box",
+      "d": "Page border cannot be set in Excel"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Against which of the following can you check the conditions when applying conditional formatting?",
+    "options": {
+      "a": "Formula",
+      "b": "Cell value",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When a range is selected, which key activates the previous cell?",
+    "options": {
+      "a": "Press Alt key",
+      "b": "Press Tab",
+      "c": "Press Enter",
+      "d": "None of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which option is NOT available in the Paste Special dialog box?",
+    "options": {
+      "a": "Subtract",
+      "b": "Add",
+      "c": "Divide",
+      "d": "SQRT"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which symbol must a formula begin with in Excel?",
+    "options": {
+      "a": "=",
+      "b": "+",
+      "c": "*",
+      "d": "/"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Excel, from where can you set Page Border?",
+    "options": {
+      "a": "From Border tool in Formatting toolbar",
+      "b": "From Line Style tool in Drawing toolbar",
+      "c": "From Border tab in Format Cells dialog box",
+      "d": "You can not set page border in Excel"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When applying conditional formatting, conditions can be checked against:",
+    "options": {
+      "a": "Formula",
+      "b": "Cell value",
+      "c": "Both of above",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following represents an absolute cell reference in Excel?",
+    "options": {
+      "a": "!A!1",
+      "b": "$A$1",
+      "c": "#a#1",
+      "d": "A1"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What symbol is required at the beginning of all formulas in Excel?",
+    "options": {
+      "a": "=",
+      "b": "+",
+      "c": "-",
+      "d": "*"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is correctly entered as a formula in Excel?",
+    "options": {
+      "a": "=(B)+",
+      "b": "=(C)(",
+      "c": "=(D)@",
+      "d": "=10+50"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following formulas will Excel NOT be able to calculate?",
+    "options": {
+      "a": "=SUM(A1:A5)/(10-10)",
+      "b": "=SUM(Sales)-A3",
+      "c": "=SUM(A1:A5)*.5",
+      "d": "=SUM(A1:A5)-10"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is a worksheet range?",
+    "options": {
+      "a": "A command used for data modeling",
+      "b": "A range of values such as from 23 to 234",
+      "c": "A group of cells",
+      "d": "A group of worksheets"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What does the auto calculate feature provide?",
+    "options": {
+      "a": "Can only add values in a range of cells",
+      "b": "Automatically creates formulas and adds them to a worksheet",
+      "c": "Provides a quick way to view the result of an arithmetic operation on a range of cells",
+      "d": "A and c"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "How does Excel uniquely identify cells within a worksheet?",
+    "options": {
+      "a": "Cell names",
+      "b": "Column numbers and row letters",
+      "c": "Cell locator coordinates",
+      "d": "Column letters and row numbers"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which key is used to drag a selected range of data to another worksheet in the same workbook?",
+    "options": {
+      "a": "The Tab key",
+      "b": "The Alt key",
+      "c": "The Shift key",
+      "d": "The Ctrl key"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Hyperlinks can be in the form of:",
+    "options": {
+      "a": "Text",
+      "b": "Drawing objects",
+      "c": "Pictures",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which key activates the previous cell in a pre-selected range?",
+    "options": {
+      "a": "The Alt key",
+      "b": "The Tab key",
+      "c": "The Enter key",
+      "d": "None of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is NOT a correctly entered formula in Excel?",
+    "options": {
+      "a": "=10+50",
+      "b": "=B7*B1",
+      "c": "=B7+14",
+      "d": "10+50"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Hyperlinks can be applied to which of the following?",
+    "options": {
+      "a": "Text",
+      "b": "Drawing objects",
+      "c": "Pictures",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following symbols is used to denote addition in the context of the provided text?",
+    "options": {
+      "a": "+",
+      "b": "(",
+      "c": "(",
+      "d": "@"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following symbols is used to start a formula in Excel?",
+    "options": {
+      "a": "=",
+      "b": "+",
+      "c": "(",
+      "d": "@"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT a correctly entered formula?",
+    "options": {
+      "a": "=10+50",
+      "b": "=B7*B1",
+      "c": "=B7+14",
+      "d": "10+50"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which formula will Excel NOT be able to calculate?",
+    "options": {
+      "a": "=SUM(Sales)-A3",
+      "b": "=SUM(A1:A5)*.5",
+      "c": "=SUM(A1:A5)/(10-10)",
+      "d": "=SUM(A1:A5)-10"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The auto calculate feature provides a quick way to view the result of an arithmetic operation on...",
+    "options": {
+      "a": "Only adding values in a range of cells",
+      "b": "a range of cells",
+      "c": "Automatically creating formulas and adding them to a worksheet",
+      "d": "A and c"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Excel identifies cells within a worksheet using:",
+    "options": {
+      "a": "Cell names",
+      "b": "Column numbers and row letters",
+      "c": "Column letters and row numbers",
+      "d": "Cell locator coordinates"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To drag a selected range of data to another worksheet, which key should be used?",
+    "options": {
+      "a": "Tab key",
+      "b": "Alt key",
+      "c": "Shift key",
+      "d": "Ctrl key"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To activate the previous cell in a pre-selected range, press:",
+    "options": {
+      "a": "The Alt key",
+      "b": "The Tab key",
+      "c": "The Enter key",
+      "d": "None of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is the correct symbol for addition in a formula?",
+    "options": {
+      "a": "+",
+      "b": "(",
+      "c": ")",
+      "d": "@"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following formulas will Excel NOT be able to calculate directly?",
+    "options": {
+      "a": "=SUM(Sales)-A3",
+      "b": "=SUM(A1:A5)*.5",
+      "c": "=SUM(A1:A5)/(10-10)",
+      "d": "=SUM(A1:A5)-10"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which statement is correct about the 'auto calculate' feature?",
+    "options": {
+      "a": "Can only add values in a range of cells",
+      "b": "Provides a quick way to view the result of an arithmetic operation on a range of cells",
+      "c": "Automatically creates formulas and adds them to a worksheet",
+      "d": "A and c"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To activate the previous cell in a pre-selected range, which key should be pressed?",
+    "options": {
+      "a": "The Alt key",
+      "b": "The Tab key",
+      "c": "The Enter key",
+      "d": "None of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which button is clicked to add up a series of numbers in Excel?",
+    "options": {
+      "a": "The Formula button",
+      "b": "The total button",
+      "c": "The quicktotal button",
+      "d": "The autosum button"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When the formula bar is active, which of the following can be seen?",
+    "options": {
+      "a": "The edit formula button",
+      "b": "The cancel button",
+      "c": "The enter button",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following can be selected in a worksheet?",
+    "options": {
+      "a": "Rows",
+      "b": "The entire worksheet",
+      "c": "Columns",
+      "d": "All of the above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which area in an Excel window allows entering values and formulas?",
+    "options": {
+      "a": "Title bar",
+      "b": "Menu bar",
+      "c": "Formula bar",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To edit in an embedded Excel worksheet object in a Word document, you can:",
+    "options": {
+      "a": "Use the Excel menu bar and toolbars inside the Word application",
+      "b": "Use the Word menu bar and toolbars",
+      "c": "Edit the hyperlink",
+      "d": "Edit the data in an Excel source application"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "To create a formula, you can use:",
+    "options": {
+      "a": "Values but not cell references",
+      "b": "Cell references but not values",
+      "c": "Values or cell references although not both at the same time",
+      "d": "Value and cell references"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Status indicators are located on the:",
+    "options": {
+      "a": "Vertical scroll bar",
+      "b": "Horizontal scroll bar",
+      "c": "Formula bar",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "An Excel workbook is a collection of:",
+    "options": {
+      "a": "Workbooks",
+      "b": "Worksheets",
+      "c": "Charts",
+      "d": "Worksheets and charts"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Excel files have a default extension of:",
+    "options": {
+      "a": "Xls",
+      "b": "Xlw",
+      "c": "Wk1",
+      "d": "123"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which button is used to calculate the sum of a series of numbers in Excel?",
+    "options": {
+      "a": "The Formula button",
+      "b": "The total button",
+      "c": "The autosum button",
+      "d": "The quicktotal button"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is visible when the formula bar is active?",
+    "options": {
+      "a": "The edit formula button",
+      "b": "The cancel button",
+      "c": "The enter button",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In an Excel window, which area is designated for entering values and formulas?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Formula bar",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "How can one edit an embedded Excel worksheet object within a Word document?",
+    "options": {
+      "a": "Use the excel menu bar and toolbars inside the word application",
+      "b": "Edit the hyperlink",
+      "c": "Edit the data in a excel source application",
+      "d": "Use the word menu bar and toolbars"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What can be used to create a formula in Excel?",
+    "options": {
+      "a": "Values but not cell references",
+      "b": "C ell references but not values",
+      "c": "Values or cell references although not both at the same time",
+      "d": "Value and cell references"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where are status indicators located in Excel?",
+    "options": {
+      "a": "Vertical scroll bar",
+      "b": "Horizontal scroll bar",
+      "c": "Formula bar",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "An Excel workbook is a collection of which of the following?",
+    "options": {
+      "a": "Workbooks",
+      "b": "Worksheets",
+      "c": "Charts",
+      "d": "Worksheets and charts"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the default file extension for Excel files?",
+    "options": {
+      "a": "Xls",
+      "b": "Xlw",
+      "c": "Wk1",
+      "d": "123"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which button is used to add up a series of numbers in Excel?",
+    "options": {
+      "a": "The Formula button",
+      "b": "The quicktotal button",
+      "c": "The autosum button",
+      "d": "The total button"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When the formula bar is active, which of the following can you see?",
+    "options": {
+      "a": "The edit formula button",
+      "b": "The cancel button",
+      "c": "The enter button",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In a worksheet, what can be selected?",
+    "options": {
+      "a": "Rows",
+      "b": "The entire worksheet",
+      "c": "Columns",
+      "d": "All of the above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "How can you edit an embedded Excel worksheet object in a Word document?",
+    "options": {
+      "a": "Use the excel menu bar and toolbars inside the word application",
+      "b": "Edit the hyperlink",
+      "c": "Edit the data in a excel source application",
+      "d": "Use the word menu bar and toolbars"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following can be used to create a formula in Excel?",
+    "options": {
+      "a": "Values but not cell references",
+      "b": "C ell references but not values",
+      "c": "Values or cell references although not both at the same time",
+      "d": "Value and cell references"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the default extension for Excel files?",
+    "options": {
+      "a": "Xls",
+      "b": "Xlw",
+      "c": "Wk1",
+      "d": "123"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which button is used to add up a series of numbers in a spreadsheet program?",
+    "options": {
+      "a": "The autosum button",
+      "b": "The Formula button",
+      "c": "The quicktotal button",
+      "d": "The total button"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "When the formula bar is active, which of the following is visible?",
+    "options": {
+      "a": "The edit formula button",
+      "b": "The cancel button",
+      "c": "The enter button",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In an excel window, which area allows entering values and formulas?",
+    "options": {
+      "a": "Title bar",
+      "b": "Menu bar",
+      "c": "Formula bar",
+      "d": "Standard toolbar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To edit an embedded excel worksheet object in a word document, you can:",
+    "options": {
+      "a": "Use the excel menu bar and toolbars inside the word application",
+      "b": "Edit the hyperlink",
+      "c": "Edit the data in an excel source application",
+      "d": "Use the word menu bar and toolbars"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Excel files have which default extension?",
+    "options": {
+      "a": "Xls",
+      "b": "Xlw",
+      "c": "Wk1",
+      "d": "123"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which function, when used in a formula, does NOT display 'TRUE' or 'FALSE' as a result, but instead performs a specific action?",
+    "options": {
+      "a": "AND",
+      "b": "NOT",
+      "c": "IF",
+      "d": "OR"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "From which menu are macros typically executed?",
+    "options": {
+      "a": "Insert",
+      "b": "Data",
+      "c": "Format",
+      "d": "Tools"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Under which menu can you find the 'Consolidate' option to open the consolidate dialog box?",
+    "options": {
+      "a": "Format",
+      "b": "Insert",
+      "c": "Data",
+      "d": "Tools"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In a spreadsheet, how is data fundamentally organized?",
+    "options": {
+      "a": "Lines and spaces",
+      "b": "Height and width",
+      "c": "Layers and planes",
+      "d": "Rows and columns"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is correct regarding gridlines in a spreadsheet?",
+    "options": {
+      "a": "Gridlines may be turned off for display but turned on for printing.",
+      "b": "Gridlines may be turned off for both display and printing.",
+      "c": "Gridlines may be turned on or off for printing.",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What term is used to describe a function that is placed inside another function?",
+    "options": {
+      "a": "Sum",
+      "b": "Round",
+      "c": "Nested",
+      "d": "Text"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which function is specifically designed to calculate the monthly mortgage payment?",
+    "options": {
+      "a": "PV (present value)",
+      "b": "NPER (number of periods)",
+      "c": "PMT (payments)",
+      "d": "All of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which key should be used in conjunction with dragging to move a selected range of data to another worksheet within the same workbook?",
+    "options": {
+      "a": "Tab key",
+      "b": "Alt key",
+      "c": "Ctrl key",
+      "d": "Shift key"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When the formula bar is active, which of the following becomes visible?",
+    "options": {
+      "a": "The Edit Formula button",
+      "b": "The Cancel button",
+      "c": "The Enter button",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "A formula with a logical function displays \u201cTRUE\u201d or \u201cFALSE\u201d as a result, except for which function?",
+    "options": {
+      "a": "NOT",
+      "b": "OR",
+      "c": "AND",
+      "d": "IF"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Macros are executed from which menu?",
+    "options": {
+      "a": "Data",
+      "b": "Insert",
+      "c": "Tools",
+      "d": "Format"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Consolidate dialog box is opened from which menu?",
+    "options": {
+      "a": "Format",
+      "b": "Insert",
+      "c": "Tools",
+      "d": "Data"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How is data primarily organized within a spreadsheet application?",
+    "options": {
+      "a": "Height and width",
+      "b": "Layers and planes",
+      "c": "Lines and spaces",
+      "d": "Rows and columns"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Regarding gridlines in a spreadsheet, which of the following is correct?",
+    "options": {
+      "a": "May be turned off for display and printing",
+      "b": "May be turned off for display but turned on for printing",
+      "c": "May be turned on or off for printing",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What term is used to describe a function located inside another function?",
+    "options": {
+      "a": "Round",
+      "b": "Sum",
+      "c": "Nested",
+      "d": "Text"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which function is used to calculate the monthly mortgage payment?",
+    "options": {
+      "a": "PV (present value)",
+      "b": "NPER (number of periods)",
+      "c": "All of above",
+      "d": "PMT (payments)"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which key is used in conjunction with dragging to move a selected range of data to another worksheet within the same workbook?",
+    "options": {
+      "a": "Shift key",
+      "b": "Tab key",
+      "c": "Ctrl key",
+      "d": "Alt key"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When the formula bar is activated, which of the following is visible?",
+    "options": {
+      "a": "The Cancel button",
+      "b": "The Edit Formula button",
+      "c": "All of above",
+      "d": "The Enter button"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Except for which function does a formula with a logical function show \u201cTRUE\u201d or \u201cFALSE\u201d as a result?",
+    "options": {
+      "a": "AND",
+      "b": "OR",
+      "c": "NOT",
+      "d": "IF"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "From which menu are Macros executed?",
+    "options": {
+      "a": "Data",
+      "b": "Insert",
+      "c": "Format",
+      "d": "Tools"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Consolidate dialog box can be opened by choosing Consolidate from which menu?",
+    "options": {
+      "a": "Format",
+      "b": "Insert",
+      "c": "Tools",
+      "d": "Data"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How is data primarily organized in a spreadsheet?",
+    "options": {
+      "a": "Lines and spaces",
+      "b": "Layers and planes",
+      "c": "Height and width",
+      "d": "Rows and columns"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is correct regarding Gridlines?",
+    "options": {
+      "a": "May be turned off for display and printing",
+      "b": "May be turned off for display but turned on for printing",
+      "c": "May be turned on or off for printing",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is a function inside another function called?",
+    "options": {
+      "a": "Round",
+      "b": "Text",
+      "c": "Nested",
+      "d": "Sum"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which function is used to calculate your monthly mortgage payment?",
+    "options": {
+      "a": "PV (present value)",
+      "b": "NPER (number of periods)",
+      "c": "PMT (payments)",
+      "d": "All of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When the formula bar is activated, which of the following can be seen?",
+    "options": {
+      "a": "The Cancel button",
+      "b": "The Edit Formula button",
+      "c": "The Enter button",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which function, when used in a formula, displays \"TRUE\" or \"FALSE\" as a result, except for one particular function?",
+    "options": {
+      "a": "IF",
+      "b": "AND",
+      "c": "OR",
+      "d": "NOT"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "From which menu are Macros executed or 'run'?",
+    "options": {
+      "a": "Insert",
+      "b": "Frmat",
+      "c": "Tools",
+      "d": "Data"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Consolidate dialog box can be accessed by choosing Consolidate from which menu?",
+    "options": {
+      "a": "Insert",
+      "b": "Format",
+      "c": "Tools",
+      "d": "Data"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In a spreadsheet, how is data typically organized?",
+    "options": {
+      "a": "Lines and spaces",
+      "b": "Layers and planes",
+      "c": "Rows and columns",
+      "d": "Height and width"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Regarding gridlines in a spreadsheet, which of the following is true?",
+    "options": {
+      "a": "May be turned off for display but turned on for printing",
+      "b": "May be turned on or off for printing",
+      "c": "The be turned off for display and printing",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What term describes a function that is placed inside another function?",
+    "options": {
+      "a": "Nested",
+      "b": "Round",
+      "c": "Sum",
+      "d": "Text"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which function is specifically used to calculate your monthly mortgage payment?",
+    "options": {
+      "a": "PMT (payments)",
+      "b": "NPER (number of periods)",
+      "c": "PV (present value)",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "When the formula bar is activated, which of the following elements are visible?",
+    "options": {
+      "a": "The Edit Formula button",
+      "b": "The Cancel button",
+      "c": "The Enter button",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following file formats can be incorporated into a PowerPoint presentation?",
+    "options": {
+      "a": ".giv",
+      "b": ".jpg",
+      "c": ".wav",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the most suitable method for presenting information comprising text and numerical data?",
+    "options": {
+      "a": "A bullet slide",
+      "b": "A title slide",
+      "c": "A table slide",
+      "d": "All of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To modify a chart within a PowerPoint presentation, which action is required?",
+    "options": {
+      "a": "Triple click the chart object",
+      "b": "Click and drag the chart object",
+      "c": "Double click the chart object",
+      "d": "Click the chart object"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What action allows you to properly exit a PowerPoint presentation?",
+    "options": {
+      "a": "click the application minimize button",
+      "b": "click the document close button",
+      "c": "double click the applications control menu icon",
+      "d": "double click the document control menu icon"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "During a slideshow, which key should be pressed to navigate sequentially through hyperlinks?",
+    "options": {
+      "a": "Tab",
+      "b": "Ctrl + K",
+      "c": "Ctrl + h",
+      "d": "All of above"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Special visual effects applied when moving between slides in a PowerPoint presentation are known as:",
+    "options": {
+      "a": "effects",
+      "b": "custom animations",
+      "c": "transitions",
+      "d": "present animations"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In PowerPoint, what term describes the action of pressing and holding the left mouse button while moving the mouse across a slide?",
+    "options": {
+      "a": "Highlighting",
+      "b": "Dragging",
+      "c": "Selecting",
+      "d": "Moving"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following methods is appropriate for delivering a PowerPoint presentation to a large audience?",
+    "options": {
+      "a": "Set up your computer in a large auditorium, and click large, auditorium, OK",
+      "b": "Click the slide you wish the audience to see in normal view, then click the next slide, and so on.",
+      "c": "Choose either view, slide show or slide show, view show",
+      "d": "Slick slide show, OK"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following file formats is compatible for inclusion in a PowerPoint presentation?",
+    "options": {
+      "a": ".txt",
+      "b": ".pdf",
+      "c": ".gif",
+      "d": "All of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which type of slide is most suitable for presenting material consisting of text and numerical data?",
+    "options": {
+      "a": "A bullet slide",
+      "b": "A title slide",
+      "c": "A graph slide",
+      "d": "A table slide"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To initiate the editing of a chart within a PowerPoint slide, what action should be performed?",
+    "options": {
+      "a": "Triple click the chart object",
+      "b": "Click and drag the chart object",
+      "c": "Single click the chart object",
+      "d": "Double click the chart object"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the correct method to exit the PowerPoint application?",
+    "options": {
+      "a": "Click the application minimize button",
+      "b": "Click the document close button",
+      "c": "Double click the application's control menu icon",
+      "d": "Click the file exit button"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "During a slide presentation, which key should be pressed to navigate sequentially through hyperlinks?",
+    "options": {
+      "a": "Tab",
+      "b": "Ctrl + S",
+      "c": "Enter",
+      "d": "Ctrl + H"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What are the special effects used to introduce slides in a presentation commonly referred to as?",
+    "options": {
+      "a": "Effects",
+      "b": "Custom Animations",
+      "c": "Transitions",
+      "d": "Present Animations"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What term describes the action of pressing and holding the left mouse key while moving the mouse around a slide?",
+    "options": {
+      "a": "Highlighting",
+      "b": "Dragging",
+      "c": "Selecting",
+      "d": "Moving"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which sequence of actions is most appropriate for delivering a PowerPoint presentation to a large audience?",
+    "options": {
+      "a": "Set up your computer in a large auditorium and click large, auditorium, OK",
+      "b": "Click the slide you wish the audience to see in normal view, then click the next slide, and so on.",
+      "c": "Choose either view, slide show or slide show, view show",
+      "d": "Click slide show, OK"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the MOST suitable method for presenting material comprised of both textual and numerical data?",
+    "options": {
+      "a": "A title slide",
+      "b": "A bullet slide",
+      "c": "A table slide",
+      "d": "All of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What action is required to initiate the editing of a chart within PowerPoint?",
+    "options": {
+      "a": "Click and drag the chart object",
+      "b": "Click the chart object",
+      "c": "Double click the chart object",
+      "d": "Triple click the chart object"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which action will terminate the PowerPoint application?",
+    "options": {
+      "a": "click the application minimize button",
+      "b": "double click the document control menu icon",
+      "c": "double click the applications control menu icon",
+      "d": "click the document close button"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "During a slide presentation, which key should be pressed to select successive hyperlinks?",
+    "options": {
+      "a": "Ctrl + h",
+      "b": "Tab",
+      "c": "Ctrl + K",
+      "d": "All of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What term describes the visual effects employed to introduce slides during a presentation?",
+    "options": {
+      "a": "effects",
+      "b": "present animations",
+      "c": "transitions",
+      "d": "custom animations"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which term accurately describes the action of pressing and holding the left mouse key while moving the mouse on a slide?",
+    "options": {
+      "a": "Moving",
+      "b": "Selecting",
+      "c": "Dragging",
+      "d": "Highlighting"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the correct procedure for delivering a PowerPoint presentation to a large audience?",
+    "options": {
+      "a": "Click the slide you wish the audience to see in normal view, then click the next slide, and so on.",
+      "b": "Slick slide show, OK",
+      "c": "Set up your computer in a large auditorium, and click large, auditorium, OK",
+      "d": "Choose either view, slide show or slide show, view show"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What type of slide is most suitable for presenting material consisting of text and numbers?",
+    "options": {
+      "a": "A bullet slide",
+      "b": "A title slide",
+      "c": "All of the above",
+      "d": "A table slide"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which action allows you to edit a chart within PowerPoint?",
+    "options": {
+      "a": "Click and drag the chart object",
+      "b": "Click the chart object",
+      "c": "Double click the chart object",
+      "d": "Triple click the chart object"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "How can you exit the PowerPoint application?",
+    "options": {
+      "a": "Double click the document control menu icon",
+      "b": "Click the application minimize button",
+      "c": "Double click the applications control menu icon",
+      "d": "Click the document close button"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "During a slide presentation, which key do you press to select subsequent hyperlinks?",
+    "options": {
+      "a": "Ctrl + h",
+      "b": "Tab",
+      "c": "Ctrl + K",
+      "d": "All of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The visual effects used to introduce each slide during a PowerPoint presentation are known as:",
+    "options": {
+      "a": "effects",
+      "b": "present animations",
+      "c": "transitions",
+      "d": "custom animations"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the term for pressing and holding the left mouse key while moving the mouse across the slide?",
+    "options": {
+      "a": "Moving",
+      "b": "Dragging",
+      "c": "Selecting",
+      "d": "Highlighting"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following options allows you to give a PowerPoint presentation to a large audience?",
+    "options": {
+      "a": "Slick slide show, OK",
+      "b": "Click the slide you wish the audience to see in normal view, then click the next slide, and so on.",
+      "c": "Choose either view, slide show or slide show, view show",
+      "d": "Set up your computer in a large auditorium, and click large, auditorium, OK"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is used to add times to slides in a presentation?",
+    "options": {
+      "a": "Slice Show menu",
+      "b": "Slide transition button",
+      "c": "All of the above",
+      "d": "Rehearse timing button"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is NOT a PowerPoint view?",
+    "options": {
+      "a": "Slide show view",
+      "b": "Slide view",
+      "c": "Presentation view",
+      "d": "Outline view"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which PowerPoint view is most suitable for adding slide transitions?",
+    "options": {
+      "a": "Slide show view",
+      "b": "Slide sorter view",
+      "c": "Slide view",
+      "d": "Notes view"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which view is best for setting transition effects for all slides in a presentation?",
+    "options": {
+      "a": "Slide sorter view",
+      "b": "Notes page view",
+      "c": "Slide view",
+      "d": "Outline view"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What option allows setting custom timings for slides in a presentation?",
+    "options": {
+      "a": "Slider Timings",
+      "b": "Slider Timer",
+      "c": "Slide Show Setup",
+      "d": "Rehearsal"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following actions will NOT advance the slides in a slide show view?",
+    "options": {
+      "a": "The esc key",
+      "b": "The space bar",
+      "c": "The enter key",
+      "d": "The mouse button"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The fastest method for creating a PowerPoint presentation involves using the:",
+    "options": {
+      "a": "Word for windows templates",
+      "b": "Auto creation wizard",
+      "c": "Presentation wizard",
+      "d": "Auto content wizard"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following can be formatted using buttons on the formatting toolbar?",
+    "options": {
+      "a": "Your hard drive",
+      "b": "Format painting",
+      "c": "Font color",
+      "d": "Underlining"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the correct path to start Microsoft PowerPoint?",
+    "options": {
+      "a": "Click on Start >> Programs >> All Programs >> Microsoft PowerPoint",
+      "b": "Hit Ctrl + R then type winword.exe and Enter",
+      "c": "Right click on desktop >> New >> Microsoft PowerPoint",
+      "d": "Click on Start >> Accessories >> Microsoft PowerPoint"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following options allows you to add timings to slides in a presentation?",
+    "options": {
+      "a": "Slice Show menu",
+      "b": "Rehearse timing button",
+      "c": "Slide transition button",
+      "d": "All of the above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "For setting transition effects for all slides in a presentation, which view is the best to use?",
+    "options": {
+      "a": "Slide sorter view",
+      "b": "Notes page view",
+      "c": "Slide view",
+      "d": "Outline view"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which option facilitates setting custom timings for slides within a presentation?",
+    "options": {
+      "a": "Slider Timings",
+      "b": "Slider Timer",
+      "c": "Rehearsal",
+      "d": "Slide Show Setup"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which key will NOT advance the slides in a slide show view?",
+    "options": {
+      "a": "The esc key",
+      "b": "The space bar",
+      "c": "The enter key",
+      "d": "The mouse button"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the quickest method to create a PowerPoint presentation?",
+    "options": {
+      "a": "Word for windows templates",
+      "b": "Auto creation wizard",
+      "c": "Auto content wizard",
+      "d": "Presentation wizard"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Using buttons on the formatting toolbar, which of the following can be formatted?",
+    "options": {
+      "a": "Your hard drive",
+      "b": "Format painting",
+      "c": "Font color",
+      "d": "Underlining"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is the correct path to start Microsoft PowerPoint application?",
+    "options": {
+      "a": "Click on Start >> Programs >> All Programs >> Microsoft PowerPoint",
+      "b": "Hit Ctrl + R then type ppoint.exe and Enter",
+      "c": "Click on Start >> Run >> powerpnt.exe and Enter",
+      "d": "Right Click on Desktop >> New >> Microsoft PowerPoint Presentation"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The BEST view for setting transition effects for all slides in a presentation is:",
+    "options": {
+      "a": "Slide view",
+      "b": "Outline view",
+      "c": "Notes page view",
+      "d": "Slide sorter view"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which option is used to set custom timings for slides in a presentation?",
+    "options": {
+      "a": "Slider Timings",
+      "b": "Slider Timer",
+      "c": "Slide Show Setup",
+      "d": "Rehearsal"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the FASTEST way to create a PowerPoint presentation?",
+    "options": {
+      "a": "Word for windows templates",
+      "b": "Presentation wizard",
+      "c": "Auto content wizard",
+      "d": "Auto creation wizard"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the path to start Microsoft PowerPoint application?",
+    "options": {
+      "a": "Click on Start >> Programs >> Microsoft PowerPoint >> All Programs",
+      "b": "Click on Start >> All Programs >> Programs >> Microsoft PowerPoint",
+      "c": "Click on Start >> Programs >> All Programs >> Microsoft PowerPoint",
+      "d": "Click on Start >> All Programs >> Microsoft PowerPoint >> Programs"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is used to add timings to slides in a presentation?",
+    "options": {
+      "a": "Slide Show menu",
+      "b": "Rehearse timing button",
+      "c": "Slide transition button",
+      "d": "All of the above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The BEST view to set transition effects for all slides in a presentation is:",
+    "options": {
+      "a": "Slide sorter view",
+      "b": "Notes page view",
+      "c": "Slide view",
+      "d": "Outline view"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which option allows setting custom timings for slides in a presentation?",
+    "options": {
+      "a": "Slider Timings",
+      "b": "Slider Timer",
+      "c": "Rehearsal",
+      "d": "Slide Show Setup"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following will NOT advance slides in a slide show view?",
+    "options": {
+      "a": "The esc key",
+      "b": "The space bar",
+      "c": "The enter key",
+      "d": "The mouse button"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The FASTEST way to create a PowerPoint presentation is to use the:",
+    "options": {
+      "a": "Word for windows templates",
+      "b": "Auto creation wizard",
+      "c": "Auto content wizard",
+      "d": "Presentation wizard"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the correct sequence of steps to start Microsoft PowerPoint application?",
+    "options": {
+      "a": "Start >> Programs >> All Programs >> Microsoft PowerPoint",
+      "b": "Ctrl + R then type ppoint.exe and Enter",
+      "c": "Both a and b",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To open PowerPoint via the Run dialog box, which command should be typed?",
+    "options": {
+      "a": "powerpoint",
+      "b": "ppt",
+      "c": "powerpnt",
+      "d": "ms-powerpoint"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which menu in PowerPoint contains options such as Animation Scheme and Slide Transition?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Slide Design feature is located under which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "A selected design template can be applied to which of the following?",
+    "options": {
+      "a": "To current slide only",
+      "b": "To all the slides",
+      "c": "To all the new presentation you create",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which feature applies motion effects as one slide exits and another enters?",
+    "options": {
+      "a": "Slide Transition",
+      "b": "Slide Design",
+      "c": "Animation Objects",
+      "d": "Animation Scheme"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What PowerPoint feature applies motion effects to different objects of a slide?",
+    "options": {
+      "a": "Slide Transition",
+      "b": "Slide Design",
+      "c": "Animation Objects",
+      "d": "Animation Scheme"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To change the color of different objects without altering content, which command is used?",
+    "options": {
+      "a": "Design Template",
+      "b": "Color Scheme",
+      "c": "Font Color",
+      "d": "Object Color"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the shortcut key to insert a new slide in the current presentation?",
+    "options": {
+      "a": "Ctrl+N",
+      "b": "Ctrl+M",
+      "c": "Ctrl+S",
+      "d": "Ctrl+O"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following methods can be used to start a slide show?",
+    "options": {
+      "a": "Hit F5 key",
+      "b": "From Slide Show menu choose View Show option",
+      "c": "From Slide Show menu choose Rehearse timing",
+      "d": "Both a & b"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To initiate PowerPoint via the Run dialog box, which command should be typed?",
+    "options": {
+      "a": "mspowerpoint",
+      "b": "powerpoint",
+      "c": "powerpnt",
+      "d": "ppt"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which menu contains options for Animation Scheme, Custom Animation, and Slide Transition?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Slide Design and Slide Layout features are located within which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which feature applies motion effects when a slide exits and another enters?",
+    "options": {
+      "a": "Slide Transition",
+      "b": "Slide Design",
+      "c": "Animation Objects",
+      "d": "Animation Scheme"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which PowerPoint feature is used to apply motion effects to individual objects on a slide?",
+    "options": {
+      "a": "Slide Transition",
+      "b": "Slide Design",
+      "c": "Animation Objects",
+      "d": "Animation Scheme"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To change the color of different objects in PowerPoint without altering their content, which command is used?",
+    "options": {
+      "a": "Design Template",
+      "b": "Color Scheme",
+      "c": "Font Color",
+      "d": "Object Color"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the shortcut key combination to insert a new slide into a PowerPoint presentation?",
+    "options": {
+      "a": "Ctrl+N",
+      "b": "Ctrl+M",
+      "c": "Ctrl+S",
+      "d": "All of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following methods can start a slide show?",
+    "options": {
+      "a": "Pressing the F5 key",
+      "b": "Choosing 'View Show' option from the Slide Show menu",
+      "c": "Choosing 'Rehearse Timings' from the Slide Show Menu",
+      "d": "Both a & b"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To directly launch PowerPoint, which command should be typed after clicking Start >> Run?",
+    "options": {
+      "a": "msword",
+      "b": "excel",
+      "c": "powerpnt",
+      "d": "access"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which menu contains options such as Animation Scheme, Custom Animation, and Slide Transition?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Slide Design and Slide Layout features are available under which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "A selected design template in PowerPoint can be applied to which of the following?",
+    "options": {
+      "a": "To current slide only",
+      "b": "To all the slides",
+      "c": "To all the new presentation you create",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which feature is used to apply motion effects as one slide exits and another enters?",
+    "options": {
+      "a": "Slide Transition",
+      "b": "Slide Design",
+      "c": "Animation Objects",
+      "d": "Animation Scheme"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What PowerPoint feature is used to apply motion effects to different objects within a slide?",
+    "options": {
+      "a": "Slide Transition",
+      "b": "Slide Design",
+      "c": "Animation Objects",
+      "d": "Animation Scheme"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which command in PowerPoint allows you to modify the colors of different objects without altering their content?",
+    "options": {
+      "a": "Design Template",
+      "b": "Color Scheme",
+      "c": "Font Color",
+      "d": "Object Color"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the shortcut key to insert a new slide in the current PowerPoint presentation?",
+    "options": {
+      "a": "Ctrl+N",
+      "b": "Ctrl+M",
+      "c": "Ctrl+S",
+      "d": "Ctrl+O"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following methods can be used to start a slide show in PowerPoint?",
+    "options": {
+      "a": "Pressing the F5 key",
+      "b": "Selecting 'View Show' from the Slide Show menu",
+      "c": "Selecting 'Rehearse Timings' from the Slide Show menu",
+      "d": "Both a & b"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To directly open PowerPoint from the Run dialog box, which command should be typed?",
+    "options": {
+      "a": "power",
+      "b": "ppt",
+      "c": "powerpnt",
+      "d": "ms-powerpoint"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Features like Slide Design and Slide Layout are located in which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "A selected design template can be applied to:",
+    "options": {
+      "a": "The current slide only",
+      "b": "All the slides",
+      "c": "All the new presentations you create",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What feature is used to apply motion effects when transitioning between slides?",
+    "options": {
+      "a": "Slide Transition",
+      "b": "Slide Design",
+      "c": "Animation Objects",
+      "d": "Animation Scheme"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "To change the color of different objects without altering their content in PowerPoint, which command is used?",
+    "options": {
+      "a": "Design Template",
+      "b": "Color Scheme",
+      "c": "Font Color",
+      "d": "Object Color"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which keyboard shortcut inserts a new slide into the current PowerPoint presentation?",
+    "options": {
+      "a": "Ctrl+N",
+      "b": "Ctrl+M",
+      "c": "Ctrl+S",
+      "d": "All of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following options can start a slide show in PowerPoint?",
+    "options": {
+      "a": "Pressing the F5 key",
+      "b": "Choosing 'View Show' from the Slide Show menu",
+      "c": "Choosing 'Rehearse Timings' from the Slide Show menu",
+      "d": "Both a & b"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When you select 'Insert >> Picture >> From File', what type of content can you insert?",
+    "options": {
+      "a": "Pictures and clipArts",
+      "b": "ClipArts only",
+      "c": "Pictures only",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following font effects is NOT available in the PowerPoint Font dialog box?",
+    "options": {
+      "a": "Underline",
+      "b": "Shadow",
+      "c": "Emboss",
+      "d": "Strikethrough"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which methods can be used to insert a hyperlink in a slide?",
+    "options": {
+      "a": "Choose Insert >> Hyperlink",
+      "b": "Press Ctrl + K",
+      "c": "Hyperlinks can\u2019t be inserted in slides",
+      "d": "Both a & b"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is true regarding the insertion of media clips in a PowerPoint presentation?",
+    "options": {
+      "a": "Sound clips can be inserted but not movie clips",
+      "b": "Movie clips can be inserted but not sound clips",
+      "c": "Both cannot be inserted",
+      "d": "Both can be inserted"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "How do you insert slide numbers in PowerPoint?",
+    "options": {
+      "a": "Insert a text box and select Insert >> Page Number",
+      "b": "Insert a textbox and select Insert >> Number >> PageNumber",
+      "c": "Choose Insert >> Slide Number",
+      "d": "Insert a new text box and select Insert >> slide Number"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What three options are available under the 'Insert >> Picture' menu?",
+    "options": {
+      "a": "Clipart, Pictures, Shapes",
+      "b": "Clipart, From File, Shapes",
+      "c": "Clipart, From Files, AutoShapes",
+      "d": "Clipart, Pictures, AutoShapes"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "From which menu can you access Picture, Text Box, and Chart options?",
+    "options": {
+      "a": "File",
+      "b": "Edit",
+      "c": "Insert",
+      "d": "View"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a part of Slide Design in PowerPoint?",
+    "options": {
+      "a": "Design Template",
+      "b": "Color Scheme",
+      "c": "Animation Scheme",
+      "d": "Slide Layout"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What term is used when a clip art image changes the direction of its face?",
+    "options": {
+      "a": "Group",
+      "b": "Flip",
+      "c": "Rotate",
+      "d": "All of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is the correct way to insert a picture from a file?",
+    "options": {
+      "a": "Insert >> Picture >> ClipArt",
+      "b": "Insert >> Picture >> From File",
+      "c": "Insert >> ClipArt >> From File",
+      "d": "Insert >> File >> Picture"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which font effect is NOT available in the PowerPoint Font dialog box?",
+    "options": {
+      "a": "Underline",
+      "b": "Emboss",
+      "c": "Shadow",
+      "d": "Strikethrough"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following methods can be used to insert a hyperlink in a slide?",
+    "options": {
+      "a": "Press Ctrl + Shift + K",
+      "b": "Choose Insert >> Hyperlink",
+      "c": "Press Ctrl + K",
+      "d": "Choose Format >> Hyperlink"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which statement is correct regarding the insertion of media clips in a PowerPoint presentation?",
+    "options": {
+      "a": "Only sound clips can be inserted, not movie clips.",
+      "b": "Neither sound clips nor movie clips can be inserted.",
+      "c": "Only movie clips can be inserted, not sound clips.",
+      "d": "Both sound clips and movie clips can be inserted."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is the correct sequence of steps to insert slide numbers?",
+    "options": {
+      "a": "Insert a text box and select Insert >> Page Number",
+      "b": "Insert a new text box and select Insert >> Slide Number",
+      "c": "Choose Insert >> Slide Number",
+      "d": "Insert a textbox and select Insert >> Number >> PageNumber"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What three options are available in the Insert >> Picture menu?",
+    "options": {
+      "a": "ClipArt, Pictures, Shapes",
+      "b": "ClipArt, From File, Shapes",
+      "c": "ClipArt, Pictures, AutoShapes",
+      "d": "ClipArt, From Files, AutoShapes"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "From which menu can you access options like Picture, Text Box, and Chart?",
+    "options": {
+      "a": "Edit",
+      "b": "View",
+      "c": "File",
+      "d": "Insert"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is NOT a part of Slide Design?",
+    "options": {
+      "a": "Color Scheme",
+      "b": "Design Template",
+      "c": "Animation Scheme",
+      "d": "Slide Layout"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What term describes the action of changing the direction a clip art image is facing?",
+    "options": {
+      "a": "Group",
+      "b": "Rotate",
+      "c": "Flip",
+      "d": "All of the above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In PowerPoint, selecting 'Insert >> Picture >> From File' allows you to insert which of the following?",
+    "options": {
+      "a": "ClipArts only",
+      "b": "Pictures and clipArts",
+      "c": "Pictures only",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following font effects is NOT available within the PowerPoint Font dialog box?",
+    "options": {
+      "a": "Shadow",
+      "b": "Emboss",
+      "c": "Underline",
+      "d": "Strikethrough"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Regarding the insertion of media clips in a PowerPoint presentation, which statement is accurate?",
+    "options": {
+      "a": "Movie clips can be inserted but not sound clips",
+      "b": "Both can be inserted",
+      "c": "Both cannot be inserted",
+      "d": "Sound clips can be inserted but not movie clips"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The correct method to insert slide numbers involves which of the following steps?",
+    "options": {
+      "a": "Insert a text box and select Insert >> Page Number",
+      "b": "Insert a textbox and select Insert >> Number >> PageNumber",
+      "c": "Choose Insert >> Slide Number",
+      "d": "Insert a new text box and select Insert >> slide Number"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What three options are presented under the 'Insert >> Picture' menu?",
+    "options": {
+      "a": "Clipart, Pictures, Shapes",
+      "b": "Clipart, From Files, AutoShapes",
+      "c": "Clipart, From File, Shapes",
+      "d": "Clipart, Pictures, AutoShapes"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Through which menu can you access options such as Picture, Text Box, and Chart?",
+    "options": {
+      "a": "Edit",
+      "b": "File",
+      "c": "Insert",
+      "d": "View"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT considered a part of Slide Design?",
+    "options": {
+      "a": "Animation Scheme",
+      "b": "Slide Layout",
+      "c": "Design Template",
+      "d": "Color Scheme"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the term for when a clip art image's facing direction is altered?",
+    "options": {
+      "a": "Flip",
+      "b": "Group",
+      "c": "Rotate",
+      "d": "All of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In PowerPoint, which of the following options allows you to insert pictures from a specific location?",
+    "options": {
+      "a": "Insert >> Picture >> ClipArt",
+      "b": "Insert >> Picture >> From File",
+      "c": "Insert >> Picture >> Shapes",
+      "d": "Insert >> Picture >> Pictures"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following font effects is NOT available directly within the PowerPoint Font dialog box?",
+    "options": {
+      "a": "Shadow",
+      "b": "Underline",
+      "c": "Strikethrough",
+      "d": "Emboss"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following methods can be used to insert a hyperlink into a slide?",
+    "options": {
+      "a": "Choose Insert >> Hyperlink",
+      "b": "Press Ctrl + K",
+      "c": "Hyperlinks cannot be inserted in slides",
+      "d": "Both a & b"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Regarding the insertion of media files in a PowerPoint presentation, which statement is most accurate?",
+    "options": {
+      "a": "Sound clips can be inserted, but not movie clips.",
+      "b": "Both can be inserted",
+      "c": "Movie clips can be inserted, but not sound clips.",
+      "d": "Both cannot be inserted"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following sequences correctly describes how to insert slide numbers?",
+    "options": {
+      "a": "Insert a text box and select Insert >> Number >> PageNumber",
+      "b": "Choose Insert >> Slide Number",
+      "c": "Insert a text box and select Insert >> Page Number",
+      "d": "Insert a new text box and select Insert >> slide Number"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What three options are directly available under the Insert >> Picture menu?",
+    "options": {
+      "a": "Clipart, Pictures, Shapes",
+      "b": "Clipart, Pictures, AutoShapes",
+      "c": "Clipart, From File, Shapes",
+      "d": "Clipart, From Files, AutoShapes"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "From which menu can you access options such as Picture, Text Box, and Chart?",
+    "options": {
+      "a": "File",
+      "b": "Edit",
+      "c": "View",
+      "d": "Insert"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is NOT typically considered a direct part of Slide Design options in presentation software?",
+    "options": {
+      "a": "Slide Layout",
+      "b": "Animation Scheme",
+      "c": "Color Scheme",
+      "d": "Design Template"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What term describes the action of changing the facing direction of a clip art image?",
+    "options": {
+      "a": "Group",
+      "b": "Flip",
+      "c": "Rotate",
+      "d": "All of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The slide used to introduce a topic and set the tone for a presentation is known as the:",
+    "options": {
+      "a": "Graph slide",
+      "b": "Table slide",
+      "c": "Bullet slide",
+      "d": "Title slide"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which feature is used when typing in the notes text box?",
+    "options": {
+      "a": "Slide show",
+      "b": "Slide maser",
+      "c": "Insert",
+      "d": "Zoom"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which command will take you to the first slide in a presentation?",
+    "options": {
+      "a": "Next slide button",
+      "b": "Page up",
+      "c": "Ctrl + End",
+      "d": "Ctrl + Home"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "During a slide show, the shortcut menu can be displayed by:",
+    "options": {
+      "a": "Clicking the shortcut button on the formatting toolbar",
+      "b": "Clicking an icon on the current slide",
+      "c": "Right clicking the current slide",
+      "d": "a and b"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the function of the Auto Clipart feature?",
+    "options": {
+      "a": "Automatically places clipart in your presentation",
+      "b": "Scans your presentation for incorrect spelling in your words on each slide",
+      "c": "Scans your presentation for incorrect spelling in Word Arts objects",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The view displaying slides as miniature representations is called:",
+    "options": {
+      "a": "Outline view",
+      "b": "Slide show",
+      "c": "Slide sorter view",
+      "d": "Notes page view"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following provides a printed copy of your presentation for the audience?",
+    "options": {
+      "a": "Speaker notes",
+      "b": "Outline",
+      "c": "Audience handouts",
+      "d": "All of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In PowerPoint, to preview the slide show, which option should you select from the 'View' menu?",
+    "options": {
+      "a": "View, slide",
+      "b": "View, outline",
+      "c": "View, slide show",
+      "d": "View, slide sorter"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the slide called that introduces a topic and sets the tone for a presentation?",
+    "options": {
+      "a": "Table slide",
+      "b": "Graph slide",
+      "c": "Bullet slide",
+      "d": "Title slide"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which command will take you to the first slide of a presentation?",
+    "options": {
+      "a": "Next slide button",
+      "b": "Page up",
+      "c": "Ctrl + Home",
+      "d": "Ctrl + End"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "How can you show the shortcut menu during a slide show?",
+    "options": {
+      "a": "Clicking the shortcut button on the formatting toolbar",
+      "b": "Right clicking the current slide",
+      "c": "Clicking an icon on the current slide",
+      "d": "a and b"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does the Auto clipart feature do?",
+    "options": {
+      "a": "Automatically places clipart in your presentation",
+      "b": "Scans your presentation for incorrect spelling in your words on each slide",
+      "c": "Scans your presentation for incorrect spelling in Word Arts objects",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which view displays slides as miniature representations?",
+    "options": {
+      "a": "Slide show",
+      "b": "Slide sorter view",
+      "c": "Notes page view",
+      "d": "Outline view"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To play a PowerPoint show for previewing, which option should you select?",
+    "options": {
+      "a": "View, slide sorter",
+      "b": "View, slide",
+      "c": "View, slide show",
+      "d": "View outline"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the introductory slide of a presentation typically called?",
+    "options": {
+      "a": "Table slide",
+      "b": "Graph slide",
+      "c": "Bullet slide",
+      "d": "Title slide"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which feature is utilized when typing within the notes text box?",
+    "options": {
+      "a": "Slide show",
+      "b": "Insert",
+      "c": "Slide maser",
+      "d": "Zoom"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which command will navigate you to the first slide of your presentation?",
+    "options": {
+      "a": "Next slide button",
+      "b": "Page up",
+      "c": "Ctrl + Home",
+      "d": "Ctrl + End"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "How can the shortcut menu be displayed during a slide show?",
+    "options": {
+      "a": "Clicking the shortcut button on the formatting toolbar",
+      "b": "Right clicking the current slide",
+      "c": "Clicking an icon on the current slide",
+      "d": "a and b"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following provides a hard copy of your presentation for the audience?",
+    "options": {
+      "a": "Outline",
+      "b": "Speaker notes",
+      "c": "Audience handouts",
+      "d": "All of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In PowerPoint, which option is used to preview a slide show?",
+    "options": {
+      "a": "View, slide sorter",
+      "b": "View, slide",
+      "c": "View, slide show",
+      "d": "View outline"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which feature should be used when typing in the notes text box?",
+    "options": {
+      "a": "Slide show",
+      "b": "Slide maser",
+      "c": "Insert",
+      "d": "Zoom"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The view that displays slides as miniature representations is called:",
+    "options": {
+      "a": "Notes page view",
+      "b": "Outline view",
+      "c": "Slide show",
+      "d": "Slide sorter view"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To preview a PowerPoint show, which sequence of options should you select?",
+    "options": {
+      "a": "View, slide sorter",
+      "b": "View outline",
+      "c": "View, slide",
+      "d": "View, slide show"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which action involves pressing and holding the shift key while clicking each box?",
+    "options": {
+      "a": "Option not described in text",
+      "b": "Part of an undefined process",
+      "c": "Selection method",
+      "d": "A method of deletion"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To add a slide to an existing presentation, which of the following sequences should be used?",
+    "options": {
+      "a": "File, add a new slide",
+      "b": "Insert, new slide",
+      "c": "File, open",
+      "d": "File, new"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which key is used to delete text to the left of the insertion point?",
+    "options": {
+      "a": "Backspace",
+      "b": "Page up",
+      "c": "Delete",
+      "d": "Page down"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Microsoft PowerPoint is primarily a:",
+    "options": {
+      "a": "Database program",
+      "b": "Spreadsheet program",
+      "c": "Presentation program",
+      "d": "Word processing program"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT typically considered a desktop publishing program?",
+    "options": {
+      "a": "Adobe PageMaker",
+      "b": "Microsoft Publisher",
+      "c": "Lotus AmiPro",
+      "d": "QuarkXPress"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Animation Scheme, Custom Animation, and Slide Transition options are found under which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Features like Slide Design and Slide Layout are located within which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following options is NOT a type of page margin?",
+    "options": {
+      "a": "Left",
+      "b": "Right",
+      "c": "Center",
+      "d": "Top"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What type of program is Microsoft PowerPoint?",
+    "options": {
+      "a": "Word processing program",
+      "b": "Database program",
+      "c": "Presentation program",
+      "d": "Spreadsheet program"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT considered a popular desktop publishing program?",
+    "options": {
+      "a": "QuarkXPress",
+      "b": "Adobe PageMaker",
+      "c": "Lotus AmiPro",
+      "d": "Microsoft Publisher"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In PowerPoint, which menu contains options such as Animation Scheme, Custom Animation, and Slide Transition?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Tools Menu",
+      "c": "Format Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where can you find features like Slide Design and Slide Layout in PowerPoint?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Slide Show Menu",
+      "c": "Format Menu",
+      "d": "Tools Menu"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following options is NOT a font style?",
+    "options": {
+      "a": "Italics",
+      "b": "Superscript",
+      "c": "Regular",
+      "d": "Bold"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To add a new slide to an existing presentation, which of the following options should be used?",
+    "options": {
+      "a": "File, open",
+      "b": "Insert, new slide",
+      "c": "File, new",
+      "d": "File, add a new slide"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following actions involves pressing and holding the shift key while clicking each box?",
+    "options": {
+      "a": "Option not specified",
+      "b": "Option not specified",
+      "c": "Press and hold the shift key and click each box",
+      "d": "All of the above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To add a slide to an existing presentation, which of the following options should be used?",
+    "options": {
+      "a": "File, add a new slide",
+      "b": "Insert, new slide",
+      "c": "File, open",
+      "d": "File, new"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which key deletes text to the left of the insertion point?",
+    "options": {
+      "a": "Backspace",
+      "b": "Page up",
+      "c": "Delete",
+      "d": "Page down"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is NOT generally considered a desktop publishing program?",
+    "options": {
+      "a": "Adobe PageMaker",
+      "b": "Microsoft Publisher",
+      "c": "Lotus AmiPro",
+      "d": "QuarkXPress"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Animation Scheme and Slide Transition options are found under which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Slide Design and Slide Layout features can be accessed through which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Identify the option which is NOT a font style:",
+    "options": {
+      "a": "Bold",
+      "b": "Italics",
+      "c": "Regular",
+      "d": "Superscript"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Microsoft PowerPoint, which of the following is the correct method to add a slide to an existing presentation?",
+    "options": {
+      "a": "File, add a new slide",
+      "b": "Insert, new slide",
+      "c": "File, open",
+      "d": "File, new"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Microsoft PowerPoint is best described as a:",
+    "options": {
+      "a": "Database program",
+      "b": "Spreadsheet program",
+      "c": "Presentation program",
+      "d": "Word processing program"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a popular desktop publishing program?",
+    "options": {
+      "a": "Adobe PageMaker",
+      "b": "Microsoft Publisher",
+      "c": "Lotus AmiPro",
+      "d": "QuarkXPress"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Animation Scheme and Slide Transition options are available under which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Slide Design and Slide Layout features are typically found within which menu?",
+    "options": {
+      "a": "Insert Menu",
+      "b": "Format Menu",
+      "c": "Tools Menu",
+      "d": "Slide Show Menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a standard type of page margin?",
+    "options": {
+      "a": "Left",
+      "b": "Right",
+      "c": "Center",
+      "d": "Top"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In MS Excel's Find and Replace feature, which of the following is NOT a true capability?",
+    "options": {
+      "a": "Searching within formulas",
+      "b": "Deciding whether to look for whole words",
+      "c": "Searching by rows, columns, or sheets",
+      "d": "Searching for bold text and replacing it with italics"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the most effective method for inserting a new slide into a presentation?",
+    "options": {
+      "a": "Slide show view",
+      "b": "Special view",
+      "c": "Normal view",
+      "d": "Slide sorter view"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the maximum number of lines that can be set for a drop cap?",
+    "options": {
+      "a": "20",
+      "b": "15",
+      "c": "3",
+      "d": "10"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following options represents an invalid line spacing setting?",
+    "options": {
+      "a": "Multiple",
+      "b": "Double",
+      "c": "Single",
+      "d": "Triple"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following constitutes word processing software?",
+    "options": {
+      "a": "WordPerfect",
+      "b": "Easy Word",
+      "c": "MS Word",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is NOT a step in the merge process?",
+    "options": {
+      "a": "Format a main document",
+      "b": "Merge the two files to print or create a new document",
+      "c": "Sort the data source records",
+      "d": "Edit a data source"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "According to the text, which of the following is the latest version of MS Word?",
+    "options": {
+      "a": "Word 2007",
+      "b": "Word 2000",
+      "c": "Word 2011",
+      "d": "Word 2010"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Background color or effects applied on a document is NOT visible in which of the following?",
+    "options": {
+      "a": "Print Layout view",
+      "b": "Web layout view",
+      "c": "Print Preview",
+      "d": "Reading View"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following options concerning 'Find and Replace' in Excel is INCORRECT?",
+    "options": {
+      "a": "You can search by rows or columns or sheets",
+      "b": "You can search for bold and replace with italics",
+      "c": "You can decide whether to look for the whole word or not",
+      "d": "You can search in formula too"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The most effective method for inserting a new slide into a presentation involves utilizing which view?",
+    "options": {
+      "a": "Slide sorter view",
+      "b": "Special view",
+      "c": "Normal view",
+      "d": "Slide show view"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the maximum limit on the number of lines that can be configured for a drop cap?",
+    "options": {
+      "a": "15",
+      "b": "20",
+      "c": "10",
+      "d": "3"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Identify the INVALID line spacing option from the following choices.",
+    "options": {
+      "a": "Multiple",
+      "b": "Single",
+      "c": "Double",
+      "d": "Triple"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is NOT a component of the merge process?",
+    "options": {
+      "a": "Edit a data source",
+      "b": "Format a main document",
+      "c": "Sort the data source records",
+      "d": "Merge the two files to print or create a new document"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which option represents the most recent version of MS Word listed below?",
+    "options": {
+      "a": "Word 2000",
+      "b": "Word 2007",
+      "c": "Word 2011",
+      "d": "Word 2010"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following is NOT a true statement regarding Find and Replace in Excel?",
+    "options": {
+      "a": "You can search for bold and replace with italics",
+      "b": "You can decide whether to look for the whole word or not",
+      "c": "You can search in formula too",
+      "d": "You can search by rows or columns or sheets"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the MOST effective way to insert a new slide in a presentation?",
+    "options": {
+      "a": "Normal view",
+      "b": "Special view",
+      "c": "Slide show view",
+      "d": "Slide sorter view"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following options represents an INVALID line spacing?",
+    "options": {
+      "a": "Single",
+      "b": "Double",
+      "c": "Triple",
+      "d": "Multiple"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is NOT a part of the merge process?",
+    "options": {
+      "a": "Sort the data source records",
+      "b": "Format a main document",
+      "c": "Edit a data source",
+      "d": "Merge the two files to print or create a new document"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "According to the text, what is considered the latest version of MS Word?",
+    "options": {
+      "a": "Word 2000",
+      "b": "Word 2007",
+      "c": "Word 2010",
+      "d": "Word 2011"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In the context of document processing, what does 'Section' relate to, according to the provided text?",
+    "options": {
+      "a": "Page Setup",
+      "b": "Document",
+      "c": "Section",
+      "d": "Page"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Background colors or effects applied to a document are NOT visible in which of the following views?",
+    "options": {
+      "a": "Web layout view",
+      "b": "Print Layout view",
+      "c": "Reading View",
+      "d": "Print Preview"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Regarding 'Find and Replace' in Excel, which of the following is FALSE?",
+    "options": {
+      "a": "You can decide whether to look for the whole word or not",
+      "b": "You can search in formula too",
+      "c": "You can search for bold and replace with italics",
+      "d": "You can search by rows or columns or sheets"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "According to the text, what is considered the best view to insert a new slide in a presentation?",
+    "options": {
+      "a": "Normal view",
+      "b": "Special view",
+      "c": "Slide show view",
+      "d": "Slide sorter view"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the maximum number of lines that can be set for a drop cap, as stated in the text?",
+    "options": {
+      "a": "3",
+      "b": "10",
+      "c": "15",
+      "d": "20"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following line spacing options is considered invalid, based on the text?",
+    "options": {
+      "a": "Single",
+      "b": "Double",
+      "c": "Triple",
+      "d": "Multiple"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following options includes examples of word processing software?",
+    "options": {
+      "a": "WordPerfect",
+      "b": "Easy Word",
+      "c": "MS Word",
+      "d": "All of above"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "According to the provided text, which of the following actions is NOT part of the merge process?",
+    "options": {
+      "a": "Sort the data source records",
+      "b": "Format a main document",
+      "c": "Edit a data source",
+      "d": "Merge the two files to print or create a new document"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Based on the text, what is the latest version of MS Word mentioned?",
+    "options": {
+      "a": "Word 2000",
+      "b": "Word 2007",
+      "c": "Word 2010",
+      "d": "Word 2011"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following file types can be added as sound effects in Microsoft PowerPoint?",
+    "options": {
+      "a": ".wav files and .mid files",
+      "b": ".wav files and .gif files",
+      "c": ".wav files and .jpg files",
+      "d": ".jpg files and .gif files"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What are special effects used to introduce slides in a PowerPoint presentation called?",
+    "options": {
+      "a": "Effects",
+      "b": "Custom animations",
+      "c": "Transitions",
+      "d": "Present animations"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Microsoft PowerPoint, the entry effect as one slide replaces another is known as a:",
+    "options": {
+      "a": "Animation",
+      "b": "Slide transition",
+      "c": "Custom animation",
+      "d": "Preset animation"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To add a header or footer to a handout in Microsoft PowerPoint, which master should be used?",
+    "options": {
+      "a": "The title master",
+      "b": "The slide master",
+      "c": "The handout master",
+      "d": "All of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Microsoft PowerPoint, which view allows you to see all the slides on one screen?",
+    "options": {
+      "a": "View, slide sorter",
+      "b": "View, slide",
+      "c": "View, master",
+      "d": "View, slide show"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the default page setup orientation for slides in Microsoft PowerPoint?",
+    "options": {
+      "a": "Vertical",
+      "b": "Landscape",
+      "c": "Portrait",
+      "d": "None of above"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Pagemaker is best described as which type of software?",
+    "options": {
+      "a": "Desktop Publishing",
+      "b": "Word Processor",
+      "c": "Spredsheet",
+      "d": "Presentation"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is typically located at the top of the application window and displays the name of the application?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Tool box"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Microsoft PowerPoint, which two types of sound effects files can be added to a presentation?",
+    "options": {
+      "a": ".wav files and .jpg files",
+      "b": ".jpg files and .gif files",
+      "c": ".wav files and .mid files",
+      "d": ".wav files and .gif files"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What are the special effects used to introduce slides in a presentation called?",
+    "options": {
+      "a": "effects",
+      "b": "present animations",
+      "c": "transitions",
+      "d": "custom animations"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Microsoft PowerPoint, the entry effect when one slide replaces another is referred to as a:",
+    "options": {
+      "a": "animation",
+      "b": "slide transition",
+      "c": "preset animation",
+      "d": "custom animation"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To add a header or footer to your handout in Microsoft PowerPoint, you can use:",
+    "options": {
+      "a": "The title master",
+      "b": "The slide master",
+      "c": "The handout master",
+      "d": "All of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Microsoft PowerPoint, which option enables you to view all the slides on one screen?",
+    "options": {
+      "a": "view, slide show",
+      "b": "view, master",
+      "c": "view, slide",
+      "d": "view, slide sorter"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the default page setup orientation for slides in PowerPoint?",
+    "options": {
+      "a": "Vertical",
+      "b": "Portrait",
+      "c": "Landscape",
+      "d": "None of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Pagemaker is a ______ software.",
+    "options": {
+      "a": "Word Processor",
+      "b": "Presentation",
+      "c": "Desktop Publishing",
+      "d": "Spredsheet"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is positioned at the top of the window and displays the application's name?",
+    "options": {
+      "a": "Tool bar",
+      "b": "Menu bar",
+      "c": "Title bar",
+      "d": "Tool box"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following pairs represents the sound effect file types that can be added to a Microsoft PowerPoint presentation?",
+    "options": {
+      "a": ".wav files and .mid files",
+      "b": ".wav files and .gif files",
+      "c": ".wav files and .jpg files",
+      "d": ".jpg files and .gif files"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Microsoft PowerPoint, what is the entry effect called when one slide replaces another during a presentation?",
+    "options": {
+      "a": "Animation",
+      "b": "Slide transition",
+      "c": "Custom animation",
+      "d": "Preset animation"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To insert a header or footer on a handout in Microsoft PowerPoint, which master should you utilize?",
+    "options": {
+      "a": "The title master",
+      "b": "The slide master",
+      "c": "The handout master",
+      "d": "All of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Microsoft PowerPoint, which view option allows you to see all the slides on a single screen?",
+    "options": {
+      "a": "view, slide sorter",
+      "b": "view, slide",
+      "c": "view, master",
+      "d": "view, slide show"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Pagemaker falls under which category of software?",
+    "options": {
+      "a": "Desktop Publishing",
+      "b": "Word Processor",
+      "c": "Spredsheet",
+      "d": "Presentation"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which bar is typically located at the top of the application window and displays the application's name?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Tool box"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following file types can be added as sound effects in a Microsoft PowerPoint presentation?",
+    "options": {
+      "a": ".wav files and .mid files",
+      "b": ".wav files and .gif files",
+      "c": ".wav files and .jpg files",
+      "d": ".jpg files and .gif files"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Microsoft PowerPoint, what is the entry effect called when one slide replaces another in a show?",
+    "options": {
+      "a": "Animation",
+      "b": "Slide transition",
+      "c": "Custom animation",
+      "d": "Preset animation"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To add a header or footer to your handout in Microsoft PowerPoint, which master should you use?",
+    "options": {
+      "a": "The title master",
+      "b": "The slide master",
+      "c": "The handout master",
+      "d": "All of above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Microsoft PowerPoint, which view option allows you to see all the slides on one screen?",
+    "options": {
+      "a": "View, slide sorter",
+      "b": "View, slide",
+      "c": "View, master",
+      "d": "View, slide show"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Pagemaker is primarily a ______ software.",
+    "options": {
+      "a": "Desktop Publishing",
+      "b": "Word Processor",
+      "c": "Spredsheet",
+      "d": "Presentation"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which bar is typically located at the top of a window and displays the name of the application?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Tool box"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which bar contains the layout?",
+    "options": {
+      "a": "Title bar",
+      "b": "Tool box",
+      "c": "Menu bar",
+      "d": "Tool bar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which bar is the 'Save' option located?",
+    "options": {
+      "a": "Title bar",
+      "b": "Tool box",
+      "c": "Tool bar",
+      "d": "Menu bar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the tool called that selects any kind of object on the page?",
+    "options": {
+      "a": "Text tool",
+      "b": "Crop tool",
+      "c": "Pointer tool",
+      "d": "Rotate tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following contains all the tools needed to compose a page?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Tool box"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Clicking on which tool changes the pointer to an insertion point for typing and highlighting text?",
+    "options": {
+      "a": "Rotate tool",
+      "b": "Crop tool",
+      "c": "Text tool",
+      "d": "Pointer tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which tool rotates a text box or image to a desired angle?",
+    "options": {
+      "a": "Text tool",
+      "b": "Crop tool",
+      "c": "Rotate tool",
+      "d": "Pointer tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which tool is used to reduce or cut image area?",
+    "options": {
+      "a": "Rotate tool",
+      "b": "Text tool",
+      "c": "Box tool",
+      "d": "Crop tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which tool is used to draw square cornered boxes?",
+    "options": {
+      "a": "Rotate tool",
+      "b": "Text tool",
+      "c": "Crop tool",
+      "d": "Box tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The layout is located in which bar?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Tool box"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In which bar can the 'Save' option be found?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Tool box"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the tool used to select any kind of object on the page called?",
+    "options": {
+      "a": "Rotate tool",
+      "b": "Text tool",
+      "c": "Pointer tool",
+      "d": "Crop tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which tool is used to rotate a text box or image to a desired angle?",
+    "options": {
+      "a": "Rotate tool",
+      "b": "Text tool",
+      "c": "Rotate tool",
+      "d": "Crop tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which bar is the layout located?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool box",
+      "d": "Tool bar"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The 'Save' option is available in which bar?",
+    "options": {
+      "a": "Tool box",
+      "b": "Title bar",
+      "c": "Menu bar",
+      "d": "Tool bar"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which tool is used for selecting objects on a page?",
+    "options": {
+      "a": "Rotate tool",
+      "b": "Text tool",
+      "c": "Crop tool",
+      "d": "Pointer tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Clicking on which tool changes the pointer to an insertion point for typing?",
+    "options": {
+      "a": "Rotate tool",
+      "b": "Text tool",
+      "c": "Crop tool",
+      "d": "Pointer tool"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which tool is designed to rotate a text box or image to a desired angle?",
+    "options": {
+      "a": "Text tool",
+      "b": "Crop tool",
+      "c": "Rotate tool",
+      "d": "Box tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which bar is the layout option located?",
+    "options": {
+      "a": "Tool bar",
+      "b": "Title bar",
+      "c": "Menu bar",
+      "d": "Tool box"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the tool called that is used to select any kind of object on the page?",
+    "options": {
+      "a": "Text tool",
+      "b": "Crop tool",
+      "c": "Pointer tool",
+      "d": "Rotate tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which tool is used to draw different shapes in Pagemaker 7.0?",
+    "options": {
+      "a": "Box tool",
+      "b": "Crop tool",
+      "c": "Text tool",
+      "d": "Hand tool"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which tool is used to change the magnification of the page view?",
+    "options": {
+      "a": "Crop tool",
+      "b": "Text tool",
+      "c": "Zoom tool",
+      "d": "Hand tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which menu is the Colors Palette located?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Window menu",
+      "d": "Tool bar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the default orientation in Pagemaker 7.0?",
+    "options": {
+      "a": "Wide",
+      "b": "Narrow",
+      "c": "Broad",
+      "d": "Tall"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What style draws a vertical line through the middle of each word?",
+    "options": {
+      "a": "Reverse",
+      "b": "Strike thru",
+      "c": "Normal",
+      "d": "Italic"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the line between two lines of type called?",
+    "options": {
+      "a": "Leading",
+      "b": "Tracking",
+      "c": "Editing",
+      "d": "Formatting"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Adjusting the space between two consecutive characters is called:",
+    "options": {
+      "a": "Leading",
+      "b": "Tracking",
+      "c": "Editing",
+      "d": "Formatting"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which menu are the Paragraph formatting options present?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Type menu",
+      "d": "Tool bar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What action moves the text inward from the right and left margins?",
+    "options": {
+      "a": "Indent",
+      "b": "Cut",
+      "c": "Formatting",
+      "d": "Spacing"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which tool is utilized to alter the magnification of the page view?",
+    "options": {
+      "a": "Text tool",
+      "b": "Hand tool",
+      "c": "Crop tool",
+      "d": "Zoom tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which style draws a vertical line through the middle of each word?",
+    "options": {
+      "a": "Italic",
+      "b": "Normal",
+      "c": "Reverse",
+      "d": "Strike thru"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What term describes the space between two lines of type?",
+    "options": {
+      "a": "Tracking",
+      "b": "Formatting",
+      "c": "Editing",
+      "d": "Leading"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which menu are the Paragraph formatting options located?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which function moves the text inward from the right and left margins?",
+    "options": {
+      "a": "Cut",
+      "b": "Spacing",
+      "c": "Formatting",
+      "d": "Indent"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which tool is used to draw rectangles and squares in Pagemaker?",
+    "options": {
+      "a": "Zoom tool",
+      "b": "Box tool",
+      "c": "Text tool",
+      "d": "Crop tool"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which tool is utilized to modify the magnification of the page view?",
+    "options": {
+      "a": "Text tool",
+      "b": "Crop tool",
+      "c": "Hand tool",
+      "d": "Zoom tool"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What term defines the space between two lines of type?",
+    "options": {
+      "a": "Tracking",
+      "b": "Formatting",
+      "c": "Editing",
+      "d": "Leading"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which menu are the paragraph formatting options available?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which tool is used to draw a rectangle or a square in Pagemaker?",
+    "options": {
+      "a": "Text tool",
+      "b": "Crop tool",
+      "c": "Box tool",
+      "d": "Hand tool"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which menu is the Colors Palette present?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Window menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the term for the line between two lines of type?",
+    "options": {
+      "a": "Leading",
+      "b": "Tracking",
+      "c": "Formatting",
+      "d": "Editing"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Paragraph formatting options are present in which menu?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Title bar",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which function is used to move the text inward from right and left margins?",
+    "options": {
+      "a": "Indent",
+      "b": "Cut",
+      "c": "Spacing",
+      "d": "Formatting"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The 'Cut' option is located within which menu?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Edit menu",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which menu contains the 'Remove pages' option?",
+    "options": {
+      "a": "Layout menu",
+      "b": "Edit menu",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which feature is used to simultaneously specify the color and type of both fill and line?",
+    "options": {
+      "a": "Fill and stroke",
+      "b": "Fill",
+      "c": "Insert page",
+      "d": "Force Justify"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What term describes the process of changing font size?",
+    "options": {
+      "a": "Leading",
+      "b": "Tracking",
+      "c": "Scaling",
+      "d": "Editing"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What type of button, when inserted into slides, performs a predefined action upon being clicked?",
+    "options": {
+      "a": "Action",
+      "b": "Find",
+      "c": "Justify",
+      "d": "View"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "How many worksheets are available by default in an Excel 2007 workbook?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "1",
+      "d": "5"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is defined as a table composed of rows and columns?",
+    "options": {
+      "a": "Worksheet",
+      "b": "Cell",
+      "c": "Workbook",
+      "d": "Range"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "By default, how is numeric data aligned when entered into a worksheet?",
+    "options": {
+      "a": "Left",
+      "b": "Right",
+      "c": "Center",
+      "d": "Top"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To insert a chart into Excel, on which tab should you click?",
+    "options": {
+      "a": "Insert",
+      "b": "Home",
+      "c": "Formulas",
+      "d": "View"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In which menu is the 'Cut' option located?",
+    "options": {
+      "a": "Menu bar",
+      "b": "Edit menu",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The 'Remove pages' option is available under which menu?",
+    "options": {
+      "a": "Layout menu",
+      "b": "Edit menu",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which option is used to define both color and type of fill and line in a single step?",
+    "options": {
+      "a": "Fill and stroke",
+      "b": "Fill",
+      "c": "Insert page",
+      "d": "Force Justify"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What does 'Scaling' refer to?",
+    "options": {
+      "a": "Leading",
+      "b": "Tracking",
+      "c": "Changing font size",
+      "d": "Editing"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which button, when inserted in slides, performs a predefined action upon clicking?",
+    "options": {
+      "a": "Action",
+      "b": "Find",
+      "c": "Justify",
+      "d": "View"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "How many worksheets are there by default in an Excel 2007 workbook?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "1",
+      "d": "5"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is a table consisting of rows and columns referred to as?",
+    "options": {
+      "a": "Worksheet",
+      "b": "Cell",
+      "c": "Workbook",
+      "d": "Range"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "By default, how is numeric data aligned when entered in a worksheet?",
+    "options": {
+      "a": "Left",
+      "b": "Right",
+      "c": "Center",
+      "d": "Top"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Under which tab can you insert a chart into an Excel worksheet?",
+    "options": {
+      "a": "Insert",
+      "b": "Home",
+      "c": "Formulas",
+      "d": "View"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The 'Remove pages' option is found in which menu?",
+    "options": {
+      "a": "Layout menu",
+      "b": "Edit menu",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is used to specify both color and type of fill and line in a single operation?",
+    "options": {
+      "a": "Fill and stroke",
+      "b": "Fill",
+      "c": "Insert page",
+      "d": "Force Justify"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What does 'scaling' refer to in the context of fonts?",
+    "options": {
+      "a": "Leading",
+      "b": "Tracking",
+      "c": "Changing font size",
+      "d": "Editing"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is defined as a table consisting of rows and columns?",
+    "options": {
+      "a": "Worksheet",
+      "b": "Cell",
+      "c": "Workbook",
+      "d": "Range"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Under which tab can you find the option to insert a chart into an Excel sheet?",
+    "options": {
+      "a": "Insert",
+      "b": "Home",
+      "c": "Formulas",
+      "d": "View"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The 'Remove pages' option can be found in the...",
+    "options": {
+      "a": "Layout menu",
+      "b": "Edit menu",
+      "c": "Tool bar",
+      "d": "Type menu"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "What term refers to the process of changing font size?",
+    "options": {
+      "a": "Leading",
+      "b": "Tracking",
+      "c": "Scaling",
+      "d": "Editing"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "A ________ button inserted in slides will perform a predefined action when clicked.",
+    "options": {
+      "a": "Action",
+      "b": "Find",
+      "c": "Justify",
+      "d": "View"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "How many worksheets are there by default in a workbook in Excel 2007?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "1",
+      "d": "5"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is a table composed of rows and columns?",
+    "options": {
+      "a": "Worksheet",
+      "b": "Cell",
+      "c": "Workbook",
+      "d": "Range"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "By default, numeric data entered in a worksheet is ________ aligned.",
+    "options": {
+      "a": "Left",
+      "b": "Right",
+      "c": "Center",
+      "d": "Top"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "To insert a chart in Excel, click on the ________ tab.",
+    "options": {
+      "a": "Insert",
+      "b": "Home",
+      "c": "Formulas",
+      "d": "View"
+    },
+    "correct_answer": "a"
+  }
+]

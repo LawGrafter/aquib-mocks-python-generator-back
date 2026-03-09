@@ -1,0 +1,4272 @@
+[
+  {
+    "question": "In which year was the first census conducted in India?",
+    "options": {
+      "a": "1881",
+      "b": "1872",
+      "c": "1861",
+      "d": "1891"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where was the first post office in India established by the British East India Company?",
+    "options": {
+      "a": "Madras",
+      "b": "Calcutta",
+      "c": "Delhi",
+      "d": "Bombay (now Mumbai)"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The historic 'Victoria Park' is now renamed as what?",
+    "options": {
+      "a": "Gandhi Park",
+      "b": "Nehru Park",
+      "c": "Jung-e-Azadi Park",
+      "d": "Azad Hind Park"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the chief architect and designer of New Delhi?",
+    "options": {
+      "a": "Herbert Baker",
+      "b": "Edwin Lutyens",
+      "c": "Robert Clive",
+      "d": "Warren Hastings"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who built the Bara Imambara in Lucknow?",
+    "options": {
+      "a": "Saadat Ali Khan",
+      "b": "Shuja-ud-Daula",
+      "c": "Asaf-ud-Daula",
+      "d": "Wajid Ali Shah"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The first clear expression of nationalism came with which event?",
+    "options": {
+      "a": "Indian Mutiny of 1857",
+      "b": "American Revolution",
+      "c": "French Revolution",
+      "d": "Russian Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "K.M. Munshi founded which organization?",
+    "options": {
+      "a": "Hindu Mahasabha",
+      "b": "Rashtriya Swayamsevak Sangh",
+      "c": "Bharatiya Vidya Bhavan",
+      "d": "Arya Samaj"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which state was the Mahad Satyagraha started by Dr. B. R. Ambedkar?",
+    "options": {
+      "a": "Gujarat",
+      "b": "Maharashtra",
+      "c": "Madhya Pradesh",
+      "d": "Karnataka"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Palli movement is related to which state?",
+    "options": {
+      "a": "Kerala",
+      "b": "Andhra Pradesh",
+      "c": "Tamil Nadu",
+      "d": "Karnataka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who attempted to assassinate Charles Tegart, the Police Commissioner of Calcutta?",
+    "options": {
+      "a": "Bhagat Singh",
+      "b": "Gopinath Saha",
+      "c": "Khudiram Bose",
+      "d": "Suryasen"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following proposals with their respective years:\n\n   I. August Proposal          A. 1945\n   II. Cripps Proposal         B. 1940\n   III. CR Formula            C. 1942\n   IV. Wavell Plan             D. 1944",
+    "options": {
+      "a": "I-B, II-C, III-D, IV-A",
+      "b": "I-C, II-B, III-A, IV-D",
+      "c": "I-A, II-D, III-C, IV-B",
+      "d": "I-D, II-A, III-B, IV-C"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Since which year has the Amar Jawan Jyoti been burning continuously at India Gate?",
+    "options": {
+      "a": "1965",
+      "b": "1962",
+      "c": "1971",
+      "d": "1947"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country has the longest written constitution in the world?",
+    "options": {
+      "a": "United States of America",
+      "b": "United Kingdom",
+      "c": "India",
+      "d": "Australia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was known as the 'extremist leader' during India's freedom movement?",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Jawaharlal Nehru",
+      "c": "Bal Gangadhar Tilak",
+      "d": "Sardar Vallabhbhai Patel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Gateway of India was built to commemorate the arrival of which British monarchs?",
+    "options": {
+      "a": "Queen Victoria and Prince Albert",
+      "b": "King Edward VII and Queen Alexandra",
+      "c": "King George V and Queen Mary",
+      "d": "King George VI and Queen Elizabeth"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which architectural style was the Gateway of India built?",
+    "options": {
+      "a": "Gothic",
+      "b": "Indo-Saracenic",
+      "c": "Roman",
+      "d": "Greek"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who designed the India Gate in Delhi?",
+    "options": {
+      "a": "Herbert Baker",
+      "b": "Edwin Lutyens",
+      "c": "Robert Chisholm",
+      "d": "William Emerson"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which city was British India primarily located between 1773-1911?",
+    "options": {
+      "a": "Delhi",
+      "b": "Bombay",
+      "c": "Madras",
+      "d": "Calcutta"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Amar Jawan Jyoti?",
+    "options": {
+      "a": "It burns near India Gate.",
+      "b": "It commemorates soldiers martyred during the war.",
+      "c": "It was established in 1971.",
+      "d": "It commemorates soldiers martyred during the First World War."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which city is the 'Jung-e-Azadi Park', formerly known as 'Victoria Park', located?",
+    "options": {
+      "a": "Lucknow",
+      "b": "Meerut",
+      "c": "Agra",
+      "d": "Kanpur"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which event marked the first clear expression of nationalism?",
+    "options": {
+      "a": "American Revolution",
+      "b": "Russian Revolution",
+      "c": "French Revolution",
+      "d": "Industrial Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who attempted to assassinate the Police Commissioner of Calcutta, Charles Tegart?",
+    "options": {
+      "a": "Bhagat Singh",
+      "b": "Gopinath Saha",
+      "c": "Subhas Chandra Bose",
+      "d": "Khudiram Bose"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which year has the Amar Jawan Jyoti been continuously burning at India Gate since?",
+    "options": {
+      "a": "1965",
+      "b": "1971",
+      "c": "1962",
+      "d": "1947"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which country's constitution is the longest written constitution in the world?",
+    "options": {
+      "a": "United States",
+      "b": "China",
+      "c": "India",
+      "d": "Australia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following proposals with their respective years:\n\nColumn I\n(A) August Proposal\n(B) Cripps Proposal\n(C) CR Formula\n(D) Wavell Plan\n\nColumn II\n(1) 1942\n(2) 1940\n(3) 1945\n(4) 1944\n\n",
+    "options": {
+      "a": "A-2, B-1, C-4, D-3",
+      "b": "A-1, B-2, C-3, D-4",
+      "c": "A-4, B-3, C-2, D-1",
+      "d": "A-3, B-4, C-1, D-2"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In which city was the British India capital located between 1773 and 1911?",
+    "options": {
+      "a": "Delhi",
+      "b": "Bombay",
+      "c": "Calcutta",
+      "d": "Madras"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Amar Jawan Jyoti burns near India Gate in memory of soldiers martyred during the war in 1971 with which country?",
+    "options": {
+      "a": "Pakistan",
+      "b": "China",
+      "c": "Bangladesh",
+      "d": "Pak-China"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The Gateway of India was built in what architectural style?",
+    "options": {
+      "a": "Gothic",
+      "b": "Indo-Saracenic",
+      "c": "Roman",
+      "d": "Mughal"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Gateway of India was built to commemorate the arrival of whom?",
+    "options": {
+      "a": "Queen Elizabeth I",
+      "b": "Queen Victoria",
+      "c": "King George V and Queen Mary",
+      "d": "Lord Curzon"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Nathuram Godse's brothers?",
+    "options": {
+      "a": "Dattatreya was a brother of Nathuram Godse.",
+      "b": "Govind was a brother of Nathuram Godse.",
+      "c": "Gopal was a brother of Nathuram Godse.",
+      "d": "None of the brothers were members of the RSS."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "With which event did the first clear expression of nationalism come?",
+    "options": {
+      "a": "Russian Revolution",
+      "b": "American Revolution",
+      "c": "French Revolution",
+      "d": "Industrial Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which organization was founded by K.M. Munshi?",
+    "options": {
+      "a": "Brahmo Samaj",
+      "b": "Arya Samaj",
+      "c": "Bharatiya Vidya Bhavan",
+      "d": "Ramakrishna Mission"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Palli movement is related to which state?",
+    "options": {
+      "a": "Kerala",
+      "b": "Andhra Pradesh",
+      "c": "Tamil Nadu",
+      "d": "Karnataka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who attempted to assassinate Police Commissioner Charles Tegart of Calcutta?",
+    "options": {
+      "a": "Bhagat Singh",
+      "b": "Gopinath Saha",
+      "c": "Khudiram Bose",
+      "d": "Subhas Chandra Bose"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which year did the Amar Jawan Jyoti start burning continuously at India Gate?",
+    "options": {
+      "a": "1965",
+      "b": "1962",
+      "c": "1971",
+      "d": "1947"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The residence of Lala Lajpat Rai is in which region?",
+    "options": {
+      "a": "Bengal",
+      "b": "Punjab",
+      "c": "Bihar",
+      "d": "Bombay"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What was the capital of British India between 1773-1911?",
+    "options": {
+      "a": "Delhi",
+      "b": "Bombay",
+      "c": "Madras",
+      "d": "Calcutta"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Amar Jawan Jyoti burns near India Gate in memory of soldiers martyred during which war?",
+    "options": {
+      "a": "Indo-China",
+      "b": "Pak-China",
+      "c": "Indo-Pak",
+      "d": "World War II"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following proposals with their respective years:\n\nColumn I:\n(A) August Proposal\n(B) Cripps Proposal\n(C) CR Formula\n(D) Wavell Plan\n\nColumn II:\n(1) 1942\n(2) 1945\n(3) 1944\n(4) 1940\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-4, B-1, C-3, D-2",
+      "b": "A-1, B-2, C-4, D-3",
+      "c": "A-3, B-4, C-2, D-1",
+      "d": "A-2, B-3, C-1, D-4"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Gateway of India?",
+    "options": {
+      "a": "It was built in 1911.",
+      "b": "It was built to commemorate the visit of King George V and Queen Mary.",
+      "c": "It is located in Calcutta.",
+      "d": "It was built in the Indo-Saracenic style."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Name one of the brothers of Nathuram Godse who were members of the RSS.",
+    "options": {
+      "a": "Vinayak",
+      "b": "Narayan",
+      "c": "Dattatreya",
+      "d": "Madhav"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who built the Gateway of India to commemorate the arrival of Queen Mary?",
+    "options": {
+      "a": "Lord Curzon",
+      "b": "King George V",
+      "c": "Queen Victoria",
+      "d": "Lord Irwin"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who attempted to assassinate Police Commissioner Charles Tegart?",
+    "options": {
+      "a": "Bhagat Singh",
+      "b": "Gopinath Saha",
+      "c": "Subhas Chandra Bose",
+      "d": "Khudiram Bose"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "During which period was Calcutta the capital of British India?",
+    "options": {
+      "a": "1857-1947",
+      "b": "1600-1757",
+      "c": "1773-1911",
+      "d": "1911-1947"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Amar Jawan Jyoti burns in memory of soldiers martyred during the war with which country in 1971?",
+    "options": {
+      "a": "China",
+      "b": "Pakistan",
+      "c": "Bangladesh",
+      "d": "Myanmar"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In what architectural style was the Gateway of India built to welcome King George V and Queen Mary?",
+    "options": {
+      "a": "Gothic",
+      "b": "Indo-Saracenic",
+      "c": "Roman",
+      "d": "Mughal"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the architect who designed the Gateway of India in Mumbai?",
+    "options": {
+      "a": "Sir Herbert Baker",
+      "b": "Sir Edwin Lutyens",
+      "c": "George Wittet",
+      "d": "Major James Rennell"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was New Delhi officially made the capital of India?",
+    "options": {
+      "a": "1927",
+      "b": "1888",
+      "c": "1944",
+      "d": "1911"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Gateway of India was built to commemorate the visit of which royal figures?",
+    "options": {
+      "a": "Queen Victoria and Prince Albert",
+      "b": "King George VI and Queen Elizabeth",
+      "c": "King Edward VII and Queen Alexandra",
+      "d": "King George V and Queen Mary"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which building in Kolkata is a replica of the Taj Mahal, constructed by the British?",
+    "options": {
+      "a": "Fort William",
+      "b": "Parliament House",
+      "c": "Victoria Memorial",
+      "d": "Chhatrapati Shivaji Terminus"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which Indian city can the Zero Mile Stone, featuring a pillar with four sandstone horses, be found?",
+    "options": {
+      "a": "New Delhi",
+      "b": "Kolkata",
+      "c": "Mumbai",
+      "d": "Nagpur"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who prepared the design for the Indian Parliament House located in New Delhi?",
+    "options": {
+      "a": "Major James Rennell",
+      "b": "Shriman Narayan Agarwal",
+      "c": "Satyendranath Tagore",
+      "d": "Sir Edwin Lutyens and Sir Herbert Baker"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which village was demolished by the East India Company to make way for Fort William?",
+    "options": {
+      "a": "Bethlehem",
+      "b": "Chinhat",
+      "c": "Gobindpur",
+      "d": "Sanchi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Where is the National War Memorial proposed to be built?",
+    "options": {
+      "a": "Nagpur",
+      "b": "Kolkata",
+      "c": "Mumbai",
+      "d": "New Delhi"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which year was Victoria Terminus (now Chhatrapati Shivaji Terminus) built?",
+    "options": {
+      "a": "1911",
+      "b": "1921",
+      "c": "1950",
+      "d": "1888"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "During which period was the Parliament House in Delhi constructed?",
+    "options": {
+      "a": "1824-1826",
+      "b": "1950-1955",
+      "c": "1921-1927",
+      "d": "1944-1949"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the first Indian to join the Indian Civil Service?",
+    "options": {
+      "a": "Henry Lawrence",
+      "b": "Ahmadullah Shah",
+      "c": "Shriman Narayan Agarwal",
+      "d": "Satyendranath Tagore"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who succeeded Shah Jahan Begum and provided funds for the preservation of the ancient site of Sanchi?",
+    "options": {
+      "a": "Mother Teresa",
+      "b": "Sarojini Naidu",
+      "c": "Sultan Jahan Begum",
+      "d": "Queen Mary"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Ahmadullah Shah defeated Henry Lawrence in which battle?",
+    "options": {
+      "a": "Battle of Sanchi",
+      "b": "Battle of Gobindpur",
+      "c": "Battle of Chinhat",
+      "d": "Battle of Bethlehem"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the birthplace of the founder of Christianity?",
+    "options": {
+      "a": "New Delhi",
+      "b": "Kolkata",
+      "c": "Bethlehem",
+      "d": "Nagpur"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was the profession of freedom fighter Deshbandhu Chittaranjan Das?",
+    "options": {
+      "a": "Architect",
+      "b": "Surveyor",
+      "c": "Advocate",
+      "d": "Ruler"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the Missionaries of Charity founded by Mother Teresa?",
+    "options": {
+      "a": "1888",
+      "b": "1911",
+      "c": "1927",
+      "d": "1950"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who is known as the Nightingale of India and played a vital role in awakening Indian women for independence?",
+    "options": {
+      "a": "Mother Teresa",
+      "b": "Sultan Jahan Begum",
+      "c": "Queen Mary",
+      "d": "Sarojini Naidu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who propounded the Gandhian Plan in 1944?",
+    "options": {
+      "a": "George Wittet",
+      "b": "Henry Lawrence",
+      "c": "Shriman Narayan Agarwal",
+      "d": "Edwin Lutyens"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who started the first topographical survey in India?",
+    "options": {
+      "a": "Sir Herbert Baker",
+      "b": "Satyendranath Tagore",
+      "c": "Major James Rennell",
+      "d": "Chittaranjan Das"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The first Anglo-Burman war took place during which years?",
+    "options": {
+      "a": "1921-1927",
+      "b": "1944-1949",
+      "c": "1824-1826",
+      "d": "1950-1955"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who designed the Gateway of India in Mumbai?",
+    "options": {
+      "a": "Sir Herbert Baker",
+      "b": "Sir Edwin Lutyens",
+      "c": "George Wittet",
+      "d": "Major James Rennell"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was New Delhi declared the capital of India?",
+    "options": {
+      "a": "1944",
+      "b": "1950",
+      "c": "1888",
+      "d": "1911"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Victoria Memorial, a replica of the Taj Mahal, is located in which city?",
+    "options": {
+      "a": "Mumbai",
+      "b": "Delhi",
+      "c": "Kolkata",
+      "d": "Nagpur"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Zero Mile Stone, featuring a pillar with four sandstone horses, is located in which Indian city?",
+    "options": {
+      "a": "Delhi",
+      "b": "Kolkata",
+      "c": "Mumbai",
+      "d": "Nagpur"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who prepared the design of the Indian Parliament House in New Delhi?",
+    "options": {
+      "a": "George Wittet",
+      "b": "Major James Rennell",
+      "c": "Sir Edwin Lutyens and Sir Herbert Baker",
+      "d": "Shriman Narayan Agarwal"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which village was demolished to construct Fort William by the East India Company?",
+    "options": {
+      "a": "Bethlehem",
+      "b": "Chinhat",
+      "c": "Gobindpur",
+      "d": "Sanchi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When was Victoria Terminus (now Chhatrapati Shivaji Terminus) built?",
+    "options": {
+      "a": "1921-1927",
+      "b": "1911",
+      "c": "1888",
+      "d": "1824-1826"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who provided funds for the preservation of the ancient site of Sanchi?",
+    "options": {
+      "a": "Shah Jahan Begum",
+      "b": "Sultan Jahan Begum",
+      "c": "Sarojini Naidu",
+      "d": "Mother Teresa"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which battle did Ahmadullah Shah defeat Henry Lawrence?",
+    "options": {
+      "a": "First Anglo-Burman War",
+      "b": "Battle of Sanchi",
+      "c": "Battle of Gobindpur",
+      "d": "Battle of Chinhat"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where is the birthplace of the founder of Christianity?",
+    "options": {
+      "a": "New Delhi",
+      "b": "Kolkata",
+      "c": "Bethlehem",
+      "d": "Nagpur"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which period did the first Anglo-Burman war take place?",
+    "options": {
+      "a": "1921-1927",
+      "b": "1911",
+      "c": "1888",
+      "d": "1824-1826"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which structure was built in Kolkata by the British as a replica of the Taj Mahal?",
+    "options": {
+      "a": "Gateway of India",
+      "b": "Indian Parliament House",
+      "c": "Victoria Memorial",
+      "d": "Fort William"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Zero Mile Stone, featuring a pillar with four sandstone horses, is located in which city?",
+    "options": {
+      "a": "New Delhi",
+      "b": "Kolkata",
+      "c": "Mumbai",
+      "d": "Nagpur"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who prepared the design for the Indian Parliament House in New Delhi?",
+    "options": {
+      "a": "George Wittet",
+      "b": "Shriman Narayan Agarwal",
+      "c": "Satyendranath Tagore",
+      "d": "Sir Edwin Lutyens and Sir Herbert Baker"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Fort William was built by the East India Company after demolishing which village?",
+    "options": {
+      "a": "Bethlehem",
+      "b": "Chinhat",
+      "c": "Gobindpur",
+      "d": "Sanchi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which city is the National War Memorial proposed to be built?",
+    "options": {
+      "a": "Kolkata",
+      "b": "Mumbai",
+      "c": "Nagpur",
+      "d": "New Delhi"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who was the successor of Shah Jahan Begum who provided funds for the preservation of Sanchi?",
+    "options": {
+      "a": "Queen Mary",
+      "b": "Mother Teresa",
+      "c": "Sultan Jahan Begum",
+      "d": "Sarojini Naidu"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Gandhian Plan of 1944 was propounded by whom?",
+    "options": {
+      "a": "Major James Rennell",
+      "b": "Sir Edwin Lutyens",
+      "c": "Shriman Narayan Agarwal",
+      "d": "Henry Lawrence"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which years did the first Anglo-Burman War take place?",
+    "options": {
+      "a": "1921-1927",
+      "b": "1888",
+      "c": "1824-1826",
+      "d": "1911"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following historical figures with their associated landmarks/events:\n\nColumn I\n(A) George Wittet\n(B) Sir Edwin Lutyens\n(C) Satyendranath Tagore\n(D) Mother Teresa\n\nColumn II\n(1) Indian Civil Service\n(2) Missionaries of Charity\n(3) Gateway of India\n(4) Parliament House\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-3, B-4, C-1, D-2",
+      "b": "A-4, B-3, C-2, D-1",
+      "c": "A-2, B-1, C-4, D-3",
+      "d": "A-1, B-2, C-3, D-4"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT?",
+    "options": {
+      "a": "George Wittet designed the Gateway of India.",
+      "b": "New Delhi became the capital in 1911.",
+      "c": "The Parliament House construction spanned from 1921-1927.",
+      "d": "The National War Memorial is proposed to be built in Kolkata."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who was the architect responsible for designing the Gateway of India in Mumbai?",
+    "options": {
+      "a": "Sir Herbert Baker",
+      "b": "Sir Edwin Lutyens",
+      "c": "George Wittet",
+      "d": "Major James Rennell"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did New Delhi officially become the capital of India?",
+    "options": {
+      "a": "1944",
+      "b": "1888",
+      "c": "1921",
+      "d": "1911"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who were the architects who prepared the design of the Indian Parliament House in New Delhi?",
+    "options": {
+      "a": "George Wittet and Major James Rennell",
+      "b": "Sir Edwin Lutyens and George Wittet",
+      "c": "Sir Herbert Baker and Major James Rennell",
+      "d": "Sir Edwin Lutyens and Sir Herbert Baker"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which village was demolished by the East India Company to construct Fort William?",
+    "options": {
+      "a": "Bethlehem",
+      "b": "Chinhat",
+      "c": "Gobindpur",
+      "d": "Sanchi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When was Victoria Terminus (now Chhatrapati Shivaji Terminus) constructed?",
+    "options": {
+      "a": "1911",
+      "b": "1921-1927",
+      "c": "1888",
+      "d": "1824-1826"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the first Indian to successfully join the Indian Civil Service?",
+    "options": {
+      "a": "Shriman Narayan Agarwal",
+      "b": "Henry Lawrence",
+      "c": "Ahmadullah Shah",
+      "d": "Satyendranath Tagore"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who succeeded Shah Jahan Begum as the ruler of Bhopal and provided funds for the preservation of Sanchi?",
+    "options": {
+      "a": "Sarojini Naidu",
+      "b": "Mother Teresa",
+      "c": "Sultan Jahan Begum",
+      "d": "Queen Mary"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Missionaries of Charity was founded by Mother Teresa in which year?",
+    "options": {
+      "a": "1888",
+      "b": "1911",
+      "c": "1950",
+      "d": "1944"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who is known as the Nightingale of India and played a crucial role in awakening Indian women for independence?",
+    "options": {
+      "a": "Sultan Jahan Begum",
+      "b": "Mother Teresa",
+      "c": "Sarojini Naidu",
+      "d": "Queen Mary"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Gandhian Plan, 1944 was propounded by whom?",
+    "options": {
+      "a": "Major James Rennell",
+      "b": "Satyendranath Tagore",
+      "c": "Shriman Narayan Agarwal",
+      "d": "Henry Lawrence"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When did the first Anglo-Burman war take place?",
+    "options": {
+      "a": "1921-1927",
+      "b": "1911",
+      "c": "1888",
+      "d": "1824-1826"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The 'Red Shirts Movement' was initiated by whom?",
+    "options": {
+      "a": "Khan Bahadur Khan",
+      "b": "Khan Abdul Wali Khan",
+      "c": "Khan Abdul Ghaffar Khan",
+      "d": "Khan Muhammad Khan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Members of the Khudai Khidmatgar organization were commonly known as:",
+    "options": {
+      "a": "Red Flag",
+      "b": "Red Army",
+      "c": "Red Brigade",
+      "d": "Red Kurti"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who was the first woman to hold the office of Chief Minister in an Indian state?",
+    "options": {
+      "a": "Sarojini Naidu",
+      "b": "Indira Gandhi",
+      "c": "Sucheta Kripalani",
+      "d": "Vijayalakshmi Pandit"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "According to historical accounts, in which year was the first national flag of India hoisted in Kolkata?",
+    "options": {
+      "a": "1911",
+      "b": "1907",
+      "c": "1905",
+      "d": "1906"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which location was regarded as the nerve center of Indian nationalism during the first decade of the 20th century?",
+    "options": {
+      "a": "Bombay",
+      "b": "Madras",
+      "c": "Bengal",
+      "d": "Delhi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In 1815, who was designated as the first Surveyor General of India?",
+    "options": {
+      "a": "James Rennell",
+      "b": "William Lambton",
+      "c": "Colin Mackenzie",
+      "d": "George Everest"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Khan Abdul Ghaffar Khan was also known by what name?",
+    "options": {
+      "a": "Sher-e-Punjab",
+      "b": "Lok Nayak",
+      "c": "Badshah Khan",
+      "d": "Deshbandhu"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The title 'Frontier Gandhi' was attributed to which of the following individuals?",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Jawaharlal Nehru",
+      "c": "Khan Abdul Ghaffar Khan",
+      "d": "Sheikh Abdullah"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which city served as the summer capital for the British during their rule in India?",
+    "options": {
+      "a": "Darjeeling",
+      "b": "Ooty",
+      "c": "Shimla",
+      "d": "Mussoorie"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the founder of the Swatantra Party?",
+    "options": {
+      "a": "Jawaharlal Nehru",
+      "b": "Indira Gandhi",
+      "c": "C. Rajagopalachari",
+      "d": "Sardar Vallabhbhai Patel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "From which century is the beginning of the modern period in India generally considered?",
+    "options": {
+      "a": "Sixteenth century",
+      "b": "Seventeenth century",
+      "c": "Eighteenth century",
+      "d": "Nineteenth century"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who, serving as the Dewan of Travancore, led a rebellion in 1808 and faced public hanging?",
+    "options": {
+      "a": "Raja Kesavadas",
+      "b": "Velu Thampi",
+      "c": "Marthanda Varma",
+      "d": "Ayyappan Pillai"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Self-Respect Movement, aimed at achieving equal rights for backward castes, was initiated by whom?",
+    "options": {
+      "a": "Jyotirao Phule",
+      "b": "B.R. Ambedkar",
+      "c": "E.V. Ramaswamy",
+      "d": "Narayan Guru"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which Indian leader advocated for total revolution in India?",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Jawaharlal Nehru",
+      "c": "Jayaprakash Narayan",
+      "d": "Ram Manohar Lohia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Durand Line, defining a border, was established through an agreement signed by Abdur-Rahman and which representative of the British Raj?",
+    "options": {
+      "a": "Lord Curzon",
+      "b": "Lord Dalhousie",
+      "c": "Mr. Mortimer",
+      "d": "Sir Cyril Radcliffe"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which metro city in India has retained its name since independence?",
+    "options": {
+      "a": "Mumbai",
+      "b": "Chennai",
+      "c": "Kolkata",
+      "d": "Delhi"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which city in Punjab was formerly known as Ramdaspur?",
+    "options": {
+      "a": "Jalandhar",
+      "b": "Ludhiana",
+      "c": "Amritsar",
+      "d": "Patiala"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is recognized as the world's highest battlefield?",
+    "options": {
+      "a": "Kargil",
+      "b": "Siachen Glacier",
+      "c": "Baltoro Glacier",
+      "d": "Zoji La"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which state in Northeast India is also referred to as 'Nya-Mal-Alen' by its original inhabitants?",
+    "options": {
+      "a": "Arunachal Pradesh",
+      "b": "Nagaland",
+      "c": "Sikkim",
+      "d": "Manipur"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who successfully deciphered the Brahmi and Kharosthi scripts used in ancient inscriptions?",
+    "options": {
+      "a": "Sir William Jones",
+      "b": "Alexander Cunningham",
+      "c": "James Prinsep",
+      "d": "John Marshall"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "By what name were the members of the Khudai Khidmatgar organization popularly known?",
+    "options": {
+      "a": "White Kurti",
+      "b": "Green Kurti",
+      "c": "Red Kurti",
+      "d": "Blue Kurti"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year is it said that the first national flag of India was hoisted?",
+    "options": {
+      "a": "1911",
+      "b": "1905",
+      "c": "1906",
+      "d": "1915"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which place was considered the nerve center of Indian nationalism during the first decade of the 20th century?",
+    "options": {
+      "a": "Bombay",
+      "b": "Madras",
+      "c": "Bengal",
+      "d": "Punjab"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who held the position of the first Surveyor General of India, appointed in 1815?",
+    "options": {
+      "a": "Warren Hastings",
+      "b": "Lord Curzon",
+      "c": "Colin Mackenzie",
+      "d": "Robert Clive"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was Khan Abdul Ghaffar Khan also known as?",
+    "options": {
+      "a": "Sher-e-Punjab",
+      "b": "Lok Nayak",
+      "c": "Badshah Khan",
+      "d": "Deshbandhu"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was the summer capital of British India?",
+    "options": {
+      "a": "Darjeeling",
+      "b": "Nainital",
+      "c": "Shimla",
+      "d": "Mussoorie"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "From which century is the beginning of the modern period in India considered?",
+    "options": {
+      "a": "Sixteenth century",
+      "b": "Seventeenth century",
+      "c": "Eighteenth century",
+      "d": "Nineteenth century"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who, as the Dewan of Travancore, led a rebellion in 1808 and faced public hanging?",
+    "options": {
+      "a": "Tipu Sultan",
+      "b": "Hyder Ali",
+      "c": "Velu Thampi",
+      "d": "Maratanda Varma"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Self-Respect Movement, aimed at equal rights for backward castes, was initiated by whom?",
+    "options": {
+      "a": "Jyotirao Phule",
+      "b": "B.R. Ambedkar",
+      "c": "E.V. Ramaswamy",
+      "d": "Mahatma Gandhi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who advocated for total revolution in India?",
+    "options": {
+      "a": "Ram Manohar Lohia",
+      "b": "Indira Gandhi",
+      "c": "Jayaprakash Narayan",
+      "d": "Vinoba Bhave"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Durand Line agreement was signed between Abdur-Rahman and whose representative of the British Raj?",
+    "options": {
+      "a": "Lord Curzon",
+      "b": "Lord Dalhousie",
+      "c": "Mr. Mortimer",
+      "d": "Lord Mountbatten"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which metro city's name has remained unchanged since India's independence?",
+    "options": {
+      "a": "Mumbai",
+      "b": "Chennai",
+      "c": "Delhi",
+      "d": "Kolkata"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which location is known as the highest battlefield in the world?",
+    "options": {
+      "a": "Kargil",
+      "b": "Siachen Glacier",
+      "c": "Baltoro Glacier",
+      "d": "Zojila Pass"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which state of Northeast India is also referred to as 'Nya-Mal-Alen' by its original inhabitants?",
+    "options": {
+      "a": "Assam",
+      "b": "Manipur",
+      "c": "Sikkim",
+      "d": "Nagaland"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who deciphered the Brahmi and Kharosthi scripts used for earlier inscriptions?",
+    "options": {
+      "a": "Alexander Cunningham",
+      "b": "John Marshall",
+      "c": "James Prinsep",
+      "d": " \u0926\u092f\u093e\u0930\u093e\u092e \u0938\u093e\u0939\u0928\u0940"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The 'Red Shirts Movement' was initiated by which individual?",
+    "options": {
+      "a": "Sucheta Kripalani",
+      "b": "Khan Abdul Ghaffar Khan",
+      "c": "C. Rajagopalachari",
+      "d": "E.V.Ramaswamy"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the first woman to hold the position of Chief Minister in an Indian state?",
+    "options": {
+      "a": "Indira Gandhi",
+      "b": "Sarojini Naidu",
+      "c": "Sucheta Kripalani",
+      "d": "Vijayalakshmi Pandit"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which city is it believed that the first national flag of India was hoisted in 1906?",
+    "options": {
+      "a": "Delhi",
+      "b": "Bombay",
+      "c": "Calcutta",
+      "d": "Madras"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Khan Abdul Ghaffar Khan was also known as:",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Frontier Gandhi",
+      "c": "Deshbandhu",
+      "d": "Lokmanya"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which city served as the summer capital for the British?",
+    "options": {
+      "a": "Darjeeling",
+      "b": "Shimla",
+      "c": "Ooty",
+      "d": "Nainital"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who founded the Swatantra Party?",
+    "options": {
+      "a": "Jawaharlal Nehru",
+      "b": "Indira Gandhi",
+      "c": "C. Rajagopalachari",
+      "d": "Sardar Patel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The modern period in India is generally considered to have begun in which century?",
+    "options": {
+      "a": "Sixteenth century",
+      "b": "Seventeenth century",
+      "c": "Eighteenth century",
+      "d": "Nineteenth century"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Velu Thampi, who led a rebellion in 1808 and was publicly hanged, was the Dewan of which place?",
+    "options": {
+      "a": "Mysore",
+      "b": "Travancore",
+      "c": "Cochin",
+      "d": "Madras"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Self-Respect Movement, aimed at equal rights for backward castes, was started by:",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "B.R. Ambedkar",
+      "c": "E.V. Ramaswamy",
+      "d": "Jyotirao Phule"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who advocated for a total revolution in India?",
+    "options": {
+      "a": "Indira Gandhi",
+      "b": "Jawaharlal Nehru",
+      "c": "Jayaprakash Narayan",
+      "d": "Ram Manohar Lohia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Durand Line, established by an agreement signed by Abdur-Rahman and a British representative, was signed with Mr. _______.",
+    "options": {
+      "a": "Lord Curzon",
+      "b": "Lord Mountbatten",
+      "c": "Mortimer",
+      "d": "Wellesley"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The city in Punjab formerly known as Ramdaspur is:",
+    "options": {
+      "a": "Chandigarh",
+      "b": "Ludhiana",
+      "c": "Amritsar",
+      "d": "Jalandhar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is known as the highest battlefield in the world?",
+    "options": {
+      "a": "Kargil",
+      "b": "Siachen Glacier",
+      "c": "Drass",
+      "d": "Baltistan"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which state in Northeast India is also called 'Nya-Mal-Alen' by its original inhabitants?",
+    "options": {
+      "a": "Arunachal Pradesh",
+      "b": "Meghalaya",
+      "c": "Sikkim",
+      "d": "Nagaland"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which city was the first national flag of India reportedly hoisted in 1906?",
+    "options": {
+      "a": "Delhi",
+      "b": "Mumbai",
+      "c": "Kolkata",
+      "d": "Chennai"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was appointed as the first Surveyor General of India in 1815?",
+    "options": {
+      "a": "James Prinsep",
+      "b": "Lord Curzon",
+      "c": "Colin Mackenzie",
+      "d": "Warren Hastings"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The title 'Frontier Gandhi' was given to whom?",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Jawaharlal Nehru",
+      "c": "Khan Abdul Ghaffar Khan",
+      "d": "Sardar Vallabhbhai Patel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was the summer capital of the British during their rule in India?",
+    "options": {
+      "a": "Delhi",
+      "b": "Kolkata",
+      "c": "Shimla",
+      "d": "Mumbai"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who, as the Dewan of Travancore, led a rebellion in 1808 and was publicly hanged?",
+    "options": {
+      "a": "Tipu Sultan",
+      "b": "Velu Thampi",
+      "c": "Hyder Ali",
+      "d": "Ranjit Singh"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Self-Respect Movement, aimed at creating a society where backward castes enjoy equal human rights, was started by:",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "B.R. Ambedkar",
+      "c": "E.V. Ramaswamy",
+      "d": "Jyotirao Phule"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Durand Line was established through an agreement signed by Abdur-Rahman and the British Raj's representative, Mr. ________.",
+    "options": {
+      "a": "Lord Curzon",
+      "b": "Lord Mountbatten",
+      "c": "Mortimer",
+      "d": "Wavell"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who successfully deciphered the Brahmi and Kharosthi scripts used for earlier inscriptions?",
+    "options": {
+      "a": "Alexander Cunningham",
+      "b": "John Marshall",
+      "c": "James Prinsep",
+      "d": "Robert Sewell"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the Dowry Prohibition Act enacted?",
+    "options": {
+      "a": "1951",
+      "b": "1971",
+      "c": "1961",
+      "d": "1941"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Ashokan inscriptions, written in the Brahmi script, were deciphered in which year?",
+    "options": {
+      "a": "1737",
+      "b": "1847",
+      "c": "1837",
+      "d": "1747"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which city was the East India Association formed in 1866?",
+    "options": {
+      "a": "Calcutta",
+      "b": "Bombay",
+      "c": "Delhi",
+      "d": "London"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The 'pledge movement' started by the Indian Social Conference aimed at:",
+    "options": {
+      "a": "Promoting widow remarriage",
+      "b": "Prohibiting child marriage",
+      "c": "Encouraging inter-caste marriage",
+      "d": "Abolishing the caste system"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the first Indian member of the British Parliament?",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Jawaharlal Nehru",
+      "c": "Dadabhai Naoroji",
+      "d": "Sardar Vallabhbhai Patel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was the Child Marriage Restraint Act passed?",
+    "options": {
+      "a": "1939",
+      "b": "1919",
+      "c": "1929",
+      "d": "1909"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who established the Archaeological Survey of India in 1861?",
+    "options": {
+      "a": "Lord Curzon",
+      "b": "John Marshall",
+      "c": "Alexander Cunningham",
+      "d": "James Prinsep"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Where is Vivekananda Rock Memorial located?",
+    "options": {
+      "a": "Chennai",
+      "b": "Kanyakumari",
+      "c": "Mumbai",
+      "d": "Kochi"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Until 1972, which Indian state was known as the North East Frontier Agency?",
+    "options": {
+      "a": "Assam",
+      "b": "Manipur",
+      "c": "Arunachal Pradesh",
+      "d": "Nagaland"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Veerapandya Kattabomman, an 18th-century freedom fighter, was from which present-day state?",
+    "options": {
+      "a": "Kerala",
+      "b": "Karnataka",
+      "c": "Andhra Pradesh",
+      "d": "Tamil Nadu"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which region became a Union Territory of India in 1954 after 280 years of French rule?",
+    "options": {
+      "a": "Goa",
+      "b": "Daman and Diu",
+      "c": "Puducherry",
+      "d": "Chandigarh"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the battle of Saragarhi fought?",
+    "options": {
+      "a": "1907",
+      "b": "1857",
+      "c": "1897",
+      "d": "1917"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Savitribai Phule, a veteran freedom fighter and social reformer, was from which Indian state?",
+    "options": {
+      "a": "Gujarat",
+      "b": "Rajasthan",
+      "c": "Maharashtra",
+      "d": "Madhya Pradesh"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was Sanchi rediscovered after being abandoned for about 600 years?",
+    "options": {
+      "a": "1718",
+      "b": "1828",
+      "c": "1818",
+      "d": "1728"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "On which date was the Indus Water Treaty signed between India and Pakistan?",
+    "options": {
+      "a": "September 16, 1960",
+      "b": "September 29, 1960",
+      "c": "September 19, 1960",
+      "d": "September 26, 1960"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who gave us the CR formula?",
+    "options": {
+      "a": "Jawaharlal Nehru",
+      "b": "Mahatma Gandhi",
+      "c": "C. Rajagopalachari",
+      "d": "Sardar Vallabhbhai Patel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who addressed the Parliament after Jawaharlal Nehru at midnight on August 15, 1947?",
+    "options": {
+      "a": "Indira Gandhi",
+      "b": "Rajendra Prasad",
+      "c": "Sarvepalli Radhakrishnan",
+      "d": "Lal Bahadur Shastri"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the first Deputy Prime Minister of India after independence?",
+    "options": {
+      "a": "Jawaharlal Nehru",
+      "b": "Lal Bahadur Shastri",
+      "c": "Sardar Vallabhbhai Patel",
+      "d": "Indira Gandhi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Kala Bhavan, an institution for visual arts, established in 1919, is located in which state?",
+    "options": {
+      "a": "Maharashtra",
+      "b": "West Bengal",
+      "c": "Gujarat",
+      "d": "Tamil Nadu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the founder of the East India Association?",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Jawaharlal Nehru",
+      "c": "Dadabhai Naoroji",
+      "d": "Sardar Vallabhbhai Patel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The 'pledge movement' initiated by the Indian Social Conference aimed at:",
+    "options": {
+      "a": "Promoting widow remarriage",
+      "b": "Prohibiting child marriage",
+      "c": "Encouraging inter-caste marriage",
+      "d": "Abolishing untouchability"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which year was the Child Marriage Restraint Act passed?",
+    "options": {
+      "a": "1935",
+      "b": "1929",
+      "c": "1947",
+      "d": "1950"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Vivekananda Rock Memorial is located in:",
+    "options": {
+      "a": "Rameshwaram",
+      "b": "Kanyakumari",
+      "c": "Chennai",
+      "d": "Mumbai"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which Indian state was formerly known as the North East Frontier Agency?",
+    "options": {
+      "a": "Assam",
+      "b": "Manipur",
+      "c": "Arunachal Pradesh",
+      "d": "Nagaland"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Savitribai Phule, a freedom fighter and social reformer, was from which state?",
+    "options": {
+      "a": "Gujarat",
+      "b": "Rajasthan",
+      "c": "Maharashtra",
+      "d": "Madhya Pradesh"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was Sanchi rediscovered after being abandoned for about 600 years?",
+    "options": {
+      "a": "1792",
+      "b": "1818",
+      "c": "1857",
+      "d": "1901"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "On what date was the Indus Water Treaty signed between India and Pakistan?",
+    "options": {
+      "a": "August 15, 1947",
+      "b": "January 26, 1950",
+      "c": "September 19, 1960",
+      "d": "December 16, 1971"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who addressed the Parliament after Jawaharlal Nehru on August 15, 1947?",
+    "options": {
+      "a": "Indira Gandhi",
+      "b": "Rajendra Prasad",
+      "c": "Sarvepalli Radhakrishnan",
+      "d": "Lal Bahadur Shastri"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which state is Kala Bhavan, established in 1919, located?",
+    "options": {
+      "a": "Maharashtra",
+      "b": "West Bengal",
+      "c": "Tamil Nadu",
+      "d": "Kerala"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What was the objective of the 'pledge movement' started by the Indian Social Conference?",
+    "options": {
+      "a": "Promoting widow remarriage",
+      "b": "Prohibiting child marriage",
+      "c": "Encouraging inter-caste marriage",
+      "d": "Abolishing Sati"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which Indian state was known as the North East Frontier Agency until 1972?",
+    "options": {
+      "a": "Assam",
+      "b": "Manipur",
+      "c": "Arunachal Pradesh",
+      "d": "Nagaland"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "After how many years of French rule did Puducherry become a Union Territory of India in 1954?",
+    "options": {
+      "a": "250",
+      "b": "300",
+      "c": "280",
+      "d": "320"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Savitribai Phule, a veteran freedom fighter and social reformer, is from which state of India?",
+    "options": {
+      "a": "Gujarat",
+      "b": "Rajasthan",
+      "c": "Maharashtra",
+      "d": "Madhya Pradesh"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was Sanchi discovered after being abandoned for about 600 years?",
+    "options": {
+      "a": "1828",
+      "b": "1808",
+      "c": "1818",
+      "d": "1838"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Kala Bhavan, a renowned institution for education and research in visual arts, is located in which state?",
+    "options": {
+      "a": "Odisha",
+      "b": "West Bengal",
+      "c": "Bihar",
+      "d": "Assam"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who formed the East India Association in London in 1866?",
+    "options": {
+      "a": "Mahatma Gandhi",
+      "b": "Jawaharlal Nehru",
+      "c": "Dadabhai Naoroji",
+      "d": "Sardar Vallabhbhai Patel"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The 'pledge movement' was started by the Indian Social Conference with what objective?",
+    "options": {
+      "a": "Promoting widow remarriage",
+      "b": "Prohibiting child marriage",
+      "c": "Encouraging inter-caste marriage",
+      "d": "Promoting women's education"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Archaeological Survey of India was established by whom in 1861?",
+    "options": {
+      "a": "John Marshall",
+      "b": "Robert Clive",
+      "c": "Alexander Cunningham",
+      "d": "Lord Curzon"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Vivekananda Rock Memorial is located in which city?",
+    "options": {
+      "a": "Chennai",
+      "b": "Mumbai",
+      "c": "Kanyakumari",
+      "d": "Kochi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Sanchi was discovered in which year after being abandoned for about 600 years?",
+    "options": {
+      "a": "1828",
+      "b": "1808",
+      "c": "1818",
+      "d": "1798"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Kala Bhavan, established in 1919, is located in which state?",
+    "options": {
+      "a": "Odisha",
+      "b": "Bihar",
+      "c": "West Bengal",
+      "d": "Assam"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the founder of the Andhra Mahila Sabha?",
+    "options": {
+      "a": "Satyendranath Tagore",
+      "b": "Durgabai Deshmukh",
+      "c": "Abraham Lincoln",
+      "d": "Plato"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following events occurred in 1942?",
+    "options": {
+      "a": "Simon Commission visits India",
+      "b": "Chauri Chauri incident",
+      "c": "Cripps Mission's visit to India",
+      "d": "Jallianwala Bagh massacre"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year did the United States enter World War II?",
+    "options": {
+      "a": "1918",
+      "b": "1941",
+      "c": "1945",
+      "d": "1920"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Abraham Lincoln is associated with which of the following?",
+    "options": {
+      "a": "The French Revolution",
+      "b": "The end of slavery in America",
+      "c": "The Russo-Japanese War",
+      "d": "The establishment of the UN"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Trafalgar Square is located in which city?",
+    "options": {
+      "a": "Paris",
+      "b": "Mumbai",
+      "c": "Versailles",
+      "d": "London"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "With which country does the world associate the word 'Holocaust'?",
+    "options": {
+      "a": "Russia",
+      "b": "France",
+      "c": "Germany",
+      "d": "Iran"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Palace of Versailles is located near which capital city?",
+    "options": {
+      "a": "London",
+      "b": "Mumbai",
+      "c": "Paris",
+      "d": "Alaska"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The statement \u201cMan's greed is the effective cause of crime\u201d is attributed to whom?",
+    "options": {
+      "a": "Abraham Lincoln",
+      "b": "Satyendranath Tagore",
+      "c": "Durgabai Deshmukh",
+      "d": "Plato"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which city is the 'Gateway of India' located?",
+    "options": {
+      "a": "London",
+      "b": "Mumbai",
+      "c": "Paris",
+      "d": "Berlin"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which state of the United States was formerly a part of Russia?",
+    "options": {
+      "a": "Persia",
+      "b": "Bangladesh",
+      "c": "Alaska",
+      "d": "Germany"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the ancient name of Iran?",
+    "options": {
+      "a": "Alaska",
+      "b": "Persia",
+      "c": "Germany",
+      "d": "London"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "On what date does Bangladesh celebrate its Independence Day?",
+    "options": {
+      "a": "August 8",
+      "b": "August 1",
+      "c": "April 6",
+      "d": "26 March"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The UN was established as the successor to the League of Nations immediately after which event?",
+    "options": {
+      "a": "The French Revolution",
+      "b": "World War I",
+      "c": "Russo-Japanese War",
+      "d": "World War II"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who was the first Indian to be selected in the ICS?",
+    "options": {
+      "a": "Abraham Lincoln",
+      "b": "Durgabai Deshmukh",
+      "c": "Satyendranath Tagore",
+      "d": "Plato"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was the forerunner of the Indian National Congress?",
+    "options": {
+      "a": "League of Nations",
+      "b": "Indian Association",
+      "c": "Andhra Mahila Sabha",
+      "d": "United Nations"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Arrange the following events in chronological order: (1) Chauri Chaura incident (2) Cripps Mission's visit to India (3) Jallianwala Bagh massacre (4) Simon Commission visits India",
+    "options": {
+      "a": "3-1-4-2",
+      "b": "1-3-2-4",
+      "c": "4-2-1-3",
+      "d": "2-4-3-1"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following is the correct chronological sequence of events: (1) Quit India Movement (2) Non-cooperation movement (3) Civil disobedience movement (4) Jallianwala Bagh Massacre",
+    "options": {
+      "a": "4-2-3-1",
+      "b": "2-4-1-3",
+      "c": "3-1-2-4",
+      "d": "1-2-3-4"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following events with their respective dates:\nColumn I\n(A) Jallianwala Bagh Massacre\n(B) Non-cooperation movement\n(C) Civil disobedience movement\n(D) Quit India Movement\nColumn II\n(1) August 8, 1942\n(2) April 13, 1919\n(3) April 6, 1930\n(4) August 1, 1920",
+    "options": {
+      "a": "A-2, B-4, C-3, D-1",
+      "b": "A-1, B-2, C-3, D-4",
+      "c": "A-4, B-3, C-2, D-1",
+      "d": "A-3, B-1, C-4, D-2"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding historical events?",
+    "options": {
+      "a": "The First World War ended on November 11, 1918.",
+      "b": "The French Revolution took place in 1789 AD.",
+      "c": "The Russo-Japanese War took place in 1904\u201305.",
+      "d": "The United Nations was established in 1941."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following events in chronological order:",
+    "options": {
+      "a": "Jallianwala Bagh massacre, Simon Commission visits India, Chauri Chauri incident, Cripps Mission's visit to India",
+      "b": "Jallianwala Bagh massacre, Chauri Chauri incident, Simon Commission visits India, Cripps Mission's visit to India",
+      "c": "Simon Commission visits India, Cripps Mission's visit to India, Jallianwala Bagh massacre, Chauri Chauri incident",
+      "d": "Cripps Mission's visit to India, Simon Commission visits India, Chauri Chauri incident, Jallianwala Bagh massacre"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following events with their dates:\n\nColumn I\n(A) Jallianwala Bagh Massacre\n(B) Non-cooperation movement\n(C) Civil disobedience movement\n(D) Quit India Movement\n\nColumn II\n(1) August 8, 1942\n(2) April 13, 1919\n(3) August 1, 1920\n(4) April 6, 1930",
+    "options": {
+      "a": "A-2, B-3, C-4, D-1",
+      "b": "A-3, B-2, C-1, D-4",
+      "c": "A-4, B-1, C-2, D-3",
+      "d": "A-1, B-4, C-3, D-2"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following events greatly influenced the Indian national movement in the early twentieth century?",
+    "options": {
+      "a": "French Revolution",
+      "b": "World War II",
+      "c": "Russo-Japanese War",
+      "d": "World War I"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did the United States enter World War II?",
+    "options": {
+      "a": "1904",
+      "b": "1918",
+      "c": "1941",
+      "d": "1789"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did the French Revolution take place?",
+    "options": {
+      "a": "1941 AD",
+      "b": "1918 AD",
+      "c": "1789 AD",
+      "d": "1945 AD"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who created the end of slavery in America?",
+    "options": {
+      "a": "Plato",
+      "b": "Durgabai Deshmukh",
+      "c": "Satyendranath Tagore",
+      "d": "Abraham Lincoln"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where is Trafalgar Square located?",
+    "options": {
+      "a": "Paris",
+      "b": "Mumbai",
+      "c": "London",
+      "d": "Versailles"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country is most associated with the word 'Holocaust'?",
+    "options": {
+      "a": "Russia",
+      "b": "France",
+      "c": "Germany",
+      "d": "Iran"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Near which city is the capital of France located?",
+    "options": {
+      "a": "London",
+      "b": "Mumbai",
+      "c": "Versailles",
+      "d": "Paris"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who stated that \u201cMan's greed is the effective cause of crime.\u201d?",
+    "options": {
+      "a": "Abraham Lincoln",
+      "b": "Satyendranath Tagore",
+      "c": "Durgabai Deshmukh",
+      "d": "Plato"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "When did the First World War end?",
+    "options": {
+      "a": "August 8, 1942",
+      "b": "April 6, 1930",
+      "c": "April 13, 1919",
+      "d": "November 11, 1918"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where is the 'Gateway of India' located?",
+    "options": {
+      "a": "London",
+      "b": "Paris",
+      "c": "Mumbai",
+      "d": "Versailles"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which state of the United States of America was formerly a part of Russia?",
+    "options": {
+      "a": "Persia",
+      "b": "Germany",
+      "c": "Alaska",
+      "d": "Iran"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "On which date does Bangladesh celebrate its Independence Day?",
+    "options": {
+      "a": "August 8",
+      "b": "April 6",
+      "c": "March 26",
+      "d": "November 11"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The UN was established immediately after which event?",
+    "options": {
+      "a": "French Revolution",
+      "b": "World War I",
+      "c": "Russo-Japanese War",
+      "d": "World War II"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who was the founder of Andhra Mahila Sabha?",
+    "options": {
+      "a": "Satyendranath Tagore",
+      "b": "Durgabai Deshmukh",
+      "c": "Abraham Lincoln",
+      "d": "Plato"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following events with their respective dates:",
+    "options": {
+      "a": "Jallianwala Bagh - Aug 1, Non-cooperation - April 6, Civil disobedience - Aug 8, Quit India - April 13",
+      "b": "Jallianwala Bagh - April 6, Non-cooperation - Aug 8, Civil disobedience - Aug 1, Quit India - April 13",
+      "c": "Jallianwala Bagh - April 13, Non-cooperation - Aug 1, Civil disobedience - April 6, Quit India - Aug 8",
+      "d": "Jallianwala Bagh - Aug 8, Non-cooperation - April 13, Civil disobedience - Aug 1, Quit India - April 6"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who is credited with ending slavery in America?",
+    "options": {
+      "a": "Plato",
+      "b": "Satyendranath Tagore",
+      "c": "Abraham Lincoln",
+      "d": "Durgabai Deshmukh"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which city is Trafalgar Square located?",
+    "options": {
+      "a": "Paris",
+      "b": "Mumbai",
+      "c": "London",
+      "d": "Versailles"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country is especially associated with the word 'Holocaust'?",
+    "options": {
+      "a": "Russia",
+      "b": "Germany",
+      "c": "France",
+      "d": "Iran"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "From whom does the statement \u201cMan's greed is the effective cause of crime\u201d originate?",
+    "options": {
+      "a": "Abraham Lincoln",
+      "b": "Satyendranath Tagore",
+      "c": "Durgabai Deshmukh",
+      "d": "Plato"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The UN was established in 1945 as the successor to which organization?",
+    "options": {
+      "a": "Indian Association",
+      "b": "Andhra Mahila Sabha",
+      "c": "Simon Commission",
+      "d": "League of Nations"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The first Indian to be selected in the ICS was:",
+    "options": {
+      "a": "Durgabai Deshmukh",
+      "b": "Abraham Lincoln",
+      "c": "Satyendranath Tagore",
+      "d": "Plato"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following events in chronological order:\nI. Simon Commission visits India\nII. Cripps Mission's visit to India\nIII. Jallianwala Bagh massacre\nIV. Chauri Chauri incident",
+    "options": {
+      "a": "III, IV, I, II",
+      "b": "I, II, III, IV",
+      "c": "II, I, IV, III",
+      "d": "IV, III, II, I"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following events occurred on August 1, 1920?",
+    "options": {
+      "a": "Jallianwala Bagh Massacre",
+      "b": "Non-cooperation movement",
+      "c": "Civil disobedience movement",
+      "d": "Quit India Movement"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Russo-Japanese War, which greatly influenced the Indian national movement, took place in:",
+    "options": {
+      "a": "1941\u201345",
+      "b": "1918",
+      "c": "1904\u201305",
+      "d": "1789"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The French Revolution took place in the year:",
+    "options": {
+      "a": "1941",
+      "b": "1945",
+      "c": "1918",
+      "d": "1789 AD"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The word 'Holocaust' is especially associated with which country?",
+    "options": {
+      "a": "Russia",
+      "b": "France",
+      "c": "Germany",
+      "d": "Iran"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The statement \u201cMan's greed is the effective cause of crime\u201d is attributed to:",
+    "options": {
+      "a": "Abraham Lincoln",
+      "b": "Satyendranath Tagore",
+      "c": "Plato",
+      "d": "Durgabai Deshmukh"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The First World War ended on:",
+    "options": {
+      "a": "August 8, 1942",
+      "b": "April 6, 1930",
+      "c": "August 1, 1920",
+      "d": "November 11, 1918"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The UN was established immediately after World War II as the successor to which organization?",
+    "options": {
+      "a": "Indian Association",
+      "b": "Andhra Mahila Sabha",
+      "c": "Simon Commission",
+      "d": "League of Nations"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Hundred Years' War was primarily fought between which two countries?",
+    "options": {
+      "a": "Germany and France",
+      "b": "England and Spain",
+      "c": "England and France",
+      "d": "Spain and France"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year did the Boston Tea Party take place?",
+    "options": {
+      "a": "1776",
+      "b": "1783",
+      "c": "1773",
+      "d": "1775"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country was involved in the Opium Wars alongside Britain?",
+    "options": {
+      "a": "Japan",
+      "b": "India",
+      "c": "China",
+      "d": "Russia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the Battle of Waterloo fought?",
+    "options": {
+      "a": "1805",
+      "b": "1812",
+      "c": "1815",
+      "d": "1820"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was the Berlin Wall demolished?",
+    "options": {
+      "a": "1985",
+      "b": "1991",
+      "c": "1989",
+      "d": "1990"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which technology was developed during World War II to detect enemy submarines?",
+    "options": {
+      "a": "Radar",
+      "b": "Sonar",
+      "c": "Lidar",
+      "d": "Infrared"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which political party came to power in Britain in 1945 and committed to granting independence to India?",
+    "options": {
+      "a": "Conservative Party",
+      "b": "Liberal Party",
+      "c": "Labour Party",
+      "d": "National Party"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which country was Marie Antoinette, the last queen of France, born?",
+    "options": {
+      "a": "France",
+      "b": "Germany",
+      "c": "Austria",
+      "d": "Spain"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which American city can you find the Freedom Trail?",
+    "options": {
+      "a": "New York",
+      "b": "Philadelphia",
+      "c": "Boston",
+      "d": "Washington D.C."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The ideas of liberty, equality, and fraternity were inspired by which revolution?",
+    "options": {
+      "a": "American Revolution",
+      "b": "Russian Revolution",
+      "c": "French Revolution",
+      "d": "Industrial Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was the Eiffel Tower built to commemorate the 100th anniversary of the French Revolution?",
+    "options": {
+      "a": "1789",
+      "b": "1879",
+      "c": "1889",
+      "d": "1899"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did the French Revolution begin?",
+    "options": {
+      "a": "1776",
+      "b": "1783",
+      "c": "1789",
+      "d": "1792"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the Battle of Gulnabad fought?",
+    "options": {
+      "a": "1712",
+      "b": "1722",
+      "c": "1732",
+      "d": "1742"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which American president delivered The Gettysburg Address?",
+    "options": {
+      "a": "Thomas Jefferson",
+      "b": "George Washington",
+      "c": "Abraham Lincoln",
+      "d": "Franklin D. Roosevelt"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following figures is associated with the American War of Independence?",
+    "options": {
+      "a": "Winston Churchill",
+      "b": "George Washington",
+      "c": "Napoleon Bonaparte",
+      "d": "Otto von Bismarck"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In what year did the United States of America adopt a democratic constitution?",
+    "options": {
+      "a": "1776",
+      "b": "1783",
+      "c": "1787",
+      "d": "1791"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the Treaty of Versailles signed?",
+    "options": {
+      "a": "1914",
+      "b": "1918",
+      "c": "1919",
+      "d": "1920"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which alliance was the Soviet Union a part of during the Second World War?",
+    "options": {
+      "a": "Axis Powers",
+      "b": "Central Powers",
+      "c": "Allied Powers",
+      "d": "Triple Alliance"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Hundred Years' War was fought between which of the following countries?",
+    "options": {
+      "a": "Germany and France",
+      "b": "England and Spain",
+      "c": "England and France",
+      "d": "Spain and France"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country was involved in the Opium Wars alongside China?",
+    "options": {
+      "a": "France",
+      "b": "Germany",
+      "c": "Britain",
+      "d": "Russia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which battle was Napoleon defeated?",
+    "options": {
+      "a": "Battle of Berlin",
+      "b": "Battle of France",
+      "c": "Battle of Britain",
+      "d": "Waterloo"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What technology, developed during World War II, was used to track enemy submarines?",
+    "options": {
+      "a": "Radar",
+      "b": "Laser",
+      "c": "Sonar",
+      "d": "Infrared"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Marie Antoinette, the last queen of France, was born in which country?",
+    "options": {
+      "a": "Germany",
+      "b": "Italy",
+      "c": "Spain",
+      "d": "Austria"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which American city is The Freedom Trail located?",
+    "options": {
+      "a": "New York",
+      "b": "Washington",
+      "c": "Boston",
+      "d": "Philadelphia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Paul Revere, who fought in the American Revolution, lived and died in which town?",
+    "options": {
+      "a": "New York",
+      "b": "Philadelphia",
+      "c": "Boston",
+      "d": "Washington"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "From which revolution were the ideals of liberty, equality, and fraternity inspired?",
+    "options": {
+      "a": "American Revolution",
+      "b": "Russian Revolution",
+      "c": "French Revolution",
+      "d": "Industrial Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year did the French Revolution begin?",
+    "options": {
+      "a": "1779",
+      "b": "1799",
+      "c": "1789",
+      "d": "1769"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "From which revolution were the ideals of liberty, equality, and fraternity taken, influencing the national movement of India?",
+    "options": {
+      "a": "American",
+      "b": "Russian",
+      "c": "French",
+      "d": "Industrial"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was the Battle of Gulnabad fought under the leadership of Mahmud Hotaki?",
+    "options": {
+      "a": "1712",
+      "b": "1732",
+      "c": "1722",
+      "d": "1742"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which historical figure is associated with the American War of Independence?",
+    "options": {
+      "a": "Thomas Jefferson",
+      "b": "Benjamin Franklin",
+      "c": "George Washington",
+      "d": "John Adams"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was the Treaty of Versailles signed?",
+    "options": {
+      "a": "1929",
+      "b": "1909",
+      "c": "1919",
+      "d": "1939"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In the Second World War, which alliance included the Allied Powers?",
+    "options": {
+      "a": "Axis Power",
+      "b": "Central Power",
+      "c": "Soviet Union",
+      "d": "United Nations"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did the Boston Tea Party take place?",
+    "options": {
+      "a": "1763",
+      "b": "1783",
+      "c": "1773",
+      "d": "1793"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country, besides China, was involved in the Opium Wars?",
+    "options": {
+      "a": "France",
+      "b": "Russia",
+      "c": "Britain",
+      "d": "Germany"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was the Battle of Waterloo fought?",
+    "options": {
+      "a": "1805",
+      "b": "1825",
+      "c": "1815",
+      "d": "1835"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which battle was Napoleon decisively defeated?",
+    "options": {
+      "a": "Battle of Trafalgar",
+      "b": "Battle of Austerlitz",
+      "c": "Battle of Waterloo",
+      "d": "Battle of Borodino"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the Berlin Wall demolished?",
+    "options": {
+      "a": "1979",
+      "b": "1989",
+      "c": "1999",
+      "d": "1969"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which technology, developed during World War II, was used to track enemy submarines?",
+    "options": {
+      "a": "Radar",
+      "b": "Sonar",
+      "c": "Lidar",
+      "d": "Infrared"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which American city can the Freedom Trail be found?",
+    "options": {
+      "a": "Philadelphia",
+      "b": "New York",
+      "c": "Boston",
+      "d": "Washington D.C."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Paul Revere, a patriot of the American Revolution, lived and died in which town?",
+    "options": {
+      "a": "Lexington",
+      "b": "Concord",
+      "c": "Boston",
+      "d": "Philadelphia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The ideals of liberty, equality, and fraternity were inspired by which revolution?",
+    "options": {
+      "a": "American Revolution",
+      "b": "Russian Revolution",
+      "c": "French Revolution",
+      "d": "Glorious Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "From which revolution were the ideals of liberty, equality, and fraternity adopted, which subsequently influenced the national movement of India?",
+    "options": {
+      "a": "American Revolution",
+      "b": "Russian Revolution",
+      "c": "French Revolution",
+      "d": "Glorious Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the Battle of Gulnabad fought under the leadership of Mahmud Hotaki?",
+    "options": {
+      "a": "1712",
+      "b": "1722",
+      "c": "1732",
+      "d": "1742"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which historical figure is most closely associated with the American War of Independence?",
+    "options": {
+      "a": "Thomas Jefferson",
+      "b": "Benjamin Franklin",
+      "c": "George Washington",
+      "d": "John Adams"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which alliance was the Soviet Union part of during the Second World War?",
+    "options": {
+      "a": "Axis Powers",
+      "b": "Central Powers",
+      "c": "Allied Powers",
+      "d": "Eastern Bloc"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Hundred Years' War primarily involved which two nations?",
+    "options": {
+      "a": "Spain and Portugal",
+      "b": "Germany and Russia",
+      "c": "England and France",
+      "d": "Italy and Austria"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year did the Boston Tea Party occur?",
+    "options": {
+      "a": "1776",
+      "b": "1783",
+      "c": "1773",
+      "d": "1765"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country was Britain's primary opponent in the Opium Wars?",
+    "options": {
+      "a": "Japan",
+      "b": "India",
+      "c": "China",
+      "d": "Vietnam"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which technology, developed during World War II, was used to detect enemy submarines?",
+    "options": {
+      "a": "Radar",
+      "b": "Sonar",
+      "c": "Loran",
+      "d": "Infrared"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which political party assumed power in Britain in 1945 and advocated for India's independence?",
+    "options": {
+      "a": "Conservative Party",
+      "b": "Liberal Party",
+      "c": "Labour Party",
+      "d": "National Party"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Marie Antoinette, the last queen of France before the French Revolution, was born in which country?",
+    "options": {
+      "a": "Spain",
+      "b": "Italy",
+      "c": "Austria",
+      "d": "Germany"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The principles of liberty, equality, and fraternity were inspired by which major historical event?",
+    "options": {
+      "a": "The American Revolution",
+      "b": "The Russian Revolution",
+      "c": "The French Revolution",
+      "d": "The Glorious Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was the Eiffel Tower built to commemorate the centennial of the French Revolution?",
+    "options": {
+      "a": "1789",
+      "b": "1879",
+      "c": "1889",
+      "d": "1899"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Under whose leadership was the Battle of Gulnabad fought in 1722?",
+    "options": {
+      "a": "Nader Shah",
+      "b": "Mahmud Hotaki",
+      "c": "Ahmad Shah Durrani",
+      "d": "Timur Shah"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In what year did the United States of America adopt its democratic constitution?",
+    "options": {
+      "a": "1776",
+      "b": "1783",
+      "c": "1787",
+      "d": "1791"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following was part of the Allied Powers alliance during the Second World War?",
+    "options": {
+      "a": "Germany",
+      "b": "Italy",
+      "c": "Soviet Union",
+      "d": "Japan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following countries was part of the 'Central Powers' alliance during the First World War?",
+    "options": {
+      "a": "United Kingdom",
+      "b": "Austria-Hungary",
+      "c": "France",
+      "d": "Russia"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "During which period did the First World War take place?",
+    "options": {
+      "a": "1914-1916",
+      "b": "1918-1922",
+      "c": "1914-1918",
+      "d": "1939-1945"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did the Second World War begin?",
+    "options": {
+      "a": "1918",
+      "b": "1939",
+      "c": "1945",
+      "d": "1914"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which year were the battles of Kohima and Imphal fought during the Second World War?",
+    "options": {
+      "a": "1945",
+      "b": "1943",
+      "c": "1942",
+      "d": "1944"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What were the names of the atomic bombs dropped on Japan?",
+    "options": {
+      "a": "Thin Man and Fat Man",
+      "b": "Little Boy and Thin Man",
+      "c": "Little Boy and Fat Man",
+      "d": "Fat Man and Big Boy"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "On what date was the atomic bomb dropped on Hiroshima by the US?",
+    "options": {
+      "a": "8 August 1945",
+      "b": "7 August 1945",
+      "c": "6 August 1945",
+      "d": "9 August 1945"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following countries is mainly ruled by Communist/Maoist parties?",
+    "options": {
+      "a": "Myanmar",
+      "b": "Bhutan",
+      "c": "China",
+      "d": "Sri Lanka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country celebrates its Independence Day on 4th January?",
+    "options": {
+      "a": "China",
+      "b": "Australia",
+      "c": "Myanmar",
+      "d": "Bangladesh"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was Ugyen Wangchuck crowned as the Druk Gyalpo, the first monarch of Bhutan?",
+    "options": {
+      "a": "1948",
+      "b": "1907",
+      "c": "1939",
+      "d": "1986"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In what year did Sri Lanka (then Ceylon) gain independence as the Dominion of Ceylon?",
+    "options": {
+      "a": "1971",
+      "b": "1948",
+      "c": "1907",
+      "d": "1986"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which year did the rule of the United Kingdom formally end in Australia?",
+    "options": {
+      "a": "1948",
+      "b": "1971",
+      "c": "1986",
+      "d": "1907"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To whom is the credit given for building the Great Wall of China?",
+    "options": {
+      "a": "Sheikh Mujibur Rahman",
+      "b": "Ugyen Wangchuck",
+      "c": "Jigme Khesar Namgyal",
+      "d": "Qin Shi Huang"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Approximately how many years ago did emperors in China begin building the Great Wall before the Mauryan Empire?",
+    "options": {
+      "a": "1907",
+      "b": "2400",
+      "c": "1948",
+      "d": "1986"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the first Prime Minister of Bangladesh after its declaration of independence in 1971?",
+    "options": {
+      "a": "Qin Shi Huang",
+      "b": "Ugyen Wangchuck",
+      "c": "Jigme Khesar Namgyal",
+      "d": "Sheikh Mujibur Rahman"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "During which period was Bangladesh a part of Pakistan?",
+    "options": {
+      "a": "1914-1918",
+      "b": "1947-1971",
+      "c": "1939-1945",
+      "d": "1907-1948"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following constituted a part of the 'Central Powers' alliance during the First World War?",
+    "options": {
+      "a": "United Kingdom",
+      "b": "France",
+      "c": "Austria-Hungary",
+      "d": "Russia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year did the Second World War commence?",
+    "options": {
+      "a": "1944",
+      "b": "1914",
+      "c": "1939",
+      "d": "1945"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "On which date did the US drop an atomic bomb on Hiroshima?",
+    "options": {
+      "a": "9 August 1945",
+      "b": "7 August 1945",
+      "c": "6 August 1945",
+      "d": "8 August 1945"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which country is primarily governed by Communist/Maoist parties?",
+    "options": {
+      "a": "Vietnam",
+      "b": "Myanmar",
+      "c": "North Korea",
+      "d": "China"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which country celebrates its Independence Day on January 4th?",
+    "options": {
+      "a": "Bangladesh",
+      "b": "Bhutan",
+      "c": "Myanmar",
+      "d": "Sri Lanka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was elected as the hereditary ruler of Bhutan in 1907?",
+    "options": {
+      "a": "Jigme Khesar Namgyal",
+      "b": "Sangaldip",
+      "c": "Sheikh Mujibur Rahman",
+      "d": "Ugyen Wangchuck"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In what year did Gongsa Ugyen Wangchuck become the first monarch of Bhutan?",
+    "options": {
+      "a": "1948",
+      "b": "1971",
+      "c": "1986",
+      "d": "1907"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Sri Lanka (then Ceylon) gained independence as the Dominion of Ceylon in which year?",
+    "options": {
+      "a": "1971",
+      "b": "1907",
+      "c": "1948",
+      "d": "1986"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The rule of the United Kingdom formally ended in which country in 1986?",
+    "options": {
+      "a": "Sri Lanka",
+      "b": "Myanmar",
+      "c": "China",
+      "d": "Australia"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "To whom is the credit for building the Great Wall of China attributed?",
+    "options": {
+      "a": "Sheikh Mujibur Rahman",
+      "b": "Ugyen Wangchuck",
+      "c": "To Qin Shi Huang",
+      "d": "Sangaldip"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Approximately how many years ago did emperors in China begin constructing the Great Wall?",
+    "options": {
+      "a": "1907",
+      "b": "2400",
+      "c": "1948",
+      "d": "1986"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Until what year was Bangladesh a part of Pakistan?",
+    "options": {
+      "a": "1947-1986",
+      "b": "1907-1947",
+      "c": "1947-1971",
+      "d": "1939-1945"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following events with the corresponding years:\n\nColumn I\n(A) US dropped atomic bomb on Hiroshima\n(B) Second World War began\n\nColumn II\n(1) 1939\n(2) 1945\n\n",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Identify the INCORRECT statement regarding the history of Bhutan:",
+    "options": {
+      "a": "Ugyen Wangchuck was crowned as the Druk Gyalpo in 1907.",
+      "b": "Gongsa Ugyen Wangchuck became the first monarch of Bhutan in 1907.",
+      "c": "Bhutan was ruled by a Cooch-Behar king named Sangaldip in the 7th century BC.",
+      "d": "The current monarch of Bhutan is from the Nehru dynasty."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In what year did the Second World War begin?",
+    "options": {
+      "a": "1941",
+      "b": "1935",
+      "c": "1939",
+      "d": "1945"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "On what date did the US drop an atomic bomb on Hiroshima?",
+    "options": {
+      "a": "9 August 1945",
+      "b": "7 August 1945",
+      "c": "5 August 1945",
+      "d": "6 August 1945"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The atomic bombs were dropped on Hiroshima and Nagasaki during which war?",
+    "options": {
+      "a": "First World War",
+      "b": "Korean War",
+      "c": "Vietnam War",
+      "d": "World War II"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which country is mainly ruled by Communist/Maoist parties?",
+    "options": {
+      "a": "Vietnam",
+      "b": "North Korea",
+      "c": "China",
+      "d": "Cuba"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the general term for the series of non-violent revolutions in 2005 that overthrew governments in Georgia, Ukraine, Kyrgyzstan and Lebanon?",
+    "options": {
+      "a": "Arab Spring",
+      "b": "Velvet Revolution",
+      "c": "Colour Revolution",
+      "d": "Jasmine Revolution"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was elected as the hereditary ruler of Bhutan in 1907 and installed as the Druk Gyalpo?",
+    "options": {
+      "a": "Jigme Khesar Namgyal",
+      "b": "Sangaldip",
+      "c": "Ugyen Wangchuck",
+      "d": "Qin Shi Huang"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did Gongsa Ugyen Wangchuck become the first monarch of Bhutan?",
+    "options": {
+      "a": "1948",
+      "b": "1971",
+      "c": "1907",
+      "d": "1986"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which century BC was Bhutan ruled or controlled by a Cooch-Behar king named Sangaldip?",
+    "options": {
+      "a": "5th century BC",
+      "b": "6th century BC",
+      "c": "8th century BC",
+      "d": "7th century BC"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who is the current monarch of Bhutan?",
+    "options": {
+      "a": "Ugyen Wangchuck",
+      "b": "Sheikh Mujibur Rahman",
+      "c": "Jigme Khesar Namgyal",
+      "d": "Sangaldip"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was Sri Lanka (then Ceylon) granted independence as the Dominion of Ceylon?",
+    "options": {
+      "a": "1950",
+      "b": "1947",
+      "c": "1948",
+      "d": "1960"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which religion is followed by most of the people in Sri Lanka?",
+    "options": {
+      "a": "Hinduism",
+      "b": "Islam",
+      "c": "Buddhism",
+      "d": "Christianity"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who is credited with building the Great Wall of China?",
+    "options": {
+      "a": "Sheikh Mujibur Rahman",
+      "b": "Jigme Khesar Namgyal",
+      "c": "Qin Shi Huang",
+      "d": "Ugyen Wangchuck"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Approximately how many years ago did emperors in China start building the Great Wall, before the Mauryan Empire?",
+    "options": {
+      "a": "1400",
+      "b": "2000",
+      "c": "2400",
+      "d": "1000"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Until which period was Bangladesh a part of Pakistan?",
+    "options": {
+      "a": "1947-1965",
+      "b": "1947-1979",
+      "c": "1947-1971",
+      "d": "1947-1950"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The battles of Kohima and Imphal were fought during the Second World War in which year?",
+    "options": {
+      "a": "1946",
+      "b": "1943",
+      "c": "1945",
+      "d": "1944"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The dropping of atomic bombs on Hiroshima and Nagasaki occurred during which war?",
+    "options": {
+      "a": "First World War",
+      "b": "Korean War",
+      "c": "Vietnam War",
+      "d": "World War II"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which country is primarily ruled by Communist/Maoist parties?",
+    "options": {
+      "a": "Vietnam",
+      "b": "North Korea",
+      "c": "China",
+      "d": "Cuba"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was Gongsa Ugyen Wangchuck crowned as the first monarch of Bhutan?",
+    "options": {
+      "a": "1905",
+      "b": "1906",
+      "c": "1907",
+      "d": "1908"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Sri Lanka was granted independence as the Dominion of Ceylon in which year?",
+    "options": {
+      "a": "1947",
+      "b": "1950",
+      "c": "1948",
+      "d": "1949"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Until which year was Bangladesh a part of Pakistan?",
+    "options": {
+      "a": "1947-1965",
+      "b": "1947-1968",
+      "c": "1947-1971",
+      "d": "1947-1970"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Identify the INCORRECT statement regarding Ugyen Wangchuck:",
+    "options": {
+      "a": "He was elected as the hereditary ruler of Bhutan.",
+      "b": "He was crowned on December 17, 1907.",
+      "c": "He was installed as the Druk Gyalpo.",
+      "d": "He became the second monarch of Bhutan."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which year did Bangladesh gain independence from Pakistan?",
+    "options": {
+      "a": "1962",
+      "b": "1973",
+      "c": "1971",
+      "d": "1968"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the Indian Army Chief during the Bangladesh Liberation War?",
+    "options": {
+      "a": "Yuan Shikai",
+      "b": "Sam Manekshaw",
+      "c": "Darius I of Persia",
+      "d": "Otto von Bismarck"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In what year did Maldives transition from a Sultanate to a Presidential system of government?",
+    "options": {
+      "a": "2015",
+      "b": "1948",
+      "c": "1973",
+      "d": "1968"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Nepal adopted its first democratic constitution in which year?",
+    "options": {
+      "a": "1948",
+      "b": "2015",
+      "c": "1962",
+      "d": "1973"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The 'China-India border dispute' war took place in which year?",
+    "options": {
+      "a": "1971",
+      "b": "1948",
+      "c": "1962",
+      "d": "2015"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the first President of the Republic of China?",
+    "options": {
+      "a": "Sam Manekshaw",
+      "b": "Martin Luther King Jr.",
+      "c": "Yuan Shikai",
+      "d": "Fidel Castro"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was the Constitution of Pakistan implemented?",
+    "options": {
+      "a": "1948",
+      "b": "1973",
+      "c": "2015",
+      "d": "1968"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Burma became an independent sovereign republic in which year?",
+    "options": {
+      "a": "1971",
+      "b": "1948",
+      "c": "1962",
+      "d": "2015"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who conquered the territory that later came under the Achaemenid Empire?",
+    "options": {
+      "a": "Fidel Castro",
+      "b": "Otto von Bismarck",
+      "c": "Yuan Shikai",
+      "d": "Darius I of Persia"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the political system in Afghanistan known as?",
+    "options": {
+      "a": "Presidential Republic",
+      "b": "Communist State",
+      "c": "Islamic Emirate of Afghanistan",
+      "d": "Sultanate"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which revolutionary leader introduced land reform and literacy reform in Cuba?",
+    "options": {
+      "a": "Otto von Bismarck",
+      "b": "Fidel Castro",
+      "c": "Yuan Shikai",
+      "d": "Darius I of Persia"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the American civil rights activist known for the 'I Have a Dream' speech?",
+    "options": {
+      "a": "Otto von Bismarck",
+      "b": "Fidel Castro",
+      "c": "Martin Luther King Jr.",
+      "d": "Queen Victoria"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was known as the 'Iron Chancellor'?",
+    "options": {
+      "a": "Fidel Castro",
+      "b": "Otto von Bismarck",
+      "c": "Yuan Shikai",
+      "d": "Darius I of Persia"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Terracotta Army is a collection of sculptures depicting armies from which country?",
+    "options": {
+      "a": "Afghanistan",
+      "b": "Pakistan",
+      "c": "China",
+      "d": "Cuba"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Queen Elizabeth II surpassed whose record to become Britain's longest-reigning monarch?",
+    "options": {
+      "a": "Queen of Persia",
+      "b": "Queen of China",
+      "c": "Queen Victoria",
+      "d": "Queen of Afghanistan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Magna Carta is a charter of rights issued by which monarch?",
+    "options": {
+      "a": "Darius I of Persia",
+      "b": "King John of England",
+      "c": "Yuan Shikai",
+      "d": "Fidel Castro"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is stated to NOT be a country?",
+    "options": {
+      "a": "Pakistan",
+      "b": "China",
+      "c": "Republic",
+      "d": "Afghanistan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year was a new international monetary system introduced under the Bretton Woods Agreement?",
+    "options": {
+      "a": "1968",
+      "b": "1944",
+      "c": "1973",
+      "d": "2015"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where does the 14th Dalai Lama currently reside?",
+    "options": {
+      "a": "China",
+      "b": "Afghanistan",
+      "c": "Dharamshala",
+      "d": "Pakistan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who participated in the Second World War and was also associated with cricket?",
+    "options": {
+      "a": "Sam Manekshaw",
+      "b": "Alan Burgess",
+      "c": "Fidel Castro",
+      "d": "Yuan Shikai"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In what year did Maldives transition from a Sultanate to a Presidential system?",
+    "options": {
+      "a": "2015",
+      "b": "1948",
+      "c": "1971",
+      "d": "1968"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In what year did the 'China-India border dispute' war occur?",
+    "options": {
+      "a": "1973",
+      "b": "1948",
+      "c": "1962",
+      "d": "2015"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "When did Burma become an independent sovereign republic?",
+    "options": {
+      "a": "1962",
+      "b": "2015",
+      "c": "1948",
+      "d": "1973"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who conquered the region that came under the Achaemenid Empire?",
+    "options": {
+      "a": "King John of England",
+      "b": "Queen Victoria",
+      "c": "Darius I of Persia",
+      "d": "Otto von Bismarck"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The political system in Afghanistan is known as what?",
+    "options": {
+      "a": "Presidential Republic",
+      "b": "Communist Republic",
+      "c": "Islamic Emirate of Afghanistan",
+      "d": "Constitutional Monarchy"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the revolutionary leader known for introducing land reform and literacy reform in Cuba?",
+    "options": {
+      "a": "Otto von Bismarck",
+      "b": "Sam Manekshaw",
+      "c": "Fidel Castro",
+      "d": "Yuan Shikai"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who delivered the famous 'I Have a Dream' speech?",
+    "options": {
+      "a": "Fidel Castro",
+      "b": "Martin Luther King Jr.",
+      "c": "Yuan Shikai",
+      "d": "Otto von Bismarck"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Terracotta Army is a collection of sculptures from which country?",
+    "options": {
+      "a": "Afghanistan",
+      "b": "Cuba",
+      "c": "China",
+      "d": "Pakistan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Queen Elizabeth II surpassed whose record as Britain's longest-reigning monarch?",
+    "options": {
+      "a": "Queen Elizabeth I",
+      "b": "Queen Mary",
+      "c": "Queen Victoria",
+      "d": "Queen Anne"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Under which agreement was a new international monetary system introduced?",
+    "options": {
+      "a": "Magna Carta",
+      "b": "Bretton Woods Agreement",
+      "c": "Constitution of Pakistan",
+      "d": "Islamic Emirate of Afghanistan"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which year did Bangladesh achieve independence from Pakistan?",
+    "options": {
+      "a": "1968",
+      "b": "1973",
+      "c": "1971",
+      "d": "1962"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In what year did the 'China-India border dispute' war take place?",
+    "options": {
+      "a": "1973",
+      "b": "1948",
+      "c": "1962",
+      "d": "2015"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which ruler's conquest led to the Achaemenid Empire's control over a certain territory?",
+    "options": {
+      "a": "King John of England",
+      "b": "Queen Victoria",
+      "c": "Darius I of Persia",
+      "d": "Otto von Bismarck"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the political system in Afghanistan currently known as?",
+    "options": {
+      "a": "Presidential Republic",
+      "b": "Communist State",
+      "c": "Islamic Emirate of Afghanistan",
+      "d": "Sultanate"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Terracotta Army is a collection of terracotta sculptures depicting the armies of the first emperor of which country?",
+    "options": {
+      "a": "Afghanistan",
+      "b": "Pakistan",
+      "c": "China",
+      "d": "Cuba"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Queen Elizabeth II surpassed the reign of which monarch to become Britain's longest-reigning?",
+    "options": {
+      "a": "King John of England",
+      "b": "Queen Victoria",
+      "c": "Darius I of Persia",
+      "d": "Otto von Bismarck"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Magna Carta is a charter of rights issued by which historical figure?",
+    "options": {
+      "a": "Otto von Bismarck",
+      "b": "Queen Victoria",
+      "c": "King John of England",
+      "d": "Fidel Castro"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT according to the text?",
+    "options": {
+      "a": "China is a republic.",
+      "b": "A new international monetary system was introduced under the Bretton Woods Agreement.",
+      "c": "The Constitution of Pakistan was implemented in 1973.",
+      "d": "Bangladesh gained independence in 1971."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In what year was the Bretton Woods Agreement, which introduced a new international monetary system, established?",
+    "options": {
+      "a": "1948",
+      "b": "1968",
+      "c": "1944",
+      "d": "1973"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which individual participated in the Second World War and was also associated with cricket?",
+    "options": {
+      "a": "Otto von Bismarck",
+      "b": "Sam Manekshaw",
+      "c": "Alan Burgess",
+      "d": "Yuan Shikai"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which empire did Darius I of Persia conquer, bringing the region now known as Afghanistan under its rule?",
+    "options": {
+      "a": "Islamic Emirate",
+      "b": "Achaemenid Empire",
+      "c": "British Empire",
+      "d": "Roman Empire"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who introduced land reform and literacy reform in Cuba?",
+    "options": {
+      "a": "Martin Luther King Jr.",
+      "b": "Otto von Bismarck",
+      "c": "Fidel Castro",
+      "d": "Yuan Shikai"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the American civil rights activist famous for the 'I Have a Dream' speech?",
+    "options": {
+      "a": "Otto von Bismarck",
+      "b": "Fidel Castro",
+      "c": "Martin Luther King Jr.",
+      "d": "Yuan Shikai"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Queen Elizabeth II surpassed the record set by which monarch to become Britain's longest-reigning monarch?",
+    "options": {
+      "a": "King John of England",
+      "b": "Darius I of Persia",
+      "c": "Queen Victoria",
+      "d": "Fidel Castro"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which monarch issued the Magna Carta?",
+    "options": {
+      "a": "Queen Victoria",
+      "b": "King John of England",
+      "c": "Darius I of Persia",
+      "d": "Queen Elizabeth II"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which year was the Bretton Woods Agreement introduced?",
+    "options": {
+      "a": "1962",
+      "b": "1973",
+      "c": "1944",
+      "d": "2015"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which empire was NOT mentioned as being impacted by nationalism?",
+    "options": {
+      "a": "Germany",
+      "b": "Iranian",
+      "c": "Roman Republic",
+      "d": "Assyrian Empire"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who overthrew the Roman Republic?",
+    "options": {
+      "a": "Julius Caesar",
+      "b": "Tiberius",
+      "c": "Augustus",
+      "d": "Alexander"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Julius Caesar expanded the Roman Empire into which present-day countries?",
+    "options": {
+      "a": "Iran and North Africa",
+      "b": "Britain and Germany",
+      "c": "India and Iran",
+      "d": "South Africa and Australia"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "By which century BC had the Iranian empire established control over most of the Assyrian Empire?",
+    "options": {
+      "a": "5th century BC",
+      "b": "4th century BC",
+      "c": "6th century BC",
+      "d": "7th century BC"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the second Roman emperor and adopted son of Augustus?",
+    "options": {
+      "a": "Julius Caesar",
+      "b": "Alexander",
+      "c": "Tiberius",
+      "d": "Nelson Mandela"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Alexander the Great conquered up to which river in India?",
+    "options": {
+      "a": "Ganga",
+      "b": "Indus",
+      "c": "Vyas",
+      "d": "Narmada"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year was Alexander the Great born?",
+    "options": {
+      "a": "323 BC",
+      "b": "356 BC",
+      "c": "509 BC",
+      "d": "27 BC"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "For how many years was Nelson Mandela imprisoned?",
+    "options": {
+      "a": "1945 years",
+      "b": "37 years",
+      "c": "27 years",
+      "d": "509 years"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Adolf Hitler was a politician from which country?",
+    "options": {
+      "a": "South Africa",
+      "b": "Australia",
+      "c": "Iran",
+      "d": "Germany"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which year did Adolf Hitler commit suicide?",
+    "options": {
+      "a": "1952",
+      "b": "1945",
+      "c": "356 BC",
+      "d": "509 BC"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which country gave universal suffrage from the 19th century?",
+    "options": {
+      "a": "Australia",
+      "b": "Iran",
+      "c": "Germany",
+      "d": "New Zealand"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which country were women first given the right to vote?",
+    "options": {
+      "a": "New Zealand",
+      "b": "Iran",
+      "c": "Australia",
+      "d": "Germany"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Safavid dynasty ruled from which country?",
+    "options": {
+      "a": "Australia",
+      "b": "Germany",
+      "c": "Iran",
+      "d": "New Zealand"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which empire was NOT impacted by the rise of nationalism, unlike other major empires?",
+    "options": {
+      "a": "Germany",
+      "b": "Roman Empire",
+      "c": "British Empire",
+      "d": "Austro-Hungarian Empire"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who overthrew the Roman Republic, which lasted from 509 BC to 27 BC?",
+    "options": {
+      "a": "Julius Caesar",
+      "b": "Tiberius",
+      "c": "Augustus",
+      "d": "Alexander"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Under which military leader did the Roman Empire expand into present-day Britain and Germany in the first century BC?",
+    "options": {
+      "a": "Augustus",
+      "b": "Tiberius",
+      "c": "Julius Caesar",
+      "d": "Alexander"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which group established control over most of the Assyrian Empire by the 6th century BC?",
+    "options": {
+      "a": "Greeks",
+      "b": "Romans",
+      "c": "Iranian",
+      "d": "Egyptians"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the second Roman emperor (14\u201337 AD) and the adopted son of Augustus?",
+    "options": {
+      "a": "Julius Caesar",
+      "b": "Alexander",
+      "c": "Tiberius",
+      "d": "Nero"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "King ______ of the Macedonian kingdom conquered North Africa, Western Asia, Iran and the region up to the Vyas in India.",
+    "options": {
+      "a": "Tiberius",
+      "b": "Julius Caesar",
+      "c": "Augustus",
+      "d": "Alexander"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "For how many years was Nelson Mandela imprisoned in South Africa?",
+    "options": {
+      "a": "20 years",
+      "b": "30 years",
+      "c": "27 years",
+      "d": "25 years"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Roman Republic was overthrown by whom?",
+    "options": {
+      "a": "Julius Caesar",
+      "b": "Tiberius",
+      "c": "Augustus",
+      "d": "Alexander"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Julius Caesar expanded the Roman Empire into which present-day regions?",
+    "options": {
+      "a": "Iran and North Africa",
+      "b": "Britain and Germany",
+      "c": "Western Asia and India",
+      "d": "Germany and Iran"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who had established control over most of the Assyrian Empire by the 6th century BC?",
+    "options": {
+      "a": "Roman",
+      "b": "Macedonian",
+      "c": "Iranian",
+      "d": "German"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Tiberius was the adopted son of whom?",
+    "options": {
+      "a": "Julius Caesar",
+      "b": "Alexander",
+      "c": "Augustus",
+      "d": "Hitler"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Nelson Mandela was imprisoned for how many years?",
+    "options": {
+      "a": "37",
+      "b": "27",
+      "c": "14",
+      "d": "19"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which country gave women the right to vote first?",
+    "options": {
+      "a": "New Zealand",
+      "b": "Australia",
+      "c": "Germany",
+      "d": "Iran"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Julius Caesar expanded the Roman Empire into which of the following regions?",
+    "options": {
+      "a": "Iran",
+      "b": "North Africa",
+      "c": "Britain and Germany",
+      "d": "Western Asia"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Tiberius reigned as a Roman Emperor during which period?",
+    "options": {
+      "a": "14-37 AD",
+      "b": "509-27 BC",
+      "c": "6th Century BC",
+      "d": "1952"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Adolf Hitler belonged to which country?",
+    "options": {
+      "a": "Iran",
+      "b": "New Zealand",
+      "c": "Australia",
+      "d": "Germany"
+    },
+    "correct_answer": "d"
+  }
+]

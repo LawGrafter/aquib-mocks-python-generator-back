@@ -1,0 +1,51 @@
+Q.No,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,Which branch of biology specifically focuses on the study of plants?,Zoology,Botany,Microbiology,Ecology,b
+2,"The study of animals, including their behavior and physiology, falls under which branch?",Botany,Microbiology,Zoology,Ecology,c
+3,Which branch of biology deals with the study of microorganisms such as bacteria and viruses?,Zoology,Botany,Microbiology,Ecology,c
+4,Ecology is the study of:,The structure of living organisms,The interactions between organisms and their environment,The chemical processes within living organisms,Heredity and variation,b
+5,The study of heredity and variation of inherited characteristics is known as:,Ecology,Anatomy,Genetics,Physiology,c
+6,Which branch of biology focuses on the structure of living organisms?,Physiology,Anatomy,Biochemistry,Genetics,b
+7,The functions and mechanisms of living organisms are studied in:,Anatomy,Biochemistry,Physiology,Genetics,c
+8,Biochemistry is the study of:,The structure of cells,The chemical processes within living organisms,The evolution of life,The classification of organisms,b
+9,Which branch of biology studies macromolecules like nucleic acids and proteins?,Cell Biology,Molecular Biology,Evolutionary Biology,Taxonomy,b
+10,"Cell structure, function, and behavior are studied in:",Molecular Biology,Evolutionary Biology,Cell Biology,Taxonomy,c
+11,The evolutionary processes that have produced the diversity of life are studied in:,Taxonomy,Paleontology,Evolutionary Biology,Marine Biology,c
+12,Taxonomy is the science of:,Studying fossils,Classifying and naming organisms,Studying marine organisms,Studying the immune system,b
+13,"Which branch of biology studies prehistoric life, including fossils?",Marine Biology,Immunology,Paleontology,Virology,c
+14,Marine organisms and their ecosystems are studied in:,Immunology,Virology,Marine Biology,Paleontology,c
+15,The immune system is studied in:,Virology,Immunology,Mycology,Parasitology,b
+16,Which branch of biology studies viruses?,Mycology,Parasitology,Virology,Immunology,c
+17,Fungi are studied in:,Parasitology,Mycology,Entomology,Herpetology,b
+18,The study of parasites falls under which branch?,Entomology,Herpetology,Parasitology,Mycology,c
+19,Insects are studied in:,Herpetology,Ornithology,Entomology,Ichthyology,c
+20,Which branch of biology studies reptiles and amphibians?,Ornithology,Ichthyology,Herpetology,Mammalogy,c
+21,Birds are studied in:,Ichthyology,Mammalogy,Ornithology,Herpetology,c
+22,The study of fish is known as:,Mammalogy,Ichthyology,Ornithology,Herpetology,b
+23,Mammals are studied in:,Ichthyology,Mammalogy,Developmental Biology,Biotechnology,b
+24,Which branch of biology studies the processes by which organisms grow and develop?,Biotechnology,Bioinformatics,Developmental Biology,Mammalogy,c
+25,The use of living systems to develop products is known as:,Bioinformatics,Biotechnology,Astrophysics,Biogeography,b
+26,Which branch of biology applies computer science and information technology?,Biogeography,Ethology,Bioinformatics,Biotechnology,c
+27,"The study of the origin, structure, and evolution of the universe is:",Biogeography,Ethology,Astrophysics,Histology,c
+28,The distribution of species and ecosystems is studied in:,Ethology,Histology,Biogeography,Neurobiology,c
+29,Animal behavior is studied in:,Histology,Neurobiology,Ethology,Pharmacology,c
+30,Which branch of biology studies the microscopic structure of tissues?,Neurobiology,Pharmacology,Toxicology,Histology,d
+31,The nervous system is studied in:,Pharmacology,Toxicology,Neurobiology,System Biology,c
+32,Which branch of biology studies the effects of drugs on living organisms?,Toxicology,Pharmacology,System Biology,Structural Biology,b
+33,The adverse effects of chemical substances are studied in:,Pharmacology,Toxicology,System Biology,Structural Biology,b
+34,Biological systems through modeling are studied in:,Structural Biology,Synthetic Biology,System Biology,Toxicology,c
+35,Which branch of biology studies the molecular structure of biological macromolecules?,Synthetic Biology,Conservation Biology,Structural Biology,System Biology,c
+36,The design and construction of new biological parts is:,Conservation Biology,Radiobiology,Synthetic Biology,Structural Biology,c
+37,The conservation of nature and biodiversity is studied in:,Radiobiology,Cryobiology,Conservation Biology,Synthetic Biology,c
+38,Which branch of biology studies the effects of ionizing radiation?,Cryobiology,Exobiology,Radiobiology,Conservation Biology,c
+39,The effects of low temperatures on living organisms are studied in:,Exobiology,Nanobiology,Cryobiology,Radiobiology,c
+40,The possibility of life beyond Earth is studied in:,Nanobiology,Theoretical Biology,Exobiology,Cryobiology,c
+41,Which branch of biology applies nanotechnology to biological problems?,Theoretical Biology,Agri-Biology,Nanobiology,Exobiology,c
+42,Mathematical and computational models to understand biological systems are developed in:,Agri-Biology,Apiculture,Theoretical Biology,Nanobiology,c
+43,The application of biological principles to agriculture is studied in:,Apiculture,Arboriculture,Agri-Biology,Theoretical Biology,c
+44,Beekeeping is studied in:,Arboriculture,Bryology,Apiculture,Agri-Biology,c
+45,Which branch of biology studies trees and other woody plants?,Bryology,Conchology,Arboriculture,Apiculture,c
+46,"Mosses, liverworts, and hornworts are studied in:",Conchology,Lichenology,Bryology,Arboriculture,c
+47,The study of mollusk shells is known as:,Lichenology,Nematology,Conchology,Bryology,c
+48,Which branch of biology studies lichens?,Nematology,Phycology,Lichenology,Conchology,c
+49,Nematodes (roundworms) are studied in:,Phycology,Nematology,Lichenology,Conchology,b
+50,Algae are studied in:,Nematology,Phycology,Lichenology,Conchology,b

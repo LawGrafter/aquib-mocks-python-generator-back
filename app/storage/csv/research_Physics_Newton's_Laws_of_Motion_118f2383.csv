@@ -1,0 +1,51 @@
+Q.No,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,Which of Newton's laws is also known as the law of inertia?,Newton's First Law,Newton's Second Law,Newton's Third Law,Law of Gravitation,a
+2,What is inertia?,The force of gravity on an object,The tendency of an object to resist changes in its state of motion,The rate of change of velocity,The force required to move an object,b
+3,"According to Newton's Second Law, what is the relationship between force, mass, and acceleration?",F = m/a,F = ma,F = a/m,F = m + a,b
+4,What are the units of force in the SI system?,Kilograms (kg),Meters per second (m/s),Newtons (N),Joules (J),c
+5,"Which of Newton's laws states that for every action, there is an equal and opposite reaction?",Newton's First Law,Newton's Second Law,Newton's Third Law,Law of Universal Gravitation,c
+6,Action and reaction forces always act on:,The same object,Different objects,The Earth,The center of mass,b
+7,What is the formula for weight?,W = ma,W = mv,W = mg,W = m/g,c
+8,What is a free body diagram?,A diagram showing the motion of an object,A diagram showing all forces acting on an object,A diagram showing the internal forces within an object,A diagram showing the energy of an object,b
+9,What is friction?,A force that helps motion,A force that opposes motion,A force that is always constant,A force that only acts on liquids,b
+10,What is tension?,The force of gravity on an object,The force transmitted through a string or cable,The force of friction,The force of air resistance,b
+11,What is the formula for momentum?,p = F/m,p = mv,p = ma,p = Fd,b
+12,What is the principle of conservation of momentum?,Momentum always increases,Momentum always decreases,Total momentum remains constant in a closed system,Momentum is always zero,c
+13,What is the coefficient of friction?,The ratio of normal force to frictional force,The ratio of frictional force to normal force,The product of frictional force and normal force,The sum of frictional force and normal force,b
+14,What is the difference between static and kinetic friction?,"Static friction opposes motion, while kinetic friction prevents motion","Static friction prevents motion, while kinetic friction opposes motion",Static friction is always greater than kinetic friction,Static friction is always less than kinetic friction,b
+15,What is the formula for kinetic friction?,f_k = μ_s * N,f_k = μ_k * N,f_k = μ_s / N,f_k = μ_k / N,b
+16,What is impulse equal to?,Change in velocity,Change in kinetic energy,Change in momentum,Change in force,c
+17,A body moving with constant velocity has:,Constant net force,Zero net force,Increasing net force,Decreasing net force,b
+18,"In an inelastic collision, which quantity is conserved?",Kinetic energy,Momentum,Both kinetic energy and momentum,Neither kinetic energy nor momentum,b
+19,What is the relationship between the angle of repose and the angle of friction?,Angle of repose is greater than the angle of friction,Angle of repose is less than the angle of friction,Angle of repose is equal to the angle of friction,There is no relationship between them,c
+20,What happens to the apparent weight of a person in an elevator accelerating upwards?,It increases,It decreases,It remains the same,It becomes zero,a
+21,On what principle does a rocket work?,Conservation of energy,Conservation of mass,Conservation of momentum,Conservation of charge,c
+22,Which of the following is a vector quantity?,Mass,Speed,Force,Energy,c
+23,The normal force is always:,Parallel to the surface,Perpendicular to the surface,Equal to the weight,Equal to the applied force,b
+24,Friction always:,Aids motion,Opposes motion,Has no effect on motion,Increases velocity,b
+25,Centripetal force is:,A real force,A fictitious force,The net force causing circular motion,Equal to the weight,c
+26,"If the net force acting on an object is zero, the object is said to be in:",Motion,Equilibrium,Acceleration,Rotation,b
+27,What is the SI unit of momentum?,kg m/s²,kg m²/s,kg m/s,N s,c
+28,A car accelerates from rest to 20 m/s in 5 seconds. What is its acceleration?,2 m/s²,4 m/s²,5 m/s²,10 m/s²,b
+29,A 2 kg object is pushed with a force of 10 N. What is its acceleration?,2 m/s²,5 m/s²,10 m/s²,20 m/s²,b
+30,A 5 kg object is lifted vertically. What is the force required to lift it at a constant speed?,5 N,10 N,49 N,98 N,c
+31,Which of the following is an example of Newton's Third Law?,A car moving at a constant speed,A ball falling to the ground,A rocket launching into space,A book resting on a table,c
+32,What is the net force on an object in equilibrium?,Zero,Equal to its weight,Equal to its mass,Equal to its acceleration,a
+33,A 10 kg object is moving at 5 m/s. What is its momentum?,2 kg m/s,5 kg m/s,50 kg m/s,100 kg m/s,c
+34,What is the force of gravity on a 1 kg object?,1 N,4.9 N,9.8 N,10 N,c
+35,The coefficient of static friction is usually ________ than the coefficient of kinetic friction.,Greater,Less,Equal,Independent,a
+36,What is the formula for centripetal force?,F = mv²/r,F = mr²v,F = mv/r,F = mr/v²,a
+37,Which of the following is a non-inertial frame of reference?,A car moving at a constant velocity,A train moving at a constant velocity,A rotating merry-go-round,A spaceship moving at a constant velocity,c
+38,What is the work-energy theorem?,Work done equals the change in potential energy,Work done equals the change in kinetic energy,Work done equals the total energy,Work done is always zero,b
+39,A block is placed on an inclined plane. The component of gravity parallel to the plane is:,mg cosθ,mg sinθ,mg tanθ,mg,b
+40,What is the SI unit of impulse?,N,kg m/s,N s,J,c
+41,"If a force is applied to an object but it does not move, the work done is:",Positive,Negative,Zero,Maximum,c
+42,What is the banking of roads designed to do?,Increase friction,Decrease friction,Help vehicles navigate a curve,Increase the speed limit,c
+43,"A ball is thrown upwards. At its highest point, its velocity is:",Maximum,Minimum,Zero,Constant,c
+44,What is the relationship between inertial mass and gravitational mass?,Inertial mass is greater than gravitational mass,Inertial mass is less than gravitational mass,Inertial mass is equivalent to gravitational mass,There is no relationship between them,c
+45,Which law explains why you need to wear a seatbelt in a car?,Newton's First Law,Newton's Second Law,Newton's Third Law,Law of Gravitation,a
+46,A constant force is applied to an object. What happens to its acceleration?,It increases,It decreases,It remains constant,It becomes zero,c
+47,What is the effect of increasing the angle of an inclined plane on the acceleration of an object sliding down it?,It increases,It decreases,It remains the same,It becomes zero,a
+48,Two objects collide and stick together. This is an example of:,Elastic collision,Inelastic collision,Perfect collision,No collision,b
+49,A person pushes a box across a rough floor. What force opposes the motion of the box?,Applied force,Normal force,Frictional force,Gravitational force,c
+50,What is the net force required to keep a 10 kg object moving at a constant velocity of 5 m/s?,0 N,5 N,10 N,50 N,a

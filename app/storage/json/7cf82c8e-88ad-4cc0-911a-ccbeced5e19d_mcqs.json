@@ -1,0 +1,2832 @@
+[
+  {
+    "question": "In which age was copper first utilized, according to the provided text?",
+    "options": {
+      "a": "Neolithic Age",
+      "b": "Mesolithic Age",
+      "c": "Palaeolithic Age",
+      "d": "Chalcolithic Age"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following prehistoric periods of human activity and civilization in their correct chronological order:",
+    "options": {
+      "a": "Mesolithic Age, Palaeolithic Age, Neolithic Age",
+      "b": "Neolithic Age, Mesolithic Age, Palaeolithic Age",
+      "c": "Palaeolithic Age, Neolithic Age, Mesolithic Age",
+      "d": "Palaeolithic Age, Mesolithic Age, Neolithic Age"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the information provided?",
+    "options": {
+      "a": "The caves of Bhimbetka were discovered in 1957-58.",
+      "b": "The earliest evidence of a permanent life has been found at Mehrgarh.",
+      "c": "Animal husbandry began in the Neolithic Age.",
+      "d": "The rock shelters of Bhimbetka are famous for Palaeolithic rock paintings in India."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Ash Mound, a Neolithic site, is associated with which of the following locations?",
+    "options": {
+      "a": "Burzahom",
+      "b": "Gufkral",
+      "c": "Sanganakallu",
+      "d": "Damdama"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Megalithic monuments are primarily identified as:",
+    "options": {
+      "a": "Residential dwellings",
+      "b": "Burial sites for the dead",
+      "c": "Agricultural storage facilities",
+      "d": "Religious temples"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding early agriculture in the Indian subcontinent?",
+    "options": {
+      "a": "The Neolithic Age marked the beginning of grain cultivation.",
+      "b": "Barley was the first grain used by humans.",
+      "c": "The Vindhya region contains the earliest evidence of rice cultivation.",
+      "d": "Wheat was the first crop cultivated in India."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following archaeological discoveries/sites in chronological order based on the ages they represent (earliest to latest): I. Damdama II. Navdatoli III. Bhimbetka",
+    "options": {
+      "a": "I, II, III",
+      "b": "III, I, II",
+      "c": "II, I, III",
+      "d": "I, III, II"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following sites with their corresponding states:\nI. Bhimbetka II. Atranjikhera\n(A) Uttar Pradesh (B) Madhya Pradesh",
+    "options": {
+      "a": "I-A, II-B",
+      "b": "I-B, II-A",
+      "c": "I-A, II-A",
+      "d": "I-B, II-B"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following archaeological sites with their respective states/regions:\n\nColumn I           Column II\nA. Burzahom        1. Uttar Pradesh\nB. Inamgaon        2. Balochistan\nC. Mehrgarh         3. Maharashtra\nD. Koldihwa        4. Jammu and Kashmir\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-4, B-3, C-2, D-1",
+      "b": "A-3, B-4, C-1, D-2",
+      "c": "A-2, B-1, C-4, D-3",
+      "d": "A-1, B-2, C-3, D-4"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Indus Valley Civilization?",
+    "options": {
+      "a": "Cotton clothes were a major export.",
+      "b": "Lothal served as a port.",
+      "c": "Dholavira was divided into three parts.",
+      "d": "Microliths were the primary tools used."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The skull of 'Homo erectus' was discovered at which prehistoric Indian site?",
+    "options": {
+      "a": "Hunsagi",
+      "b": "Hathnora",
+      "c": "Burzahom",
+      "d": "Mehrgarh"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following sites is NOT related to the Indus Valley Civilization?",
+    "options": {
+      "a": "Harappa",
+      "b": "Mohenjo-daro",
+      "c": "Pataliputra",
+      "d": "Lothal"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Harappan site 'Banawali' is located in which of the following states?",
+    "options": {
+      "a": "Gujarat",
+      "b": "Rajasthan",
+      "c": "Haryana",
+      "d": "Punjab"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following Indus Valley Civilization sites based on their present-day location from West to East:",
+    "options": {
+      "a": "Mohenjo-daro, Ropar, Harappa, Banawali",
+      "b": "Harappa, Mohenjo-daro, Banawali, Ropar",
+      "c": "Mohenjo-daro, Harappa, Ropar, Banawali",
+      "d": "Mohenjo-daro, Harappa, Banawali, Ropar"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following Indus Valley Civilization sites with their corresponding locations:",
+    "options": {
+      "a": "A-1, B-2, C-3, D-4",
+      "b": "A-2, B-1, C-4, D-3",
+      "c": "A-2, B-1, C-3, D-4",
+      "d": "A-1, B-2, C-4, D-3"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the Director General of ASI in 1944 who took charge of Harappa excavation?",
+    "options": {
+      "a": "R.D. Banerji",
+      "b": "S.R. Rao",
+      "c": "Sir John Marshall",
+      "d": "Sir Mortimer Wheeler"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which animal is NOT depicted on the 'Pashupati Shiva' seal from Mohenjo-daro?",
+    "options": {
+      "a": "Tiger",
+      "b": "Bull",
+      "c": "Elephant",
+      "d": "Rhinoceros"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The easternmost boundary of the Harappan culture is marked by which site?",
+    "options": {
+      "a": "Kalibangan",
+      "b": "Lothal",
+      "c": "Alamgirpur",
+      "d": "Harappa"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which archaeologist is credited with being the first to excavate Harappa and understand its significance?",
+    "options": {
+      "a": "Sir John Marshall",
+      "b": "A. Ghosh",
+      "c": "R.D. Banerji",
+      "d": "A. Cunningham"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The term 'Indus Civilization' was first used by whom?",
+    "options": {
+      "a": "A. Cunningham",
+      "b": "R.D. Banerji",
+      "c": "Sir John Marshall",
+      "d": "Dayaram Sahni"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following Harappan sites with their respective states:\n\n   I. Alamgirpur         A. Gujarat\n   II. Hulas              B. Uttar Pradesh\n   III. Sopal             C. Maharashtra\n\n    Choose the correct sequence:",
+    "options": {
+      "a": "I-B, II-A, III-C",
+      "b": "I-A, II-C, III-B",
+      "c": "I-B, II-C, III-A",
+      "d": "I-B, II-B, III-A"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements regarding the Indus Valley Civilization is INCORRECT?",
+    "options": {
+      "a": "Evidence of rock-cut architecture has been found at Dholavira.",
+      "b": "A ploughed field was discovered at Kalibangan.",
+      "c": "The largest Harappan site in India is Lothal.",
+      "d": "Most of the Harappan sites are located in the Indus Valley."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "At which site was evidence of a coffin burial discovered?",
+    "options": {
+      "a": "Lothal",
+      "b": "Kalibangan",
+      "c": "Harappa",
+      "d": "Mohenjo-daro"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Terracotta models of the plough were discovered at which Harappan site?",
+    "options": {
+      "a": "Dholavira",
+      "b": "Kalibangan",
+      "c": "Banawali",
+      "d": "Lothal"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did the excavations at Dholavira commence, led by Ravindra Singh Bisht?",
+    "options": {
+      "a": "1980",
+      "b": "1995",
+      "c": "1985",
+      "d": "1990"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Mesopotamian languages?",
+    "options": {
+      "a": "Sumerian was a Mesopotamian language",
+      "b": "The Mesopotamians referred to the Indus Valley Civilization as Meluha.",
+      "c": "The Mesopotamians traded with the Indus Valley Civilization.",
+      "d": "Mesopotamia was a contemporary civilization of the Indus Valley."
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following Harappan sites with their respective states in India:\n\nColumn I (Site) | Column II (State)\nA. Dholavira    | 1. Haryana\nB. Rakhigarhi   | 2. Gujarat\nC. Kalibanga    | 3. Rajasthan\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-2, B-1, C-3",
+      "b": "A-1, B-2, C-3",
+      "c": "A-3, B-1, C-2",
+      "d": "A-2, B-3, C-1"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The Indus Valley Civilization site NOT located on the banks of the Indus river is:",
+    "options": {
+      "a": "Mohenjo-daro",
+      "b": "Harappa",
+      "c": "Ropar",
+      "d": "Kot Diji"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was the general status of women during the Vedic period?",
+    "options": {
+      "a": "Low",
+      "b": "Equal to men",
+      "c": "High",
+      "d": "Restricted"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "From which of the following is the phrase 'Satyameva Jayate' taken?",
+    "options": {
+      "a": "Ramayana",
+      "b": "Rigveda",
+      "c": "Mundaka Upanishad",
+      "d": "Arthashastra"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following Vedas is considered the oldest?",
+    "options": {
+      "a": "Yajurveda",
+      "b": "Samaveda",
+      "c": "Atharvaveda",
+      "d": "Rigveda"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following Brahmana original texts with their corresponding Veda:\n\nColumn I\n(A) Shatapatha Brahmana\n(B) Aitareya Upanishad\n\nColumn II\n(1) Rigveda\n(2) Yajurveda\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Rigveda?",
+    "options": {
+      "a": "The Gayatri Mantra is dedicated to Savita.",
+      "b": "The deity Indra is given the greatest importance.",
+      "c": "It is the holiest Veda among the four Vedas.",
+      "d": "The word 'Vrihi' was used for rice."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Veda known as 'Karmakanda Grantha' or ritual text is:",
+    "options": {
+      "a": "Rigveda",
+      "b": "Yajurveda",
+      "c": "Samaveda",
+      "d": "Atharvaveda"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "According to Vedic texts, what was the function of 'Sangrahitri'?",
+    "options": {
+      "a": "Chief Priest",
+      "b": "Army Commander",
+      "c": "Treasurer or Cashier",
+      "d": "Village Headman"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which Veda is also referred to as the 'Book of Songs'?",
+    "options": {
+      "a": "Rigveda",
+      "b": "Yajurveda",
+      "c": "Samaveda",
+      "d": "Atharvaveda"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following Vedas in chronological order, from oldest to newest.",
+    "options": {
+      "a": "Rigveda, Samaveda, Yajurveda, Atharvaveda",
+      "b": "Samaveda, Rigveda, Atharvaveda, Yajurveda",
+      "c": "Atharvaveda, Yajurveda, Samaveda, Rigveda",
+      "d": "Yajurveda, Atharvaveda, Rigveda, Samaveda"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following:\n\nColumn I (Veda)           Column II (Related To)\nA. Yajurveda            1. Magical rituals and charms\nB. Atharvaveda         2. Art of warfare\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Upanishads?",
+    "options": {
+      "a": "The total number of main Upanishads is 11.",
+      "b": "The oldest Upanishad is the Chandogya Upanishad.",
+      "c": "The word 'Vasudhaiva Kutumbakam' is mentioned in the Maha Upanishad.",
+      "d": "The Mundaka Upanishad is related to Rigveda."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "From which Upanishad is India's national motto 'Satyameva Jayate' taken?",
+    "options": {
+      "a": "Chandogya Upanishad",
+      "b": "Maha Upanishad",
+      "c": "Mundakopanishad",
+      "d": "None of the above"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "According to the text, what was the primary occupation of the Aryans in ancient times?",
+    "options": {
+      "a": "Trade and commerce",
+      "b": "Agriculture and animal husbandry",
+      "c": "Military service",
+      "d": "Craftsmanship"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The word 'Gotra' is first found in which of the following Vedic texts?",
+    "options": {
+      "a": "Atharvaveda",
+      "b": "Samaveda",
+      "c": "Rigveda",
+      "d": "Yajurveda"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following rivers mentioned in the Rigveda in terms of their significance to the Aryans' relationship with Afghanistan, according to the provided text:",
+    "options": {
+      "a": "Kubha, Kramu",
+      "b": "Indus, Kubha",
+      "c": "Kramu, Indus",
+      "d": "Kramu, Parushni"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following Vedic texts with their associated descriptions:",
+    "options": {
+      "a": "A-2, B-3, C-1",
+      "b": "A-3, B-1, C-2",
+      "c": "A-1, B-2, C-3",
+      "d": "A-3, B-2, C-1"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "According to the Vedic texts, which of the following was considered 'Aghanya'?",
+    "options": {
+      "a": "Horse",
+      "b": "Barley",
+      "c": "Cow",
+      "d": "Gold"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The phrase 'Satyameva Jayate' inscribed on the Indian emblem is taken from which Upanishad?",
+    "options": {
+      "a": "Kathopanishad",
+      "b": "Maitrayani",
+      "c": "Mundakopanishad",
+      "d": "Shatapatha Brahmana"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The term 'Koseya' in ancient Indian texts referred to which commodity?",
+    "options": {
+      "a": "Cotton",
+      "b": "Wool",
+      "c": "Silk",
+      "d": "Linen"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following Vedas contains a collection of magical spells and charms?",
+    "options": {
+      "a": "Samaveda",
+      "b": "Yajurveda",
+      "c": "Rigveda",
+      "d": "Atharvaveda"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following rivers with their ancient Vedic names:\n\n   I. Beas             A. Vitasta\n   II. Jhelum          B. Vipasha\n   III. Ravi           C. Parushni\n\nSelect the correct sequence:",
+    "options": {
+      "a": "I-A, II-B, III-C",
+      "b": "I-B, II-A, III-C",
+      "c": "I-C, II-B, III-A",
+      "d": "I-B, II-C, III-A"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Vedic period?",
+    "options": {
+      "a": "The main social unit of the Aryans was Jan.",
+      "b": "The most Rigvedic hymns are dedicated to Indra.",
+      "c": "The oldest Veda is Samaveda.",
+      "d": "The ancient name of the Jhelum river was Vitasta."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "According to the 'Chaturashrama' system, which stage of life provided for the family period?",
+    "options": {
+      "a": "Vanaprastha",
+      "b": "Sanyasa",
+      "c": "Brahmacharya",
+      "d": "Grihastha"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In the Iron Age, what material was gradually replaced by iron for making tools and weapons?",
+    "options": {
+      "a": "Copper",
+      "b": "Bronze",
+      "c": "Stone",
+      "d": "Wood"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Vaisheshika Darshana was propounded by whom?",
+    "options": {
+      "a": "Jivaka",
+      "b": "Kanada",
+      "c": "Udayin",
+      "d": "Bimbisara"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In the sixth-fifth century BC, the people of Turkey referred to the language used east of the Indus as:",
+    "options": {
+      "a": "Magadhi",
+      "b": "Pali",
+      "c": "Hindvi",
+      "d": "Sanskrit"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is INCORRECT regarding the Magadha Empire?",
+    "options": {
+      "a": "Bimbisara was a ruler of Magadha",
+      "b": "Rajgir was the capital of the Magadha Empire",
+      "c": "Dhanananda was the last ruler of the Magadha Empire",
+      "d": "Jivaka shifted the capital from Rajagriha to Pataliputra"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following:\n\nColumn I\n(A) Kosala\n(B) Matsya\n\nColumn II\n(1) Rajasthan\n(2) Awadh\n\nChoose the correct option:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The ancient capital of India was:",
+    "options": {
+      "a": "Rajgir",
+      "b": "Kaushambi",
+      "c": "Pataliputra",
+      "d": "Shuktimati"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Anguttara Nikaya mentions the number of Mahajanapadas as:",
+    "options": {
+      "a": "Eight",
+      "b": "Twelve",
+      "c": "Sixteen",
+      "d": "Twenty"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following rivers surrounded the Magadha Mahajanapada?",
+    "options": {
+      "a": "Ganga and Yamuna",
+      "b": "Yamuna and Son",
+      "c": "Ganga and Son",
+      "d": "Yamuna and Narmada"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following dynasties in chronological order based on their rule over Magadha:\n1. Nanda dynasty\n2. Mauryan dynasty\n3. Haryanka dynasty",
+    "options": {
+      "a": "3, 1, 2",
+      "b": "1, 2, 3",
+      "c": "2, 3, 1",
+      "d": "3, 2, 1"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following:\nColumn I (Ruler)       Column II (Dynasty)\nA. Bimbisara          1. Nanda dynasty\nB. Dhanananda       2. Haryanka dynasty",
+    "options": {
+      "a": "A-2, B-1",
+      "b": "A-1, B-2",
+      "c": "A-2, B-2",
+      "d": "A-1, B-1"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Jainism?",
+    "options": {
+      "a": "Ahimsa is the most important fundamental principle.",
+      "b": "Shvetambara and Digambara are sects of Jainism.",
+      "c": "Mahavira was the 24th Tirthankara.",
+      "d": "The Soniji Ki Nasian temple is dedicated to Lord Mahavira."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The capital of Vajji Mahajanapada was:",
+    "options": {
+      "a": "Rajgir",
+      "b": "Vaishali",
+      "c": "Pataliputra",
+      "d": "Champa"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is a Tirthankara called in Jainism?",
+    "options": {
+      "a": "The destroyer of evil and a religious reformer",
+      "b": "The creator of universe and a cosmic being",
+      "c": "The protector of religion and a spiritual teacher",
+      "d": "The ultimate reality and a philosophical guide"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following Tirthankaras in chronological order according to their appearance in Jainism:\n1. Parshvanatha\n2. Rishabhanatha\n3. Mahavira",
+    "options": {
+      "a": "3, 1, 2",
+      "b": "2, 3, 1",
+      "c": "2, 1, 3",
+      "d": "1, 2, 3"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following:\nColumn I\n(A) Mahavira's Birthplace\n(B) Jain Pilgrimage Site\nColumn II\n(1) Palitana Temple\n(2) Kundagrama",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-2, B-2",
+      "d": "A-1, B-1"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The 'Agama' that describes non-violence in Jainism is known as:",
+    "options": {
+      "a": "Tripitaka Sutra",
+      "b": "Sutrakritanga Sutra",
+      "c": "Anguttara Nikaya",
+      "d": "Dhammapada Sutra"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who among the following was the first follower of Mahavira?",
+    "options": {
+      "a": "Virochana",
+      "b": "Atisha",
+      "c": "Jamali",
+      "d": "Bhadrabahu"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which language was early Jain literature written?",
+    "options": {
+      "a": "Sanskrit",
+      "b": "Pali",
+      "c": "Ardha-Magadhi",
+      "d": "Brahmi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Shvetambara Agama was finally compiled at which Jain council?",
+    "options": {
+      "a": "Vallabhi",
+      "b": "Ayodhya",
+      "c": "Pataliputra",
+      "d": "Kapilavastu"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following religions does NOT believe in the concept of 'world-destroying deluge'?",
+    "options": {
+      "a": "Buddhism",
+      "b": "Hinduism",
+      "c": "Jainism",
+      "d": "Charvaka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following birthplaces with the corresponding Jain Tirthankaras:\n\nColumn I (Tirthankara)         Column II (Birthplace)\nA. Rishabhanatha               1. Kakandi\nB. Sambhavanatha              2. Ayodhya\nC. Suvidhinatha                  3. Shravasti\nD. Padmaprabhu                4. Pabhosa\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-2, B-3, C-1, D-4",
+      "b": "A-3, B-2, C-4, D-1",
+      "c": "A-4, B-1, C-3, D-2",
+      "d": "A-1, B-4, C-2, D-3"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements about Lord Mahavira is INCORRECT?",
+    "options": {
+      "a": "He attained Moksha at Pawapuri.",
+      "b": "He was the last Tirthankara of the Jains.",
+      "c": "He was born in the present-day state of Bihar.",
+      "d": "He attained knowledge on the banks of the river Niranjana."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following events in chronological order related to Buddhism:\n A. Ashoka propagated Buddhism abroad\n B. Gautama Buddha attained knowledge on the banks of the river Niranjana\n C. The third Buddhist council was held in Pataliputra",
+    "options": {
+      "a": "A, B, C",
+      "b": "B, A, C",
+      "c": "B, C, A",
+      "d": "C, B, A"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Gautama Buddha delivered his inaugural sermon at which location?",
+    "options": {
+      "a": "Bodh Gaya",
+      "b": "Rajgir",
+      "c": "Kushinagar",
+      "d": "Sarnath"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which city did Gautama Buddha achieve enlightenment?",
+    "options": {
+      "a": "Sarnath",
+      "b": "Kushinagar",
+      "c": "Bodh Gaya",
+      "d": "Vaishali"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The second Buddhist council, according to the provided text, was conducted in Vaishali by whom?",
+    "options": {
+      "a": "Nagarjuna",
+      "b": "Kalasoka",
+      "c": "Buddha",
+      "d": "Shakya"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT classified as a Tipitaka according to the text?",
+    "options": {
+      "a": "Sutta Pitaka",
+      "b": "Abhidhamma Pitaka",
+      "c": "Upasaka Pitaka",
+      "d": "Tripitaka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Simhachaturmukha pillar is located at which of the following places?",
+    "options": {
+      "a": "Kushinagar",
+      "b": "Vaishali",
+      "c": "Sarnath",
+      "d": "Bodh Gaya"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The first sermon of Buddha at Sarnath is known as:",
+    "options": {
+      "a": "Mahaparinirvana",
+      "b": "Therigatha",
+      "c": "Abhidhamma Pitaka",
+      "d": "Dhamma-Chakra-Pravartana Mudra"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following Buddhist texts outlines the rules specifically for monks?",
+    "options": {
+      "a": "Sutta Pitaka",
+      "b": "Abhidhamma Pitaka",
+      "c": "Vinaya Pitaka",
+      "d": "Adittapariyaya Sutta"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following events related to Buddha's life in chronological order:\n I. Death\n II. Birth\n III. First Sermon\n IV. Great Renunciation",
+    "options": {
+      "a": "II, IV, III, I",
+      "b": "IV, II, I, III",
+      "c": "II, III, IV, I",
+      "d": "I, II, III, IV"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following:\nColumn I\n(A) Ashvaghosha\n(B) Lumbini\nColumn II\n(1) Birthplace of Gautama Buddha\n(2) Author of Buddhacharita",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The 'Temple of the Tooth', a significant Buddhist pilgrimage site, is located in which country?",
+    "options": {
+      "a": "India",
+      "b": "Indonesia",
+      "c": "Nepal",
+      "d": "Sri Lanka"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Gautama Buddha?",
+    "options": {
+      "a": "He attained knowledge in Bodh Gaya.",
+      "b": "He was born in Lumbini.",
+      "c": "He delivered most of his sermons in Shravasti.",
+      "d": "He died in Sri Lanka."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which language did Gautama Buddha deliver his sermons to reach the common people?",
+    "options": {
+      "a": "Sanskrit",
+      "b": "Pali",
+      "c": "Magadhi",
+      "d": "Braj"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the last person to be converted by Buddha?",
+    "options": {
+      "a": "Devadatta",
+      "b": "Subhadda",
+      "c": "Mallika",
+      "d": "Tapassu"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "During whose reign was the first Buddhist council held?",
+    "options": {
+      "a": "Udayana",
+      "b": "Bimbisara",
+      "c": "Ajatashatru",
+      "d": "Dharmapala"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following:\nColumn I: Text\n(A) Tripitaka\n(B) Vinaya Pitaka\nColumn II: Description\n(1) Rules of Sangha life\n(2) Buddha's Teachings\n\nChoose the correct option:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a Triratna in Buddhism?",
+    "options": {
+      "a": "Buddha",
+      "b": "Dhamma",
+      "c": "Karma",
+      "d": "Sangha"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which Buddhist philosopher first propounded the theory of Shunyata?",
+    "options": {
+      "a": "Atisha",
+      "b": "Nagarjuna",
+      "c": "Dharmapala",
+      "d": "Devadatta"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Sarnath Buddha statue in Bhumi Sparsha Mudra is related to which period?",
+    "options": {
+      "a": "Kushana period",
+      "b": "Mauryan period",
+      "c": "Gupta period",
+      "d": "Sunga period"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Indian art, the \"wheel with a deer\" represents which event in Buddha's life?",
+    "options": {
+      "a": "Birth",
+      "b": "Death",
+      "c": "First Sermon",
+      "d": "Enlightenment"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements about Buddhist councils is INCORRECT?",
+    "options": {
+      "a": "The first Buddhist council was held immediately after Gautama Buddha's death.",
+      "b": "The first Buddhist council was patronized by Ajatashatru.",
+      "c": "The third Buddhist council was held in Pataliputra.",
+      "d": "The fourth Buddhist council was held in Vaishali."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following:\n\n   I. Vinaya Pitaka    A. Sermons of Gautama Buddha\n   II. Sutta Pitaka    B. Rules for Buddhist monks\n   III. Tripitaka      C. Related to Buddhism\n\nChoose the correct sequence:",
+    "options": {
+      "a": "I-A, II-B, III-C",
+      "b": "I-B, II-A, III-C",
+      "c": "I-C, II-B, III-A",
+      "d": "I-B, II-C, III-A"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Arrange the following events in chronological order related to Buddha's life:\nI. First Sermon\nII. Mahaparinirvana (Death)\nIII. Meditation under the peepal tree",
+    "options": {
+      "a": "I, II, III",
+      "b": "III, I, II",
+      "c": "II, III, I",
+      "d": "III, II, I"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Mauryan dynasty was founded in Magadha, which is currently known as:",
+    "options": {
+      "a": "Punjab",
+      "b": "Bihar",
+      "c": "Odisha",
+      "d": "Bengal"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who authored 'Indica', a text detailing Mauryan-era India?",
+    "options": {
+      "a": "Chanakya",
+      "b": "Bindusara",
+      "c": "Megasthenes",
+      "d": "Ashoka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Lauriya Nandangarh pillar is located in which of the following districts?",
+    "options": {
+      "a": "Sarnath",
+      "b": "Champaran",
+      "c": "Girnar",
+      "d": "Taxila"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Arrange the following rulers in chronological order: 1. Chandragupta Maurya, 2. Bindusara, 3. Ashoka.",
+    "options": {
+      "a": "3, 2, 1",
+      "b": "2, 3, 1",
+      "c": "1, 2, 3",
+      "d": "3, 1, 2"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Ashoka's empire?",
+    "options": {
+      "a": "He led a military campaign to conquer Kalinga in approximately 260 BCE",
+      "b": "Most of his inscriptions were in the Prakrit language",
+      "c": "Kamarupa was a part of his empire",
+      "d": "The Thirteenth Rock Edict mentions his victory over Kalinga"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following:  A. Chandragupta Maurya   B. Ashoka   C. Chanakya   D. Megasthenes   with   1. Indica 2. Kalinga War 3. Municipal Administration 4. Political Advisor.  Choose the correct sequence.",
+    "options": {
+      "a": "A-3, B-2, C-4, D-1",
+      "b": "A-2, B-3, C-1, D-4",
+      "c": "A-4, B-1, C-2, D-3",
+      "d": "A-1, B-4, C-3, D-2"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following rivers was Taxila located between?",
+    "options": {
+      "a": "Ganga and Yamuna",
+      "b": "Indus and Jhelum",
+      "c": "Ganga and Brahmaputra",
+      "d": "Jhelum and Beas"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Megasthenes was sent to the court of Chandragupta Maurya by which Greek ruler?",
+    "options": {
+      "a": "Alexander",
+      "b": "Antigonus",
+      "c": "Seleucus Nicator",
+      "d": "Philip II"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did Alexander invade India, crossing the Indus River?",
+    "options": {
+      "a": "323 BCE",
+      "b": "326 BCE",
+      "c": "330 BCE",
+      "d": "332 BCE"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements about Ashoka is INCORRECT?",
+    "options": {
+      "a": "Ashoka built the Sanchi Stupa.",
+      "b": "Ashoka organized the third Buddhist council.",
+      "c": "Ashoka was the son of Chandragupta Maurya.",
+      "d": "Ashoka appointed special officers called Rajjuka."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following:\n\nColumn I\n(A) Megasthenes\n(B) Kautilya\n\nColumn II\n(1) Indica\n(2) Adhyakshas\n\nChoose the correct option:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-3",
+      "d": "A-2, B-3"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "During the Mauryan dynasty, what was the historic Grand Trunk Road called?",
+    "options": {
+      "a": "Dakshinapatha",
+      "b": "Silk Route",
+      "c": "Uttarapatha",
+      "d": "Rajpath"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Sarnath lion capital built by Ashoka was made of what material?",
+    "options": {
+      "a": "Granite",
+      "b": "Marble",
+      "c": "Sandstone",
+      "d": "Limestone"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following rulers paid attention to the water resource system in the Girnar region?",
+    "options": {
+      "a": "Bindusara, Kanishka",
+      "b": "Chandragupta Maurya, Ashoka",
+      "c": "Samudragupta, Harsha",
+      "d": "Bimbisara, Ajatashatru"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Nigali Sagar pillar inscription authenticates the existence of which Buddha?",
+    "options": {
+      "a": "Gautama Buddha",
+      "b": "Dipankara Buddha",
+      "c": "Kanakamuni Buddha",
+      "d": "Amitabha Buddha"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following scripts used by Ashoka in the north-western part of his empire in alphabetical order:",
+    "options": {
+      "a": "Greek, Aramaic, Kharoshthi",
+      "b": "Aramaic, Kharoshthi, Greek",
+      "c": "Kharoshthi, Greek, Aramaic",
+      "d": "Aramaic, Greek, Devanagari"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following:",
+    "options": {
+      "a": "A-2, B-3, C-1, D-4",
+      "b": "A-3, B-1, C-4, D-2",
+      "c": "A-4, B-2, C-1, D-3",
+      "d": "A-1, B-4, C-2, D-3"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Ashoka?",
+    "options": {
+      "a": "Ashoka's contemporary king Turmaya was the ruler of Egypt.",
+      "b": "The stupa of Sanchi was built by Ashoka.",
+      "c": "The Sarnath pillar was built by Chandragupta Maurya.",
+      "d": "The Gurjara Minor Rock Edict, mentioning Ashoka's name, is in Madhya Pradesh."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who first deciphered the Brahmi script?",
+    "options": {
+      "a": "Alexander Cunningham",
+      "b": "John Marshall",
+      "c": "James Prinsep",
+      "d": "Max Muller"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Where did Chandragupta Maurya spend his last days?",
+    "options": {
+      "a": "Pataliputra",
+      "b": "Taxila",
+      "c": "Shravanabelagola",
+      "d": "Ujjain"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which Ashokan inscription elucidates the principle of religious tolerance?",
+    "options": {
+      "a": "Rock Edict VIII",
+      "b": "Rock Edict X",
+      "c": "Rock Edict XII",
+      "d": "Rock Edict XIII"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following events in chronological order:\n  1. Chandragupta Maurya's death\n  2. Kalinga War\n  3. Assassination of the last Mauryan emperor\n  4. Seleucid-Mauryan war",
+    "options": {
+      "a": "1, 4, 2, 3",
+      "b": "4, 1, 2, 3",
+      "c": "4, 2, 1, 3",
+      "d": "2, 4, 1, 3"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following was NOT a provincial center in the Magadha Empire, according to Ashoka's inscriptions?",
+    "options": {
+      "a": "Tosali",
+      "b": "Ujjain",
+      "c": "Suvarnagiri",
+      "d": "Indraprastha"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following:\n   Column I (Officer)   Column II (Function)\n   A. Samaharta         1. Ministers and officials\n   B. Amatya           2. Tax assessment",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Mauryan Empire?",
+    "options": {
+      "a": "The last ruler of the Mauryan dynasty was Brihadratha.",
+      "b": "James Prinsep deciphered the Brahmi script in 1837.",
+      "c": "Ashoka adopted Buddhism before the Kalinga War.",
+      "d": "Pushyamitra Shunga assassinated the last Mauryan emperor."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The artificial reservoir Sudarshana in Gujarat was built during the reign of which dynasty?",
+    "options": {
+      "a": "Kushanas",
+      "b": "Mauryas",
+      "c": "Satavahanas",
+      "d": "Shakas"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following is INCORRECTLY matched?",
+    "options": {
+      "a": "Kanishka : Charaka",
+      "b": "Ashoka : Kalinga",
+      "c": "Vikramaditya : Varahamihira",
+      "d": "Kushanas : Vikram Samvat"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following in chronological order based on the starting year:\nI. Vikram Samvat\nII. Shaka Era",
+    "options": {
+      "a": "I, II",
+      "b": "II, I",
+      "c": "I only",
+      "d": "II only"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who was the founder of 'Yoga-Darshana'?",
+    "options": {
+      "a": "Charaka",
+      "b": "Kanishka",
+      "c": "Maharishi Patanjali",
+      "d": "Varahamihira"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Hathigumpha inscription, a key source of information about Kharavela, is located in:",
+    "options": {
+      "a": "Kathiawar",
+      "b": "Amaravati",
+      "c": "Udayagiri in Odisha",
+      "d": "Sarnath"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following rulers/dynasties in chronological order based on their emergence as per the provided text: \n(I) Kushanas \n(II) Mauryas \n(III) Shungas \n(IV) Satavahanas",
+    "options": {
+      "a": "II, III, IV, I",
+      "b": "I, II, III, IV",
+      "c": "IV, I, II, III",
+      "d": "III, IV, I, II"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following:\nColumn I (Dynasty)\n(A) Satavahana\n(B) Shunga\nColumn II (Founder/Related Figure)\n(1) Simuka\n(2) Pushyamitra\n\nWhich of the following is the correct match?",
+    "options": {
+      "a": "A-2, B-1",
+      "b": "A-1, B-2",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is NOT correct regarding the Kushanas?",
+    "options": {
+      "a": "They issued the largest number of copper coins in Northern and North-Western India.",
+      "b": "They regularly issued gold coins.",
+      "c": "They established their rule over the north-western border of India in the first century BCE.",
+      "d": "They are not related to any dynasty."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Vikram Samvat commenced in:",
+    "options": {
+      "a": "78 AD",
+      "b": "81 CE",
+      "c": "58 BCE",
+      "d": "135 years"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Kanishka is known for which of the following?",
+    "options": {
+      "a": "Writing the Hathigumpha inscription",
+      "b": "Being the hero of Kalidasa's Malavikagnimitram",
+      "c": "Organizing the Fourth Buddhist Council",
+      "d": "Founding the Shunga Dynasty"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Shaka era began in which year?",
+    "options": {
+      "a": "58 BCE",
+      "b": "81 CE",
+      "c": "78 AD",
+      "d": "135 years"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Hathigumpha inscription was inscribed by whom?",
+    "options": {
+      "a": "Pushyamitra",
+      "b": "Kharavela",
+      "c": "Gautamiputra Satakarni",
+      "d": "Heliodorus"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following pairings is INCORRECT?",
+    "options": {
+      "a": "Demetrius : Indo-Greek",
+      "b": "Rudradaman : Shaka",
+      "c": "Gondophernes : Kushana",
+      "d": "Vima : Kushana"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who is credited with first issuing gold coins?",
+    "options": {
+      "a": "Strato II",
+      "b": "Alexander",
+      "c": "Vima Kadphises",
+      "d": "Seleucus Nicator"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following events in chronological order:\nI. Start of Vikram Samvat\nII. Shaka ruler Rudradaman I in India\nIII. First Huna invasion",
+    "options": {
+      "a": "I, II, III",
+      "b": "III, II, I",
+      "c": "II, I, III",
+      "d": "I, III, II"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "According to Chola inscriptions, what was the land donated to Jain assemblies known as?",
+    "options": {
+      "a": "Shalabhoga",
+      "b": "Brahmadeya",
+      "c": "Pallichchhandam",
+      "d": "Velanvagai"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following Sangams in chronological order based on the text:",
+    "options": {
+      "a": "First, Second, Third",
+      "b": "Third, Second, First",
+      "c": "Second, First, Third",
+      "d": "The text mentions only the Third Sangam"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Chola dynasty?",
+    "options": {
+      "a": "The Chola kingdom was located in the Coromandel Coast and parts of the Deccan.",
+      "b": "The dynasty declared its successor during its own reign.",
+      "c": "The Gondeshwar Temple, Sinnar was built under the patronage of Chola rulers.",
+      "d": "The Cholas were famous for their naval power in South India."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who is credited with the construction of the sixteen-mile-long 'Chola lake' for irrigation?",
+    "options": {
+      "a": "Karikala",
+      "b": "Rajaraja I",
+      "c": "Pulakeshin II",
+      "d": "Rajendra I"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The 'Battle of Takkolam' took place between which of the following?",
+    "options": {
+      "a": "The Cholas and the Pandyas",
+      "b": "The Cholas and the Rashtrakutas",
+      "c": "The Cholas and the Chalukyas",
+      "d": "The Cholas and the Cheras"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which Chola king gave complete independence to Sri Lanka and married his daughter to a Sinhala prince?",
+    "options": {
+      "a": "Rajaraja I",
+      "b": "Rajendra Chola III",
+      "c": "Kulottunga I",
+      "d": "Rajaraja"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following:\nColumn I\n(A) Vatapi\n(B) Xuanzang\nColumn II\n(1) Capital of Chalukyas\n(2) Chinese traveler",
+    "options": {
+      "a": "A-2, B-1",
+      "b": "A-1, B-2",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In the Chola administration, the assembly of villages mainly settled by Brahmins was known as:",
+    "options": {
+      "a": "Ur",
+      "b": "Nagram",
+      "c": "Sabha",
+      "d": "Variyam"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "During whose reign were 72 traders sent to China?",
+    "options": {
+      "a": "Rajaraja I",
+      "b": "Rajendra Chola III",
+      "c": "Pulakeshin II",
+      "d": "Kulottunga-I"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who was the author of 'Mattavilasa Prahasana'?",
+    "options": {
+      "a": "Narasimhavarman II",
+      "b": "Simha Vishnu",
+      "c": "Dantidurga",
+      "d": "Mahendravarman"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following dynasties had Kanchipuram as their capital during the seventh and eighth centuries?",
+    "options": {
+      "a": "The Rashtrakutas",
+      "b": "The Chalukyas",
+      "c": "The Pallavas",
+      "d": "The Cholas"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following dynasties with their respective capitals:\n\nI. Pallavas         A. Dwarasamudra\nII. Hoysalas        B. Madurai\nIII. Pandyas         C. Kanchipuram\n\nChoose the correct sequence:",
+    "options": {
+      "a": "I-A, II-B, III-C",
+      "b": "I-C, II-A, III-B",
+      "c": "I-B, II-C, III-A",
+      "d": "I-A, II-C, III-B"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Dantidurga?",
+    "options": {
+      "a": "He was a Rashtrakuta chief.",
+      "b": "He performed the Hiranya Garbha ritual.",
+      "c": "He overthrew his Chalukya overlord.",
+      "d": "He was a subordinate of the Pallavas of Kanchi."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which year did Rajaraja I ascend the throne as the Chola king?",
+    "options": {
+      "a": "885 AD",
+      "b": "1085 AD",
+      "c": "985 AD",
+      "d": "785 AD"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who was the court poet of the Chalukya ruler Pulakeshin II?",
+    "options": {
+      "a": "Vijayalaya",
+      "b": "Bilhana",
+      "c": "Rajaraja",
+      "d": "Ravikirti"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following Chola rulers' reigns in chronological order:\nI. Rajaraja\nII. Rajadhiraja I\nIII. Kulottunga I\nIV. Vikram Chola",
+    "options": {
+      "a": "I, II, III, IV",
+      "b": "II, I, IV, III",
+      "c": "IV, III, II, I",
+      "d": "III, IV, I, II"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following dynasties with their capitals:\nI. Pallava dynasty  A. Madura\nII. Pandya dynasty   B. Kanchi\nIII. Yadava dynasty   C. Warangal\nIV. Kakatiya dynasty  D. Devagiri",
+    "options": {
+      "a": "I-B, II-A, III-D, IV-C",
+      "b": "I-A, II-B, III-C, IV-D",
+      "c": "I-D, II-C, III-B, IV-A",
+      "d": "I-C, II-D, III-A, IV-B"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is NOT correct regarding the Chalukya dynasty?",
+    "options": {
+      "a": "Vikramaditya VI was a ruler of the Chalukya dynasty.",
+      "b": "The Chalukya dynasty ruled in Vatapi, which is in Karnataka.",
+      "c": "The capital of Aihole was the Chalukyas.",
+      "d": "The first king of the Chalukya dynasty conquered Sri Lanka."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who among the following rulers had many scholars in his court known as 'Navaratnas'?",
+    "options": {
+      "a": "Samudragupta",
+      "b": "Kumargupta I",
+      "c": "Chandragupta II",
+      "d": "Sri Gupta"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following best describes Dhanvantari in Indian history?",
+    "options": {
+      "a": "A famous poet in the court of Samudragupta",
+      "b": "A renowned physician in Chandragupta Vikramaditya's court",
+      "c": "The founder of Nalanda University",
+      "d": "A Chinese traveler who visited India"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Gupta period?",
+    "options": {
+      "a": "Samudragupta was known as the 'Indian Napoleon'.",
+      "b": "The capital of the Gupta dynasty was Pataliputra.",
+      "c": "Fa Hien visited India during the reign of Chandragupta II.",
+      "d": "Kumargupta I founded Takshashila University."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following rulers with their associated facts:\n\nColumn I\n(A) Chandragupta II\n(B) Samudragupta\n\nColumn II\n(1) 'Indian Napoleon'\n(2) Issued first silver coins\n\nChoose the correct option:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Arrange the following rulers in the order of their reign in the Gupta dynasty:\n(A) Chandragupta I\n(B) Sri Gupta\n(C) Samudragupta\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A, B, C",
+      "b": "B, A, C",
+      "c": "C, A, B",
+      "d": "B, C, A"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which year did Chandragupta II expand the Gupta empire up to Gujarat?",
+    "options": {
+      "a": "320 AD",
+      "b": "390 AD",
+      "c": "415 AD",
+      "d": "455 AD"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which ruler in the Gupta Empire was known to be a good Veena player?",
+    "options": {
+      "a": "Kumargupta I",
+      "b": "Chandragupta II",
+      "c": "Samudragupta",
+      "d": "Skandagupta"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which Gupta ruler is known as 'Shak-vijeta'?",
+    "options": {
+      "a": "Skandagupta",
+      "b": "Chandragupta II",
+      "c": "Samudragupta",
+      "d": "Kumaragupta I"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following:\n\n   I. Bhaga             A. Gold coin\n   II. Dinara            B. Administrative Unit\n   III. Vidhi             C. Source of Revenue\n\nChoose the correct sequence:",
+    "options": {
+      "a": "I-A, II-B, III-C",
+      "b": "I-C, II-A, III-B",
+      "c": "I-B, II-C, III-A",
+      "d": "I-C, II-B, III-A"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which Gupta ruler won a victory over the Hunas?",
+    "options": {
+      "a": "Chandragupta II",
+      "b": "Kumaragupta I",
+      "c": "Skandagupta",
+      "d": "Samudragupta"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The propounder of Yoga philosophy is:",
+    "options": {
+      "a": "Gautama",
+      "b": "Shankardeva",
+      "c": "Patanjali",
+      "d": "Bhaskara"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following dynasties' reign is referred to as the 'Golden Age' in ancient India?",
+    "options": {
+      "a": "Vakataka",
+      "b": "Gupta",
+      "c": "Pushyabhuti",
+      "d": "Lichchhavi"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following: \nColumn I (Philosopher)  Column II (Philosophy)\nA. Patanjali              1. Nyaya\nB. Gautama               2. Yoga\n\nChoose the correct option:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-2, B-2",
+      "d": "A-1, B-1"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Harshavardhana?",
+    "options": {
+      "a": "Harshavardhana's capital was Kannauj.",
+      "b": "Harshavardhana shifted his capital from Thanesar to Kannauj.",
+      "c": "Harshavardhana controlled 5 Indies: Punjab, Kannauj, Bengal, Bihar, and Orissa.",
+      "d": "Harshavardhana's capital was Thanesar."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which century was Nalanda University founded?",
+    "options": {
+      "a": "6th century",
+      "b": "3rd century",
+      "c": "5th century",
+      "d": "4th century"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Buddhist Maha-Sammelan was organized by Harshavardhana at which of the following places?",
+    "options": {
+      "a": "Kannauj",
+      "b": "Thanesar",
+      "c": "Prayag",
+      "d": "Nalanda"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following is INCORRECT regarding Harshavardhana?",
+    "options": {
+      "a": "He declared war against King Shashanka of Gauda.",
+      "b": "He was related to the Pushyabhuti dynasty.",
+      "c": "Banabhatta was his court poet.",
+      "d": "He came to India during Xuanzang's reign."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following events related to Harshavardhana in chronological order:\n  I. Victory of Pulakeshin II over Harshavardhana\n  II. Xuanzang's arrival in India\n  III. Harshavardhana's dominance over Thanesar and Kannauj after Rajyavardhan's death",
+    "options": {
+      "a": "I, II, III",
+      "b": "III, I, II",
+      "c": "II, III, I",
+      "d": "I, III, II"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following:\n   A. Gopala           1. Aihole Inscription\n   B. Ravikirti        2. First king of the Pala dynasty\n   C. Dharmapala   3. Vikramshila University\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-1, B-2, C-3",
+      "b": "A-2, B-1, C-3",
+      "c": "A-3, B-2, C-1",
+      "d": "A-2, B-3, C-1"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "After whose death did Harshavardhana establish his dominance on the thrones of Thanesar and Kannauj?",
+    "options": {
+      "a": "Shashanka",
+      "b": "Pulakeshin",
+      "c": "Banabhatta",
+      "d": "Rajyavardhan"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which Chinese traveler stayed in Tamralipti for three years to learn Sanskrit?",
+    "options": {
+      "a": "Fa Hien",
+      "b": "Al-Masudi",
+      "c": "Xuanzang",
+      "d": "I-tsing"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Arrange the following Chinese travelers in chronological order of their visits to India:",
+    "options": {
+      "a": "I-tsing, Xuanzang, Fa Hien",
+      "b": "Xuanzang, Fa Hien, I-tsing",
+      "c": "Fa Hien, Xuanzang, I-tsing",
+      "d": "Fa Hien, I-tsing, Xuanzang"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following travelers with the period of their stay in India:",
+    "options": {
+      "a": "Fa Hien - 629 to 645 AD, Xuanzang - 399 to 414 AD",
+      "b": "Fa Hien - 399 to 414 AD, Xuanzang - 629 to 645 AD",
+      "c": "Fa Hien - 671-72 to 693-94 AD, Xuanzang - 399 to 414 AD",
+      "d": "Fa Hien - 915 to 916 AD, Xuanzang - 671-72 to 693-94 AD"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the provided text?",
+    "options": {
+      "a": "Pravarasena I performed four Ashvamedha Yajnas",
+      "b": "The city of Harsud in Madhya Pradesh was built by Harshavardhana",
+      "c": "Vallabhi University was located in Gujarat",
+      "d": "The capital of the Kadambas, Banavasi, was located in Kerala"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Kandaraya Mahadeva temple is dedicated to which deity?",
+    "options": {
+      "a": "Lord Vishnu",
+      "b": "Lord Shiva",
+      "c": "Goddess Parvati",
+      "d": "Lord Brahma"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements regarding the Konark Sun Temple is INCORRECT?",
+    "options": {
+      "a": "It is located in Odisha",
+      "b": "European sailors called it Black Pagoda",
+      "c": "King Narasimhadeva I is credited with its establishment",
+      "d": "It was built by the Chandela dynasty"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following:\n\nColumn I\n(A) Brihadishvara Temple\n(B) Khajuraho Monuments\n\nColumn II\n(1) Tamil Nadu\n(2) Madhya Pradesh\n\nChoose the correct option:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "The Ajanta caves were constructed during which period?",
+    "options": {
+      "a": "Mauryan period",
+      "b": "Gupta period",
+      "c": "Sunga period",
+      "d": "Kushan period"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Lingaraja Temple was built by which dynasty?",
+    "options": {
+      "a": "Chola dynasty",
+      "b": "Chandela dynasty",
+      "c": "Somvanshi dynasty",
+      "d": "Pallava dynasty"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Karla caves, known for being protected Buddhist caves, are located in which state?",
+    "options": {
+      "a": "Karnataka",
+      "b": "Uttar Pradesh",
+      "c": "Maharashtra",
+      "d": "Odisha"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who is credited with building the Sanchi Stupa?",
+    "options": {
+      "a": "Rajendra Chola I",
+      "b": "Pulakeshin II",
+      "c": "Ashoka",
+      "d": "Kushana"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following:\n\nColumn I\n(A) Harmika\n(B) Garbhagriha\n\nColumn II\n(1) Innermost sanctum of Hindu and Jain temples\n(2) Balcony-like structure in a stupa\n\n",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which temple was built by Rajendra Chola I?",
+    "options": {
+      "a": "Mahabodhi Temple",
+      "b": "Murudeshwara temple",
+      "c": "Gangaikonda Cholapuram temple",
+      "d": "Tiruvarur temple"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Kandaraya Mahadeva temple was built by which dynasty?",
+    "options": {
+      "a": "Maurya",
+      "b": "Gupta",
+      "c": "Chandela",
+      "d": "Pallava"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who built the famous Konark Sun Temple?",
+    "options": {
+      "a": "Rajaraja Chola",
+      "b": "Anantavarman Chodaganga",
+      "c": "King Narasimhadeva I",
+      "d": "Yayati Keshari"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Brihadishvara Temple is located in which state?",
+    "options": {
+      "a": "Kerala",
+      "b": "Tamil Nadu",
+      "c": "Odisha",
+      "d": "Madhya Pradesh"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements about the Konark Temple is INCORRECT?",
+    "options": {
+      "a": "It is located in Odisha.",
+      "b": "It is also known as Black Pagoda by European sailors.",
+      "c": "It is a Jain Temple",
+      "d": "King Narasimhadeva I is credited with its establishment."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following temples with their locations:\n\nI. Dilwara Temple\nII. Somnath Temple\nIII. Kamakhya Temple\nIV. Jagannath Temple\n\nA. Gujarat\nB. Assam\nC. Mount Abu\nD. Puri\n\n",
+    "options": {
+      "a": "I-A, II-B, III-C, IV-D",
+      "b": "I-C, II-A, III-B, IV-D",
+      "c": "I-D, II-C, III-A, IV-B",
+      "d": "I-B, II-D, III-C, IV-A"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The temple located in the Elephanta Caves near Mumbai is dedicated to which deity?",
+    "options": {
+      "a": "Lord Vishnu",
+      "b": "Lord Shiva",
+      "c": "Lord Brahma",
+      "d": "Lord Krishna"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Ajanta caves are primarily associated with which religion?",
+    "options": {
+      "a": "Jainism",
+      "b": "Hinduism",
+      "c": "Buddhism",
+      "d": "Sikhism"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Kailasa Temple of Ellora is an example of what type of structure?",
+    "options": {
+      "a": "A brick structure",
+      "b": "A wooden structure",
+      "c": "A rock-cut temple",
+      "d": "A concrete structure"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following sites in chronological order based on the period they belong to:\n1. Neolithic cave paintings of Bhimbetka\n2. Ajanta Caves\n3. Temples of Ellora",
+    "options": {
+      "a": "2, 3, 1",
+      "b": "1, 2, 3",
+      "c": "3, 1, 2",
+      "d": "2, 1, 3"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Thousand Pillar Temple was constructed by whom?",
+    "options": {
+      "a": "The Pallavas",
+      "b": "The Rashtrakutas",
+      "c": "Rudra Deva",
+      "d": "King Narasimha Deva I"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following:\nColumn I\n(A) Shore Temple\n(B) Konark Temple\nColumn II\n(1) King Narasimha Deva I\n(2) Mahabalipuram",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the temples and architecture mentioned in the text?",
+    "options": {
+      "a": "The Ajanta caves are located in Maharashtra.",
+      "b": "The temples of Bhubaneswar and Puri are built in the Nagara style.",
+      "c": "The Meenakshi Temple is located in Madurai.",
+      "d": "The Vishnu temple of Angkor Wat is located in India."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Hoysaleswara Temple was constructed using which type of stone?",
+    "options": {
+      "a": "Red sandstone",
+      "b": "White marble",
+      "c": "Black schist stone",
+      "d": "Granite"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following temples is NOT associated with Dravidian architectural style as mentioned in the text?",
+    "options": {
+      "a": "Brihadishvara Temple",
+      "b": "Teli ka Mandir",
+      "c": "Shri Brahmapurishwara Temple",
+      "d": "All of the above are associated with Dravidian architectural style."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following locations with their respective states:\n\nColumn I         Column II\nA. Shravanabelagola   1. Maharashtra\nB. Grishneshwar Jyotirlinga  2. Karnataka\nC. Rajrappa         3. Jharkhand\n\nWhich of the following is the correct match?",
+    "options": {
+      "a": "A-1, B-2, C-3",
+      "b": "A-2, B-1, C-3",
+      "c": "A-3, B-2, C-1",
+      "d": "A-2, B-3, C-1"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The rock-cut caves in Ellora are associated with which of the following religions?",
+    "options": {
+      "a": "Hindus and Buddhists",
+      "b": "Buddhists and Jains",
+      "c": "Hindus, Buddhists, and Jains",
+      "d": "Hindus and Jains"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the caves mentioned in the text?",
+    "options": {
+      "a": "The Khandagiri caves were excavated by King Kharavela.",
+      "b": "The Bhimbetka caves are considered to be 30,000 years old.",
+      "c": "The Ajanta and Ellora caves are located in Andhra Pradesh.",
+      "d": "The cave famous for 'Trimurti' is Elephanta."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The 'Konark' temple is related to which deity?",
+    "options": {
+      "a": "Shiva",
+      "b": "Sun",
+      "c": "Vishnu",
+      "d": "Brahma"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The cave temples in the Ellora hills, built by the Rashtrakutas, are located in which state?",
+    "options": {
+      "a": "Karnataka",
+      "b": "Andhra Pradesh",
+      "c": "Maharashtra",
+      "d": "Madhya Pradesh"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Arrange the following caves according to their religious affiliations: 1. Bagh Caves, 2. Ellora Caves, 3. Ravan Phadi Cave",
+    "options": {
+      "a": "Buddhist-Hindu-Chalukya",
+      "b": "Buddhist-Buddhist/Hindu/Jain-Chalukya",
+      "c": "Jain-Buddhist-Hindu",
+      "d": "Hindu-Jain-Buddhist"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following caves with their locations:\nI. Bagh Caves\nII. Borra Caves\nIII. Elephanta Caves\nIV. Udayagiri Cave\n\nA. Andhra Pradesh\nB. Madhya Pradesh\nC. Maharashtra\nD. Vidisha",
+    "options": {
+      "a": "I-A, II-B, III-C, IV-D",
+      "b": "I-B, II-A, III-C, IV-D",
+      "c": "I-C, II-D, III-A, IV-B",
+      "d": "I-D, II-C, III-B, IV-A"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Ashoka Pillar in Delhi?",
+    "options": {
+      "a": "It is made of iron.",
+      "b": "It does not rust or corrode.",
+      "c": "It is a Buddhist visual art style.",
+      "d": "The pillar is located in Delhi."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who built the Somapura Mahavihara?",
+    "options": {
+      "a": "Chandra",
+      "b": "Dharmapala",
+      "c": "The Pallavas",
+      "d": "The Rashtrakutas"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Sanchi Stupa is located in which of the following states?",
+    "options": {
+      "a": "Uttar Pradesh",
+      "b": "Bihar",
+      "c": "Madhya Pradesh",
+      "d": "Haryana"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following stupa sites is NOT located in Uttar Pradesh?",
+    "options": {
+      "a": "Ramabhar Stupa",
+      "b": "Sarnath",
+      "c": "Bharhut",
+      "d": "Bhitargaon"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following temples with their locations:\nI. Meenakshi Temple\nII. Kamakhya Temple\nIII. Shore Temple\nIV. Bhitargaon brick temple\n\nA. Guwahati\nB. Madurai\nC. Mahabalipuram\nD. Uttar Pradesh",
+    "options": {
+      "a": "I-B, II-A, III-C, IV-D",
+      "b": "I-A, II-B, III-D, IV-C",
+      "c": "I-C, II-D, III-B, IV-A",
+      "d": "I-D, II-C, III-A, IV-B"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT?",
+    "options": {
+      "a": "The Nagarjuni caves were donated by the Mauryas to the Ajivika sect.",
+      "b": "The Kailasanatham temple in Kanchipuram was built during the reign of the Pallavas.",
+      "c": "The Dilwara Temple is related to Buddhism.",
+      "d": "The Hoysaleswara Temple was built in 1150 by a Hoysala king."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Saptaratha temple of Mahabalipuram was built by which ruler?",
+    "options": {
+      "a": "Rudra Deva",
+      "b": "Narasimha Varman",
+      "c": "Milinda",
+      "d": "Nagasena"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The temples of Bhubaneswar and Puri are built in which style?",
+    "options": {
+      "a": "Dravidian style",
+      "b": "Vesara style",
+      "c": "Nagara style",
+      "d": "Gandhara style"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Chitragupta Swami Temple, considered the only temple of Chitragupta, is located in:",
+    "options": {
+      "a": "Datia",
+      "b": "Kanchi",
+      "c": "Puri",
+      "d": "Gwalior"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the following:\n\nColumn I\n(A) Konark temple\n(B) Govardhan Math\n\nColumn II\n(1) Puri\n(2) Orissa\n\nChoose the correct option:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-1",
+      "d": "A-2, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The global heritage site of Bhimbetka is famous for:",
+    "options": {
+      "a": "Caves of Hindus, Buddhists and Jains",
+      "b": "Rock shelters",
+      "c": "Being 30,000 years old",
+      "d": "Excavations by King Kharavela"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who excavated the Khandagiri caves?",
+    "options": {
+      "a": "King Narasimha Deva I",
+      "b": "The Chandellas",
+      "c": "King Kharavela",
+      "d": "Bhima Devi"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following rock-cut caves is renowned for the 'Trimurti'?",
+    "options": {
+      "a": "Karle",
+      "b": "Kanheri",
+      "c": "Elephanta",
+      "d": "Ellora"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Bagh Caves, known for their Buddhist caves, are situated in which Indian state?",
+    "options": {
+      "a": "Andhra Pradesh",
+      "b": "Karnataka",
+      "c": "Madhya Pradesh",
+      "d": "Maharashtra"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "To which deity are the Elephanta Caves primarily dedicated?",
+    "options": {
+      "a": "Lord Vishnu",
+      "b": "Lord Shiva",
+      "c": "Lord Buddha",
+      "d": "Lord Mahavira"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following caves features the depiction of Bodhisattva with eleven heads?",
+    "options": {
+      "a": "Karle",
+      "b": "Kanheri",
+      "c": "Elephanta",
+      "d": "Ellora"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which dynasty is credited with the construction of the rock-cut temples of Mahabalipuram?",
+    "options": {
+      "a": "The Rashtrakutas",
+      "b": "The Pallavas",
+      "c": "The Chalukyas",
+      "d": "The Kushanas"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Ellora caves?",
+    "options": {
+      "a": "They contain Buddhist, Hindu, and Jain rock-cut caves.",
+      "b": "The Kailasa Temple is considered a wonder of rock-cut architecture located there.",
+      "c": "The caves were built by the Pallavas.",
+      "d": "The caves are located in Aurangabad, Maharashtra."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The iron pillar inscription of Mehrauli mentions which king?",
+    "options": {
+      "a": "Dharmapala",
+      "b": "Milinda",
+      "c": "Chandra",
+      "d": "Nagasena"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following:\nColumn I (Location)     Column II (State)\nA. Sanchi Stupa         1. Bihar\nB. Barabar Caves       2. Madhya Pradesh\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-1, B-2",
+      "b": "A-2, B-1",
+      "c": "A-1, B-3",
+      "d": "A-3, B-2"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Great Stupa of Sanchi?",
+    "options": {
+      "a": "The Sanchi Stupa is located in Madhya Pradesh",
+      "b": "The Gandhara art style is a synthesis of Indian and Greek art.",
+      "c": "Among the four toranas, the Southern one was built first.",
+      "d": "Harmika is related to the architecture of the Buddhist stupa."
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which dynasty developed the Gandhara style of art in ancient India?",
+    "options": {
+      "a": "Maurya dynasty",
+      "b": "Gupta dynasty",
+      "c": "Kushana dynasty",
+      "d": "Rashtrakuta dynasty"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The world-famous Konark Sun Temple of Odisha was built by whom?",
+    "options": {
+      "a": "Suryavarman II",
+      "b": "Narasimhadeva I",
+      "c": "Ashoka",
+      "d": "Charupallam"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Dilwara Temple?",
+    "options": {
+      "a": "The Dilwara Temple is related to Jainism.",
+      "b": "The Dilwara temples are located in Mount Abu.",
+      "c": "The Dilwara Temple is located in Guwahati.",
+      "d": "The Dilwara temples are in India."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following locations with their corresponding sites:\n\nColumn I\n(A) Sikkim\n(B) Arunachal Pradesh\n(C) Guwahati\n(D) Mumbai\n\nColumn II\n(1) Tawang Monastery\n(2) Kamakhya Temple\n(3) Phodong Monastery\n(4) Elephanta Caves",
+    "options": {
+      "a": "A-1, B-2, C-3, D-4",
+      "b": "A-3, B-1, C-2, D-4",
+      "c": "A-3, B-2, C-1, D-4",
+      "d": "A-4, B-3, C-2, D-1"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The 'Rock Shelters of Bhimbetka' are located at the foothills of which range?",
+    "options": {
+      "a": "Aravali Range",
+      "b": "Himalayan Range",
+      "c": "Vindhya Range",
+      "d": "Eastern Ghats"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Angkor Wat temple located in Cambodia was built by whom?",
+    "options": {
+      "a": "Narasimhadeva I",
+      "b": "Charupallam",
+      "c": "Suryavarman II",
+      "d": "Ashoka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Kapileshwar temple is dedicated to which Indian deity?",
+    "options": {
+      "a": "Vishnu",
+      "b": "Brahma",
+      "c": "Shiva",
+      "d": "Ganesha"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Nishumbhasudini Devi Temple was built by whom?",
+    "options": {
+      "a": "Mauryas",
+      "b": "Guptas",
+      "c": "Cholas",
+      "d": "Pallavas"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following temples is located in Odisha?",
+    "options": {
+      "a": "Meenakshi Temple",
+      "b": "Samaleswari Temple",
+      "c": "Mahishasuramardini Temple",
+      "d": "Ranakpur Temple"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the texts mentioned?",
+    "options": {
+      "a": "Charaka Samhita is related to medicine.",
+      "b": "Lilavati is written on the subject of mathematics.",
+      "c": "Mudrarakshasa was written in the Sanskrit language.",
+      "d": "Sangam literature is related to the Telugu language."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who is the author of the book 'Kadambari'?",
+    "options": {
+      "a": "Kalidasa",
+      "b": "Vishakhadatta",
+      "c": "Vyasa",
+      "d": "Bana"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which part of the Indian epic mentions 'Bharat' as a title for India?",
+    "options": {
+      "a": "Ramayana",
+      "b": "Rigveda",
+      "c": "Mahabharata",
+      "d": "Arthashastra"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who is credited as the author of the Sanskrit epic 'Mahabharata'?",
+    "options": {
+      "a": "Kalidasa",
+      "b": "Bana",
+      "c": "Maharishi Ved Vyasa",
+      "d": "Bharata Muni"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following authors with their works:\n\nColumn I\n(A) Kalidasa\n(B) Harsha\n(C) Vishakhadatta\n(D) Bhasa\n\nColumn II\n(1) Swapnavasavadattam\n(2) Ratnavali\n(3) Mudrarakshasa\n(4) Abhijnanasakuntalam\n\n",
+    "options": {
+      "a": "A-4, B-2, C-3, D-1",
+      "b": "A-3, B-1, C-2, D-4",
+      "c": "A-2, B-4, C-1, D-3",
+      "d": "A-1, B-3, C-4, D-2"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding 'Mudrarakshasa'?",
+    "options": {
+      "a": "It was written by Vishakhadatta.",
+      "b": "It is a drama.",
+      "c": "It was written in the Sanskrit language.",
+      "d": "It is related to medicine."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following books is NOT written by Kalidasa?",
+    "options": {
+      "a": "Meghaduta",
+      "b": "Malavikagnimitram",
+      "c": "Kumarasambhavam",
+      "d": "Harshacharita"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following fields are Charaka Samhita and Sushruta Samhita related to?",
+    "options": {
+      "a": "Mathematics",
+      "b": "Classical dance",
+      "c": "Medicine and Surgery",
+      "d": "Grammar"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The book 'Indica' was written by which of the following authors?",
+    "options": {
+      "a": "Panini",
+      "b": "Bana",
+      "c": "Megasthenes",
+      "d": "Dandin"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following literary works was authored by Shudraka?",
+    "options": {
+      "a": "Rajatarangini",
+      "b": "Mricchakatikam",
+      "c": "Amarakosha",
+      "d": "Harshacharita"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Arrange the following works in chronological order based on the author's period. (Note: This is a conceptual question based on well-known authors and not explicitly stated chronology)",
+    "options": {
+      "a": "Indica, Harshacharita, Rajatarangini, Aryabhattiyam",
+      "b": "Indica, Aryabhattiyam, Harshacharita, Rajatarangini",
+      "c": "Harshacharita, Rajatarangini, Aryabhattiyam, Indica",
+      "d": "Rajatarangini, Harshacharita, Indica, Aryabhattiyam"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Match the Following:\nColumn I (Author)        Column II (Work)\nA. Al-Biruni             1. Raghuvamsham\nB. Kalidasa              2. Kitab-ul-Hind\nC. Megasthenes           3. Indica\nD. Banabhatta            4. Harshacharita\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-2, B-1, C-3, D-4",
+      "b": "A-1, B-2, C-4, D-3",
+      "c": "A-3, B-4, C-1, D-2",
+      "d": "A-4, B-3, C-2, D-1"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who is considered the Father of Indian Surgery?",
+    "options": {
+      "a": "Charaka",
+      "b": "Kanada",
+      "c": "Sushruta",
+      "d": "Aryabhata"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding 'Manusmriti'?",
+    "options": {
+      "a": "It is an ancient Indian legal document.",
+      "b": "It was written in Sanskrit.",
+      "c": "It describes the kings of the Kashmir state.",
+      "d": "It was translated into English by George Buhler."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The book 'Rajatarangini' provides information about which region?",
+    "options": {
+      "a": "Tamil Nadu",
+      "b": "Kashmir",
+      "c": "Ayurveda",
+      "d": "Sanskrit"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who is the author of the Sanskrit text 'Shuka Saptati'?",
+    "options": {
+      "a": "Khwaja Zia-ud-din Nakhshavi",
+      "b": "Kalhana",
+      "c": "Chintamani Bhatta",
+      "d": "Vishakhadatta"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following texts is NOT authored by Kalidasa?",
+    "options": {
+      "a": "Meghaduta",
+      "b": "Abhijnanasakuntalam",
+      "c": "Raghuvamsha",
+      "d": "Rajatarangini"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following authors with their respective works:\n\nColumn I\n(A) Megasthenes\n(B) Kalhana\n(C) Banabhatta\n(D) Chanakya\n\nColumn II\n(1) Arthashastra\n(2) Indica\n(3) Rajatarangini\n(4) Harshacharitra\n\nChoose the correct sequence:",
+    "options": {
+      "a": "A-2, B-3, C-4, D-1",
+      "b": "A-3, B-2, C-1, D-4",
+      "c": "A-4, B-1, C-2, D-3",
+      "d": "A-1, B-4, C-3, D-2"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Buddhist literature, 'Berigava' is related to which of the following?",
+    "options": {
+      "a": "Vinaya Pitaka",
+      "b": "Sutta Pitaka",
+      "c": "Khuddaka Nikaya",
+      "d": "Abhidhamma Pitaka"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The book 'Kitab-ul-Hind' is written in which language?",
+    "options": {
+      "a": "Sanskrit",
+      "b": "Persian",
+      "c": "Kannada",
+      "d": "Arabic"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who among the following is known as the founder of the Samkhya system of Hindu philosophy?",
+    "options": {
+      "a": "Panini",
+      "b": "Rishi Kapila",
+      "c": "Jayadeva",
+      "d": "Bhoja"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding 'Rajatarangini'?",
+    "options": {
+      "a": "It was written by Kalhana.",
+      "b": "It is about the history of the Kashmir state.",
+      "c": "It was continued by Jonaraja and Shrivara.",
+      "d": "It describes the Mauryan dynasty."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who among the following was a Jain scholar who adorned the court of Kumarapala?",
+    "options": {
+      "a": "Vijnaneshwara",
+      "b": "Hemachandra",
+      "c": "Aryabhata",
+      "d": "Jaimini"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following dynasties ruled Delhi in the early 12th century?",
+    "options": {
+      "a": "Chandela dynasty",
+      "b": "Tomara dynasty",
+      "c": "Hoshang Shah dynasty",
+      "d": "Gupta dynasty"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT according to the text?",
+    "options": {
+      "a": "'Manasollasa' was composed by Someshvara III",
+      "b": "Mahabharata was originally known as Jaya Samhita",
+      "c": "Ashvaghosha was the court poet of Kanishka",
+      "d": "The presiding deity of 'Bhojshala temple' is Goddess Lakshmi"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who among the following composed the text titled 'Mimamsa-Sutra'?",
+    "options": {
+      "a": "Vijnaneshwara",
+      "b": "Hemachandra Suri",
+      "c": "Rishi Jaimini",
+      "d": "Manu"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which battle was Jayachand killed, and in what year did it occur?",
+    "options": {
+      "a": "Battle of Tarain, 1192",
+      "b": "Battle of Chandawar, 1194",
+      "c": "Battle of Kannauj, 1190",
+      "d": "Battle of Delhi, 1196"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following dynasties is NOT associated with ruling the southern part of India?",
+    "options": {
+      "a": "Rajput",
+      "b": "Chola",
+      "c": "Pandya",
+      "d": "Chera"
+    },
+    "correct_answer": "a"
+  },
+  {
+    "question": "Match the following dynasties with their associated regions:\n\nI. Pala Dynasty     A. Western India\nII. Paramara Dynasty    B. Eastern India\n\nChoose the correct sequence:",
+    "options": {
+      "a": "I-A, II-B",
+      "b": "I-B, II-A",
+      "c": "I-A, II-A",
+      "d": "I-B, II-B"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who was the founder of the 'Pratihara' dynasty?",
+    "options": {
+      "a": "Gopala",
+      "b": "Harishchandra",
+      "c": "Bhimdev Solanki II",
+      "d": "Jai Singh II"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding Zoroastrianism?",
+    "options": {
+      "a": "It is a religion of India.",
+      "b": "'Zend-Avesta' is associated with it.",
+      "c": "It is mainly found in Maharashtra.",
+      "d": "It originated in Greece."
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "By whom was the Jantar Mantar located in Delhi built?",
+    "options": {
+      "a": "Bhimdev Solanki II",
+      "b": "Harishchandra",
+      "c": "Maharaja Jai Singh II of Jaipur",
+      "d": "Prithviraj Chauhan"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did B.B. Lal excavate Hastinapur in the Meerut district?",
+    "options": {
+      "a": "1961-62",
+      "b": "1941-42",
+      "c": "1951-52",
+      "d": "1971-72"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The city of Delhi was first founded by the Pandavas and named what?",
+    "options": {
+      "a": "Hastinapur",
+      "b": "Vanavasi",
+      "c": "Dwarasamudra",
+      "d": "Indraprastha"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following dynasties were NOT involved in the triangular struggle for dominance over Kannauj?",
+    "options": {
+      "a": "Rashtrakuta",
+      "b": "Pala",
+      "c": "Pratihara",
+      "d": "Hoysala"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Match the following dynasties with their respective founders:\n\n   Dynasty        Founder\nI. Pala          A. Nannuka\nII. Chandela      B. Gopala\n\nSelect the correct option:",
+    "options": {
+      "a": "I-A, II-B",
+      "b": "I-B, II-A",
+      "c": "I-A, II-A",
+      "d": "I-B, II-B"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "The religious ritual 'Hiranyagarbha' was performed by whom?",
+    "options": {
+      "a": "Gopala",
+      "b": "Dharmapala",
+      "c": "Dantidurga",
+      "d": "Vishnuvardhana"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which year did D.C. Sircar publish the 'Indian Epigraphy and Indian Epigraphical Glossary'?",
+    "options": {
+      "a": "1568",
+      "b": "1956-57",
+      "c": "1965-66",
+      "d": "1970-71"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Bhoramdeo temple, where 'Bhoramdeo Mahotsav' is celebrated, is located in which state?",
+    "options": {
+      "a": "Bihar",
+      "b": "Chhattisgarh",
+      "c": "Maharashtra",
+      "d": "Gujarat"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "From which country did Al-Biruni come to India in the 11th century?",
+    "options": {
+      "a": "Italy",
+      "b": "Uzbekistan",
+      "c": "China",
+      "d": "Egypt"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "Arrange the following travelers to the Indian subcontinent in the chronological order they are mentioned in the text:",
+    "options": {
+      "a": "Faxian, Megasthenes, Xuanzang, Al-Biruni",
+      "b": "Megasthenes, Faxian, Xuanzang, Al-Biruni",
+      "c": "Al-Biruni, Xuanzang, Faxian, Megasthenes",
+      "d": "Xuanzang, Faxian, Megasthenes, Al-Biruni"
+    },
+    "correct_answer": "b"
+  },
+  {
+    "question": "According to the text, which dynasty built the most famous Khajuraho temples?",
+    "options": {
+      "a": "Pala dynasty",
+      "b": "Varman dynasty",
+      "c": "Chandela dynasty",
+      "d": "Solanki dynasty"
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following represents the correct chronological order of events?",
+    "options": {
+      "a": "Muhammad Ghori's defeat by a Chauhan ruler -> Prithviraj III's defeat by Muhammad Ghori",
+      "b": "Prithviraj III's defeat by Muhammad Ghori -> Muhammad Ghori's defeat by a Chauhan ruler",
+      "c": "Construction of Bhojshala -> Prithviraj III's defeat by Muhammad Ghori",
+      "d": "Muhammad bin Qasim's invasion of India -> Construction of Bhojshala"
+    },
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT regarding the Pratihara dynasty?",
+    "options": {
+      "a": "The greatest ruler of the Pratihara dynasty was Mihira Bhoja.",
+      "b": "The Pratihara dynasty made Kannauj their capital.",
+      "c": "Dhangadeva built the Kandariya Mahadev.",
+      "d": "The Pratihara dynasty is also known as Kanyakubja."
+    },
+    "correct_answer": "c"
+  },
+  {
+    "question": "Match the following: Dynasty/Ruler (Column I) with Associated Location/Event (Column II)\n\nColumn I\n(A) Chahamanas\n(B) Parmara dynasty\n(C) Prithviraj Chauhan\n\nColumn II\n(1) Bhojshala of the eleventh century\n(2) Delhi and Ajmer\n(3) Married Samyukta\n\n",
+    "options": {
+      "a": "A-2, B-1, C-3",
+      "b": "A-1, B-2, C-3",
+      "c": "A-3, B-2, C-1",
+      "d": "A-2, B-3, C-1"
+    },
+    "correct_answer": "a"
+  }
+]

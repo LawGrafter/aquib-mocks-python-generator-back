@@ -1,0 +1,1915 @@
+1 | P a g e
+
+
+MS Office Questions for Competition Exams
+
+
+1. From which menu you can insert Header and
+Footer?
+(A) Insert Menu
+(B) View Menu
+(C) Format menu
+(D) Tools Menu
+Correct Answer: A
+
+
+
+
+2. To get to the ‘Symbol’ dialog box, click on the
+
+menu and choose ‘Symbol’.
+(A) Insert
+(B) Format
+(C) Tools
+(D) Table
+Correct Answer: A
+
+
+
+
+3.
+option from clipboard is used to move
+data from one place to another in a document.
+(A) Copy & Paste
+(B) Cut & Paste
+(C) Bold
+(D) Justify
+Correct Answer: B
+
+
+4.
+is an option in Font Group.
+(A) Strikethrough
+(B) Find
+(C) Replace
+(D) Change Styles
+Correct Answer: A
+5.
+Name the button in the picture?
+(A) Font Color
+(B) Fill Color
+(C) Page Color
+(D) Highlighter tool
+Correct Answer: D
+
+
+6. Shortcut for document views toolbar is situated in
+
+bar.
+(A) Task bar
+(B) Status bar
+(C) Tool bar
+(D) Title bar
+Correct Answer: B
+
+
+7. Bullets and Numbering is in
+tab.
+(A) Home tab
+(B) Insert tab
+(C) Pagelayout tab
+(D) View tab
+Correct Answer: A
+
+
+8. To open a existing document, click on the
+
+and then select Open.
+(A) MS Office button
+(B) Quick Access Toolbar
+(C) Document Views
+(D) Ribbon
+Correct Answer: A
+
+
+9. Cut, Copy and Paste is in
+Group in the
+Home tab.
+(A) Font
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+2 | P a g e
+
+(B) Page Setup
+(C) Clipboard
+(D) Editing
+Correct Answer: C
+
+
+10.
+is used to covert from upper case to
+lower case and vice versa.
+(A) Toggle case
+(B) Sentence case
+(C) Lower case
+(D) Upper case
+Correct Answer: A
+
+
+11. Pressing F8 key for three times selects
+(A) A word
+(B) A sentence
+(C) A paragraph
+(D) Entire document
+Correct Answer: B
+
+
+12. What is the shortcut key you can press to create a
+copyright symbol?
+(A) Alt+Ctrl+C
+(B) Alt + C
+(C) Ctrl + C
+(D) Ctrl + Shift + C
+Correct Answer: A
+
+
+13. What is the smallest and largest font size available
+in Font Size tool on formatting toolbar?
+(A) 8 and 72
+(B) 8 and 64
+(C) 12 and 72
+(D) None of above
+Correct Answer: A
+
+
+14. Which of the following is graphics solution for
+Word Processors?
+(A) Clipart
+(B) WordArt
+(C) Drop Cap
+(D) All of above
+Correct Answer: A
+
+
+15. The keystrokes Ctrl + I is used to
+(A) Increase font size
+(B) Inserts a line break
+(C) Indicate the text should be bold
+(D) Applies italic format to selected text
+Correct Answer: D
+
+
+16. A character that is raised and smaller above the
+baseline is known as
+(A) Outlined
+(B) Raised
+(C) Superscript
+(D) Subscript
+Correct Answer: C
+
+
+17. Thesaurus tool in MS Word is used for
+(A) Spelling suggestions
+(B) Grammar options
+(C) Synonyms and Antonyms words
+(D) All of above
+Correct Answer: C
+
+
+18. Why Drop Caps are used in document?
+(A) To drop all the capital letters
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+3 | P a g e
+
+(B) To automatically begin each paragraph with
+capital letter
+(C) To begin a paragraph with a large dropped initial
+capital letter
+(D) None of above
+Correct Answer: C
+
+
+19. A bookmark is an item or location in document
+that you identify as a name for future reference.
+Which of the following task is accomplished by using
+bookmarks?
+(A) To add anchors in web page
+(B) To mark the ending of a paragraph of document
+(C) To quickly jump to specific location in document
+(D) To add hyperlinks in webpage
+Correct Answer: C
+
+
+20. Which of the following is not valid version of MS
+Office?
+A) Office XP
+(B) Office Vista
+(C) Office 2007
+(D) None of above
+Correct Answer: B
+
+
+21. You cannot close MS Word application by
+(A) Choosing File menu then Exit submenu
+(B) Press Alt+F4
+(C) Click X button on title bar
+(D) From File menu choose Close submenu
+Correct Answer: D
+
+
+22. The key F12 opens a
+(A) Save As dialog box
+(B) Open dialog box
+(C) Save dialog box
+(D) Close dialog box
+Correct Answer: A
+
+
+23. What is the short cut key to open the Open dialog
+box?
+(A) F12
+(B) Shift F12
+(C) Alt + F12
+(D) Ctrl + F12
+Correct Answer: D
+
+
+24. A feature of MS Word that saves the document
+automatically after certain interval is available on
+(A) Save tab on Options dialog box
+(B) Save As dialog box
+(C) Both of above
+(D) None of above
+Correct Answer: A
+
+
+25. Which of the following is not available on the
+Ruler of MS Word screen?
+(A) Tab stop box
+(B) Left Indent
+(C) Right Indent
+(D) Center Indent
+E) All of them are available on ruler
+Correct Answer: D
+
+
+26. Which file starts MS Word?
+(A) Winword.exe
+(B) Word.exe
+(C) Msword.exe
+(D) Word2003.exe
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+4 | P a g e
+
+Correct Answer: A
+
+
+27. If you want to keep track of different editions of a
+document which features will you use?
+(A) Editions
+(B) Versions
+(C) Track Change
+(D) All of above
+Correct Answer: B
+
+
+28. Background color or effects applied on a
+document is not visible in
+(A) Web layout view
+(B) Print Layout view
+(C) Reading View
+(D) Print Preview
+Correct Answer: D
+
+
+29. What is a portion of a document in which you set
+certain page formatting options?
+(A) Page
+(B) Document
+(C) Section
+(D) Page Setup
+Correct Answer: C
+
+
+30. Borders can be applied to
+(A) Cells
+(B) Paragraph
+(C) Text
+(D) All of above
+Correct Answer: D
+31. Which of the following is not a type of page
+margin?
+(A) Left
+(B) Right
+(C) Center
+(D) Top
+Correct Answer: C
+
+
+32. What is the default left margin in Word 2003
+document?
+(A) 1"
+(B) 1.25"
+(C) 1.5"
+(D) 2"
+Correct Answer: B
+
+
+33. Portrait and Landscape are
+(A) Page Orientation
+(B) Paper Size
+(C) Page Layout
+(D) All of above
+Correct Answer: A
+
+
+34. If you need to change the typeface of a document,
+which menu will you choose?
+(A) Edit
+(B) View
+(C) Format
+(D) Tools
+Correct Answer: C
+
+
+35. Which of the following is not a font style?
+(A) Bold
+(B) Italics
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+5 | P a g e
+
+(C) Regular
+(D) Superscript
+Correct Answer: D
+
+
+36. What happens when you click on Insert >> Picture
+>> Clip Art
+(A) It inserts a clipart picture into document
+(B) It lets you choose clipart to insert into document
+(C) It opens Clip Art taskbar
+(D) None of above
+Correct Answer: C
+
+
+37. Which option is not available in Insert Table
+Autofit behavior?
+(A) Fixed Column Width
+(B) AutoFit to Contents
+(C) Autofit to Window
+(D) Autofit to Column
+Correct Answer: D
+
+
+38. To autofit the width of column
+(A) Double click the right border of column
+(B) Double click the left border of column
+(C) Double click the column header
+(D) All of above
+Correct Answer: A
+
+
+39. Which of the following statement is false?
+(A) You can set different header footer for even and
+odd pages
+(B) You can set different page number formats for
+different sections
+(C) You can set different header footer for first page
+of a section
+(D) You can set different header and footer for last
+page of a section
+Correct Answer: D
+
+
+40. Where can you change the vertical alignment?
+(A) Formatting toolbar
+(B) Paragraph dialog box
+(C) Page Setup dialog box
+(D) Standard toolbar
+Correct Answer: C
+
+
+41. AutoCorrect was originally designed to replace
+
+words as you type.
+(A) Short, repetitive
+(B) Grammatically incorrect
+(C) Misspelled
+(D) None of the above
+Correct Answer: C
+
+
+42. Which of the following is the second step in
+creating a macro?
+(A) Start recording
+(B) Using your mouse or keyboard, perform the task
+you want to automate
+(C) Assign a keyboard shortcut to the macro
+(D) Give the macro a name
+Correct Answer: C
+
+
+43. In Word, the mailing list is known as the
+
+.
+(A) Data sheet
+(B) Source
+(C) Data source
+(D) Sheet
+Correct Answer: C
+www.studykeea.in
+
+<<<PAGE_BREAK>>>
+6 | P a g e
+
+44. Which of the following is not one of the three
+‘Mail Merge Helper’ steps?
+(A) Merge the two files
+(B) Create the main document
+(C) Set the mailing list parameters
+(D) Create the data source
+Correct Answer: C
+
+
+45. Which of the following button will allow you to
+add, delete, or change records in your
+Data Source?
+(A) ‘Data Source’ button
+(B) ‘Edit’ button
+(C) ‘Edit Data Source’ button
+(D) ‘Data editing’ button
+Correct Answer: C
+
+
+46. It is possible to
+a data source before
+performing a merge.
+(A) Create
+(B) Modify
+(C) Sort
+(D) all of the above
+Correct Answer: D
+
+
+47. Comments can be added to cells using …..
+(A) Edit -> Comments
+(B) Insert -> Comment
+(C) File -> Comments
+(D) View –> Comments
+Correct Answer: B
+
+
+48. Which of the following is not a valid Zoom
+percentage in Excel?
+(A) 10
+(B) 100
+(C) 300
+(D) 500
+Correct Answer: D
+
+
+49. The spelling tool is placed on
+toolbar
+(A) Standard
+(B) Formatting
+(C) Drawing
+(D) Reviewing
+Correct Answer: A
+
+
+50. Which of the following is not a valid data type in
+Excel?
+(A) Number
+(B) Character
+(C) Label
+(D) Date/Time
+Correct Answer: B
+
+
+51. Comments put in cells are called …..
+(A) Smart Tip
+(B) Cell Tip
+(C) Web Tip
+(D) Soft Tip
+Correct Answer: B
+
+
+52. Which menu option can be used to split windows
+into two?
+(A) Format -> Window
+(B) View -> Window-> Split
+(C) Window -> Split
+(D) View –> Split
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+7 | P a g e
+
+Correct Answer: C
+
+
+53. You can activate a cell by
+(A) Pressing the Tab key
+(B) Clicking the cell
+(C) Pressing an arrow key
+(D) All of above
+Correct Answer: D
+
+
+54. When you use the fill effects in the format data
+series dialog box, you can not
+(A) rotate text on the chart
+(B) select a fore ground color
+(C) select a pattern
+(D) select a background color
+Correct Answer: A
+
+
+55. To insert three columns between columns D and E
+you would
+(A) Select column D
+(B) Select column E
+(C) Select columns E, F and G
+(D) Select columns D, E, and F.
+Correct Answer: B
+
+
+56. Hyperlinks cannot be
+(A) Special shapes like stars and banners
+(B) Drawing objects like rectangles ovals
+(C) Pictures
+(D) All can be hyperlinks
+Correct Answer: D
+
+
+57. You can add an image to a template by clicking the
+Insert Picture From File button on the …. Toolbar.
+(A) Standard
+(B) Formatting
+(C) Drawing
+(D) Picture
+Correct Answer: D
+
+
+58. To drag a selected range of data to another
+worksheet in the same workbook, use the
+(A) Tab key
+(B) Alt key
+(C) Shift key
+(D) Ctrl key
+Correct Answer: D
+
+
+59. When you print preview a worksheet
+(A) the entire worksheet is displayed
+(B) the selected range is displayed
+(C) the active portion of the worksheet is displayed
+(D) a, b and c
+Correct Answer: D
+
+
+60. You can open the Sort dialog box by choosing Sort
+from the ….. menu
+(A) View
+(B) Format
+(C) Tools
+(D) Data
+Correct Answer: D
+
+
+61. When working in the page break preview, you can
+(A) view exactly where each page break occurs
+(B) add or remove page breaks
+(C) change the print area
+(D) all of above
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+8 | P a g e
+
+Correct Answer: D
+
+
+62. Which of the following is not a valid Zoom
+percentage in Excel?
+(A) 10
+(B) 100
+(C) 300
+(D) 500
+Correct Answer: D
+
+
+63. The spelling tool is placed on
+toolbar
+(A) Standard
+(B) Formatting
+(C) Drawing
+(D) Reviewing
+Correct Answer: A
+
+
+64. Formatting a cell in Currency, you can specify
+(A) Decimal Places
+(B) Currency Symbol
+(C) Both of above
+(D) None of above
+Correct Answer: C
+
+
+64. Formatting a cell in Number format you can’t set
+(A) Decimal Places
+(B) Use 1000 separator
+(C) Negative numbers
+(D) Currency Symbol
+Correct Answer: D
+
+
+65. What is entered by the function =today()
+A) The date value for the day according to system
+clock
+(B) The time value according to system clock
+(C) Today’s date as Text format
+(D) All of above
+Correct Answer: A
+
+
+66. Which function will you use to enter current time
+in a woksheet cell?
+(A) =today()
+(B) =now()
+(C) =time()
+(D) =currentTime()
+Correct Answer: B
+
+
+67. Merge cells option can be applied from
+A) Format Cells dialog box Alignment Tab
+(B) Formatting toolbar
+(C) Both of above
+(D) None of above
+Correct Answer: A
+
+
+68. Which of the following format you can decide to
+apply or not in AutoFormat dialog box?
+A) Number format
+(B) Border format
+(C) Font format
+(D) All of above
+Correct Answer: D
+
+
+69. How can you remove borders applied in cells?
+(A) Choose None on Border tab of Format cells
+(B) Open the list on Border tool in Formatting toolbar
+then choose first tool (no border)
+(C) Both of above
+(D) None of above
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+9 | P a g e
+
+Correct Answer: C
+
+
+70. You can set Page Border in Excel from
+(A) From Border tab in Format Cells dialog box
+(B) From Border tool in Formatting toolbar
+(C) From Line Style tool in Drawing toolbar
+(D) You can not set page border in Excel
+Correct Answer: D
+
+
+71. You can check the conditions against
+
+when applying conditional formatting
+(A) Cell value
+(B) Formula
+(C) Both of above
+(D) None of above
+Correct Answer: C
+
+
+72. When a range is selected, how can you activate
+the previous cell?
+A) Press the Alt key
+(B) Press Tab
+(C) Press Enter
+(D) None of above
+Correct Answer: D
+
+
+73. Each excel file is a workbook that contains
+different sheets. Which of the following cannot be a
+sheet in workbook?
+(A) work sheet
+(B) chart sheet
+(C) module sheet
+(D) data sheet
+Correct Answer: D
+74. Which of the following Excel screen components
+can NOT be turned on or off?
+(A) Formula Bar
+(B) Status Bar
+(C) Tool Bar
+(D) None of above
+Correct Answer: D
+
+
+75. Which of the following option is not available in
+Paste Special dialog box?
+(A) Add
+(B) Subtract
+(C) Divide
+(D) SQRT
+Correct Answer: D
+
+
+76. Which of the cell pointer indicates that you can fill
+series?
+(A) Doctor’s symbol (Big Plus)
+(B) small thin plus icon
+(C) Mouse Pointer with anchor at the tip
+(D) None of above
+Correct Answer: C
+
+
+77. Which of the following is an absolute cell
+reference?
+(A) !A!1
+(B) $A$1
+(C) #a#1
+(D) A1
+Correct Answer: b
+
+
+78. Which symbol must all formula begin with?
+(A) =
+
+
+
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+10 | P a g e
+
+(B) +
+(C) (
+(D) @
+Correct Answer: a
+
+
+79. Which of the following formulas is not entered
+correctly?
+(A) =10+50
+(B) =B7*B1
+(C) =B7+14
+(D) 10+50
+Correct Answer: d
+
+
+80. Which of the following formulas will Excel Not be
+able to calculate?
+(A) =SUM(Sales)-A3
+(B) =SUM(A1:A5)*.5
+(C) =SUM(A1:A5)/(10-10)
+(D) =SUM(A1:A5)-10
+Correct Answer: a
+
+
+81. A worksheet range is a
+(A) A command used for data modeling
+(B) A range of values such as from 23 to 234
+(C) A group of cells
+(D) A group of worksheets
+Correct Answer: c
+
+
+82. The auto calculate feature
+(A) Can only add values in a range of cells
+(B) Provides a quick way to view the result of an
+arithmetic operation on a range of cells
+(C) Automatically creates formulas and adds them to a
+worksheet
+(D) A and c
+Correct Answer: b
+
+
+83. Excel uniquely identifies cells within a worksheet
+with a cell name
+(A) Cell names
+(B) Column numbers and row letters
+(C) Column letters and row numbers
+(D) Cell locator coordinates
+Correct Answer: c
+
+
+84. To drag a selected range of data to another
+worksheet in the same workbook, use the
+(A) Tab key
+(B) Alt key
+(C) Shift key
+(D) Ctrl key
+Correct Answer: D
+
+
+85. Hyperlinks can be
+(A) Text
+(B) Drawing objects
+(C) Pictures
+(D) All of above
+Correct Answer: d
+
+
+86. To activate the previous cell in a pre-selected
+range, press
+(A) The Alt key
+(B) The Tab key
+(C) The Enter key
+(D) None of the above
+Correct Answer: d
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+11 | P a g e
+
+87. Which button do yu click to add up a series of
+numbers?
+(A) The autosum button
+(B) The Formula button
+(C) The quicktotal button
+(D) The total button
+Correct Answer: a
+
+
+88. When the formula bar is active, you can see
+(A) The edit formula button
+(B) The cancel button
+(C) The enter button
+(D) All of the above
+Correct Answer: d
+
+
+89. In a worksheet you can select
+(A) The entire worksheet
+(B) Rows
+(C) Columns
+(D) All of the above
+Correct Answer: b
+
+
+90. Which area in an excel window allows entering
+values and formulas
+(A) Title bar
+(B) Menu bar
+(C) Formula bar
+(D) Standard toolbar
+Correct Answer: c
+
+
+91. To edit in an embedded excel worksheet object in
+a word document
+(A) Use the excel menu bar and toolbars inside the
+word application
+(B) Edit the hyperlink
+(C) Edit the data in a excel source application
+(D) Use the word menu bar and toolbars
+Correct Answer: a
+
+
+92. To create a formula, you can use:
+(A) Values but not cell references
+(B) C ell references but not values
+(C) Values or cell references although not both at the
+same time
+(D) Value and cell references
+Correct Answer: d
+
+
+93. Status indicators are located on the
+(A) Vertical scroll bar
+(B) Horizontal scroll bar
+(C) Formula bar
+(D) Standard toolbar
+Correct Answer: c
+
+
+94. An excel workbook is a collection of
+(A) Workbooks
+(B) Worksheets
+(C) Charts
+(D) Worksheets and charts
+Correct Answer: d
+
+
+95. Excel files have a default extension of
+(A) Xls
+(B) Xlw
+(C) Wk1
+(D) 123
+Correct Answer: a
+
+
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+12 | P a g e
+
+96. Except for the …… function, a formula with a
+logical function shows the word “TRUE” or “FALSE” as
+a result
+(A) IF
+(B) AND
+(C) OR
+(D) NOT
+Correct Answer: a
+
+
+97. Macros are “run” or executed from the ….. menu.
+(A) Insert
+(B) Frmat
+(C) Tools
+(D) Data
+Correct Answer: c
+
+
+98. You can open the consolidate dialog box byt
+choosing Consolidate from the ….. menu.
+(A) Insert
+(B) Format
+(C) Tools
+(D) Data
+Correct Answer: d
+
+
+99. How are data organized in a spreadsheet?
+(A) Lines and spaces
+(B) Layers and planes
+(C) Rows and columns
+(D) Height and width
+Correct Answer: c
+
+
+100. Gridlines
+(A) May be turned off for display but turned on for
+printing
+(B) May be turned on or off for printing
+(C) The be turned off for display and printing
+(D) a, b and c
+Correct Answer: d
+
+
+101. A function inside another function is called a …..
+function.
+(A) Nested
+(B) Round
+(C) Sum
+(D) Text
+Correct Answer: a
+
+
+102. Which function calculates your monthly mortage
+payment?
+(A) PMT (payments)
+(B) NPER (number of periods)
+(C) PV (present value)
+(D) All of above
+Correct Answer: a
+
+
+103. To drag a selected range of data to another
+worksheet in the same workbook, use the
+(A) Tab key
+(B) Alt key
+(C) Shift key
+(D) Ctrl key
+Correct Answer: d
+
+
+104. When the formula bar is activated, you can see
+(A) The Edit Formula button
+(B) The Cancel button
+(C) The Enter button
+(D) All of above
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+13 | P a g e
+
+Correct Answer: d
+
+
+105. Which file format can be added to a PowerPoint
+show?
+(A) .jpg
+(B) .giv
+(C) .wav
+(D) All of the above
+Correct Answer: d
+
+
+106. Material consisting of text and numbers is best
+presented as
+(A) A table slide
+(B) A bullet slide
+(C) A title slide
+(D) All of the above
+Correct Answer: a
+
+
+107. In order to edit a chart, you can
+(A) Triple click the chart object
+(B) Click and drag the chart object
+(C) Double click the chart object
+(D) Click the chart object
+Correct Answer: c
+
+
+108. To exit the PowerPoint
+(A) click the application minimize button
+(B) click the document close button
+(C) double click the applications control menu icon
+(D) double click the document control menu icon
+Correct Answer: c
+
+
+109. To select one hyperlink after another during a
+slide presentation, what do you press?
+(A) Tab
+(B) Ctrl + K
+(C) Ctrl + h
+(D) All of above
+Correct Answer: a
+
+
+110. Special effects used to introduce slides in a
+presentation are called
+(A) effects
+(B) custom animations
+(C) transitions
+(D) present animations
+Correct Answer: c
+
+
+111. What is the term used when you press and hold
+the left mouse key and more
+the mouse around the slide?
+(A) Highlighting
+(B) Dragging
+(C) Selecting
+(D) Moving
+Correct Answer: b
+
+
+112. To give a PowerPoint presentation to a large
+audience, you:
+(A) Set up your computer in a large auditorium, and
+click large, auditorium, OK
+(B) Click the slide you wish the audience to see in
+normal view, then click the next slide, and so on.
+(C) Choose either view, slide show or slide show, view
+show
+(D) Slick slide show, OK
+Correct Answer: c
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+14 | P a g e
+
+113. Which of the following can you use to add times
+to the slides in a presentation
+(A) Slice Show menu
+(B) Rehearse timing button
+(C) Slide transition button
+(D) All of the above
+Correct Answer: b
+
+
+114. Which of the following is not one of PowerPoint’s
+views?
+(A) Slide show view
+(B) Slide view
+(C) Presentation view
+(D) Outline view
+Correct Answer: c
+
+
+115. Which PowerPoint view works best for adding
+slide transitions?
+(A) Slide show view
+(B) Slide sorter view
+(C) Slide view
+(D) Notes view
+Correct Answer: b
+
+
+116. Which of the following views is the best view to
+use when setting transition effects for all slides in a
+presentation
+(A) Slide sorter view
+(B) Notes page view
+(C) Slide view
+(D) Outline view
+Correct Answer: a
+
+
+117. Which option can be used to set custom timings
+for slides in a presentation?
+(A) Slider Timings
+(B) Slider Timer
+(C) Rehearsal
+(D) Slide Show Setup
+Correct Answer: c
+
+
+118. Which of the following will not advance the slides
+in a slide show view?
+(A) The esc key
+(B) The space bar
+(C) The enter key
+(D) The mouse button
+Correct Answer: a
+
+
+119. The quickest way to create a PowerPoint
+presentation is to use the
+(A) Word for windows templates
+(B) Auto creation wizard
+(C) Auto content wizard
+(D) Presentation wizard
+Correct Answer: c
+
+
+120. Which opf the following can you format using
+buttons on the formatting toolbar?
+(A) Your hard drive
+(B) Format painting
+(C) Font color
+(D) Underlining
+Correct Answer: d
+
+
+121. To start Microsoft PowerPoint application
+(A) Click on Start >> Programs >> All Programs >>
+Microsoft PowerPoint
+(B) Hit Ctrl + R then type ppoint.exe and Enter
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+15 | P a g e
+
+(C) Click Start >> Run then type powerpnt then press
+Enter
+(D) All of above
+Correct Answer: C
+
+
+122. Which menu provides you options like Animation
+Scheme, custom Animation, Slide Transition?
+(A) Insert Menu
+(B) Format Menu
+(C) Tools Menu
+(D) Slide Show Menu
+Correct Answer: d
+
+
+123. In which menu can you find features like Slide
+Design, Slide Layout etc.?
+(A) Insert Menu
+(B) Format Menu
+(C) Tools Menu
+(D) Slide Show Menu
+Correct Answer: B
+
+
+124. The selected design template can be applied
+(A) To current slide only
+(B) To all the slides
+(C) To all the new presentation you create
+(D) All of above
+Correct Answer: D
+
+
+125. What feature will you use to apply motion effects
+in between a slide exits and another enters?
+(A) Slide Transition
+(B) Slide Design
+(C) Animation Objects
+(D) Animation Scheme
+Correct Answer: A
+
+
+126. What PowerPoint feature will you use to apply
+motion effects to different objects of a slide?
+(A) Slide Transition
+(B) Slide Design
+(C) Animation Objects
+(D) Animation Scheme
+Correct Answer: D
+
+
+127. Which command will you use in PowerPoint if
+you need to change the color of different objects
+without changing content?
+(A) Design Template
+(B) Color Scheme
+(C) Font Color
+(D) Object Color
+Correct Answer: B
+
+
+128. Which short cut key inserts a new slide in current
+presentation?
+(A) Ctrl+N
+(B) Ctrl+M
+(C) Ctrl+S
+(D) All of above
+Correct Answer: B
+
+
+129. To start slide show of a presentation
+(A) Hit F5 key
+(B) From Slide Show menu choose View Show option
+(C) From Slide Show menu choose Rehearse timing
+(D) Both a & b
+Correct Answer: D
+
+
+
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+16 | P a g e
+
+130. If you select Insert >> Picture >> From File
+(A) You can insert pictures and clipArts
+(B) You can insert clipArts only
+(C) You can insert pictures only
+(D) None of above
+Correct Answer: C
+
+
+131. Which of the following font effect is not available
+in PowerPoint Font dialog box?
+(A) Underline
+(B) Shadow
+(C) Emboss
+(D) Strikethrough
+Correct Answer: D
+
+
+132. To insert a hyperlink in a slide
+(A) Choose Insert >> Hyperlink
+(B) Press Ctrl + K
+(C) Hyperlinks can’t be inserted in slides
+(D) Both a & b
+Correct Answer: D
+
+
+133. In a PowerPoint presentation
+(A) Sound clips can be inserted but not movie clips
+(B) Movie clips can be inserted but not sound clips
+(C) Both cannot be inserted
+(D) Both can be inserted
+Correct Answer: D
+
+
+134. To insert slide numbers
+(A) Insert a text box and select Insert >> Page Number
+(B) Insert a textbox and select Insert >> Number >>
+PageNumber
+(C) Choose Insert >> Slide Number
+(D) Insert a new text box and select Insert >> slide
+Number
+Correct Answer: D
+
+
+135. What are the three options available in Insert >>
+Picture menu?
+(A) Clipart, Pictures, Shapes
+(B) Clipart, From File, Shapes
+(C) Clipart, From Files, AutoShapes
+(D) Clipart, Pictures, AutoShapes
+Correct Answer: C
+
+
+136. From which menu you can access Picture, Test
+Box, Chart etc?
+(A) File
+(B) Edit
+(C) Insert
+(D) View
+Correct Answer: C
+
+
+137. Which of the following is not a part of Slide
+Design?
+(A) Design Template
+(B) Color Scheme
+(C) Animation Scheme
+(D) Slide Layout
+Correct Answer: D
+
+
+138. What is the term used when a clip art image
+changes the direction of faces?
+(A) Group
+(B) Flip
+(C) Rotate
+(D) All of the above
+Correct Answer: c
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+17 | P a g e
+
+139. the slide that is used to introduce a topic and set
+the tone for the presentation is called the
+(A) table slide
+(B) graph slide
+(C) bullet slide
+(D) title slide
+Correct Answer: d
+
+
+140. Which of the following features should you use
+when typing in the notes text box?
+(A) Slide show
+(B) Insert
+(C) Slide maser
+(D) Zoom
+Correct Answer: d
+
+
+141. Which command brings you to the first slide in
+your presentation?
+(A) Next slide button
+(B) Page up
+(C) Ctrl + Home
+(D) Ctrl + End
+Correct Answer: c
+
+
+142. You can show the shortcut menu during the slide
+show by
+(A) Clicking the shortcut button on the formatting
+toolbar
+(B) Right clicking the current slide
+(C) Clicking an icon on the current slide
+(D) a and b
+Correct Answer: b
+
+
+143. Auto clipart is a feature that
+(A) Automatically places clipart in your presentation
+(B) Scans your presentation for incorrect spelling in
+your words on each slide
+(C) Scans your presentation for incorrect spelling in
+Word Arts objects
+(D) All of above
+Correct Answer: d
+
+
+144. The view that displays the slides on a
+presentation as miniature representations of the
+slides is called
+(A) slide show
+(B) slide sorter view
+(C) notes page view
+(D) outline view
+Correct Answer: b
+
+
+145. Which of the following provides a printed copy of
+your presentation?
+(A) Outline
+(B) Speaker notes
+(C) Audience handouts
+(D) All of the above
+Correct Answer: c
+
+
+146. When using PowerPoint, to play a PowerPoint
+show for previewing the show, select
+(A) View, slide sorter
+(B) View, slide
+(C) View, slide show
+(D) View outline
+Correct Answer: c
+
+
+147. To select all the boxes of an organization chart
+(A) Click edit, select all
+(B) Right click the chart background click select all
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+18 | P a g e
+
+(C) Press and hold the shift key and click each box
+(D) All of the above
+Correct Answer: d
+
+
+148. Which of the following should e used when you
+want to add a slide to an existing presentation?
+(A) File, add a new slide
+(B) Insert, new slide
+(C) File, open
+(D) File, new
+Correct Answer: b
+
+
+149. Which key deletes text before, or the left of, the
+insertion point?
+(A) Backspace
+(B) Page up
+(C) Delete
+(D) Page down
+Correct Answer: a
+
+
+150. Microsoft PowerPoint is a
+(A) Database program
+(B) Spreadsheet program
+(C) Presentation program
+(D) Word processing program
+Correct Answer: c
+
+
+151. Which of the following programs is not a popular
+desktop publishing program?
+a) Adobe PageMaker
+b) Microsoft Publisher
+c) Lotus AmiPro
+d) QuarkXPress
+Correct Answer: C
+152. Which menu provides you options like Animation
+Scheme, custom Animation, Slide Transition?
+A) Insert Menu
+B) Format Menu
+C) Tools Menu
+D) Slide Show Menu
+Correct Answer: D
+
+
+153. In which menu can you find features like Slide
+Design, Slide Layout etc.?
+A) Insert Menu
+B) Format Menu
+C) Tools Menu
+D) Slide Show Menu
+Correct Answer: B
+
+
+154. Which of the following is not a font style?
+(A) Bold
+(B) Italics
+(C) Regular
+D) Superscript
+Correct Answer: D
+
+
+155. Which of the following is not a type of page
+margin?
+A) Left
+(B) Right
+(C) Center
+(D) Top
+Correct Answer: C
+
+
+156. What is a portion of a document in which you set
+certain page formatting options?
+(A) Page
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+19 | P a g e
+
+(B) Document
+(C) Section
+D) Page Setup
+Correct Answer: C
+
+
+157. Background color or effects applied on a
+document is not visible in
+A) Web layout view
+(B) Print Layout view
+(C) Reading View
+D) Print Preview
+Correct Answer: D
+
+
+158. Which of the following is not true about Find and
+Replace in Excel
+(A) You can search for bold and replace with italics
+(B) You can decide whether to look for the whole
+word or not
+(C) You can search in formula too
+D) You can search by rows or columns or sheets
+Correct Answer: D
+
+
+159. The best way to insert a new slide in a
+presentation is to use the
+(A) Normal view
+(B) Special view
+(C) Slide show view
+(D) Slide sorter view
+Correct Answer: d
+
+
+160. What is the maximum number of lines you can
+set for a drop cap?
+(A) 3
+(B) 10
+(C) 15
+(D) 20
+Correct Answer: B
+
+
+161. Which of the following line spacing is invalid?
+(A) Single
+(B) Double
+(C) Triple
+(D) Multiple
+Correct Answer: C
+
+
+162. Which of the following are word processing
+software?
+(A) WordPerfect
+(B) Easy Word
+(C) MS Word
+(D) All of above
+Correct Answer: D
+
+
+163. Which of the following is not of the merge
+process?
+(A) Sort the data source records
+(B) Format a main document
+(C) Edit a data source
+(D) Merge the two files to print or create a new
+document
+Correct Answer: A
+
+
+164. Which of the following is the latest version of MS
+Word?
+(A) Word 2000
+(B) Word 2007
+(C) Word 2010
+(D) Word 2011
+Correct Answer: C
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+20 | P a g e
+
+165. In Microsoft PowerPoint two kind of sound
+effects files that can be added to the presentation are
+(A) .wav files and .mid files
+(B) .wav files and .gif files
+(C) .wav files and .jpg files
+(D) .jpg files and .gif files
+Correct Answer: a
+
+
+166. Special effects used to introduce slides in a
+presentation are called
+(A) effects
+(B) custom animations
+(C) transitions
+(D) present animations
+Correct Answer: c
+
+
+167. In Microsoft PowerPoint the entry effect as one
+slide replaces another in a show is called a (an)
+(A) animation
+(B) slide transition
+(C) custom animation
+(D) preset animation
+Correct Answer: b
+
+
+
+
+168. To add a header or footer to your handout, you
+can use
+(A) The title master
+(B) The slide master
+(C) The handout master
+(D) All of above
+Correct Answer: c
+
+
+169. In Microsoft PowerPoint in order to see all the
+slides on one screen use
+(A) view, slide sorter
+(B) view, slide
+(C) view, master
+(D) view, slide show
+Correct Answer: a
+
+
+170. Which of the following is the default page setup
+orientation for slides in
+PowerPoint?
+(A) Vertical
+(B) Landscape
+(C) Portrait
+(D) None of above
+Correct Answer: b
+
+
+171. Pagemaker is a
+software.
+(A) Desktop Publishing
+(B) Word Processor
+(C) Spredsheet
+(D) Presentation
+Correct Answer: A
+
+
+172.
+is at the top of the window and it
+display the name of the application.
+(A) Menu bar
+(B) Title bar
+(C) Tool bar
+(D) Tool box
+Correct Answer: B
+
+
+173.
+is displayed below the title bar
+(A) Menu bar
+(B) Title bar
+(C) Tool bar
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+21 | P a g e
+
+(D) Tool box
+Correct Answer: A
+
+
+174. Layout is in
+bar.
+(A) Menu bar
+(B) Title bar
+(C) Tool bar
+(D) Tool box
+Correct Answer: A
+
+
+175. Save option is present in
+bar.
+(A) Menu bar
+(B) Title bar
+(C) Tool bar
+(D) Tool box
+Correct Answer: C
+
+
+176. The tool used to select any kind of object on the
+page is called
+.
+(A) Rotate tool
+(B) Text tool
+(C) Pointer tool
+(D) Crop tool
+Correct Answer: C
+
+
+177.
+contains all the tools we need to
+compose a page.
+(A) Menu bar
+(B) Title bar
+(C) Tool bar
+(D) Tool box
+Correct Answer: D
+178. Clicking on the
+tool changes the pointer
+to an insertion point for typing and highlighting text.
+(A) Rotate tool
+(B) Text tool
+(C) Pointer tool
+(D) Crop tool
+Correct Answer: B
+
+
+179.
+tool rotates a text box or image to a
+desired angle.
+(A) Rotate tool
+(B) Text tool
+(C) Rotate tool
+(D) Crop tool
+Correct Answer: C
+
+
+180.
+tool is used to reduce or cut image area.
+(A) Rotate tool
+(B) Text tool
+(C) Rotate tool
+(D) Crop tool
+Correct Answer: D
+
+
+181.
+tool is used to draw square cornered
+boxes.
+(A) Rotate tool
+(B) Text tool
+(C) Box tool
+(D) Crop tool
+Correct Answer: C
+
+
+182. The tool used to move the entire page on the
+screen is called
+.
+(A) Hand tool
+
+
+
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+22 | P a g e
+
+(B) Text tool
+(C) Box tool
+(D) Crop tool
+Correct Answer: A
+
+
+183.
+tool is used to change the magnification
+of the page view.
+(A) Hand tool
+(B) Text tool
+(C) Zoom tool
+(D) Crop tool
+Correct Answer: C
+
+
+184. Colors Palette is present in
+menu.
+(A) Menu bar
+(B) Title bar
+(C) Tool bar
+(D) Window menu
+Correct Answer: D
+
+
+185. The default orientation in Pagemaker 7.0 is
+
+.
+(A) Tall
+(B) Wide
+(C) Broad
+(D) Narrow
+Correct Answer: A
+
+
+186. The style is draw a verticle line through the
+middle of each word is called
+
+.
+(A) Reverse
+(B) Strike thru
+(C) Italic
+(D) Normal
+Correct Answer: B
+187.
+is the line between two lines of type.
+(A) Leading
+(B) Tracking
+(C) Formatting
+(D) Editing
+Correct Answer: A
+
+
+188. Adjusting the space between two consecutive
+characters is called
+.
+(A) Leading
+(B) Tracking
+(C) Formatting
+(D) Editing
+Correct Answer: B
+189. Paragraph formatting options are present in
+
+menu.
+(A) Menu bar
+(B) Title bar
+(C) Tool bar
+(D) Type menu
+Correct Answer: D
+190.
+move the text inward from right and
+left margins.
+(A) Indent
+(B) Cut
+(C) Spacing
+(D) Formatting
+Correct Answer: A
+191. Which is not an alignment option in Page maker?
+(A) Align Left
+(B) Justified
+(C) Center
+www.studykeeda.in
+
+<<<PAGE_BREAK>>>
+23 | P a g e
+
+(D) Bottom
+Correct Answer: D
+192. Cut option is present in
+menu.
+(A) Menu bar
+(B) Edit menur
+(C) Tool bar
+(D) Type menu
+Correct Answer: B
+
+
+193. Remove pages option is used in
+menu.
+(A) Layout menu
+(B) Edit menu
+(C) Tool bar
+(D) Type menu
+Correct Answer: A
+
+
+194.
+is used to specify both color and type of
+fill and line in one operation.
+(A) Fill and stroke
+(B) Fill
+(C) Insert page
+(D) Force Justify
+Correct Answer: A
+195.
+means changing font size.
+(A) Leading
+(B) Tracking
+(C) Scaling
+(D) Editing
+Correct Answer: C
+196.
+button inserted in slides will perform
+predefined action when you click the button
+(A) Action
+(B) Find
+(C) Justify
+(D) View
+Correct Answer: A
+
+
+197. In Excel 2007, there are
+worksheets in a
+workbook
+(A) 2
+(B) 3
+(C) 1
+(D) 5
+Correct Answer: B
+
+
+198.
+is a table consisting of rows and
+columns.
+(A) Worksheet
+(B) Cell
+(C) Workbook
+(D) Range
+Correct Answer: A
+
+
+199. The numeric data entered in the worksheet is
+
+aligned by default.
+(A) Left
+(B) Right
+(C) Center
+(D) Top
+Correct Answer: B
+
+
+200. To insert a chart to excel, click on
+tab.
+(A) Insert
+(B) Home
+(C) Formulas
+(D) View
+Correct Answer: A
+www.studykeeda.in
