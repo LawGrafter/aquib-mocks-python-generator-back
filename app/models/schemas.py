@@ -1,4 +1,4 @@
-from typing import List, Literal, Dict
+from typing import List, Literal, Dict, Optional
 from pydantic import BaseModel, Field, field_validator
 
 class UploadResponse(BaseModel):
@@ -107,6 +107,8 @@ class CustomExamResponse(BaseModel):
     final_unique_count: int
     csv_url: str
     subject: str
+    pdf_url_en: Optional[str] = None
+    pdf_url_hi: Optional[str] = None
 
 class ContentMakerResponse(BaseModel):
     pdf_url: str

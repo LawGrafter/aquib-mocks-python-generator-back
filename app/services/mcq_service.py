@@ -4,8 +4,9 @@ import os
 import json
 import time
 import google.generativeai as genai
-from typing import List, Optional, Set, Generator
+from typing import List, Optional, Set, Generator, Dict, Any
 from app.models.schemas import McqItem
+from app.utils.common import safe_json_parse
 
 # --- STATIC SYSTEM PROMPT (TEXT BASED) ---
 SYSTEM_PROMPT = """
@@ -321,7 +322,13 @@ def generate_mcqs_from_text(text: str, total_questions: int = 10, difficulty: st
 
     return mcqs[:total_questions]
 
-def generate_mcqs_from_topic(topic: str, count: int, difficulty_mode: str = "moderate", sub_topics: List[str] = None) -> List[McqItem]:
+def generate_mcqs_from_topic(
+    topic: str,
+    count: int,
+    difficulty_mode: str = "moderate",
+    sub_topics: List[str] = None,
+    extra_instructions: Optional[str] = None,
+) -> List[McqItem]:
     """
     Generates MCQs from a Topic/Subject using internal knowledge.
     difficulty_mode: 'easy', 'moderate', or 'easy-to-moderate'.
@@ -377,6 +384,7 @@ def generate_mcqs_from_topic(topic: str, count: int, difficulty_mode: str = "mod
         Generate {request_count} high-quality unique MCQs strictly related to {topic}.
         Mode: {diff_label}
         {language_instruction}
+        {extra_instructions or ""}
         
         Ensure diverse sub-topics within {topic}.
         """
@@ -412,3 +420,67 @@ def generate_mcqs_from_topic(topic: str, count: int, difficulty_mode: str = "mod
             time.sleep(2)
 
     return mcqs[:count]
+
+
+TRANSLATE_MCQS_TO_HINDI_SYSTEM_PROMPT = """
+You are a professional translator for competitive exam content.
+
+INPUT: A JSON array of MCQs in English in this exact structure:
+[
+  {
+    "question": "...",
+    "options": { "a": "...", "b": "...", "c": "...", "d": "..." },
+    "correct_answer": "a"
+  }
+]
+
+TASK:
+- Translate ONLY the "question" and "options" text into Hindi (Devanagari).
+- Ensure the output is PURE HINDI: do not leave English words. If a proper noun is commonly used in English,
+  translate it to the standard Hindi form or transliterate it into Devanagari (e.g., "Ashoka" -> "अशोक").
+- Keep numbers/years as digits (e.g., 1857, 2020) unless the original explicitly uses words.
+- Do NOT change the JSON structure.
+- Do NOT change option keys (a/b/c/d).
+- Do NOT change "correct_answer" letter.
+- Keep meaning accurate and exam-style.
+
+OUTPUT: Return ONLY a valid JSON array (no markdown, no extra text).
+"""
+
+
+def translate_mcqs_to_hindi(mcqs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key or "your_gemini_api_key_here" in api_key:
+        raise ValueError("Gemini API Key is missing or invalid.")
+
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel(
+        model_name="gemini-2.0-flash",
+        generation_config={"temperature": 0.1},
+        system_instruction=TRANSLATE_MCQS_TO_HINDI_SYSTEM_PROMPT,
+    )
+
+    translated: List[Dict[str, Any]] = []
+    batch_size = 10
+    for i in range(0, len(mcqs), batch_size):
+        batch = mcqs[i : i + batch_size]
+        prompt = json.dumps(batch, ensure_ascii=False)
+
+        response = model.generate_content(prompt)
+        try:
+            arr = json.loads(clean_json_response(response.text))
+            if isinstance(arr, list):
+                translated.extend(arr)
+                continue
+        except Exception:
+            pass
+
+        parsed = safe_json_parse(response.text)
+        arr2 = parsed.get("array")
+        if isinstance(arr2, list):
+            translated.extend(arr2)
+            continue
+
+        raise ValueError("Failed to translate MCQs to Hindi (invalid model output).")
+
+    return translated[: len(mcqs)]

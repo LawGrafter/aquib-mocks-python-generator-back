@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Request
 from app.models.schemas import ExamGenerationResponse, ExamGenerationRequest, CustomExamRequest, CustomExamResponse
 from app.services import mcq_service, dedup_service
 import pandas as pd
@@ -7,25 +7,78 @@ import os
 import re
 from typing import Dict, List
 from app.utils.file_manager import write_csv
+from app.utils import file_manager
+from reportlab.lib.pagesizes import letter
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+from reportlab.lib.styles import getSampleStyleSheet
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+from io import BytesIO
 
 router = APIRouter()
 
-# Exact syllabus count = 150
+# APS Mock Test weightage (Total = 100)
 SYLLABUS = {
-    "History of India": 10,
-    "General Science": 10,
-    "Indian National Movement": 10,
-    "Indian Agriculture, Commerce & Trade": 10,
-    "Current National & International Events": 10,
-    "Indian Polity, Economy & Culture": 15,
-    "World Geography & Geography of India": 15,
-    "Population, Ecology & Urbanisation (India context)": 10,
-    "Reasoning & General Aptitude": 15,
+    "Indian National Movement": 8,
+    "Ancient History": 3,
+    "Medieval History": 2,
+    "Indian Geography": 5,
+    "World Geography": 5,
     "General English": 10,
-    "General Hindi": 10,
-    "Uttar Pradesh Special Knowledge": 10,
-    "Elementary Knowledge of Computers": 15
+    "General Hindi": 5,
+    "Elementary Knowledge of Computers": 10,
+    "Indian Polity": 6,
+    "General Science": 7,
+    "Uttar Pradesh Special GK": 7,
+    "Current Affairs 2025": 10,
+    "Reasoning": 10,
+    "Economics": 3,
+    "Environment & Ecology": 4,
+    "Agriculture": 3,
+    "Art & Culture": 2,
 }
+
+TOTAL_QUESTIONS = sum(SYLLABUS.values())
+
+DIFFICULTY_MAP = {
+    "Indian National Movement": {"easy": 2, "medium": 4, "hard": 2},
+    "Ancient History": {"easy": 1, "medium": 1, "hard": 1},
+    "Medieval History": {"easy": 0, "medium": 1, "hard": 1},
+    "Indian Geography": {"easy": 1, "medium": 3, "hard": 1},
+    "World Geography": {"easy": 1, "medium": 3, "hard": 1},
+    "General English": {"easy": 3, "medium": 5, "hard": 2},
+    "General Hindi": {"easy": 2, "medium": 2, "hard": 1},
+    "Elementary Knowledge of Computers": {"easy": 3, "medium": 5, "hard": 2},
+    "Indian Polity": {"easy": 1, "medium": 4, "hard": 1},
+    "General Science": {"easy": 2, "medium": 3, "hard": 2},
+    "Uttar Pradesh Special GK": {"easy": 2, "medium": 3, "hard": 2},
+    "Current Affairs 2025": {"easy": 3, "medium": 5, "hard": 2},
+    "Reasoning": {"easy": 3, "medium": 5, "hard": 2},
+    "Economics": {"easy": 1, "medium": 1, "hard": 1},
+    "Environment & Ecology": {"easy": 1, "medium": 2, "hard": 1},
+    "Agriculture": {"easy": 1, "medium": 1, "hard": 1},
+    "Art & Culture": {"easy": 1, "medium": 1, "hard": 0},
+}
+
+
+def _get_subject_difficulty_split(subject: str, total: int) -> Dict[str, int]:
+    dmap = DIFFICULTY_MAP.get(subject)
+    if isinstance(dmap, dict):
+        easy = int(dmap.get("easy", 0))
+        medium = int(dmap.get("medium", 0))
+        hard = int(dmap.get("hard", 0))
+        if easy + medium + hard == total and min(easy, medium, hard) >= 0:
+            return {"easy": easy, "medium": medium, "hard": hard}
+
+    base = total // 3
+    rem = total - (base * 3)
+    split = {"easy": base, "medium": base, "hard": base}
+    if rem >= 1:
+        split["medium"] += 1
+    if rem >= 2:
+        split["easy"] += 1
+    return split
 
 def get_subtopics_map() -> Dict[str, List[str]]:
     """Parses high-court.md to extract sub-topics for each syllabus subject."""
@@ -103,19 +156,23 @@ def get_subtopics_map() -> Dict[str, List[str]]:
 
     # 3. Map to SYLLABUS Keys
     final_map = {
-        "History of India": topics_by_section.get("history_ancient", []) + topics_by_section.get("history_medieval", []),
         "Indian National Movement": topics_by_section.get("history_modern", []),
-        "General Science": topics_by_section.get("science_physics", []) + topics_by_section.get("science_chemistry", []) + topics_by_section.get("science_biology", []),
-        "Indian Agriculture, Commerce & Trade": ["Agriculture in India", "Crops and Seasons", "Animal Husbandry", "Trade and Commerce", "Major Industries"], 
-        "Current National & International Events": topics_by_section.get("current_affairs", ["Recent National Events", "International Summits", "Sports Awards", "New Appointments"]),
-        "Indian Polity, Economy & Culture": topics_by_section.get("polity", []) + topics_by_section.get("economy", []) + topics_by_section.get("gk_static", []),
-        "World Geography & Geography of India": topics_by_section.get("geography_world", []) + topics_by_section.get("geography_india", []),
-        "Population, Ecology & Urbanisation (India context)": topics_by_section.get("ecology", []) + ["Census 2011", "Urbanisation Trends", "Population Density"],
-        "Reasoning & General Aptitude": topics_by_section.get("reasoning", []) + topics_by_section.get("math", []),
+        "Ancient History": topics_by_section.get("history_ancient", []),
+        "Medieval History": topics_by_section.get("history_medieval", []),
+        "Indian Geography": topics_by_section.get("geography_india", []),
+        "World Geography": topics_by_section.get("geography_world", []),
         "General English": topics_by_section.get("english", []),
         "General Hindi": topics_by_section.get("hindi", []),
-        "Uttar Pradesh Special Knowledge": topics_by_section.get("up_special", []),
-        "Elementary Knowledge of Computers": topics_by_section.get("computer", [])
+        "Elementary Knowledge of Computers": topics_by_section.get("computer", []),
+        "Indian Polity": topics_by_section.get("polity", []),
+        "General Science": topics_by_section.get("science_physics", []) + topics_by_section.get("science_chemistry", []) + topics_by_section.get("science_biology", []),
+        "Uttar Pradesh Special GK": topics_by_section.get("up_special", []),
+        "Current Affairs 2025": topics_by_section.get("current_affairs", ["Current Affairs 2025 (National)", "Current Affairs 2025 (International)"]),
+        "Reasoning": topics_by_section.get("reasoning", []),
+        "Economics": topics_by_section.get("economy", []),
+        "Environment & Ecology": topics_by_section.get("ecology", []) + ["Biodiversity", "Climate Change", "Conservation", "Pollution", "Ecosystem"],
+        "Agriculture": ["Agriculture in India", "Crops and Seasons", "Soils", "Irrigation", "Animal Husbandry"],
+        "Art & Culture": topics_by_section.get("gk_static", []),
     }
     
     # Extract Agriculture topics from Geography/Economy if available to populate the Agriculture list
@@ -128,18 +185,95 @@ def get_subtopics_map() -> Dict[str, List[str]]:
                 extracted_agri.append(topic)
                 
     if extracted_agri:
-        final_map["Indian Agriculture, Commerce & Trade"].extend(extracted_agri)
+        final_map["Agriculture"].extend(extracted_agri)
 
     return final_map
 
 import random
+
+
+def get_hindi_font_name() -> str | None:
+    env_font_path = os.getenv("HINDI_TTF_PATH") or os.getenv("HINDI_FONT_PATH")
+    if env_font_path and os.path.exists(env_font_path):
+        font_name = "HindiFont"
+        try:
+            pdfmetrics.registerFont(TTFont(font_name, env_font_path))
+            return font_name
+        except Exception:
+            pass
+
+    font_name = "Mangal"
+    try:
+        if pdfmetrics.getFont(font_name):
+            return font_name
+    except Exception:
+        pass
+
+    candidates = [
+        r"C:\Windows\Fonts\mangal.ttf",
+        r"C:\Windows\Fonts\MANGAL.TTF",
+        r"C:\Windows\Fonts\nirmala.ttf",
+        r"C:\Windows\Fonts\Nirmala.ttf",
+        r"C:\Windows\Fonts\NirmalaUI.ttf",
+        r"C:\Windows\Fonts\nirmalaui.ttf",
+        r"C:\Windows\Fonts\arialuni.ttf",
+        r"C:\Windows\Fonts\ARIALUNI.TTF",
+    ]
+
+    for path in candidates:
+        if os.path.exists(path):
+            try:
+                pdfmetrics.registerFont(TTFont(font_name, path))
+                return font_name
+            except Exception:
+                continue
+
+    return None
+
+
+def build_mcq_pdf_buffer(title: str, mcqs: List[Dict[str, str]], font_name: str | None = None) -> BytesIO:
+    buffer = BytesIO()
+    doc = SimpleDocTemplate(buffer, pagesize=letter)
+    styles = getSampleStyleSheet()
+    story = []
+
+    if font_name:
+        title_style = ParagraphStyle("TitleCustom", parent=styles["Title"], fontName=font_name)
+        heading_style = ParagraphStyle("Heading3Custom", parent=styles["Heading3"], fontName=font_name)
+        normal_style = ParagraphStyle("NormalCustom", parent=styles["Normal"], fontName=font_name)
+    else:
+        title_style = styles["Title"]
+        heading_style = styles["Heading3"]
+        normal_style = styles["Normal"]
+
+    story.append(Paragraph(title, title_style))
+    story.append(Spacer(1, 14))
+
+    for i, item in enumerate(mcqs, 1):
+        q = item.get("question", "")
+        a = item.get("a", "")
+        b = item.get("b", "")
+        c = item.get("c", "")
+        d = item.get("d", "")
+
+        story.append(Paragraph(f"Q{i}. {q}", heading_style))
+        story.append(Spacer(1, 6))
+        story.append(Paragraph(f"A) {a}", normal_style))
+        story.append(Paragraph(f"B) {b}", normal_style))
+        story.append(Paragraph(f"C) {c}", normal_style))
+        story.append(Paragraph(f"D) {d}", normal_style))
+        story.append(Spacer(1, 10))
+
+    doc.build(story)
+    buffer.seek(0)
+    return buffer
 
 @router.post("/exam/generate-full-test", response_model=ExamGenerationResponse)
 async def generate_full_test(request: ExamGenerationRequest):
     all_mcqs = []
     breakdown = {}
     
-    print(f"Starting full exam generation (150 Questions) - Mode: {request.difficulty.upper()}...")
+    print(f"Starting full exam generation ({TOTAL_QUESTIONS} Questions) - Mode: {request.difficulty.upper()}...")
     
     # Load sub-topics from file
     sub_topics_map = get_subtopics_map()
@@ -151,18 +285,47 @@ async def generate_full_test(request: ExamGenerationRequest):
             
             # Get specific sub-topics for this subject if available
             specific_topics = sub_topics_map.get(subject, [])
-            
-            # Pass the difficulty mode and sub-topics to the service
-            mcqs = mcq_service.generate_mcqs_from_topic(subject, count, request.difficulty, sub_topics=specific_topics)
-            
-            # Convert to dict and add Subject
-            for item in mcqs:
-                # item is McqItem (Pydantic)
-                item_dict = item.model_dump()
-                item_dict['Subject'] = subject
-                all_mcqs.append(item_dict)
-                
-            breakdown[subject] = len(mcqs)
+
+            diff_split = _get_subject_difficulty_split(subject, count)
+            generated_for_subject = 0
+
+            for diff_label, diff_count in diff_split.items():
+                if diff_count <= 0:
+                    continue
+
+                mode = "moderate"
+                if diff_label == "easy":
+                    mode = "easy"
+                elif diff_label == "hard":
+                    mode = "easy-to-moderate"
+
+                extra_instructions = (
+                    "IMPORTANT: Questions must be PYQ-style for Indian competitive exams (APS/RO-ARO/SSC/UPSSC). "
+                    "Avoid overly academic framing; keep exam-oriented options and traps."
+                )
+                if subject.lower() == "reasoning":
+                    extra_instructions = (
+                        extra_instructions
+                        + " IMPORTANT (Reasoning): Generate ONLY logical reasoning questions (SSC CGL level). "
+                        "Do NOT generate quantitative aptitude or mathematics questions."
+                    )
+
+                mcqs = mcq_service.generate_mcqs_from_topic(
+                    subject,
+                    diff_count,
+                    mode,
+                    sub_topics=specific_topics,
+                    extra_instructions=extra_instructions,
+                )
+
+                for item in mcqs:
+                    item_dict = item.model_dump()
+                    item_dict["Subject"] = subject
+                    item_dict["Difficulty"] = diff_label
+                    all_mcqs.append(item_dict)
+                    generated_for_subject += 1
+
+            breakdown[subject] = generated_for_subject
             
         except Exception as e:
             print(f"Failed to generate for {subject}: {e}")
@@ -180,6 +343,7 @@ async def generate_full_test(request: ExamGenerationRequest):
             "Option C": m_dict['options']['c'],
             "Option D": m_dict['options']['d'],
             "Correct Answer": m_dict['correct_answer'],
+            "Difficulty": m_dict.get("Difficulty", ""),
             "Subject": subject,
             "Points": 1
         }
@@ -195,13 +359,13 @@ async def generate_full_test(request: ExamGenerationRequest):
     dedup_result = dedup_service.remove_semantic_duplicates(df_formatted, filename_prefix, save_output=False)
     current_df = dedup_result['df']
     
-    # 4. Top-up Loop to ensure exactly 150 unique questions
+    # 4. Top-up Loop to ensure exactly TOTAL_QUESTIONS unique questions
     max_retries = 10
     retry_count = 0
     
-    while len(current_df) < 150 and retry_count < max_retries:
-        needed = 150 - len(current_df)
-        print(f"Unique count {len(current_df)} < 150. Generating {needed} more (Attempt {retry_count+1}/{max_retries})...")
+    while len(current_df) < TOTAL_QUESTIONS and retry_count < max_retries:
+        needed = TOTAL_QUESTIONS - len(current_df)
+        print(f"Unique count {len(current_df)} < {TOTAL_QUESTIONS}. Generating {needed} more (Attempt {retry_count+1}/{max_retries})...")
         
         # Pick a random subject to top up (preferring larger subjects slightly, or just random)
         subject = random.choice(list(SYLLABUS.keys()))
@@ -212,12 +376,41 @@ async def generate_full_test(request: ExamGenerationRequest):
         batch_size = max(2, needed + 2) 
         
         try:
-            new_mcqs = mcq_service.generate_mcqs_from_topic(subject, batch_size, request.difficulty, sub_topics=specific_topics)
-            
+            batch_split = _get_subject_difficulty_split(subject, batch_size)
             new_rows = []
-            for item in new_mcqs:
-                item_dict = item.model_dump()
-                new_rows.append(format_to_row(item_dict, subject))
+            for diff_label, diff_count in batch_split.items():
+                if diff_count <= 0:
+                    continue
+
+                mode = "moderate"
+                if diff_label == "easy":
+                    mode = "easy"
+                elif diff_label == "hard":
+                    mode = "easy-to-moderate"
+
+                extra_instructions = (
+                    "IMPORTANT: Questions must be PYQ-style for Indian competitive exams (APS/RO-ARO/SSC/UPSSC). "
+                    "Avoid overly academic framing; keep exam-oriented options and traps."
+                )
+                if subject.lower() == "reasoning":
+                    extra_instructions = (
+                        extra_instructions
+                        + " IMPORTANT (Reasoning): Generate ONLY logical reasoning questions (SSC CGL level). "
+                        "Do NOT generate quantitative aptitude or mathematics questions."
+                    )
+
+                new_mcqs = mcq_service.generate_mcqs_from_topic(
+                    subject,
+                    diff_count,
+                    mode,
+                    sub_topics=specific_topics,
+                    extra_instructions=extra_instructions,
+                )
+
+                for item in new_mcqs:
+                    item_dict = item.model_dump()
+                    item_dict["Difficulty"] = diff_label
+                    new_rows.append(format_to_row(item_dict, subject))
             
             if new_rows:
                 new_df = pd.DataFrame(new_rows)
@@ -234,10 +427,10 @@ async def generate_full_test(request: ExamGenerationRequest):
 
     # 5. Finalize
     final_count = len(current_df)
-    if final_count > 150:
-        print(f"Trimming from {final_count} to 150 questions.")
-        current_df = current_df.iloc[:150]
-        final_count = 150
+    if final_count > TOTAL_QUESTIONS:
+        print(f"Trimming from {final_count} to {TOTAL_QUESTIONS} questions.")
+        current_df = current_df.iloc[:TOTAL_QUESTIONS]
+        final_count = TOTAL_QUESTIONS
         
     # Save Final CSV
     final_filename_base = f"{filename_prefix}_cleaned"
@@ -252,7 +445,7 @@ async def generate_full_test(request: ExamGenerationRequest):
     )
 
 @router.post("/exam/generate-custom", response_model=CustomExamResponse)
-async def generate_custom_test(request: CustomExamRequest):
+async def generate_custom_test(http_request: Request, request: CustomExamRequest):
     print(f"Starting custom generation for {request.subject} - {request.total_questions} Qs - Mode: {request.difficulty.upper()}...")
     
     try:
@@ -328,11 +521,65 @@ async def generate_custom_test(request: CustomExamRequest):
         write_csv(final_filename_base, current_df)
         final_csv_url = f"/exports/{final_filename_base}.csv"
 
+        en_items: List[Dict[str, str]] = []
+        translate_payload: List[Dict[str, object]] = []
+        for _, r in current_df.iterrows():
+            question = str(r.get("Question", ""))
+            a = str(r.get("Option A", ""))
+            b = str(r.get("Option B", ""))
+            c = str(r.get("Option C", ""))
+            d = str(r.get("Option D", ""))
+            correct = str(r.get("Correct Answer", "")).lower()
+
+            en_items.append({"question": question, "a": a, "b": b, "c": c, "d": d})
+            translate_payload.append(
+                {"question": question, "options": {"a": a, "b": b, "c": c, "d": d}, "correct_answer": correct}
+            )
+
+        en_pdf_buffer = build_mcq_pdf_buffer(
+            f"Custom Test (English) - {request.subject} - {', '.join(request.topics)}",
+            en_items,
+        )
+        en_pdf_filename = f"{final_filename_base}_en.pdf"
+        en_saved = file_manager.save_generated_pdf(en_pdf_buffer, en_pdf_filename)
+        en_pdf_url = f"/files/docs/{en_saved}"
+
+        translated = mcq_service.translate_mcqs_to_hindi(translate_payload)
+        hi_items: List[Dict[str, str]] = []
+        for t in translated:
+            opts = t.get("options") or {}
+            hi_items.append(
+                {
+                    "question": str(t.get("question", "")),
+                    "a": str(opts.get("a", "")),
+                    "b": str(opts.get("b", "")),
+                    "c": str(opts.get("c", "")),
+                    "d": str(opts.get("d", "")),
+                }
+            )
+
+        hindi_font = get_hindi_font_name()
+        if not hindi_font:
+            raise HTTPException(
+                status_code=500,
+                detail="Hindi PDF font not found. Set HINDI_TTF_PATH to a Devanagari .ttf (e.g., C:\\Windows\\Fonts\\mangal.ttf).",
+            )
+        hi_pdf_buffer = build_mcq_pdf_buffer(
+            f"Custom Test (Hindi) - {request.subject} - {', '.join(request.topics)}",
+            hi_items,
+            font_name=hindi_font,
+        )
+        hi_pdf_filename = f"{final_filename_base}_hi.pdf"
+        hi_saved = file_manager.save_generated_pdf(hi_pdf_buffer, hi_pdf_filename)
+        hi_pdf_url = f"/files/docs/{hi_saved}"
+
         return CustomExamResponse(
             total_generated=len(current_df),
             final_unique_count=len(current_df),
             csv_url=final_csv_url,
-            subject=request.subject
+            subject=request.subject,
+            pdf_url_en=en_pdf_url,
+            pdf_url_hi=hi_pdf_url,
         )
 
     except Exception as e:

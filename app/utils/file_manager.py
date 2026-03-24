@@ -134,7 +134,7 @@ def write_csv(file_id: str, df: pd.DataFrame) -> str:
     filename = f"{file_id}.csv"
     saved_path = paths["csv"] / filename
     
-    df.to_csv(saved_path, index=False)
+    df.to_csv(saved_path, index=False, encoding="utf-8-sig")
     
     return str(saved_path)
 
@@ -164,7 +164,7 @@ def save_json(file_id: str, data: list) -> str:
     saved_path = paths["json"] / filename
     
     with open(saved_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        json.dump(data, f, indent=2, ensure_ascii=False)
         
     return str(saved_path)
 
