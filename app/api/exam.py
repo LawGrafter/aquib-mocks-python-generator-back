@@ -82,7 +82,7 @@ def _get_subject_difficulty_split(subject: str, total: int) -> Dict[str, int]:
 
 def get_subtopics_map() -> Dict[str, List[str]]:
     """Parses high-court.md to extract sub-topics for each syllabus subject."""
-    file_path = r"c:\Users\dell\Desktop\Mock test\app\high-court.md"
+    file_path = os.path.join(os.path.dirname(__file__), "..", "high-court.md")
     if not os.path.exists(file_path):
         print(f"Warning: Topic file not found at {file_path}")
         return {}
@@ -584,4 +584,31 @@ async def generate_custom_test(http_request: Request, request: CustomExamRequest
 
     except Exception as e:
         print(f"Error in custom generation: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@router.post("/exam/validate-questions")
+async def validate_questions(request: Request):
+    """
+    Validates MCQ questions using AI to check:
+    - Question quality and correctness
+    - Option validity
+    - Correct answer accuracy
+    - Duplicate detection
+    """
+    try:
+        from app.services import validation_service
+        
+        body = await request.json()
+        questions = body.get("questions", [])
+        
+        if not questions:
+            raise HTTPException(status_code=400, detail="No questions provided")
+        
+        print(f"Validating {len(questions)} questions with AI...")
+        validation_results = validation_service.validate_mcqs_with_ai(questions)
+        
+        return validation_results
+        
+    except Exception as e:
+        print(f"Error in validation: {e}")
         raise HTTPException(status_code=500, detail=str(e))
