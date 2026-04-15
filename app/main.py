@@ -13,23 +13,9 @@ from app.api import upload, convert, mcq, export, mistake, research, clean, scra
 app = FastAPI(title="PDF to MCQ Backend")
 
 # CORS Configuration
-# Set FRONTEND_URL env var on Railway to your Vercel domain (e.g. https://your-app.vercel.app)
-_frontend_url = os.getenv("FRONTEND_URL", "")
-origins = [
-    "http://localhost:3000",
-    "http://127.0.0.1:3000",
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
-]
-if _frontend_url:
-    origins.append(_frontend_url)
-    # Also allow preview deployments (*.vercel.app)
-    if "vercel.app" in _frontend_url:
-        origins.append("https://*.vercel.app")
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins if _frontend_url else ["*"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
