@@ -286,16 +286,16 @@ def _get_type_instructions(subject: str, question_type: str, difficulty: str) ->
         "Alankar": "Generate: 'इस पंक्ति में कौन सा अलंकार है? [VERSE]'. Options = 4 alankar names (उपमा, रूपक, अनुप्रास, यमक etc.).",
         "Samas": "Generate: '[COMPOUND_WORD] में कौन सा समास है?'. Options = 4 samas types (तत्पुरुष, द्विगु, कर्मधारय, बहुव्रीहि etc.).",
         
-        # Reasoning
-        "Number/Letter Series": "Generate: 'What comes next in the series: X, Y, Z, ?' Options = 4 numbers or letters. Each question must use a DIFFERENT pattern.",
-        "Syllogism": "Generate: 'All A are B. Some B are C. Conclusion: ?' format. Options = 4 specific conclusions. Use classical syllogism format.",
-        "Alphabet Series": "Generate: 'What comes next: A, D, G, J, ?' or letter pattern. Options = 4 letters. Use a UNIQUE pattern.",
-        "Odd One Out": "Generate: 'Which one is different from the rest?' Options = 4 items where 3 share a common property.",
-        "Coding-Decoding": "Generate: 'If APPLE is coded as XYZAB, then MANGO is coded as?' Options = 4 coded words. Each question must use a different coding rule.",
-        "Dice": "Generate a dice-based question with specific faces described. Ask which face is opposite to a given face. Options = 4 faces.",
-        "Calendar (date-based)": "Generate: 'What day of the week was [specific date]?' or 'If Jan 1, 2025 was Wednesday, what day is March 15?'. Options = 4 days.",
-        "Direction": "Generate: 'A person walks 5km North, turns right...' type question. Ask final direction or distance. Options = 4 directions/distances.",
-        "Blood Relation": "Generate: 'A is father of B. B is sister of C. How is A related to C?' Options = 4 relations.",
+        # Reasoning (High difficulty, time-consuming)
+        "Number/Letter Series": "Generate: 'What comes next in the series: X, Y, Z, ?' Use COMPLEX patterns like alternating operations, mixed number-letter series, squares/cubes with modifications, or multi-step mathematical operations. Each question must use a DIFFERENT complex pattern.",
+        "Syllogism": "Generate: 'All A are B. Some B are C. No C are D. Some D are A. Conclusion: ?' format with 3-4 statements and complex relationships. Options = 4 specific conclusions. Use classical syllogism format with possibility/probability-based conclusions.",
+        "Alphabet Series": "Generate: 'What comes next: A, D, G, J, ?' or letter pattern with SKIP patterns, reverse alphabet, position-based operations, or mixed letter-number patterns. Options = 4 letters. Use a UNIQUE complex pattern.",
+        "Odd One Out": "Generate: 'Which one is different from the rest?' with SUBTLE differences requiring deep analysis (e.g., word relationships, number properties, pattern recognition). Options = 4 items where 3 share a complex common property.",
+        "Coding-Decoding": "Generate: 'If APPLE is coded as XYZAB, then MANGO is coded as?' using COMPLEX coding rules like letter shifting with varying steps, reverse coding, symbol substitution, or multi-step patterns. Options = 4 coded words. Each question must use a different complex coding rule.",
+        "Dice": "Generate a dice-based question with 2-3 dice described showing different positions. Ask which face is opposite to a given face based on rotation logic. Options = 4 faces. Use complex rotation scenarios.",
+        "Calendar (date-based)": "Generate: 'What day of the week was [specific date]?' or 'If Jan 1, 2025 was Wednesday, what day is March 15, 2028?' with leap years, long date ranges, or repeated pattern calculations. Options = 4 days.",
+        "Direction": "Generate: 'A person walks 5km North, turns right, walks 3km, turns 45° left...' with 5-7 movements, varying angles, and ask final direction/distance from starting point. Options = 4 directions/distances.",
+        "Blood Relation": "Generate: 'A is father of B. B is sister of C. C is married to D. D is son of E. How is A related to E?' with 4-5 generations and complex family tree. Options = 4 relations.",
         
         # Computer
         "Full Form": "Generate: 'What is the full form of [ACRONYM]?' (e.g., HTTP, RAM, BIOS, URL). Options = 4 full forms.",

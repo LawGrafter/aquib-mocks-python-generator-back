@@ -306,8 +306,11 @@ async def generate_full_test(request: ExamGenerationRequest):
                 if subject.lower() == "reasoning":
                     extra_instructions = (
                         extra_instructions
-                        + " IMPORTANT (Reasoning): Generate ONLY logical reasoning questions (SSC CGL level). "
-                        "Do NOT generate quantitative aptitude or mathematics questions."
+                        + " IMPORTANT (Reasoning): Generate ONLY logical reasoning questions at HIGH DIFFICULTY level. "
+                        "Use complex patterns (multi-step series, 3-4 statement syllogisms, complex coding-decoding, "
+                        "5-7 movement direction questions, 4-5 generation blood relations). "
+                        "Do NOT generate quantitative aptitude or mathematics questions. "
+                        "Make questions time-consuming requiring deep analysis."
                     )
 
                 mcqs = mcq_service.generate_mcqs_from_topic(
@@ -395,8 +398,11 @@ async def generate_full_test(request: ExamGenerationRequest):
                 if subject.lower() == "reasoning":
                     extra_instructions = (
                         extra_instructions
-                        + " IMPORTANT (Reasoning): Generate ONLY logical reasoning questions (SSC CGL level). "
-                        "Do NOT generate quantitative aptitude or mathematics questions."
+                        + " IMPORTANT (Reasoning): Generate ONLY logical reasoning questions at HIGH DIFFICULTY level. "
+                        "Use complex patterns (multi-step series, 3-4 statement syllogisms, complex coding-decoding, "
+                        "5-7 movement direction questions, 4-5 generation blood relations). "
+                        "Do NOT generate quantitative aptitude or mathematics questions. "
+                        "Make questions time-consuming requiring deep analysis."
                     )
 
                 new_mcqs = mcq_service.generate_mcqs_from_topic(
