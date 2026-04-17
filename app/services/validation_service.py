@@ -17,7 +17,7 @@ def validate_mcqs_with_ai(mcqs: List[Dict[str, Any]]) -> Dict[str, Any]:
         return {"error": "GEMINI_API_KEY not configured"}
     
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-2.0-flash")
+    model = genai.GenerativeModel("gemini-2.5-flash")
     
     results = {
         "total_questions": len(mcqs),

@@ -405,135 +405,158 @@ def _generate_for_type(subject: str, question_type: str, count: int, difficulty:
     return results
 
 
+def _generate_subject_batch(subject: str, details: dict, difficulty: str) -> list:
+    """Generate ALL question types for a subject in ONE Gemini API call."""
+    import json as _json
+    import time as _time
+    import os as _os
+    import google.generativeai as genai
+
+    breakdown = details['breakdown']
+    total = details['count']
+
+    # Build a combined prompt listing every type + count
+    type_lines = []
+    type_instructions = []
+    for item in breakdown:
+        qt = item['type']
+        cnt = item['count']
+        type_lines.append(f"  - {qt}: {cnt} question(s)")
+        instr = _get_type_instructions(subject, qt, difficulty)
+        type_instructions.append(f"### {qt} ({cnt} question(s))\n{instr}")
+
+    language_note = ""
+    if "hindi" in subject.lower():
+        language_note = ("\nIMPORTANT: The subject is Hindi. Generate questions, options, "
+                        "and answers in HINDI LANGUAGE (Devanagari Script).")
+
+    combined_prompt = f"""SUBJECT: {subject}
+DIFFICULTY: {difficulty.upper()}
+TOTAL QUESTIONS NEEDED: {total}
+{language_note}
+
+Generate exactly {total} MCQs for \"{subject}\" with the following type breakdown:
+{chr(10).join(type_lines)}
+
+FORMAT INSTRUCTIONS PER TYPE:
+{chr(10).join(type_instructions)}
+
+RETURN a single valid JSON array of {total} MCQ objects.
+Each object: {{"question": "...", "options": {{"a": "...", "b": "...", "c": "...", "d": "..."}}, "correct_answer": "a"}}
+Return ONLY the JSON array. No markdown, no backticks, no extra text.
+"""
+
+    api_key = _os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY not set")
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel(
+        model_name='gemini-2.5-flash',
+        system_instruction="You are an expert exam setter for Allahabad High Court Challenge 2026. Return ONLY valid JSON."
+    )
+
+    results = []
+    for attempt in range(3):
+        try:
+            response = model.generate_content(combined_prompt)
+            json_str = mcq_service.clean_json_response(response.text)
+            data = _json.loads(json_str)
+
+            for mcq_item in data:
+                if mcq_service.validate_mcq(mcq_item):
+                    mcq_dict = mcq_item
+                    mcq_dict["Subject"] = subject
+                    mcq_dict["Difficulty"] = difficulty
+                    results.append(mcq_dict)
+
+            if results:
+                print(f"  ✅ Batch got {len(results)}/{total} questions")
+                break
+        except Exception as e:
+            print(f"  ⚠️ Batch attempt {attempt+1}/3 failed: {e}")
+            _time.sleep(1)
+
+    return results[:total]
+
+
 @router.post("/ahc-challenge/generate", response_model=AHCChallengeResponse)
 async def generate_ahc_challenge(request: AHCChallengeRequest):
     """
     Generate AHC Challenge 2026 exam with exact syllabus breakdown.
-    Ensures every subject gets its required number of questions.
+    Uses BATCHED generation: 1 API call per subject (not per question type).
     """
     all_mcqs = []
     breakdown = {}
-    # Track shortfalls per subject for targeted retry
-    shortfall_tracker = {}  # {subject: [(question_type, still_needed), ...]}
     
     print(f"\n{'='*60}")
     print(f"  AHC Challenge 2026 - Difficulty: {request.difficulty.upper()}")
     print(f"  Target: {TOTAL_QUESTIONS} questions across {len(AHC_SYLLABUS)} subjects")
+    print(f"  Mode: BATCHED (1 API call per subject)")
     print(f"{'='*60}")
     
     try:
         # ============================================
-        # PASS 1: Generate for each subject & type
+        # PASS 1: Batch generate per subject (1 API call each)
         # ============================================
         for subject, details in AHC_SYLLABUS.items():
             expected = details['count']
-            print(f"\n📚 [{subject}] Target: {expected} questions")
-            subject_mcqs = []
-            subject_shortfalls = []
+            print(f"\n📚 [{subject}] Generating {expected} questions in one batch...")
             
-            for item in details['breakdown']:
-                question_type = item['type']
-                count = item['count']
-                
-                print(f"  ├─ {question_type}: {count} question(s)...", end=" ")
-                
-                type_mcqs = _generate_for_type(subject, question_type, count, request.difficulty)
-                subject_mcqs.extend(type_mcqs)
-                
-                if len(type_mcqs) >= count:
-                    print(f"✅ {len(type_mcqs)}/{count}")
-                else:
-                    shortfall = count - len(type_mcqs)
-                    subject_shortfalls.append((question_type, shortfall))
-                    print(f"⚠️ {len(type_mcqs)}/{count} (missing {shortfall})")
+            subject_mcqs = _generate_subject_batch(subject, details, request.difficulty)
             
             all_mcqs.extend(subject_mcqs)
             breakdown[subject] = len(subject_mcqs)
             
-            if subject_shortfalls:
-                shortfall_tracker[subject] = subject_shortfalls
-            
-            status = "✅" if len(subject_mcqs) >= expected else "⚠️"
+            status = "✅" if len(subject_mcqs) >= expected else f"⚠️ ({len(subject_mcqs)}/{expected})"
             print(f"  └─ {status} {subject}: {len(subject_mcqs)}/{expected}")
         
         # ============================================
-        # PASS 2: Targeted retry for failed subjects
+        # PASS 2: Quick retry for subjects that are short
         # ============================================
-        if shortfall_tracker:
+        short_subjects = {s: d for s, d in AHC_SYLLABUS.items()
+                         if breakdown.get(s, 0) < d['count']}
+        
+        if short_subjects:
             print(f"\n{'─'*40}")
-            print(f"🔄 PASS 2: Retrying {len(shortfall_tracker)} subjects with shortfalls")
+            print(f"🔄 PASS 2: Retrying {len(short_subjects)} short subjects")
             print(f"{'─'*40}")
             
-            for subject, shortfalls in shortfall_tracker.items():
-                for question_type, needed in shortfalls:
-                    print(f"  🔄 Retrying [{subject} > {question_type}]: need {needed} more...", end=" ")
-                    
-                    retry_mcqs = _generate_for_type(subject, question_type, needed, request.difficulty, max_attempts=3)
-                    
-                    if retry_mcqs:
-                        all_mcqs.extend(retry_mcqs)
-                        breakdown[subject] = breakdown.get(subject, 0) + len(retry_mcqs)
-                        print(f"✅ Got {len(retry_mcqs)}")
-                    else:
-                        print(f"❌ Failed again")
+            for subject, details in short_subjects.items():
+                needed = details['count'] - breakdown.get(subject, 0)
+                print(f"  🔄 [{subject}] need {needed} more...", end=" ")
+                
+                # Use per-type fallback for the specific types that are short
+                qt = details['breakdown'][0]['type']
+                retry_mcqs = _generate_for_type(subject, qt, needed, request.difficulty, max_attempts=2)
+                
+                if retry_mcqs:
+                    all_mcqs.extend(retry_mcqs)
+                    breakdown[subject] = breakdown.get(subject, 0) + len(retry_mcqs)
+                    print(f"✅ Got {len(retry_mcqs)}")
+                else:
+                    print(f"❌ Failed")
         
         # ============================================
-        # PASS 3: Fill any remaining gap from subjects that are still short
+        # PASS 3: Quick top-up if still short of 100
         # ============================================
         if len(all_mcqs) < TOTAL_QUESTIONS:
-            print(f"\n{'─'*40}")
-            print(f"🔄 PASS 3: Top-up needed. Have {len(all_mcqs)}/{TOTAL_QUESTIONS}")
-            print(f"{'─'*40}")
+            needed = TOTAL_QUESTIONS - len(all_mcqs)
+            print(f"\n🔄 PASS 3: Top-up {needed} questions from random subjects...")
             
-            # Find subjects that are short of their target
-            for top_up_round in range(3):
+            subjects_list = list(AHC_SYLLABUS.keys())
+            random.shuffle(subjects_list)
+            
+            for subj in subjects_list:
                 if len(all_mcqs) >= TOTAL_QUESTIONS:
                     break
-                    
-                for subject, details in AHC_SYLLABUS.items():
-                    if len(all_mcqs) >= TOTAL_QUESTIONS:
-                        break
-                    
-                    current_count = breakdown.get(subject, 0)
-                    target_count = details['count']
-                    
-                    if current_count < target_count:
-                        # This subject is still short — retry its first breakdown type
-                        still_needed = min(target_count - current_count, TOTAL_QUESTIONS - len(all_mcqs))
-                        qt = details['breakdown'][0]['type']
-                        
-                        print(f"  🔄 Round {top_up_round+1}: [{subject}] need {still_needed} more...", end=" ")
-                        
-                        fill_mcqs = _generate_for_type(subject, qt, still_needed, request.difficulty, max_attempts=2)
-                        
-                        if fill_mcqs:
-                            all_mcqs.extend(fill_mcqs)
-                            breakdown[subject] = breakdown.get(subject, 0) + len(fill_mcqs)
-                            print(f"✅ Got {len(fill_mcqs)}")
-                        else:
-                            print(f"❌ Failed")
+                still_needed = min(3, TOTAL_QUESTIONS - len(all_mcqs))
+                detail = AHC_SYLLABUS[subj]
+                qt = detail['breakdown'][0]['type']
                 
-                # If still short, try ANY subject that can give us more
-                if len(all_mcqs) < TOTAL_QUESTIONS:
-                    subjects_list = list(AHC_SYLLABUS.keys())
-                    random.shuffle(subjects_list)
-                    
-                    for subj in subjects_list:
-                        if len(all_mcqs) >= TOTAL_QUESTIONS:
-                            break
-                        still_needed = min(2, TOTAL_QUESTIONS - len(all_mcqs))
-                        detail = AHC_SYLLABUS[subj]
-                        qt = detail['breakdown'][0]['type']
-                        
-                        print(f"  🔄 Extra fill: [{subj}] +{still_needed}...", end=" ")
-                        
-                        fill_mcqs = _generate_for_type(subj, qt, still_needed, request.difficulty, max_attempts=1)
-                        if fill_mcqs:
-                            all_mcqs.extend(fill_mcqs)
-                            breakdown[subj] = breakdown.get(subj, 0) + len(fill_mcqs)
-                            print(f"✅ Got {len(fill_mcqs)}")
-                        else:
-                            print(f"❌")
+                fill_mcqs = _generate_for_type(subj, qt, still_needed, request.difficulty, max_attempts=1)
+                if fill_mcqs:
+                    all_mcqs.extend(fill_mcqs)
+                    breakdown[subj] = breakdown.get(subj, 0) + len(fill_mcqs)
         
         if not all_mcqs:
             raise HTTPException(status_code=500, detail="Failed to generate any questions")
@@ -548,13 +571,11 @@ async def generate_ahc_challenge(request: AHCChallengeRequest):
         print(f"\n{'='*60}")
         print(f"  FINAL REPORT")
         print(f"{'='*60}")
-        total = 0
         for subject, details in AHC_SYLLABUS.items():
             actual = breakdown.get(subject, 0)
             expected = details['count']
             status = "✅" if actual >= expected else f"⚠️ (short by {expected - actual})"
             print(f"  {subject:30s} {actual:3d}/{expected:3d}  {status}")
-            total += actual
         print(f"{'─'*60}")
         print(f"  {'TOTAL':30s} {len(all_mcqs):3d}/{TOTAL_QUESTIONS}")
         print(f"{'='*60}")

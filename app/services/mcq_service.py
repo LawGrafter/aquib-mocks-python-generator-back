@@ -221,7 +221,7 @@ def get_gemini_model(system_prompt=SYSTEM_PROMPT):
         return None
     genai.configure(api_key=api_key)
     return genai.GenerativeModel(
-        model_name='gemini-2.0-flash',
+        model_name='gemini-2.5-flash',
         system_instruction=system_prompt
     )
 
@@ -455,7 +455,7 @@ def translate_mcqs_to_hindi(mcqs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
 
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel(
-        model_name="gemini-2.0-flash",
+        model_name="gemini-2.5-flash",
         generation_config={"temperature": 0.1},
         system_instruction=TRANSLATE_MCQS_TO_HINDI_SYSTEM_PROMPT,
     )

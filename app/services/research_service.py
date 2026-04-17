@@ -49,7 +49,7 @@ def generate_research_content(subject: str, topic: str) -> Dict[str, Any]:
     Generates comprehensive notes and 50 MCQs for a given subject and topic.
     """
     model = genai.GenerativeModel(
-        model_name="gemini-2.0-flash",
+        model_name="gemini-2.5-flash",
         generation_config={
             "temperature": 0.3,
             "response_mime_type": "application/json"
@@ -127,7 +127,7 @@ OUTPUT FORMAT:
 
 def generate_notes_from_text(base_text: str, topic: Optional[str] = None) -> str:
     model = genai.GenerativeModel(
-        model_name="gemini-2.0-flash",
+        model_name="gemini-2.5-flash",
         generation_config={
             "temperature": 0.2,
         },

@@ -24,7 +24,7 @@ def test_gemini():
     # 2. Configure Gemini
     try:
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash')
         
         print("Sending test request to Gemini...")
         response = model.generate_content("Generate one multiple choice question about Python programming in JSON format.")
