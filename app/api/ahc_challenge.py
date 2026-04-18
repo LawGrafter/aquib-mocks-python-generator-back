@@ -1,10 +1,12 @@
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, UploadFile, File, Form
 from pydantic import BaseModel
 from typing import Dict, List, Optional
 import pandas as pd
 import uuid
 import os
+import io
 import random
+from rapidfuzz import fuzz
 from app.services import mcq_service
 from app.utils.file_manager import write_csv
 
@@ -202,6 +204,86 @@ class AHCChallengeResponse(BaseModel):
     final_count: int
     csv_url: str
     breakdown: Dict[str, int]
+    duplicates_removed: int = 0
+
+
+def _parse_existing_csvs(csv_files: List[bytes]) -> List[dict]:
+    """Parse uploaded CSV files and extract existing questions + options."""
+    existing = []
+    for raw in csv_files:
+        try:
+            text = raw.decode("utf-8-sig")
+        except UnicodeDecodeError:
+            text = raw.decode("latin-1")
+        df = pd.read_csv(io.StringIO(text))
+        # Normalise column names (strip whitespace)
+        df.columns = [c.strip() for c in df.columns]
+        for _, row in df.iterrows():
+            q = str(row.get("Question", "")).strip()
+            if not q:
+                continue
+            opts = [
+                str(row.get("Option A", "")).strip(),
+                str(row.get("Option B", "")).strip(),
+                str(row.get("Option C", "")).strip(),
+                str(row.get("Option D", "")).strip(),
+            ]
+            existing.append({"question": q, "options": opts})
+    print(f"  \U0001f4c2 Loaded {len(existing)} existing questions from {len(csv_files)} CSV(s)")
+    return existing
+
+
+def _is_duplicate(new_q: dict, existing: List[dict], threshold: int = 80) -> bool:
+    """Check if a new question duplicates any existing question.
+    Compares both question text AND options using fuzzy matching."""
+    new_text = new_q.get("question", "")
+    new_opts = sorted([
+        new_q.get("options", {}).get("a", ""),
+        new_q.get("options", {}).get("b", ""),
+        new_q.get("options", {}).get("c", ""),
+        new_q.get("options", {}).get("d", ""),
+    ])
+    new_opts_str = " | ".join(new_opts)
+
+    for ex in existing:
+        # Question similarity
+        q_score = fuzz.token_sort_ratio(new_text, ex["question"])
+        if q_score >= threshold:
+            return True
+        # Options similarity (catches rephrased questions with same options)
+        ex_opts_str = " | ".join(sorted(ex["options"]))
+        o_score = fuzz.token_sort_ratio(new_opts_str, ex_opts_str)
+        if o_score >= 85:
+            # Options nearly identical — likely same question rephrased
+            if q_score >= 55:
+                return True
+    return False
+
+
+def _dedup_against_existing(mcqs: List[dict], existing: List[dict]) -> tuple:
+    """Remove duplicates from generated mcqs that match existing questions.
+    Returns (clean_list, removed_count)."""
+    if not existing:
+        return mcqs, 0
+    clean = []
+    removed = 0
+    for m in mcqs:
+        if _is_duplicate(m, existing):
+            removed += 1
+            print(f"    \u274c Duplicate removed: {m.get('question', '')[:80]}...")
+        else:
+            clean.append(m)
+            # Add to existing pool so intra-batch dupes are also caught
+            existing.append({
+                "question": m.get("question", ""),
+                "options": [
+                    m.get("options", {}).get("a", ""),
+                    m.get("options", {}).get("b", ""),
+                    m.get("options", {}).get("c", ""),
+                    m.get("options", {}).get("d", ""),
+                ]
+            })
+    return clean, removed
 
 def generate_ahc_system_prompt(subject: str, question_type: str, difficulty: str) -> str:
     """Generate specialized system prompt for AHC Challenge 2026"""
@@ -479,19 +561,39 @@ Return ONLY the JSON array. No markdown, no backticks, no extra text.
     return results[:total]
 
 
-@router.post("/ahc-challenge/generate", response_model=AHCChallengeResponse)
-async def generate_ahc_challenge(request: AHCChallengeRequest):
+@router.post("/ahc-challenge/generate")
+async def generate_ahc_challenge(
+    difficulty: str = Form("moderate"),
+    previous_csvs: List[UploadFile] = File(default=[]),
+):
     """
     Generate AHC Challenge 2026 exam with exact syllabus breakdown.
-    Uses BATCHED generation: 1 API call per subject (not per question type).
+    Accepts optional CSV uploads of previous questions to avoid duplicates.
     """
     all_mcqs = []
     breakdown = {}
+    total_duplicates_removed = 0
+
+    # ============================================
+    # Parse uploaded CSVs for dedup
+    # ============================================
+    existing_questions = []
+    if previous_csvs:
+        csv_bytes = []
+        for f in previous_csvs:
+            if f.filename:  # skip empty file slots
+                raw = await f.read()
+                if raw:
+                    csv_bytes.append(raw)
+        if csv_bytes:
+            existing_questions = _parse_existing_csvs(csv_bytes)
     
     print(f"\n{'='*60}")
-    print(f"  AHC Challenge 2026 - Difficulty: {request.difficulty.upper()}")
+    print(f"  AHC Challenge 2026 - Difficulty: {difficulty.upper()}")
     print(f"  Target: {TOTAL_QUESTIONS} questions across {len(AHC_SYLLABUS)} subjects")
     print(f"  Mode: BATCHED (1 API call per subject)")
+    if existing_questions:
+        print(f"  Dedup pool: {len(existing_questions)} existing questions loaded")
     print(f"{'='*60}")
     
     try:
@@ -502,7 +604,7 @@ async def generate_ahc_challenge(request: AHCChallengeRequest):
             expected = details['count']
             print(f"\n📚 [{subject}] Generating {expected} questions in one batch...")
             
-            subject_mcqs = _generate_subject_batch(subject, details, request.difficulty)
+            subject_mcqs = _generate_subject_batch(subject, details, difficulty)
             
             all_mcqs.extend(subject_mcqs)
             breakdown[subject] = len(subject_mcqs)
@@ -525,9 +627,8 @@ async def generate_ahc_challenge(request: AHCChallengeRequest):
                 needed = details['count'] - breakdown.get(subject, 0)
                 print(f"  🔄 [{subject}] need {needed} more...", end=" ")
                 
-                # Use per-type fallback for the specific types that are short
                 qt = details['breakdown'][0]['type']
-                retry_mcqs = _generate_for_type(subject, qt, needed, request.difficulty, max_attempts=2)
+                retry_mcqs = _generate_for_type(subject, qt, needed, difficulty, max_attempts=2)
                 
                 if retry_mcqs:
                     all_mcqs.extend(retry_mcqs)
@@ -537,26 +638,77 @@ async def generate_ahc_challenge(request: AHCChallengeRequest):
                     print(f"❌ Failed")
         
         # ============================================
-        # PASS 3: Quick top-up if still short of 100
+        # DEDUP: Remove duplicates against uploaded CSVs
         # ============================================
-        if len(all_mcqs) < TOTAL_QUESTIONS:
+        if existing_questions:
+            print(f"\n{'─'*40}")
+            print(f"🔍 Deduplicating against {len(existing_questions)} existing questions...")
+            print(f"{'─'*40}")
+            all_mcqs, total_duplicates_removed = _dedup_against_existing(all_mcqs, existing_questions)
+            print(f"  Removed {total_duplicates_removed} duplicates. Remaining: {len(all_mcqs)}")
+            
+            # Recalculate breakdown after dedup
+            breakdown = {}
+            for m in all_mcqs:
+                subj = m.get("Subject", "Unknown")
+                breakdown[subj] = breakdown.get(subj, 0) + 1
+        
+        # ============================================
+        # PASS 3: Subject-targeted top-up (prioritize short subjects)
+        # ============================================
+        top_up_round = 0
+        max_top_up_rounds = 8
+        while len(all_mcqs) < TOTAL_QUESTIONS and top_up_round < max_top_up_rounds:
             needed = TOTAL_QUESTIONS - len(all_mcqs)
-            print(f"\n🔄 PASS 3: Top-up {needed} questions from random subjects...")
+            print(f"\n🔄 Top-up round {top_up_round+1}: need {needed} more questions...")
             
-            subjects_list = list(AHC_SYLLABUS.keys())
-            random.shuffle(subjects_list)
+            # Sort subjects by how far below target they are (biggest shortfall first)
+            shortfalls = []
+            for subj, details in AHC_SYLLABUS.items():
+                current = breakdown.get(subj, 0)
+                target = details['count']
+                gap = target - current
+                if gap > 0:
+                    shortfalls.append((subj, details, gap))
+            shortfalls.sort(key=lambda x: -x[2])  # biggest gap first
             
-            for subj in subjects_list:
-                if len(all_mcqs) >= TOTAL_QUESTIONS:
+            # If no subject is short, fill from random subjects
+            if not shortfalls:
+                for subj, details in AHC_SYLLABUS.items():
+                    shortfalls.append((subj, details, 1))
+                random.shuffle(shortfalls)
+            
+            new_batch = []
+            for subj, details, gap in shortfalls:
+                if len(all_mcqs) + len(new_batch) >= TOTAL_QUESTIONS:
                     break
-                still_needed = min(3, TOTAL_QUESTIONS - len(all_mcqs))
-                detail = AHC_SYLLABUS[subj]
-                qt = detail['breakdown'][0]['type']
+                gen_count = min(gap, TOTAL_QUESTIONS - len(all_mcqs) - len(new_batch))
+                if gen_count <= 0:
+                    continue
                 
-                fill_mcqs = _generate_for_type(subj, qt, still_needed, request.difficulty, max_attempts=1)
+                # Cycle through different question types for variety
+                type_idx = top_up_round % len(details['breakdown'])
+                qt = details['breakdown'][type_idx]['type']
+                
+                print(f"  📝 [{subj}] generating {gen_count} ({qt})...", end=" ")
+                fill_mcqs = _generate_for_type(subj, qt, gen_count + 1, difficulty, max_attempts=2)
                 if fill_mcqs:
-                    all_mcqs.extend(fill_mcqs)
-                    breakdown[subj] = breakdown.get(subj, 0) + len(fill_mcqs)
+                    new_batch.extend(fill_mcqs[:gen_count])
+                    print(f"✅ {min(len(fill_mcqs), gen_count)}")
+                else:
+                    print(f"❌")
+            
+            # Dedup the new batch too
+            if existing_questions and new_batch:
+                new_batch, batch_dupes = _dedup_against_existing(new_batch, existing_questions)
+                total_duplicates_removed += batch_dupes
+            
+            all_mcqs.extend(new_batch)
+            for m in new_batch:
+                subj = m.get("Subject", "Unknown")
+                breakdown[subj] = breakdown.get(subj, 0) + 1
+            
+            top_up_round += 1
         
         if not all_mcqs:
             raise HTTPException(status_code=500, detail="Failed to generate any questions")
@@ -578,6 +730,8 @@ async def generate_ahc_challenge(request: AHCChallengeRequest):
             print(f"  {subject:30s} {actual:3d}/{expected:3d}  {status}")
         print(f"{'─'*60}")
         print(f"  {'TOTAL':30s} {len(all_mcqs):3d}/{TOTAL_QUESTIONS}")
+        if total_duplicates_removed:
+            print(f"  {'DUPLICATES REMOVED':30s} {total_duplicates_removed}")
         print(f"{'='*60}")
         
         # Format for CSV
@@ -596,7 +750,7 @@ async def generate_ahc_challenge(request: AHCChallengeRequest):
         df = pd.DataFrame(rows)
         
         # Save CSV
-        filename_base = f"ahc_challenge_2026_{request.difficulty}_{uuid.uuid4().hex[:8]}"
+        filename_base = f"ahc_challenge_2026_{difficulty}_{uuid.uuid4().hex[:8]}"
         write_csv(filename_base, df)
         csv_url = f"/exports/{filename_base}.csv"
         
@@ -604,7 +758,8 @@ async def generate_ahc_challenge(request: AHCChallengeRequest):
             total_generated=len(all_mcqs),
             final_count=len(all_mcqs),
             csv_url=csv_url,
-            breakdown=breakdown
+            breakdown=breakdown,
+            duplicates_removed=total_duplicates_removed
         )
         
     except HTTPException:
