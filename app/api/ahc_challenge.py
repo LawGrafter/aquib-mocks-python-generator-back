@@ -39,13 +39,13 @@ AHC_SYLLABUS = {
         ]
     },
     "Reasoning": {
-        "count": 12,
+        "count": 10,
         "breakdown": [
-            {"type": "Number/Letter Series", "count": 2},
+            {"type": "Number/Letter Series", "count": 1},
             {"type": "Syllogism", "count": 2},
             {"type": "Alphabet Series", "count": 1},
             {"type": "Odd One Out", "count": 1},
-            {"type": "Coding-Decoding", "count": 2},
+            {"type": "Coding-Decoding", "count": 1},
             {"type": "Dice", "count": 1},
             {"type": "Calendar (date-based)", "count": 1},
             {"type": "Direction", "count": 1},
@@ -170,17 +170,18 @@ AHC_SYLLABUS = {
         ]
     },
     "Census": {
-        "count": 3,
+        "count": 4,
         "breakdown": [
-            {"type": "Static/Fact-based questions on Indian Census", "count": 3}
+            {"type": "Static/Fact-based questions on Indian Census", "count": 4}
         ]
     },
     "Current Affairs 2025": {
-        "count": 4,
+        "count": 5,
         "breakdown": [
             {"type": "Military Exercise (country-wise)", "count": 1},
             {"type": "Important Day & Theme", "count": 1},
             {"type": "Central Government Scheme (Yojana)", "count": 1},
+            {"type": "Sports Events 2025", "count": 1},
             {"type": "Additional 2025 important current affair", "count": 1}
         ]
     },
@@ -233,9 +234,11 @@ def _parse_existing_csvs(csv_files: List[bytes]) -> List[dict]:
     return existing
 
 
-def _is_duplicate(new_q: dict, existing: List[dict], threshold: int = 80) -> bool:
+def _is_duplicate(new_q: dict, existing: List[dict], threshold: int = 90) -> bool:
     """Check if a new question duplicates any existing question.
-    Compares both question text AND options using fuzzy matching."""
+    Uses fuzz.ratio (order-sensitive) so structurally similar but different
+    questions (e.g. different number series) are NOT falsely flagged.
+    Compares both question text AND options."""
     new_text = new_q.get("question", "")
     new_opts = sorted([
         new_q.get("options", {}).get("a", ""),
@@ -246,16 +249,16 @@ def _is_duplicate(new_q: dict, existing: List[dict], threshold: int = 80) -> boo
     new_opts_str = " | ".join(new_opts)
 
     for ex in existing:
-        # Question similarity
-        q_score = fuzz.token_sort_ratio(new_text, ex["question"])
+        # Question similarity — use fuzz.ratio (preserves order, stricter)
+        q_score = fuzz.ratio(new_text, ex["question"])
         if q_score >= threshold:
             return True
         # Options similarity (catches rephrased questions with same options)
         ex_opts_str = " | ".join(sorted(ex["options"]))
-        o_score = fuzz.token_sort_ratio(new_opts_str, ex_opts_str)
-        if o_score >= 85:
+        o_score = fuzz.ratio(new_opts_str, ex_opts_str)
+        if o_score >= 90:
             # Options nearly identical — likely same question rephrased
-            if q_score >= 55:
+            if q_score >= 65:
                 return True
     return False
 

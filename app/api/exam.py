@@ -193,37 +193,39 @@ import random
 
 
 def get_hindi_font_name() -> str | None:
+    font_name = "HindiFont"
+
+    # 1. Env-var override
     env_font_path = os.getenv("HINDI_TTF_PATH") or os.getenv("HINDI_FONT_PATH")
     if env_font_path and os.path.exists(env_font_path):
-        font_name = "HindiFont"
         try:
             pdfmetrics.registerFont(TTFont(font_name, env_font_path))
             return font_name
         except Exception:
             pass
 
-    font_name = "Mangal"
-    try:
-        if pdfmetrics.getFont(font_name):
-            return font_name
-    except Exception:
-        pass
+    # 2. Bundled font (works on all platforms including Railway/Linux)
+    bundled = os.path.join(os.path.dirname(os.path.dirname(__file__)), "fonts", "NotoSansDevanagari-Regular.ttf")
 
     candidates = [
+        bundled,
+        # Windows
         r"C:\Windows\Fonts\mangal.ttf",
         r"C:\Windows\Fonts\MANGAL.TTF",
         r"C:\Windows\Fonts\nirmala.ttf",
-        r"C:\Windows\Fonts\Nirmala.ttf",
         r"C:\Windows\Fonts\NirmalaUI.ttf",
-        r"C:\Windows\Fonts\nirmalaui.ttf",
         r"C:\Windows\Fonts\arialuni.ttf",
-        r"C:\Windows\Fonts\ARIALUNI.TTF",
+        # Linux
+        "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Regular.ttf",
+        "/usr/share/fonts/truetype/lohit-devanagari/Lohit-Devanagari.ttf",
+        "/usr/share/fonts/truetype/freefont/FreeSans.ttf",
     ]
 
     for path in candidates:
         if os.path.exists(path):
             try:
                 pdfmetrics.registerFont(TTFont(font_name, path))
+                print(f"  ✅ Hindi font loaded: {path}")
                 return font_name
             except Exception:
                 continue
