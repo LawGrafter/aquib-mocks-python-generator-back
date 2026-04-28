@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException, Request
+from fastapi import APIRouter, HTTPException, Request, UploadFile, File, Form
 from app.models.schemas import ExamGenerationResponse, ExamGenerationRequest, CustomExamRequest, CustomExamResponse
 from app.services import mcq_service, dedup_service
 import pandas as pd
@@ -453,22 +453,32 @@ async def generate_full_test(request: ExamGenerationRequest):
     )
 
 @router.post("/exam/generate-custom", response_model=CustomExamResponse)
-async def generate_custom_test(http_request: Request, request: CustomExamRequest):
-    print(f"Starting custom generation for {request.subject} - {request.total_questions} Qs - Mode: {request.difficulty.upper()}...")
-    
+async def generate_custom_test(
+    subject: str = Form(...),
+    topics: str = Form(...),
+    difficulty: str = Form("moderate"),
+    total_questions: int = Form(10),
+    previous_csvs: List[UploadFile] = File(default=[]),
+):
+    print(f"Starting custom generation for {subject} - {total_questions} Qs - Mode: {difficulty.upper()}...")
+    topics_list = [t.strip() for t in topics.split(",") if t.strip()]
+
     try:
-        # Generate MCQs
+        # ── Parse uploaded CSVs for dedup ──
+        from app.api.ahc_challenge import _parse_existing_csvs, _is_duplicate
+        csv_bytes = []
+        for f in previous_csvs:
+            csv_bytes.append(await f.read())
+        existing_questions = _parse_existing_csvs(csv_bytes) if csv_bytes else []
+        total_duplicates_removed = 0
+
+        # ── Generate MCQs ──
         mcqs = mcq_service.generate_mcqs_from_topic(
-            request.subject, 
-            request.total_questions, 
-            request.difficulty, 
-            sub_topics=request.topics
+            subject, total_questions, difficulty, sub_topics=topics_list
         )
-        
         if not mcqs:
             raise HTTPException(status_code=500, detail="Failed to generate questions")
 
-        # Format for DataFrame
         def format_to_row(m):
             item_dict = m.model_dump()
             return {
@@ -478,57 +488,95 @@ async def generate_custom_test(http_request: Request, request: CustomExamRequest
                 "Option C": item_dict['options']['c'],
                 "Option D": item_dict['options']['d'],
                 "Correct Answer": item_dict['correct_answer'],
-                "Subject": request.subject,
-                "Topics": ", ".join(request.topics),
+                "Subject": subject,
+                "Topics": ", ".join(topics_list),
                 "Points": 1
             }
 
         rows = [format_to_row(m) for m in mcqs]
         df_formatted = pd.DataFrame(rows)
-        
-        # Deduplicate
+
+        # ── Internal dedup ──
         filename_prefix = f"custom_gen_{uuid.uuid4().hex[:8]}"
         print("Running deduplication...")
-        
-        # Initial deduplication
         dedup_result = dedup_service.remove_semantic_duplicates(df_formatted, filename_prefix, save_output=False)
         current_df = dedup_result['df']
-        
-        # Top-up Loop
+
+        # ── Dedup against uploaded CSVs ──
+        if existing_questions:
+            before = len(current_df)
+            clean_rows = []
+            for _, row in current_df.iterrows():
+                new_q = {
+                    "question": str(row.get("Question", "")),
+                    "options": {
+                        "a": str(row.get("Option A", "")),
+                        "b": str(row.get("Option B", "")),
+                        "c": str(row.get("Option C", "")),
+                        "d": str(row.get("Option D", "")),
+                    }
+                }
+                if _is_duplicate(new_q, existing_questions):
+                    print(f"    ❌ Duplicate removed: {new_q['question'][:80]}...")
+                    total_duplicates_removed += 1
+                else:
+                    clean_rows.append(row)
+                    existing_questions.append({
+                        "question": new_q["question"],
+                        "options": [new_q["options"]["a"], new_q["options"]["b"], new_q["options"]["c"], new_q["options"]["d"]]
+                    })
+            current_df = pd.DataFrame(clean_rows)
+            print(f"  Removed {total_duplicates_removed} duplicates from uploaded CSVs. Remaining: {len(current_df)}")
+
+        # ── Top-up loop ──
         max_retries = 5
         retry_count = 0
-        
-        while len(current_df) < request.total_questions and retry_count < max_retries:
-            needed = request.total_questions - len(current_df)
-            print(f"Top-up: {len(current_df)} < {request.total_questions}. Generating {needed} more...")
-            
+        while len(current_df) < total_questions and retry_count < max_retries:
+            needed = total_questions - len(current_df)
+            print(f"Top-up round {retry_count+1}: need {needed} more...")
             new_mcqs = mcq_service.generate_mcqs_from_topic(
-                request.subject, 
-                max(2, needed + 2), 
-                request.difficulty, 
-                sub_topics=request.topics
+                subject, max(2, needed + 2), difficulty, sub_topics=topics_list
             )
-            
             if new_mcqs:
                 new_rows = [format_to_row(m) for m in new_mcqs]
                 new_df = pd.DataFrame(new_rows)
                 current_df = pd.concat([current_df, new_df], ignore_index=True)
-                
-                # Dedup again
                 dedup_result = dedup_service.remove_semantic_duplicates(current_df, filename_prefix, save_output=False)
                 current_df = dedup_result['df']
-            
+                # Dedup new rows against uploaded CSVs
+                if existing_questions:
+                    clean_rows = []
+                    for _, row in current_df.iterrows():
+                        new_q = {
+                            "question": str(row.get("Question", "")),
+                            "options": {
+                                "a": str(row.get("Option A", "")),
+                                "b": str(row.get("Option B", "")),
+                                "c": str(row.get("Option C", "")),
+                                "d": str(row.get("Option D", "")),
+                            }
+                        }
+                        if _is_duplicate(new_q, existing_questions):
+                            total_duplicates_removed += 1
+                        else:
+                            clean_rows.append(row)
+                            existing_questions.append({
+                                "question": new_q["question"],
+                                "options": [new_q["options"]["a"], new_q["options"]["b"], new_q["options"]["c"], new_q["options"]["d"]]
+                            })
+                    current_df = pd.DataFrame(clean_rows)
             retry_count += 1
-            
-        # Trim if needed
-        if len(current_df) > request.total_questions:
-             current_df = current_df.iloc[:request.total_questions]
-             
-        # Final Save
+
+        # ── Trim ──
+        if len(current_df) > total_questions:
+            current_df = current_df.iloc[:total_questions]
+
+        # ── Save CSV ──
         final_filename_base = f"{filename_prefix}_cleaned"
         write_csv(final_filename_base, current_df)
         final_csv_url = f"/exports/{final_filename_base}.csv"
 
+        # ── Build PDFs ──
         en_items: List[Dict[str, str]] = []
         translate_payload: List[Dict[str, object]] = []
         for _, r in current_df.iterrows():
@@ -538,15 +586,13 @@ async def generate_custom_test(http_request: Request, request: CustomExamRequest
             c = str(r.get("Option C", ""))
             d = str(r.get("Option D", ""))
             correct = str(r.get("Correct Answer", "")).lower()
-
             en_items.append({"question": question, "a": a, "b": b, "c": c, "d": d})
             translate_payload.append(
                 {"question": question, "options": {"a": a, "b": b, "c": c, "d": d}, "correct_answer": correct}
             )
 
         en_pdf_buffer = build_mcq_pdf_buffer(
-            f"Custom Test (English) - {request.subject} - {', '.join(request.topics)}",
-            en_items,
+            f"Custom Test (English) - {subject} - {', '.join(topics_list)}", en_items,
         )
         en_pdf_filename = f"{final_filename_base}_en.pdf"
         en_saved = file_manager.save_generated_pdf(en_pdf_buffer, en_pdf_filename)
@@ -556,36 +602,30 @@ async def generate_custom_test(http_request: Request, request: CustomExamRequest
         hi_items: List[Dict[str, str]] = []
         for t in translated:
             opts = t.get("options") or {}
-            hi_items.append(
-                {
-                    "question": str(t.get("question", "")),
-                    "a": str(opts.get("a", "")),
-                    "b": str(opts.get("b", "")),
-                    "c": str(opts.get("c", "")),
-                    "d": str(opts.get("d", "")),
-                }
-            )
+            hi_items.append({
+                "question": str(t.get("question", "")),
+                "a": str(opts.get("a", "")),
+                "b": str(opts.get("b", "")),
+                "c": str(opts.get("c", "")),
+                "d": str(opts.get("d", "")),
+            })
 
         hindi_font = get_hindi_font_name()
         if not hindi_font:
-            raise HTTPException(
-                status_code=500,
-                detail="Hindi PDF font not found. Set HINDI_TTF_PATH to a Devanagari .ttf (e.g., C:\\Windows\\Fonts\\mangal.ttf).",
-            )
+            raise HTTPException(status_code=500, detail="Hindi PDF font not found. Set HINDI_TTF_PATH to a Devanagari .ttf.")
         hi_pdf_buffer = build_mcq_pdf_buffer(
-            f"Custom Test (Hindi) - {request.subject} - {', '.join(request.topics)}",
-            hi_items,
-            font_name=hindi_font,
+            f"Custom Test (Hindi) - {subject} - {', '.join(topics_list)}", hi_items, font_name=hindi_font,
         )
         hi_pdf_filename = f"{final_filename_base}_hi.pdf"
         hi_saved = file_manager.save_generated_pdf(hi_pdf_buffer, hi_pdf_filename)
         hi_pdf_url = f"/files/docs/{hi_saved}"
 
+        print(f"✅ Done. Generated {len(current_df)} questions. Duplicates removed: {total_duplicates_removed}")
         return CustomExamResponse(
             total_generated=len(current_df),
             final_unique_count=len(current_df),
             csv_url=final_csv_url,
-            subject=request.subject,
+            subject=subject,
             pdf_url_en=en_pdf_url,
             pdf_url_hi=hi_pdf_url,
         )

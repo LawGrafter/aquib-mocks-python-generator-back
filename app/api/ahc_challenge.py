@@ -93,13 +93,13 @@ AHC_SYLLABUS = {
         ]
     },
     "Indian National Movement": {
-        "count": 9,
+        "count": 8,
         "breakdown": [
             {"type": "Revolt of 1857", "count": 1},
             {"type": "Book & Author", "count": 1},
             {"type": "Newspaper Founder", "count": 1},
             {"type": "Movement-based question", "count": 1},
-            {"type": "Charter Acts", "count": 2},
+            {"type": "Charter Acts", "count": 1},
             {"type": "Governor-General/Lord Chronology (year-wise)", "count": 2},
             {"type": "Civil Disobedience Movement (statement-based)", "count": 1}
         ]
@@ -143,22 +143,21 @@ AHC_SYLLABUS = {
         ]
     },
     "World Geography": {
-        "count": 5,
+        "count": 4,
         "breakdown": [
             {"type": "Ocean Current", "count": 1},
             {"type": "Mountain", "count": 1},
             {"type": "Grassland", "count": 1},
-            {"type": "General World Geography", "count": 2}
+            {"type": "General World Geography", "count": 1}
         ]
     },
     "Indian Geography": {
-        "count": 5,
+        "count": 4,
         "breakdown": [
             {"type": "Peninsular River (statement-based)", "count": 1},
             {"type": "Strait/Channel (Andaman & Nicobar)", "count": 1},
             {"type": "Lesser Himalaya vs Trans Himalaya (statement-based)", "count": 1},
-            {"type": "India Boundaries with Neighbor Countries (statement-based)", "count": 1},
-            {"type": "Northernmost Point (Indira Col)", "count": 1}
+            {"type": "India Boundaries with Neighbor Countries (statement-based)", "count": 1}
         ]
     },
     "Agriculture": {
@@ -170,18 +169,17 @@ AHC_SYLLABUS = {
         ]
     },
     "Census": {
-        "count": 4,
+        "count": 3,
         "breakdown": [
-            {"type": "Static/Fact-based questions on Indian Census", "count": 4}
+            {"type": "Static/Fact-based questions on Indian Census", "count": 3}
         ]
     },
     "Current Affairs 2025": {
-        "count": 5,
+        "count": 4,
         "breakdown": [
             {"type": "Military Exercise (country-wise)", "count": 1},
             {"type": "Important Day & Theme", "count": 1},
             {"type": "Central Government Scheme (Yojana)", "count": 1},
-            {"type": "Sports Events 2025", "count": 1},
             {"type": "Additional 2025 important current affair", "count": 1}
         ]
     },
@@ -191,6 +189,16 @@ AHC_SYLLABUS = {
             {"type": "Festival", "count": 1},
             {"type": "Dance", "count": 1},
             {"type": "Gharana", "count": 1}
+        ]
+    },
+    "UP GK": {
+        "count": 5,
+        "breakdown": [
+            {"type": "UP State Fact (Capital/District/Division)", "count": 1},
+            {"type": "UP Historical Place / Heritage Site", "count": 1},
+            {"type": "UP Government Scheme / Yojana", "count": 1},
+            {"type": "UP Rivers / Geography / Lakes", "count": 1},
+            {"type": "UP Famous Personality / Freedom Fighter from UP", "count": 1}
         ]
     }
 }
