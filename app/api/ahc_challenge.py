@@ -12,6 +12,71 @@ from app.utils.file_manager import write_csv
 
 router = APIRouter()
 
+
+class AIEditRequest(BaseModel):
+    question: str
+    option_a: str
+    option_b: str
+    option_c: str
+    option_d: str
+    correct_answer: str
+    prompt: str
+    subject: Optional[str] = ""
+    topic: Optional[str] = ""
+
+
+@router.post("/ahc-challenge/ai-edit")
+async def ai_edit_question(req: AIEditRequest):
+    """Use AI to modify a question based on a user prompt."""
+    import json as _json
+    import google.generativeai as genai
+
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        raise HTTPException(status_code=500, detail="GEMINI_API_KEY not set")
+    genai.configure(api_key=api_key)
+
+    model = genai.GenerativeModel(
+        model_name="gemini-2.5-flash",
+        system_instruction="You are an expert exam question editor. Return ONLY valid JSON."
+    )
+
+    edit_prompt = f"""You are editing an MCQ question for an exam.
+
+CURRENT QUESTION:
+Question: {req.question}
+Option A: {req.option_a}
+Option B: {req.option_b}
+Option C: {req.option_c}
+Option D: {req.option_d}
+Correct Answer: {req.correct_answer}
+Subject: {req.subject}
+Topic: {req.topic}
+
+USER INSTRUCTION: {req.prompt}
+
+Please modify the question according to the user's instruction. Keep the same format.
+Return ONLY a valid JSON object (no markdown, no backticks):
+{{"question": "...", "option_a": "...", "option_b": "...", "option_c": "...", "option_d": "...", "correct_answer": "a/b/c/d"}}
+"""
+
+    try:
+        response = model.generate_content(edit_prompt)
+        json_str = mcq_service.clean_json_response(response.text)
+        result = _json.loads(json_str)
+        return {
+            "question": result.get("question", req.question),
+            "option_a": result.get("option_a", req.option_a),
+            "option_b": result.get("option_b", req.option_b),
+            "option_c": result.get("option_c", req.option_c),
+            "option_d": result.get("option_d", req.option_d),
+            "correct_answer": result.get("correct_answer", req.correct_answer),
+        }
+    except Exception as e:
+        print(f"AI Edit error: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 # AHC Challenge 2026 Syllabus - Exact breakdown
 AHC_SYLLABUS = {
     "English": {
@@ -535,7 +600,7 @@ FORMAT INSTRUCTIONS PER TYPE:
 {chr(10).join(type_instructions)}
 
 RETURN a single valid JSON array of {total} MCQ objects.
-Each object: {{"question": "...", "options": {{"a": "...", "b": "...", "c": "...", "d": "..."}}, "correct_answer": "a"}}
+Each object: {{"question": "...", "options": {{"a": "...", "b": "...", "c": "...", "d": "..."}}, "correct_answer": "a", "question_type": "the type from the breakdown above"}}
 Return ONLY the JSON array. No markdown, no backticks, no extra text.
 """
 
@@ -559,6 +624,7 @@ Return ONLY the JSON array. No markdown, no backticks, no extra text.
                 if mcq_service.validate_mcq(mcq_item):
                     mcq_dict = mcq_item
                     mcq_dict["Subject"] = subject
+                    mcq_dict["Question_Type"] = mcq_item.get("question_type", "")
                     mcq_dict["Difficulty"] = difficulty
                     results.append(mcq_dict)
 
@@ -570,6 +636,155 @@ Return ONLY the JSON array. No markdown, no backticks, no extra text.
             _time.sleep(1)
 
     return results[:total]
+
+
+@router.post("/ahc-challenge/generate-custom")
+async def generate_ahc_custom(
+    difficulty: str = Form("moderate"),
+    subjects: str = Form(""),          # comma-separated subject names
+    total_questions: int = Form(10),
+    previous_csvs: List[UploadFile] = File(default=[]),
+):
+    """
+    Generate a CUSTOM AHC-style exam for selected subjects with a specified question count.
+    Questions are distributed proportionally across the selected subjects.
+    """
+    import json as _json, math
+
+    selected = [s.strip() for s in subjects.split(",") if s.strip()]
+    if not selected:
+        raise HTTPException(status_code=400, detail="No subjects selected")
+
+    # Validate subjects
+    valid_subjects = {s: d for s, d in AHC_SYLLABUS.items() if s in selected}
+    if not valid_subjects:
+        raise HTTPException(status_code=400, detail="None of the provided subjects match the syllabus")
+
+    # Distribute total_questions proportionally across selected subjects
+    raw_weights = {s: d["count"] for s, d in valid_subjects.items()}
+    weight_sum = sum(raw_weights.values())
+    distribution = {}
+    allocated = 0
+    subjects_list = list(valid_subjects.keys())
+    for s in subjects_list[:-1]:
+        count = max(1, round(total_questions * raw_weights[s] / weight_sum))
+        distribution[s] = count
+        allocated += count
+    # Last subject gets the remainder
+    distribution[subjects_list[-1]] = max(1, total_questions - allocated)
+
+    print(f"\n{'='*60}")
+    print(f"  AHC Custom Generation")
+    print(f"  Difficulty: {difficulty.upper()}  |  Total: {total_questions}")
+    print(f"  Subjects: {', '.join(selected)}")
+    print(f"  Distribution: {distribution}")
+    print(f"{'='*60}")
+
+    # Parse uploaded CSVs for dedup
+    existing_questions = []
+    if previous_csvs:
+        csv_bytes = []
+        for f in previous_csvs:
+            if f.filename:
+                raw = await f.read()
+                if raw:
+                    csv_bytes.append(raw)
+        if csv_bytes:
+            existing_questions = _parse_existing_csvs(csv_bytes)
+
+    all_mcqs = []
+    breakdown = {}
+    total_duplicates_removed = 0
+
+    try:
+        for subject, target_count in distribution.items():
+            details = valid_subjects[subject]
+            # Scale breakdown proportionally
+            orig_total = details["count"]
+            scaled_breakdown = []
+            remaining = target_count
+            for i, item in enumerate(details["breakdown"]):
+                if i == len(details["breakdown"]) - 1:
+                    cnt = remaining
+                else:
+                    cnt = max(1, round(target_count * item["count"] / orig_total))
+                    cnt = min(cnt, remaining)
+                remaining -= cnt
+                if cnt > 0:
+                    scaled_breakdown.append({"type": item["type"], "count": cnt})
+
+            scaled_details = {"count": target_count, "breakdown": scaled_breakdown}
+            print(f"\n📚 [{subject}] Generating {target_count} questions...")
+            subject_mcqs = _generate_subject_batch(subject, scaled_details, difficulty)
+            all_mcqs.extend(subject_mcqs)
+            breakdown[subject] = len(subject_mcqs)
+            print(f"  └─ Got {len(subject_mcqs)}/{target_count}")
+
+        # Dedup
+        if existing_questions and all_mcqs:
+            all_mcqs, total_duplicates_removed = _dedup_against_existing(all_mcqs, existing_questions)
+            breakdown = {}
+            for m in all_mcqs:
+                subj = m.get("Subject", "Unknown")
+                breakdown[subj] = breakdown.get(subj, 0) + 1
+
+        # Top-up if short
+        top_up_round = 0
+        while len(all_mcqs) < total_questions and top_up_round < 4:
+            needed = total_questions - len(all_mcqs)
+            for subj in distribution:
+                if len(all_mcqs) >= total_questions:
+                    break
+                details = valid_subjects[subj]
+                qt = details["breakdown"][top_up_round % len(details["breakdown"])]["type"]
+                fill = _generate_for_type(subj, qt, min(needed, 3), difficulty, max_attempts=2)
+                if existing_questions and fill:
+                    fill, d = _dedup_against_existing(fill, existing_questions)
+                    total_duplicates_removed += d
+                all_mcqs.extend(fill)
+                for m in fill:
+                    breakdown[m.get("Subject", "Unknown")] = breakdown.get(m.get("Subject", "Unknown"), 0) + 1
+            top_up_round += 1
+
+        if not all_mcqs:
+            raise HTTPException(status_code=500, detail="Failed to generate any questions")
+
+        all_mcqs = all_mcqs[:total_questions]
+
+        # Format for CSV
+        def format_to_row(m_dict):
+            return {
+                "Subject": m_dict.get("Subject", ""),
+                "Topic": m_dict.get("Question_Type", ""),
+                "Question": m_dict["question"],
+                "Option A": m_dict["options"]["a"],
+                "Option B": m_dict["options"]["b"],
+                "Option C": m_dict["options"]["c"],
+                "Option D": m_dict["options"]["d"],
+                "Correct Answer": m_dict["correct_answer"],
+                "Points": 1,
+            }
+
+        rows = [format_to_row(m) for m in all_mcqs]
+        df = pd.DataFrame(rows)
+
+        filename_base = f"ahc_custom_{difficulty}_{uuid.uuid4().hex[:8]}"
+        write_csv(filename_base, df)
+        csv_url = f"/exports/{filename_base}.csv"
+
+        return AHCChallengeResponse(
+            total_generated=len(all_mcqs),
+            final_count=len(all_mcqs),
+            csv_url=csv_url,
+            breakdown=breakdown,
+            duplicates_removed=total_duplicates_removed,
+        )
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"Error in AHC Custom generation: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @router.post("/ahc-challenge/generate")
@@ -748,6 +963,8 @@ async def generate_ahc_challenge(
         # Format for CSV
         def format_to_row(m_dict):
             return {
+                "Subject": m_dict.get('Subject', ''),
+                "Topic": m_dict.get('Question_Type', ''),
                 "Question": m_dict['question'],
                 "Option A": m_dict['options']['a'],
                 "Option B": m_dict['options']['b'],
