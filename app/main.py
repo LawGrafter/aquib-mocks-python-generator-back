@@ -8,7 +8,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from app.utils import file_manager
-from app.api import upload, convert, mcq, export, mistake, research, clean, scraper, exam, rapid, ahc_challenge
+from app.api import upload, convert, mcq, export, mistake, research, clean, scraper, exam, rapid, ahc_challenge, ssc_steno
 
 app = FastAPI(title="PDF to MCQ Backend")
 
@@ -33,6 +33,7 @@ app.include_router(scraper.router)
 app.include_router(exam.router)
 app.include_router(rapid.router)
 app.include_router(ahc_challenge.router)
+app.include_router(ssc_steno.router)
 
 
 
